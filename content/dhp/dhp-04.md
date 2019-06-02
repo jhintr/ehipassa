@@ -1,0 +1,146 @@
+---
+title: Puppha
+subtitle: 4:44-59
+date: 2016-09-05
+draft: false
+weight: 4
+type: translation
+layout: single
+---
+
+- 華品
+- Flowers
+
+---
+
+##### 44
+
+Ko imaṃ pathaviṃ vicessati, yamalokañca imaṃ sadevakaṃ? ko dhammapadaṃ sudesitaṃ, kusalo puppham-iva pacessati?
+
+- 誰征服地界，閻魔界天界？誰善說法句，如巧匠採花？
+- Who will conquer this earth and this world of Yama with its gods? Who will gather the well-taught word of the doctrine, as a skillful man gathers a flower?
+
+##### 45
+
+Sekho pathaviṃ vicessati, yamalokañca imaṃ sadevakaṃ, sekho dhammapadaṃ sudesitaṃ, kusalo puppham-iva pacessati.
+
+- 有學克地界，閻魔界天界，有學說法句，如巧匠採花。
+- The learner will conquer the earth and this world of Yama with its gods. The learner will gather the well-taught word of the doctrine, as a skillful man gathers a flower.
+
+---
+
+##### 46
+
+Pheṇūpamaṃ kāyam-imaṃ viditvā, marīcidhammaṃ abhisambudhāno, chetvāna mārassa papupphakāni, adassanaṃ maccurājassa gacche.
+
+- 知此身如泡，覺悟是幻法，折魔羅花箭，越死王所見。
+- Knowing that this body is like foam, knowing that it has the nature of a mirage, cutting off the flowery blossoms of Māra, one should go where the king of death cannot see him.
+
+---
+
+##### 47
+
+Pupphāni heva pacinantaṃ, byāsattamanasaṃ naraṃ, suttaṃ gāmaṃ mahogho va, maccu ādāya gacchati.
+
+- 採集諸花已，其人心愛著，死神捉將去，如瀑流睡村。
+- Death carries away a man even as he is gathering flowers, while his mind is distracted, just as a great flood carries away a sleeping village.
+
+##### 48
+
+Pupphāni heva pacinantaṃ, byāsattamanasaṃ naraṃ, atittaññeva kāmesu, antako kurute vasaṃ.
+
+- 採集諸花已，其人心愛著，貪欲無厭足，實為死魔伏。
+- Death overpowers a man even as he is gathering flowers, while his mind is distracted, not having had his fill of sensual pleasures.
+
+---
+
+##### 49
+
+Yathā pi bhamaro pupphaṃ, vaṇṇagandham-aheṭhayaṃ, paleti rasam-ādāya, evaṃ gāme munī care.
+
+- 牟尼入村落，譬如蜂采華，不壞色與香，但取其蜜去。
+- As a bee takes nectar and goes away without hurting the colour or the smell of a flower, so should a sage wander in a village.
+
+---
+
+##### 50
+
+Na paresaṃ vilomāni, na paresaṃ katākataṃ, attano va avekkheyya, katāni akatāni ca.
+
+- 不觀他人過，不觀作不作，但觀自身行，作也與未作。
+- One should not have regard for the bad deeds of others, nor the things done and left undone by others, but only for the things done and left undone by oneself.
+
+---
+
+##### 51
+
+Yathā pi ruciraṃ pupphaṃ, vaṇṇavantaṃ agandhakaṃ, evaṃ subhāsitā vācā, aphalā hoti akubbato.
+
+- 猶如鮮妙花，色美而無香，如是說善語，彼不行無果。
+- Like a beautiful flower, full of colour but without scent, so is a well-spoken utterance fruitless for one who does not act.
+
+##### 52
+
+Yathā pi ruciraṃ pupphaṃ, vaṇṇavantaṃ sagandhakaṃ, evaṃ subhāsitā vācā, saphalā hoti kubbato.
+
+- 猶如鮮妙花，色美而芳香，如是說善語，彼實行有果。
+- Like a beautiful flower, full of colour and scent, so is a well-spoken utterance fruitful for one who acts.
+
+---
+
+##### 53
+
+Yathā pi puppharāsimhā, kayirā mālāguṇe bahū, evaṃ jātena maccena, kattabbaṃ kusalaṃ bahuṃ.
+
+- 如從諸花聚，得造眾花鬘，如是生為人，當作諸善事。
+- Just as one might make many kinds of garlands from a heap of flowers, so much good is to be done by a mortal when born.
+
+---
+
+##### 54
+
+Na pupphagandho paṭivātam-eti, na candanaṃ tagaramallikā vā, satañca gandho paṭivātam-eti, sabbā disā sappuriso pavāyati.
+
+- 花香不逆風，栴檀多伽羅，末利香亦爾，德香逆風熏，彼正人之香，遍聞於諸方。
+- The smell of flowers does not go against the wind, nor (the smell of) jasmine nor incense nor sandalwood, but the smell of the good does go against the wind. A good man perfumes all directions.
+
+##### 55
+
+Candanaṃ tagaraṃ vā pi, uppalaṃ atha vassikī, etesaṃ gandhajātānaṃ, sīlagandho anuttaro.
+
+- 栴檀多伽羅，拔悉基青蓮，如是諸香中，戒香為最上。
+- Sandalwood or incense, lotus or jasmine, among these kinds of perfume, the perfume of virtue is supreme.
+
+---
+
+##### 56
+
+Appamatto ayaṃ gandho, yāyaṃ tagaracandanī, yo ca sīlavataṃ gandho, vāti devesu uttamo.
+
+- 栴檀多伽羅，此等香甚微，持戒者最上，香熏諸天間。
+- Of limited extent is this perfume, which is (of) incense and sandalwood, but the perfume of virtuous men blows among the gods as best.
+
+---
+
+##### 57
+
+Tesaṃ sampannasīlānaṃ, appamādavihārinaṃ, sammadaññāvimuttānaṃ, māro maggaṃ na vindati.
+
+- 成就諸戒行，住於不放逸，正智解脫者，魔不知所趣。
+- Of those who are possessed of virtue, live without carelessness, and are freed by proper knowledge, Māra does not find the way.
+
+---
+
+##### 58
+
+Yathā saṅkāradhānasmiṃ, ujjhitasmiṃ mahāpathe, padumaṃ tattha jāyetha, sucigandhaṃ manoramaṃ.
+
+- 猶如糞穢聚，棄著於大道，蓮華生其中，香潔而悅意。
+- Just as on a heap of rubbish thrown on the high road, a lotus might grow there with sweet smell, delighting the mind.
+
+##### 59
+
+Evaṃ saṅkārabhūtesu, andhabhūte puthujjane, atirocati paññāya, sammāsambuddhasāvako.
+
+- 如是糞穢等，盲昧凡夫中，正覺者弟子，以智慧光照。
+- Similarly among common people who are blind and like rubbish, the disciple of the fully awakened one shines forth by reason of his wisdom.

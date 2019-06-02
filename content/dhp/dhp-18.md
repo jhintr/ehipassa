@@ -1,0 +1,181 @@
+---
+title: Mala
+subtitle: 18:235-255
+date: 2016-09-05
+draft: false
+weight: 18
+type: translation
+layout: single
+---
+
+- 垢穢品
+- Impurity
+
+---
+
+##### 235
+
+Paṇḍupalāso va dānisi, yamapurisā pi ca te upaṭṭhitā, uyyogamukhe ca tiṭṭhasi, pātheyyam pi ca te na vijjati.
+
+- 汝今已似枯燋葉，閻魔使者近身邊，汝已佇立死門前，旅途汝亦無資糧。
+- You are now like a yellow leaf, and Yama's men too stand near you. You stand at the beginning of an undertaking, and you do not even have provisions for the journey.
+
+##### 236
+
+So karohi dīpam-attano, khippaṃ vāyama paṇḍito bhava, niddhantamalo anaṅgaṇo, dibbaṃ ariyabhūmiṃ upehisi.
+
+- 汝宜自造安全洲，迅速精勤為智者，拂除塵垢無煩惱，得達諸天之聖境。
+- Make an island for yourself, strive quickly, be learned. With impurity blown away, without blemish, you will go to the heavenly land of the noble ones.
+
+##### 237
+
+Upanītavayo ca dānisi, sampayātosi yamassa santike, vāso te natthi antarā, pātheyyam pi ca te na vijjati.
+
+- 汝今壽命行已終，汝已移步近閻魔，道中既無停息處，旅途汝亦無資糧。
+- You are now advanced in age indeed. You have come to the presence of Yama. There is not even a stopping place for you in between, and you do not even have provisions for the journey.
+
+##### 238
+
+So karohi dīpam-attano, khippaṃ vāyama paṇḍito bhava, niddhantamalo anaṅgaṇo, na punaṃ jātijaraṃ upehisi.
+
+- 汝宜自造安全洲，迅速精勤為智者，拂除塵垢無煩惱，不復重來生與老。
+- Make an island for yourself, strive quickly, be learned. With impurity blown away, without blemish, you will not come again to birth and old age.
+
+---
+
+##### 239
+
+Anupubbena medhāvī, thokaṃ thokaṃ khaṇe khaṇe, kammāro rajatasseva, niddhame malam-attano.
+
+- 剎那剎那間，智者分分除，漸拂自垢穢，如冶工鍛金。
+- A wise man would blow away his own impurity, gradually, little by little, at every opportunity, as a smith blows away the impurity of silver.
+
+---
+
+##### 240
+
+Ayasā va malaṃ samuṭṭhitaṃ, tad-uṭṭhāya tam-eva khādati, evaṃ atidhonacārinaṃ, sāni kammāni nayanti duggatiṃ.
+
+- 如鐵自生銹，生已自腐蝕，犯罪者亦爾，自業導惡趣。
+- Just as the impurity arising from iron, rising from it eats that very thing, in the same way his own deeds lead one excessively devoted to ascetic practices to a bad rebirth.
+
+---
+
+##### 241
+
+Asajjhāyamalā mantā, anuṭṭhānamalā gharā, malaṃ vaṇṇassa kosajjaṃ, pamādo rakkhato malaṃ.
+
+- 不誦經典穢，不勤為家穢，懶惰為色穢，放逸護衛穢。
+- Prayers have non-recitation as their impurity, families have lack of exertion as their impurity, idleness is the impurity of (physical) appearance, carelessness is the impurity of one who guards.
+
+##### 242
+
+Malitthiyā duccaritaṃ, maccheraṃ dadato malaṃ, malā ve pāpakā dhammā, asmiṃ loke paramhi ca.
+
+- 邪行婦人穢，吝嗇施者穢，此界及他界，惡法實為穢。
+- Bad conduct is the impurity of a woman, miserliness is the impurity of one giving, evil characteristics are impurities indeed in this world and the next.
+
+##### 243
+
+Tato malā malataraṃ, avijjā paramaṃ malaṃ, etaṃ malaṃ pahantvāna, nimmalā hotha bhikkhavo.
+
+- 此等諸垢中，無明垢為最，汝當除此垢，成無垢比丘。
+- There is a greater impurity than this impurity. Ignorance is the greatest impurity. Giving up this impurity, be free from impurities, o bhikkhus.
+
+---
+
+##### 244
+
+Sujīvaṃ ahirikena, kākasūrena dhaṃsinā, pakkhandinā pagabbhena, saṃkiliṭṭhena jīvitaṃ.
+
+- 生活無慚愧，鹵莽如烏鴉，詆毀於他人，大膽自誇張，傲慢邪惡者，其人生活易。
+- Life is easy to live for a shameless person, a crow-like hero, importunate, a braggart, arrogant, defiled.
+
+##### 245
+
+Hirīmatā ca dujjīvaṃ, niccaṃ sucigavesinā, alīnenāppagabbhena, suddhājīvena passatā.
+
+- 生活於慚愧，常求於清淨，不著欲謙遜，住清淨生活，富於識見者，其人生活難。
+- But it is difficult to live for a modest person, constantly seeking the pure, unattached, not arrogant, living a pure life, discerning.
+
+---
+
+##### 246
+
+Yo pāṇam-atipāteti, musāvādañca bhāsati, loke adinnam-ādiyati, paradārañca gacchati,
+
+- 若人於世界，殺生說妄語，取人所不與，犯於別人妻，
+- Whoever destroys a living creature, and speaks untruth, takes what is not given in the world, and goes to another's wife,
+
+##### 247
+
+surāmerayapānañca, yo naro anuyuñjati, idhevameso lokasmiṃ, mūlaṃ khaṇati attano.
+
+- 及耽湎飲酒，行為如是者，即於此世界，毀掘自善根。
+- and whatever man applies himself to drinking liquor and intoxicants, that person digs up his own root here in this very world.
+
+##### 248
+
+Evaṃ bho purisa jānāhi, pāpadhammā asaññatā, mā taṃ lobho adhammo ca, ciraṃ dukkhāya randhayuṃ.
+
+- 如是汝應知，不制則為惡，莫貪與非法，自陷於永苦。
+- Thus know, o man, that evil characteristics are uncontrolled. May lust and the unlawful not deliver you over to misery for a long time.
+
+---
+
+##### 249
+
+Dadāti ve yathāsaddhaṃ, yathāpasādanaṃ jano, tattha yo maṅku bhavati, paresaṃ pānabhojane, na so divā vā rattiṃ vā, samādhim-adhigacchati.
+
+- 若信樂故施，心嫉他得食，彼於晝或夜，不得入三昧。
+- Men give indeed according to their faith and according to their inclination. In this matter one who is upset about the food and drink (given) to others does not attain concentration by day or by night.
+
+##### 250
+
+Yassa cetaṃ samucchinnaṃ, mūlaghaccaṃ samūhataṃ, sa ve divā vā rattiṃ vā, samādhim-adhigacchati.
+
+- 若斬斷此心，拔根及除滅，則於晝或夜，彼得入三昧。
+- But he for whom this (upset state) is cut out, removed root and all, destroyed, he indeed attains concentration by day and by night.
+
+---
+
+##### 251
+
+Natthi rāgasamo aggi, natthi dosasamo gaho, natthi mohasamaṃ jālaṃ, natthi taṇhāsamā nadī.
+
+- 無火等於貪欲，無執著如瞋恚，無網等於愚癡，無河流如愛欲。
+- There is no fire like passion, there is no seizer like hatred, there is no net like delusion, there is no river like craving.
+
+---
+
+##### 252
+
+Sudassaṃ vajjam-aññesaṃ, attano pana duddasaṃ, paresaṃ hi so vajjāni, opunāti yathā bhusaṃ, attano pana chādeti, kaliṃ va kitavā saṭho.
+
+- 易見他人過，自見則為難，揚惡如揚糠，己過則覆匿，如彼狡博者，隱匿其格利。
+- The fault of others is easliy seen, but one's own is hard to see. One winnows the faults of others indeed like chaff, but hides one's own as a crafty gambler hides a bad throw.
+
+---
+
+##### 253
+
+Paravajjānupassissa, niccaṃ ujjhānasaññino, āsavā tassa vaḍḍhanti, ārā so āsavakkhayā.
+
+- 若見他人過，心常易忿者，增長於煩惱，去斷惑遠矣。
+- Of one who sees the faults of others, who is constantly censorious, the āsavas increase. He is far from the destruction of the āsavas.
+
+---
+
+##### 254
+
+Ākāse va padaṃ natthi, samaṇo natthi bāhire, papañcābhiratā pajā, nippapañcā tathāgatā.
+
+- 虛空無道跡，外道無沙門，眾生喜虛妄，如來無虛妄。
+- But there is no footprint in the sky, there is no ascetic outside (our Order), ordinary people rejoice in the diversified world, tathāgatas are free from the diversified world.
+
+##### 255
+
+Ākāse va padaṃ natthi, samaṇo natthi bāhire, saṅkhārā sassatā natthi, natthi buddhānam-iñjitaṃ.
+
+- 虛空無道跡，外道無沙門，五蘊無常住，諸佛無動亂。
+- But there is no footprint in the sky, there is no ascetic outside (our Order), etenal conditioned things do not exist, there is no agitation in the awakened ones.

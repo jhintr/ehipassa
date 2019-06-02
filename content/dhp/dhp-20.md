@@ -1,0 +1,151 @@
+---
+title: Magga
+subtitle: 20:273-289
+date: 2016-09-05
+draft: false
+weight: 20
+type: translation
+layout: single
+---
+
+- 道品
+- The Path
+
+---
+
+##### 273
+
+Maggānaṭṭhaṅgiko seṭṭho, saccānaṃ caturo padā, virāgo seṭṭho dhammānaṃ, dvipadānañca cakkhumā.
+
+- 八支道中勝，四句諦中勝，離欲法中勝，具眼兩足勝。
+- Of paths the eight-fold is best, of truths the four sayings, of states freedom from passion, of two-footed ones the one with eyes.
+
+##### 274
+
+Eseva maggo natthañño, dassanassa visuddhiyā, etañhi tumhe paṭipajjatha, mārassetaṃ pamohanaṃ.
+
+- 實唯此一道，無餘知見淨，汝等順此行，魔為之惑亂。
+- Only that one is the path, there is none other for the purification of insight. Enter on this one. This causes confusion for Māra.
+
+##### 275
+
+Etañhi tumhe paṭipannā, dukkhassantaṃ karissatha, akkhāto vo mayā maggo, aññāya sallakantanaṃ.
+
+- 汝順此道行，使汝苦滅盡，知我所說道，得除去荊棘。
+- Entering on this one you will put an end to suffering. This path was preached to you by me, knowing the destruction of the dart.
+
+##### 276
+
+Tumhehi kiccam-ātappaṃ, akkhātāro tathāgatā, paṭipannā pamokkhanti, jhāyino mārabandhanā.
+
+- 汝當自努力，如來唯說者，隨禪定行者，解脫魔繫縛。
+- You must show energy. The tathāgatas are (only) teachers. Those who have entered (on the path), meditative, will be released from Māra's fetter.
+
+---
+
+##### 277
+
+“Sabbe saṅkhārā aniccā” ti, yadā paññāya passati, atha nibbindati dukkhe, esa maggo visuddhiyā.
+
+- 「一切行無常」，以慧觀照時，得厭離於苦，此乃清淨道。
+- “All conditioned things are impermanent”. When one sees this by wisdom, then one is wearied of suffering. This is the path to purity.
+
+##### 278
+
+“Sabbe saṅkhārā dukkhā” ti, yadā paññāya passati, atha nibbindati dukkhe, esa maggo visuddhiyā.
+
+- 「一切行是苦」，以慧觀照時，得厭離於苦，此乃清淨道。
+- “All conditioned things are suffering”. When one sees this by wisdom, then one is wearied of suffering. This is the path to purity.
+
+##### 279
+
+“Sabbe dhammā anattā” ti, yadā paññāya passati, atha nibbindati dukkhe, esa maggo visuddhiyā.
+
+- 「一切法無我」，以慧觀照時，得厭離於苦，此乃清淨道。
+- “All phenomena are non-self”. When one sees this by wisdom, then one is wearied of suffering. This is the path to purity.
+
+---
+
+##### 280
+
+Uṭṭhānakālamhi anuṭṭhahāno, yuvā balī ālasiyaṃ upeto, saṃsannasaṅkappamano kusīto, paññāya maggaṃ alaso na vindati.
+
+- 當努力時不努力，年雖少壯陷怠惰，意志消沈又懶弱，怠者不以智得道。
+- He who does not exert himself at the time of exertion, who (though) young and strong has come to sloth, whose thoughts and mind are depressed, indolent, that lazy one does not find the road by wisdom.
+
+---
+
+##### 281
+
+Vācānurakkhī manasā susaṃvuto, kāyena ca nākusalaṃ kayirā, ete tayo kammapathe visodhaye, ārādhaye maggam-isippaveditaṃ.
+
+- 慎語而制意，不以身作惡，淨此三業道，得聖所示道。
+- Guarding one's speech, well restrained in mind and body, one should not do evil. Purifying these three paths of action, one would attain the path taught by the sages.
+
+---
+
+##### 282
+
+Yogā ve jāyatī bhūri, ayogā bhūrisaṅkhayo, etaṃ dvedhāpathaṃ ñatvā, bhavāya vibhavāya ca, tathāttānaṃ niveseyya, yathā bhūri pavaḍḍhati.
+
+- 由瑜伽生智，無瑜伽慧滅，了知此二道，及其得與失，當自努力行，增長於智慧。
+- Truly from meditation arises wisdom, from non-meditation the loss of wisdom. Knowing this two-fold path to existence and non-existence, one should so conduct oneself that one's wisdom increases.
+
+---
+
+##### 283
+
+Vanaṃ chindatha mā rukkhaṃ, vanato jāyate bhayaṃ, chetvā vanañca vanathañca, nibbanā hotha bhikkhavo.
+
+- 應伐欲稠林，勿伐於樹木，從欲林生怖，當脫欲稠林。
+- Cut down the forest (desire), not the tree, danger comes from the forest (desire). Having cut down forest and desire, be without desire, o bhikkhus.
+
+##### 284
+
+Yāva hi vanatho na chijjati, aṇumatto pi narassa nārisu, paṭibaddhamano va tāva so, vaccho khīrapako va mātari.
+
+- 男女欲絲絲，未斷心猶繫，如飲乳犢子，不離於母牛。
+- For as long as the desire, even small, of a man for women is not cut off, so long has he a mind attached indeed, like a suckling calf to its mother.
+
+---
+
+##### 285
+
+Ucchinda sineham-attano, kumudaṃ sāradikaṃ va pāṇinā, santimaggam-eva brūhaya, nibbānaṃ sugatena desitaṃ.
+
+- 自己斷除愛情，如以手折秋蓮，勤修寂靜之道，善逝所說涅槃。
+- Cut out the love of self, as you would an autumn lily by the hand. Promote the path to peace, the nibbāna taught by the well-farer.
+
+---
+
+##### 286
+
+“Idha vassaṃ vasissāmi, idha hemantagimhisu”, iti bālo vicinteti, antarāyaṃ na bujjhati.
+
+- 「雨季我住此，冬夏亦住此」，此為愚夫想，而不覺危險。
+- “Here I shall dwell for the rainy season, here I shall dwell in winter and summer”. So thinks the fool, he does not know the obstacle.
+
+---
+
+##### 287
+
+Taṃ puttapasusammattaṃ, byāsattamanasaṃ naraṃ, suttaṃ gāmaṃ mahogho va, maccu ādāya gacchati.
+
+- 溺愛子與畜，其人心惑著，死神捉將去，如瀑流睡村。
+- As a great flood carries off a sleeping village, death carries off that man who is intoxicated by sons and cattle, whose mind is distracted.
+
+---
+
+##### 288
+
+Na santi puttā tāṇāya, na pitā nāpi bandhavā, antakenādhipannassa, natthi ñātīsu tāṇatā.
+
+- 父子與親戚，莫能為救護，彼為死所制，非親族能救。
+- Children are not a protection, nor a father, nor even relatives. For one who is overcome by the end-maker there is no protection among kinsmen.
+
+##### 289
+
+Etam-atthavasaṃ ñatvā, paṇḍito sīlasaṃvuto, nibbānagamanaṃ maggaṃ, khippam-eva visodhaye.
+
+- 了知此義已，智者持戒律，通達涅槃路，迅速令清淨。
+- Knowing this fact, a learned man, restrained by virtuous conduct, would very quickly clear the path leading to nibbāna.

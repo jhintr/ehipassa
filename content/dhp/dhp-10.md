@@ -1,0 +1,149 @@
+---
+title: Daṇḍa
+subtitle: 10:129-145
+date: 2016-09-05
+draft: false
+weight: 10
+type: translation
+layout: single
+---
+
+- 刀杖品
+- Violence
+
+---
+
+##### 129
+
+Sabbe tasanti daṇḍassa, sabbe bhāyanti maccuno, attānaṃ upamaṃ katvā, na haneyya na ghātaye.
+
+- 一切懼刀杖，一切皆畏死，以自度他情，莫殺教他殺。
+- All tremble at violence, all fear death. Comparing (others) with oneself, one should not kill or cause to kill.
+
+##### 130
+
+Sabbe tasanti daṇḍassa, sabbesaṃ jīvitaṃ piyaṃ, attānaṃ upamaṃ katvā, na haneyya na ghātaye.
+
+- 一切懼刀杖，一切皆愛生，以自度他情，莫殺教他殺。
+- All tremble at violence, to all life is dear. Comparing (others) with oneself, one should not kill or cause to kill.
+
+---
+
+##### 131
+
+Sukhakāmāni bhūtāni, yo daṇḍena vihiṃsati, attano sukham-esāno, pecca so na labhate sukhaṃ.
+
+- 於求樂有情，刀杖加惱害，但求自己樂，後世樂難得。
+- Whoever injures with violence creatures desiring happiness, seeking his own happiness he does not gain happiness when he has passed away.
+
+##### 132
+
+Sukhakāmāni bhūtāni, yo daṇḍena na hiṃsati, attano sukham-esāno, pecca so labhate sukhaṃ.
+
+- 於求樂有情，不加刀杖害，欲求自己樂，後世樂可得。
+- Whoever does not injure with violence creatures desiring happiness, seeking his own happiness he gains happiness when he has passed away.
+
+---
+
+##### 133
+
+Māvoca pharusaṃ kañci, vuttā paṭivadeyyu taṃ, dukkhā hi sārambhakathā, paṭidaṇḍā phuseyyu taṃ.
+
+- 對人莫說粗惡語，汝所說者還說汝，憤怒之言實堪痛，互擊刀杖可傷汝。
+- Do not say anything harsh to anyone. Those spoken to would answer you back. For arrogant talk is painful. Retaliation(s) would assail you.
+
+##### 134
+
+Sace neresi attānaṃ, kaṃso upahato yathā, esa pattosi nibbānaṃ, sārambho te na vijjati.
+
+- 汝若自默然，如一破銅鑼，已得涅槃路，於汝無諍故。
+- If you do not make yourself utter a sound, like a broken gong, you have attained nibbāna. Arrogance is not found in you.
+
+---
+
+##### 135
+
+Yathā daṇḍena gopālo, gāvo pājeti gocaraṃ, evaṃ jarā ca maccu ca, āyuṃ pājenti pāṇinaṃ.
+
+- 如牧人以杖，驅牛至牧場，如是老與死，驅逐眾生命。
+- Just as a cowherd with a stick drives the cows to pasture, so old age and death bring the life of creatures to an end.
+
+---
+
+##### 136
+
+Atha pāpāni kammāni, karaṃ bālo na bujjhati, sehi kammehi dummedho, aggidaḍḍho va tappati.
+
+- 愚夫造作諸惡業，卻不自知有果報，癡人以自業感苦，宛如以火而自燒。
+- But a fool doing evil deeds does not know (this). The stupid man is burned by his own deeds, like one burned by fire.
+
+---
+
+##### 137
+
+Yo daṇḍena adaṇḍesu, appaduṭṭhesu dussati, dasannam-aññataraṃ ṭhānaṃ, khippam-eva nigacchati,
+
+- 若以刀杖害，無惡無害者，十事中一種，彼將迅速得，
+- Whoever does harm with violence to non-violent innocent people, goes very soon indeed to one of the ten states,
+
+##### 138
+
+vedanaṃ pharusaṃ jāniṃ, sarīrassa va bhedanaṃ, garukaṃ vā pi ābādhaṃ, cittakkhepaṃ va pāpuṇe,
+
+- 極苦痛失財，身體被損害，或重病所逼，或失心狂亂，
+- he may arrive at harsh suffering, loss, or breaking of the body, or severe illness, or anxiety of mind,
+
+##### 139
+
+rājato vā upasaggaṃ, abbhakkhānaṃ va dāruṇaṃ, parikkhayaṃ va ñātīnaṃ, bhogānaṃ va pabhaṅguraṃ,
+
+- 或為王迫害，或被誣重罪，或眷屬離散，或破滅財產，
+- or trouble from the king, or a dreadful accusation, or the loss of relatives, or the destruction of wealth,
+
+##### 140
+
+atha vāssa agārāni, aggi ḍahati pāvako, kāyassa bhedā duppañño, nirayaṃ sopapajjati.
+
+- 或彼之房屋，為劫火焚燒，癡者身亡後，復墮於地獄。
+- or purifying fire burns down his houses. After the break-up of the body, the fool is reborn in hell.
+
+---
+
+##### 141
+
+Na naggacariyā na jaṭā na paṅkā, nānāsakā thaṇḍilasāyikā vā, rajo jallaṃ ukkuṭikappadhānaṃ, sodhenti maccaṃ avitiṇṇakaṅkhaṃ.
+
+- 非裸行結髮，非塗泥絕食，臥地自塵身，非以蹲踞住，不斷疑惑者，能令得清淨。
+- Not nakedness, nor matted hair, nor mud, nor fasting, nor lying on the ground, nor dust and dirt, nor exertion in a squatting position purify a mortal who has not passed beyond doubt.
+
+##### 142
+
+Alaṅkato ce pi samaṃ careyya, santo danto niyato brahmacārī, sabbesu bhūtesu nidhāya daṇḍaṃ, so brāhmaṇo so samaṇo sa bhikkhu.
+
+- 嚴身住寂靜，調禦而克制，必然修梵行，不以刀杖等，加害諸有情，彼即婆羅門，彼即是沙門，彼即是比丘。
+- If although adorned (with fine clothes) he practices equanimity, is calm, controlled, restrained, living the holy life, having laid aside violence with regard to all living creatures, he is a brahman, an ascetic, a bhikkhu.
+
+---
+
+##### 143
+
+Hirīnisedho puriso, koci lokasmi vijjati, yo niddaṃ apabodheti, asso bhadro kasām-iva.
+
+- 以慚自禁者，世間所罕有，彼善避羞辱，如良馬避鞭。
+- Is a man restrained by modesty found anywhere in the world, who thinks little of censure, as a well-bred horse thinks little of the whip?
+
+##### 144
+
+Asso yathā bhadro kasāniviṭṭho, ātāpino saṃvegino bhavātha, saddhāya sīlena ca vīriyena ca, samādhinā dhammavinicchayena ca, sampannavijjācaraṇā patissatā, jahissatha dukkham-idaṃ anappakaṃ.
+
+- 如良馬加鞭，當奮勉懺悔，以信戒精進，以及三摩地，善分別正法，以及明行足，汝當念勿忘，消滅無窮苦。
+- Like a well-bred horse touched by the whip, be eager and swift. By faith, and by virtuous conduct, and by energy, by concentration, and by discernment of the doctrine, endowed with knowledge and good conduct, mindful, you will abandon this not-insignificant suffering.
+
+---
+
+##### 145
+
+Udakañhi nayanti nettikā, usukārā namayanti tejanaṃ, dāruṃ namayanti tacchakā, attānaṃ damayanti subbatā.
+
+- 灌溉者引水，箭匠之矯箭，木匠之繩木，善行者自禦。
+- Truly canal-makers lead water, fletchers bend the arrow (straight), carpenters bend wood, men of good vows tame the self.

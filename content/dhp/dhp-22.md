@@ -1,0 +1,128 @@
+---
+title: Niraya
+subtitle: 22:306-319
+date: 2016-09-05
+draft: false
+weight: 22
+type: translation
+layout: single
+---
+
+- 地獄品
+- Hell
+
+---
+
+##### 306
+
+Abhūtavādī nirayaṃ upeti, yo vā pi katvā na karomi cāha, ubho pi te pecca samā bhavanti, nihīnakammā manujā parattha.
+
+- 說妄語者墮地獄，或已作言我無作，此二惡業者死後，他世同受地獄苦。
+- One who speaks of things that never were goes to hell, or the one who having done something says he did not do it (goes too), both of these, when passed away, become the same — men with contemptible deeds in the next world.
+
+---
+
+##### 307
+
+Kāsāvakaṇṭhā bahavo, pāpadhammā asaññatā, pāpā pāpehi kammehi, nirayaṃ te upapajjare.
+
+- 多袈裟纏頸，惡行不節制，惡人以惡業，終墮於地獄。
+- There are many with saffron around the neck, of evil nature, unrestrained. Being evil, because of their evil deeds they are reborn in hell.
+
+---
+
+##### 308
+
+Seyyo ayoguḷo bhutto, tatto aggisikhūpamo, yañce bhuñjeyya dussīlo, raṭṭhapiṇḍam-asaññato.
+
+- 若破戒無制，受人信施食，不如吞鐵丸，熱從火焰出。
+- It is better that an iron ball heated like flames of fire be eaten than that an immoral unrestrained man should eat the country's alms food.
+
+---
+
+##### 309
+
+Cattāri ṭhānāni naro pamatto, āpajjati paradārūpasevī, apuññalābhaṃ na nikāmaseyyaṃ, nindaṃ tatīyaṃ nirayaṃ catutthaṃ.
+
+- 放逸淫人妻，必遭於四事，獲罪睡不安，誹三地獄四。
+- A careless man who courts another's wife gains four things, acquisition of demerit, an uncomfortable bed, third blame and fourth hell.
+
+##### 310
+
+Apuññalābho ca gatī ca pāpikā, bhītassa bhītāya ratī ca thokikā, rājā ca daṇḍaṃ garukaṃ paṇeti, tasmā naro paradāraṃ na seve.
+
+- 非福並惡趣，恐怖樂甚少，國王加重罪，故莫淫他婦。
+- Acquisition of demerit and an evil state of rebirth, and a brief delight for the frightened man with the frightened woman, and the king imposes a heavy punishment. Therefore a man should not court another's wife.
+
+---
+
+##### 311
+
+Kuso yathā duggahito, hattham-evānukantati, sāmaññaṃ dupparāmaṭṭhaṃ, nirayāyupakaḍḍhati.
+
+- 不善執孤沙，則傷害其手，沙門作邪行，則趣向地獄。
+- Just as kusa grass wrongly grasped cuts the hand, the ascetic's life wrongly practised drags one to hell.
+
+##### 312
+
+Yaṃ kiñci sithilaṃ kammaṃ, saṃkiliṭṭhañca yaṃ vataṃ, saṅkassaraṃ brahmacariyaṃ, na taṃ hoti mahapphalaṃ.
+
+- 諸有懈惰行，及染汙戒行，懷疑修梵行，彼不得大果。
+- Whatever action is slack, and whatever vow is defiled, (whatever) holy living is vile, that is not very fruitful.
+
+##### 313
+
+Kayirā ce kayirāthenaṃ, daḷham-enaṃ parakkame, sithilo hi paribbājo, bhiyyo ākirate rajaṃ.
+
+- 應作所當作，作之須盡力，放蕩遊行僧，增長於欲塵。
+- If there is something to be done one should do it, one should make an effort firmly. For a slack wanderer scatters himself with dust all the more.
+
+---
+
+##### 314
+
+Akataṃ dukkaṭaṃ seyyo, pacchā tappati dukkaṭaṃ, katañca sukataṃ seyyo, yaṃ katvā nānutappati.
+
+- 不作惡業勝，作惡後受苦，作諸善業勝，作善不受苦。
+- A bad deed is better undone, afterwards one repents of a bad deed. But a good deed is better when done, which one does not repent having done.
+
+---
+
+##### 315
+
+Nagaraṃ yathā paccantaṃ, guttaṃ santarabāhiraṃ, evaṃ gopetha attānaṃ, khaṇo vo mā upaccagā, khaṇātītā hi socanti, nirayamhi samappitā.
+
+- 譬如邊區城，內外均防護，自護當亦爾，剎那莫放逸，剎那疏忽者，入地獄受苦。
+- Just as a border city is protected inside and out, so protect yourselves. Do not let the moment pass you by, for those who have been passed by the moment grieve when they are consigned to hell.
+
+---
+
+##### 316
+
+Alajjitāye lajjanti, lajjitāye na lajjare, micchādiṭṭhisamādānā, sattā gacchanti duggatiṃ.
+
+- 不應羞而羞，應羞而不羞，懷此邪見者，眾生趨惡趣。
+- They are ashamed of what is not shameful, not ashamed of what is shameful. Because of taking up wrong views, beings go to a bad state of rebirth.
+
+##### 317
+
+Abhaye bhayadassino, bhaye cābhayadassino, micchādiṭṭhisamādānā, sattā gacchanti duggatiṃ.
+
+- 不應怖見怖，應怖不見怖，懷此邪見者，眾生趨惡趣。
+- Seeing danger where there is no danger, and not seeing danger where there is danger, because of taking up wrong views, beings go to a bad state of rebirth.
+
+---
+
+##### 318
+
+Avajje vajjamatino, vajje cāvajjadassino, micchādiṭṭhisamādānā, sattā gacchanti duggatiṃ.
+
+- 非過思為過，是過見無過，懷此邪見者，眾生趨惡趣。
+- Thinking there is a fault where there is no fault, and not seeing a fault where there is a fault, because of taking up wrong views, beings go to a bad state of rebirth.
+
+##### 319
+
+Vajjañca vajjato ñatvā, avajjañca avajjato, sammādiṭṭhisamādānā, sattā gacchanti suggatiṃ.
+
+- 過失知過失，無過知無過，懷此正見者，眾生趨善趣。
+- But knowing fault as fault, and non-fault as non-fault, because of taking up right views, beings go to a good state of rebirth.

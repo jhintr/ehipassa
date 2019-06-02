@@ -1,0 +1,9 @@
+baseURL = "https://ehipassa.org/"
+languageCode = "zh-hans"
+title = "往見"
+
+[permalinks]
+    dhp = "/:filename/"
+    patimokkha = "/:filename/"
+    majjhima = "/:filename/"
+    vm = "/:filename/"

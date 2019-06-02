@@ -1,0 +1,126 @@
+---
+title: Kodha
+subtitle: 17:221-234
+date: 2016-09-05
+draft: false
+weight: 17
+type: translation
+layout: single
+---
+
+- 忿怒品
+- Anger
+
+---
+
+##### 221
+
+Kodhaṃ jahe vippajaheyya mānaṃ, saṃyojanaṃ sabbam-atikkameyya, taṃ nāmarūpasmim-asajjamānaṃ, akiñcanaṃ nānupatanti dukkhā.
+
+- 捨棄於忿怒，除滅於我慢，解脫一切縛，不執著名色，彼無一物者，苦不能相隨。
+- One should abandon anger, one should give up pride, one should pass beyond every attachment. Suffering do not befall one who is not attached to name-and-form, possessing nothing.
+
+---
+
+##### 222
+
+Yo ve uppatitaṃ kodhaṃ, rathaṃ bhantaṃ va vāraye, tam-ahaṃ sārathiṃ brūmi, rasmiggāho itaro jano.
+
+- 若能抑忿發，如止急行車，是名善禦者，餘為執韁人。
+- One who indeed could control his anger when it arises, like a chariot gone astray, him I call a charioteer. The other people are merely rein-holders.
+
+---
+
+##### 223
+
+Akkodhena jine kodhaṃ, asādhuṃ sādhunā jine, jine kadariyaṃ dānena, saccenālikavādinaṃ.
+
+- 以不忿勝忿，以善勝不善，以施勝慳吝，以實勝虛妄。
+- One should conquer anger by non-anger, one should conquer bad by good, one should conquer miserliness by giving, and one speaking falsehood by truth.
+
+---
+
+##### 224
+
+Saccaṃ bhaṇe na kujjheyya, dajjā appam pi yācito, etehi tīhi ṭhānehi, gacche devāna santike.
+
+- 諦語不瞋恚，分施與乞者，以如是三事，能生於諸天。
+- One should speak what is pleasant, one should not be angry, if asked one should give, even if there is only a little. By these three means one would go to the presence of the gods.
+
+---
+
+##### 225
+
+Ahiṃsakā ye munayo, niccaṃ kāyena saṃvutā, te yanti accutaṃ ṭhānaṃ, yattha gantvā na socare.
+
+- 彼無害牟尼，常調伏其身，到達不死境，無有悲憂處。
+- Sages who do no harm, constantly restrained in body, they go to the unshakable place, where having gone they do not grieve.
+
+---
+
+##### 226
+
+Sadā jāgaramānānaṃ, ahorattānusikkhinaṃ, nibbānaṃ adhimuttānaṃ, atthaṃ gacchanti āsavā.
+
+- 恒常醒覺者，日夜勤修學，志向於涅槃，息滅諸煩惱。
+- Of those who are always awake, learning by day and night, intent upon nibbāna, the āsavas disappear.
+
+---
+
+##### 227
+
+Porāṇam-etaṃ atula, netaṃ ajjatanām-iva, nindanti tuṇhim-āsīnaṃ, nindanti bahubhāṇinaṃ, mitabhāṇim pi nindanti, natthi loke anindito.
+
+- 阿多羅應知，此非今日事，古語已有之，默然為人誹，多語為人誹，寡言為人誹，不為誹謗者，斯世實無有。
+- This is an old thing, Atula, this is not of today only. They blame one sitting silent, they blame one speaking much, they even blame one speaking little. There is no one unblamed in the world.
+
+##### 228
+
+Na cāhu na ca bhavissati, na cetarahi vijjati, ekantaṃ nindito poso, ekantaṃ vā pasaṃsito.
+
+- 全被人誹者，或全被贊者，非曾有當有，現在亦無有。
+- There was not, and there will not be, and there is not now, a man who is wholly blamed, or wholly praised.
+
+##### 229
+
+Yaṃ ce viññū pasaṃsanti, anuvicca suve suve, acchiddavuttiṃ medhāviṃ, paññāsīlasamāhitaṃ,
+
+- 若人朝朝自反省，行無瑕疵並賢明，智能戒行兼具者，彼為智人所稱贊，
+- But the one whom the wise praise, having observed carefully day by day, as being faultless in conduct, intelligent, concentrated on wisdom and virtue,
+
+##### 230
+
+nikkhaṃ jambonadasseva, ko taṃ ninditum-arahati? devā pi naṃ pasaṃsanti, brahmunā pi pasaṃsito.
+
+- 品如閻浮金，誰得誹辱之？彼為婆羅門，諸天所稱贊。
+- like a ring of gold, who ought to blame him? Even the gods praise him. He is praised even by Brahmā.
+
+---
+
+##### 231
+
+Kāyappakopaṃ rakkheyya, kāyena saṃvuto siyā, kāyaduccaritaṃ hitvā, kāyena sucaritaṃ care.
+
+- 攝護身忿怒，調伏於身行，捨離身惡行，以身修善行。
+- One should beware of bodily anger, one should be restrained in body. Having abandoned misconduct of body, one should practise good conduct with the body.
+
+##### 232
+
+Vacīpakopaṃ rakkheyya, vācāya saṃvuto siyā, vacīduccaritaṃ hitvā, vācāya sucaritaṃ care.
+
+- 攝護語忿怒，調伏於語行，捨離語惡行，以語修善行。
+- One should beware of anger in one's speech, one should be restrained in speech. Having abandoned misconduct of speech, one should practise good conduct with speech.
+
+##### 233
+
+Manopakopaṃ rakkheyya, manasā saṃvuto siyā, manoduccaritaṃ hitvā, manasā sucaritaṃ care.
+
+- 攝護意忿怒，調伏於意行，捨離意惡行，以意修善行。
+- One should beware of anger in one's mind, one should be restrained in mind. Having abandoned misconduct of mind, one should practise good conduct with the mind.
+
+##### 234
+
+Kāyena saṃvutā dhīrā, atho vācāya saṃvutā, manasā saṃvutā dhīrā, te ve suparisaṃvutā.
+
+- 智者身調伏，亦復語調伏，於意亦調伏，實一切調伏。
+- The wise are restrained in body, and restrained in speech, the wise are restrained in mind. They indeed are well restrained.

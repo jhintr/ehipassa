@@ -1,0 +1,138 @@
+---
+title: Sahassa
+subtitle: 8:100-115
+date: 2016-09-05
+draft: false
+weight: 8
+type: translation
+layout: single
+---
+
+- 千品
+- Thousands
+
+---
+
+##### 100
+
+Sahassam-api ce vācā, anatthapadasaṃhitā, ekaṃ atthapadaṃ seyyo, yaṃ sutvā upasammati.
+
+- 雖誦一千言，若無義理者，不如一義語，聞已得寂靜。
+- If there were a thousand utterances made up of meaningless words, better is one word of meaning, which hearing one becomes calm.
+
+##### 101
+
+Sahassam-api ce gāthā, anatthapadasaṃhitā, ekaṃ gāthāpadaṃ seyyo, yaṃ sutvā upasammati.
+
+- 雖誦千句偈，若無義理者，不如一句偈，聞已得寂靜。
+- If there were a thousand verses made up of meaningless word, better is one word of a verse, which hearing one becomes calm.
+
+---
+
+##### 102
+
+Yo ca gāthā sataṃ bhāse, anatthapadasaṃhitā, ekaṃ dhammapadaṃ seyyo, yaṃ sutvā upasammati.
+
+- 彼誦百句偈，若無義理者，不如一法句，聞已得寂靜。
+- And if anyone were to speak one hundred verses made up of meaningless words, better is one word of the doctrine, which hearing one becomes calm.
+
+##### 103
+
+Yo sahassaṃ sahassena, saṅgāme mānuse jine, ekañca jeyyamattānaṃ, sa ve saṅgāmajuttamo.
+
+- 彼於戰場上，雖勝百萬人，未若克己者，戰士之最上。
+- If a man were to conquer in battle a thousand times a thousand men, but conquer one, himself, he indeed is the best conqueror in battle.
+
+---
+
+##### 104
+
+Attā have jitaṃ seyyo, yā cāyaṃ itarā pajā, attadantassa posassa, niccaṃ saññatacārino.
+
+- 能克制自己，過於勝他人，若有克己者，常行自節制。
+- The self as a conquest is indeed better than these other people (as a conquest) for a man who has tamed himself, who constantly wanders self-controlled.
+
+##### 105
+
+Neva devo na gandhabbo, na māro saha brahmunā, jitaṃ apajitaṃ kayirā, tathārūpassa jantuno.
+
+- 天神乾闥婆，魔王並梵天，皆遭於敗北，不能勝彼人。
+- Not a god nor a gandhabba, nor Māra with Brahmā, could make conquest into defeat for a person of such a kind.
+
+---
+
+##### 106
+
+Māse māse sahassena, yo yajetha sataṃ samaṃ, ekañca bhāvitattānaṃ, muhuttam-api pūjaye, sā yeva pūjanā seyyo, yañce vassasataṃ hutaṃ.
+
+- 月月投千金，供犧牲百年，不如須臾間，供養修己者，彼如是供養，勝祭祀百年。
+- If anyone were to sacrifice with a thousand month by month for a hundred years, but were to honour even for a moment someone with developed self — that very homage would better than sacrificing for a hundred years.
+
+##### 107
+
+Yo ca vassasataṃ jantu, aggiṃ paricare vane, ekañca bhāvitattānaṃ, muhuttam-api pūjaye, sā yeva pūjanā seyyo, yañce vassasataṃ hutaṃ.
+
+- 若人一百年，事火於林中，不如須臾間，供養修己者，彼如是供養，勝祭祀百年。
+- And if any person were to attend the fire for a hundred years in the forest, but were to honour even for a moment someone with developed self — that very homage would be better than sacrificing for a hundred years.
+
+---
+
+##### 108
+
+Yaṃ kiñci yiṭṭhaṃ va hutaṃ va loke, saṃvaccharaṃ yajetha puññapekkho, sabbam pi taṃ na catubhāgam-eti, abhivādanā ujjugatesu seyyo.
+
+- 若人於世間，施捨或供養，求福一周年，如是諸功德，不及四分一，禮敬正直者。
+- If a man were to sacrifice in this world any sacrifice or offering for a year, looking for merit, all that does not come to a quarter (of the better offering). Respectful salutation to the righteous is a better thing.
+
+---
+
+##### 109
+
+Abhivādanasīlissa, niccaṃ vuḍḍhāpacāyino, cattāro dhammā vaḍḍhanti, āyu vaṇṇo sukhaṃ balaṃ.
+
+- 好樂敬禮者，常尊於長老，四法得增長，壽美樂與力。
+- To him who practises respectful salutation, constantly respecting his elders, four things increase, age, beauty, happiness, strengh.
+
+---
+
+##### 110
+
+Yo ca vassasataṃ jīve, dussīlo asamāhito, ekāhaṃ jīvitaṃ seyyo, sīlavantassa jhāyino.
+
+- 若人壽百歲，破戒無三昧，不如生一日，持戒修禪定。
+- And if anyone were to live for a hundred years, wicked and unconcentrated, living for one day would be better for him being virtuous and meditating.
+
+##### 111
+
+Yo ca vassasataṃ jīve, duppañño asamāhito, ekāhaṃ jīvitaṃ seyyo, paññavantassa jhāyino.
+
+- 若人壽百歲，無慧無三昧，不如生一日，具慧修禪定。
+- And if anyone were to live for one hundred years, ignorant and unconcentrated, living for one day would be better for him having knowledge and meditating.
+
+##### 112
+
+Yo ca vassasataṃ jīve, kusīto hīnavīriyo, ekāhaṃ jīvitaṃ seyyo, vīriyam-ārabhato daḷhaṃ.
+
+- 若人壽百歲，怠惰不精進，不如生一日，勵力行精進。
+- And if anyone were to live for one hundred years, lazy and lacking in energy, living for day would be better for him strenuously putting forth energy.
+
+##### 113
+
+Yo ca vassasataṃ jīve, apassaṃ udayabbayaṃ, ekāhaṃ jīvitaṃ seyyo, passato udayabbayaṃ.
+
+- 若人壽百歲，不見生滅法，不如生一日，得見生滅法。
+- And if anyone were to live one hundred years, not seeing arising and passing away, living for one day would be better for him seeing arising and passing away.
+
+##### 114
+
+Yo ca vassasataṃ jīve, apassaṃ amataṃ padaṃ, ekāhaṃ jīvitaṃ seyyo, passato amataṃ padaṃ.
+
+- 若人壽百歲，不見不死道，不如生一日，得見不死道。
+- And if anyone were to live for one hundred years, not seeing the place which is death-free, living for one day would be better for him seeing the place which is death-free.
+
+##### 115
+
+Yo ca vassasataṃ jīve, apassaṃ dhammam-uttamaṃ, ekāhaṃ jīvitaṃ seyyo, passato dhammam-uttamaṃ.
+
+- 若人壽百歲，不見最上法，不如生一日，得見最上法。
+- And if anyone were to live one hundred years, not seeing the highest doctrine, living for one day would be better for him seeing the highest doctrine.

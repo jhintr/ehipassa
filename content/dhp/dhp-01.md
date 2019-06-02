@@ -1,0 +1,178 @@
+---
+title: Yamaka
+subtitle: 1:1-20
+date: 2016-08-16
+draft: false
+weight: 1
+type: translation
+layout: single
+---
+
+<div class="alert alert-primary pb-0">
+    <p>Dhammapada-pāḷi</p>
+    <ul>
+        <li>南傳法句經（葉均譯）</li>
+        <li>The Word of the Doctrine <i>by K.R. Norman</i></li>
+    </ul>
+</div>
+
+- 雙品
+- The Pairs
+
+---
+
+##### 1
+
+Manopubbaṅgamā dhammā, manoseṭṭhā manomayā, manasā ce paduṭṭhena, bhāsati vā karoti vā, tato naṃ dukkham-anveti, cakkaṃ va vahato padaṃ.
+
+- 諸法意先導，意主意造作，若以染汙意，或語或行業，是則苦隨彼，如輪隨獸足。
+- Mental phenomena are preceded by mind, have mind as their leader, are made by mind. If one acts or speaks with an evil mind, from that sorrow follows him, as the wheel follows the foot of the ox.
+
+##### 2
+
+Manopubbaṅgamā dhammā, manoseṭṭhā manomayā, manasā ce pasannena, bhāsati vā karoti vā, tato naṃ sukham-anveti, chāyā va anapāyinī.
+
+- 諸法意先導，意主意造作，若以清淨意，或語或行業，是則樂隨彼，如影不離形。
+- Mental phenomena are preceded by mind, have mind as their leader, are made by mind. If one acts or speaks with a pure mind, from that happiness follows him, like a shadow not going away.
+
+---
+
+##### 3
+
+“Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me”, ye ca taṃ upanayhanti, veraṃ tesaṃ na sammati.
+
+- 「彼罵我打我，敗我劫奪我」，若人懷此念，怨恨不能息。
+- “He abused me, he struck me, he overcame me, he robbed me.” Of those who wrap themselves up in it hatred is not quenched.
+
+##### 4
+
+“Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me”, ye ca taṃ nupanayhanti, veraṃ tesūpasammati.
+
+- 「彼罵我打我，敗我劫奪我」，若人捨此念，怨恨自平息。
+- “He abused me, he struck me, he overcame me, he robbed me.” Of those who do not wrap themselves up in it hatred is quenched.
+
+##### 5
+
+Na hi verena verāni, sammantīdha kudācanaṃ, averena ca sammanti, esa dhammo sanantano.
+
+- 於此世界中，從非怨止怨，唯以忍止怨，此古聖常法。
+- For not by hatred are hatreds ever quenched here, but they are quenched by non-hatred. This is the ancient rule.
+
+##### 6
+
+Pare ca na vijānanti, “mayam-ettha yamāmase”, ye ca tattha vijānanti, tato sammanti medhagā.
+
+- 彼人不了悟，「我等將毀滅」，若彼等知此，則諍論自息。
+- Others too do not know that we should restrain ourselves here, but those who have knowledge in this respect, thereby their quarrels cease.
+
+---
+
+##### 7
+
+Subhānupassiṃ viharantaṃ, indriyesu asaṃvutaṃ, bhojanamhi cāmattaññuṃ, kusītaṃ hīnavīriyaṃ, taṃ ve pasahati māro, vāto rukkhaṃ va dubbalaṃ.
+
+- 唯求住淨樂，不攝護諸根，飲食不知量，懈惰不精進，彼實為魔伏，如風吹弱樹。
+- Contemplating pleasant things, living uncontrolled in his senses, and not knowing moderation in eating, slack, lacking in energy, him indeed Māra overcomes, as the wind overcomes a weak tree.
+
+##### 8
+
+Asubhānupassiṃ viharantaṃ, indriyesu susaṃvutaṃ, bhojanamhi ca mattaññuṃ, saddhaṃ āraddhavīriyaṃ, taṃ ve nappasahati māro, vāto selaṃ va pabbataṃ.
+
+- 願求非樂住，善攝護諸根，飲食知節量，具信又精進，魔不能勝彼，如風吹石山。
+- Contemplating unpleasant things, living well controlled in his senses, and knowing moderation in eating, having faith, putting forth energy, him indeed Māra does not overcome, as the wind does not overcome a rocky mountain.
+
+---
+
+##### 9
+
+Anikkasāvo kāsāvaṃ, yo vatthaṃ paridahissati, apeto damasaccena, na so kāsāvam-arahati.
+
+- 若人穿袈裟，不離諸垢穢，無誠實克己，不應著袈裟。
+- The impure person who will put on a yellow robe, without self-control and truth, he is not worthy of the yellow robe.
+
+##### 10
+
+Yo ca vantakasāvassa, sīlesu susamāhito, upeto damasaccena, sa ve kāsāvam-arahati.
+
+- 若人離諸垢，能善持戒律，克己與誠實，彼應著袈裟。
+- But whoever would be devoid of impurity, well concentrated in virtues, possessed of self-control and truth, he indeed is worthy of the yellow robe.
+
+---
+
+##### 11
+
+Asāre sāramatino, sāre cāsāradassino, te sāraṃ nādhigacchanti, micchāsaṅkappagocarā.
+
+- 非真思真實，真實見非真，邪思惟境界，彼不達真實。
+- Those who think there is essence in non-essence, and see non-essence in essence, they do not attain the essence, having false thoughts as their realm.
+
+##### 12
+
+Sārañca sārato ñatvā, asārañca asārato, te sāraṃ adhigacchanti, sammāsaṅkappagocarā.
+
+- 真實思真實，非真知非真，正思惟境界，彼能達真實。
+- But those who know essence as essence, and non-essence as non-essence, they attain the essence, having right thoughts as their realm.
+
+---
+
+##### 13
+
+Yathā agāraṃ ducchannaṃ, vuṭṭhī samativijjhati, evaṃ abhāvitaṃ cittaṃ, rāgo samativijjhati.
+
+- 如蓋屋不密，必為雨漏浸，如是不修心，貪欲必漏入。
+- Just as rain penetrates a badly thatched house, so passion penetrates an undeveloped mind.
+
+##### 14
+
+Yathā agāraṃ suchannaṃ, vuṭṭhī na samativijjhati, evaṃ subhāvitaṃ cittaṃ, rāgo na samativijjhati.
+
+- 如善密蓋屋，不為雨漏浸，如是善修心，貪欲不漏入。
+- Just as rain does not penetrate a well thatched house, so passion does not penetrate a well developed mind.
+
+---
+
+##### 15
+
+Idha socati pecca socati, pāpakārī ubhayattha socati, so socati so vihaññati, disvā kammakiliṭṭham-attano.
+
+- 現世此處悲，死後他處悲，作諸惡業者，兩處俱憂悲，見自惡業已，他悲他苦惱。
+- Here he grieves, having passed away he grieves, the evil-doer grieves in both places. He grieves, he is tormented, seeing his own defiled action.
+
+##### 16
+
+Idha modati pecca modati, katapuñño ubhayattha modati, so modati so pamodati, disvā kammavisuddhim-attano.
+
+- 現世此處樂，死後他處樂，作諸善業者，兩處俱受樂，見自善業已，他樂他極樂。
+- Here he rejoices, having passed away he rejoices, the one who has done merit rejoices in both places. He rejoices, he exults, seeing the purity of his own action.
+
+---
+
+##### 17
+
+Idha tappati pecca tappati, pāpakārī ubhayattha tappati, “pāpaṃ me katan” ti tappati, bhiyyo tappati duggatiṃ gato.
+
+- 現世此處苦，死後他處苦，作諸惡業者，兩處俱受苦，現悲我作惡，墮惡趣更苦。
+- Here he suffers, having passed away he suffers, the evil-doer suffers in both places. He suffers (thinking) “I have done evil”, he suffers all the more gone to a bad rebirth.
+
+##### 18
+
+Idha nandati pecca nandati, katapuñño ubhayattha nandati, “puññaṃ me katan” ti nandati, bhiyyo nandati suggatiṃ gato.
+
+- 現世此處喜，死後他處喜，修諸福業者，兩處俱歡喜，現喜我修福，生善趣更喜。
+- Here he delights, having passed away he delights, the one who has done merit rejoices in both places. He delights (thinking) “I have done merit”, he rejoices all the more gone to a good rebirth.
+
+---
+
+##### 19
+
+Bahum pi ce sahita bhāsamāno, na takkaro hoti naro pamatto, gopo va gāvo gaṇayaṃ paresaṃ, na bhāgavā sāmaññassa hoti.
+
+- 雖多誦經集，放逸而不行，如牧數他牛，自無沙門分。
+- Although reciting a large number of scriptural texts, if being careless he does not act accordingly, like a cowherd counting the cows of others, he has no share in the ascetic's life.
+
+##### 20
+
+Appam pi ce sahita bhāsamāno, dhammassa hoti anudhammacārī, rāgañca dosañca pahāya mohaṃ, sammappajāno suvimuttacitto, anupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.
+
+- 雖誦經典少，能依教實行，具足正知識，除滅貪瞋癡，善淨解脫心，棄捨於世欲，此界或他界，彼得沙門分。
+- Although reciting a small number of scriptural texts, if he acts righteously in accordance with the doctrine, abandoning passion and hatred and delusion, knowing rightly, with mind well released, not grasping in this world or the next, he has a share in the ascetic's life.

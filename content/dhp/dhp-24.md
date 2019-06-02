@@ -1,0 +1,218 @@
+---
+title: Taṇhā
+subtitle: 24:334-359
+date: 2016-09-05
+draft: false
+weight: 24
+type: translation
+layout: single
+---
+
+- 愛欲品
+- Craving
+
+---
+
+##### 334
+
+Manujassa pamattacārino, taṇhā vaḍḍhati māluvā viya, so plavatī hurā huraṃ, phalam-icchaṃ va vanasmi vānaro.
+
+- 若住於放逸，愛增如蔓蘿，此生又彼生，如猿求林果。
+- The craving of a man who acts carelessly grows like a māluvā creeper. He jumps about hither and thither like a monkey searching for fruit in the forest.
+
+##### 335
+
+Yaṃ esā sahate jammī, taṇhā loke visattikā, sokā tassa pavaḍḍhanti, abhivaṭṭhaṃ va bīraṇaṃ.
+
+- 若於此世界，為惡欲纏縛，憂苦日增長，如毘羅得雨。
+- Whomsoever this fierce craving, attachment to the world, overpowers, his sorrows increase like bīraṇa grass when rained upon.
+
+##### 336
+
+Yo cetaṃ sahate jammiṃ, taṇhaṃ loke duraccayaṃ, sokā tamhā papatanti, udabindu va pokkharā.
+
+- 若於此世界，降難降愛欲，憂苦自除落，如水滴蓮葉。
+- But whoever overpowers his fierce craving, which is hard to overcome in the world, from him sorrows fall like a drop of water from a lotus.
+
+##### 337
+
+Taṃ vo vadāmi bhaddaṃ vo, yāvantettha samāgatā, taṇhāya mūlaṃ khaṇatha, usīrattho va bīraṇaṃ, mā vo naḷaṃ va soto va, māro bhañji punappunaṃ.
+
+- 我說此善事，汝等集於此，掘愛欲之根，如求毘羅那，掘去其甜根，勿再為魔王，屢屢害汝等，如洪水侵葦。
+- This I say to you, sirs, as many as are gathered together here, dig out the root of craving as one seeking the usīra root digs out the bīraṇa grass. May Māra not break you again and again as a stream breaks a reed.
+
+---
+
+##### 338
+
+Yathā pi mūle anupaddave daḷhe, chinno pi rukkho punar-eva rūhati, evam pi taṇhānusaye anūhate, nibbattatī dukkham-idaṃ punappunaṃ.
+
+- 不傷深固根，雖伐樹還生，愛欲不斷根，苦生亦復爾。
+- Just as a tree, althought cut down, grows again, if the root is undamaged and firm, in just the same way this suffering returns again and again, if the latent tendency to craving is not removed.
+
+##### 339
+
+Yassa chattiṃsati sotā, manāpasavanā bhusā, māhā vahanti duddiṭṭhiṃ, saṅkappā rāganissitā.
+
+- 彼具三十六愛流，勢強奔流向欲境，是則彼具邪見人，為欲思惟漂蕩去。
+- Of whom the 36 streams flowing towards pleasant things are strong, the currents, the thoughts bent on passion, carry that man of wrong views away.
+
+##### 340
+
+Savanti sabbadhi sotā, latā uppajja tiṭṭhati, tañca disvā lataṃ jātaṃ, mūlaṃ paññāya chindatha.
+
+- 欲流處處流，蔓蘿盛發芽，汝見蔓蘿生，以慧斷其根。
+- The streams flow away, the creeper shooting up stands (there). And seeing that creeper in existence, cut off its root by knowledge.
+
+##### 341
+
+Saritāni sinehitāni ca, somanassāni bhavanti jantuno, te sātasitā sukhesino, te ve jātijarūpagā narā.
+
+- 世喜悅欲滋潤，亦喜馳逐六塵，彼雖向樂求樂，但唯得於生滅。
+- To a creature wide-flowing and lovely delights occur. Whoever are intent on pleasures, seeking happiness, those men indeed undergo birth and old age.
+
+##### 342
+
+Tasiṇāya purakkhatā pajā, parisappanti saso va bandhito, saṃyojanasaṅgasattakā, dukkham-upenti punappunaṃ cirāya.
+
+- 隨逐愛欲人，馳回如網兔，纏縛於煩惱，再再長受苦。
+- People assailed by craving run around like a hunted hare. Attached by attachments and fetters they go to misery again and again for a long time.
+
+##### 343
+
+Tasiṇāya purakkhatā pajā, parisappanti saso va bandhito, tasmā tasiṇaṃ vinodaye, ākaṅkhanta virāgam-attano.
+
+- 隨逐愛欲人，馳回如網兔，比丘求無欲，故須自離欲。
+- People assailed by craving run around like a hunted hare. Therefore a bhikkhu desiring absence of passion for himself should thrust craving away.
+
+---
+
+##### 344
+
+Yo nibbanatho vanādhimutto, vanamutto vanam-eva dhāvati, taṃ puggalam-etha passatha, mutto bandhanam-eva dhāvati.
+
+- 捨欲喜林間，離欲復向欲，當觀於此人，解縛復向縛。
+- Come, look at that man who free from desire, (is) intent upon the forest, free from desire runs only to the forest. Freed, he runs only to bondage.
+
+---
+
+##### 345
+
+Na taṃ daḷhaṃ bandhanam-āhu dhīrā, yad-āyasaṃ dārujapabbajañca, sārattarattā maṇikuṇḍalesu, puttesu dāresu ca yā apekkhā,
+
+- 鐵木麻作者，智說非堅縛，迷戀妻子財，是實為堅縛，
+- Wise men say that that fetter is not strong which is made of iron, wood or reed. The longing for earrings of precious stones, for sons and wives, which has impassioned minds,
+
+##### 346
+
+etaṃ daḷhaṃ bandhanam-āhu dhīrā, ohārinaṃ sithilaṃ duppamuñcaṃ, etam pi chetvāna paribbajanti, anapekkhino kāmasukhaṃ pahāya.
+
+- 能引墮落者，智說為堅縛，彼雖似寬緩，而實難解脫，斷此無著者，捨欲而出家。
+- this wise men call a strong fetter, which drags down, is hard to loosen by those who are slack. Cutting even this, people go forth without longing, abandoning the happiness of sensual pleasures.
+
+---
+
+##### 347
+
+Ye rāgarattānupatanti sotaṃ, sayaṃkataṃ makkaṭako va jālaṃ, etam pi chetvāna vajanti dhīrā, anapekkhino sabbadukkhaṃ pahāya.
+
+- 彼耽於欲隨欲流，投自結網如蜘蛛，斷此縛而無著者，離一切苦而遨遊。
+- Those who are impassioned by passion follow the stream they have made for themselves, like a spider the web he has made himself. Cutting across even that the wise go forth without longing, abandoning all misery.
+
+---
+
+##### 348
+
+Muñca pure muñca pacchato, majjhe muñca bhavassa pāragū, sabbattha vimuttamānaso, na punaṃ jātijaraṃ upehisi.
+
+- 捨過現未來，而渡於彼岸，心解脫一切，不再受生老。
+- Give up in front, give up behind, give up in the middle, having gone to the far shore of existence. With mind freed in every respect you will not return again to birth and old age.
+
+---
+
+##### 349
+
+Vitakkamathitassa jantuno, tibbarāgassa subhānupassino, bhiyyo taṇhā pavaḍḍhati, esa kho daḷhaṃ karoti bandhanaṃ.
+
+- 惡想所亂者，求樂欲熾然，彼欲倍增長，自作堅牢縛。
+- Of a creature who is disturbed by thoughts, of fierce passion, contemplating pleasurable things, the craving increases all the more. He indeed makes his fetter firm.
+
+##### 350
+
+Vitakkūpasame ca yo rato, asubhaṃ bhāvayate sadā sato, esa kho byantikāhiti, esa checchati mārabandhanaṃ.
+
+- 喜離惡想者，常念於不淨，當除於愛欲，不為魔羅縛。
+- But he who, delight in the quiescence of thoughts, cultivates the unpleasant, always mindful, he indeed will make an end (of craving), he will break Māra's fetter.
+
+---
+
+##### 351
+
+Niṭṭhaṅgato asantāsī, vītataṇho anaṅgaṇo, acchindi bhavasallāni, antimoyaṃ samussayo.
+
+- 達究竟處無畏，離愛欲無垢穢，斷除生有之箭，此為彼最後身。
+- Having reached perfection, fearless, without craving, without blemish, he has cut off the darts of existence. This body is his last.
+
+##### 352
+
+Vītataṇho anādāno, niruttipadakovido, akkharānaṃ sannipātaṃ, jaññā pubbāparāni ca, sa ve “antimasārīro, mahāpañño mahāpuriso” ti vuccati.
+
+- 離欲無染者，通達詞無礙，善知義與法，及字聚次第，彼為最後身，大智大丈夫。
+- Without craving, not taking, skilled in words and their interpretation, he would know the combination of letters, and which go before and which after, he indeed, with his last body, having great knowledge, is called “great man”.
+
+---
+
+##### 353
+
+Sabbābhibhū sabbavidūham-asmi, sabbesu dhammesu anūpalitto, sabbañjaho taṇhakkhaye vimutto, sayaṃ abhiññāya kam-uddiseyyaṃ?
+
+- 我降伏一切，我了知一切，一切法無染，離棄於一切，滅欲得解脫，自證誰稱師？
+- I have conquered all, I know all, I am not clinging to all phenomena. Leaving all, freed in the destruction of craving, having learned (it) myself, to whom should I point (as teacher)?
+
+---
+
+##### 354
+
+Sabbadānaṃ dhammadānaṃ jināti, sabbarasaṃ dhammaraso jināti, sabbaratiṃ dhammarati jināti, taṇhakkhayo sabbadukkhaṃ jināti.
+
+- 諸施法施勝，諸味法味勝，諸喜法喜勝，除愛勝諸苦。
+- The gift of the doctrine surpasses every gift, the taste of the doctrine surpasses every taste, delight in the doctrine surpasses every delight, the destruction of craving overcomes all suffering.
+
+---
+
+##### 355
+
+Hananti bhogā dummedhaṃ, no ca pāragavesino, bhogataṇhāya dummedho, hanti aññe va attanaṃ.
+
+- 財富毀滅愚人，決非求彼岸者，愚人為財欲害，自害如害他人。
+- Riches kill the fool, but not those who are about to go to the far shore. Because of craving for riches a fool kills himself just as (he kills) others.
+
+---
+
+##### 356
+
+Tiṇadosāni khettāni, rāgadosā ayaṃ pajā, tasmā hi vītarāgesu, dinnaṃ hoti mahapphalaṃ.
+
+- 雜草害田地，貪欲害世人，施與離貪者，故得大果報。
+- Fields have weeds as their defect, this people has passion as its defect. Therefore indeed something given to those without passion is very fruitful.
+
+##### 357
+
+Tiṇadosāni khettāni, dosadosā ayaṃ pajā, tasmā hi vītadosesu, dinnaṃ hoti mahapphalaṃ.
+
+- 雜草害田地，瞋恚害世人，施與離瞋者，故得大果報。
+- Fields have weeds as their defect, this people has hatred as its defect. Therefore indeed something given to those without hatred is very fruitful.
+
+##### 358
+
+Tiṇadosāni khettāni, mohadosā ayaṃ pajā, tasmā hi vītamohesu, dinnaṃ hoti mahapphalaṃ.
+
+- 雜草害田地，愚癡害世人，施與離癡者，故得大果報。
+- Fields have weeds as their defect, this people has delusion as its defect. Therefore indeed something given to those without delusion is very fruitful.
+
+##### 359
+
+Tiṇadosāni khettāni, taṇhādosā ayaṃ pajā, tasmā hi vītataṇhesu, dinnaṃ hoti mahapphalaṃ.
+
+- 雜草害田地，欲望害世人，施與離欲者，故得大果報。
+- Fields have weeds as their defects, this people has desire as its defect. Therefore indeed something given to those without desire is very fruitful.

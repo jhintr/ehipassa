@@ -1,0 +1,132 @@
+---
+title: Paṇḍita
+subtitle: 6:76-89
+date: 2016-09-05
+draft: false
+weight: 6
+type: translation
+layout: single
+---
+
+- 智者品
+- The Learned Man
+
+---
+
+##### 76
+
+Nidhīnaṃ va pavattāraṃ, yaṃ passe vajjadassinaṃ, niggayhavādiṃ medhāviṃ, tādisaṃ paṇḍitaṃ bhaje, tādisaṃ bhajamānassa, seyyo hoti na pāpiyo.
+
+- 若見彼智者，能指示過失，並能譴責者，當與彼為友，猶如知識者，能指示寶藏，與彼智人友，定善而無惡。
+- If one should see one who sees faults and speaks rebukingly, wise, one should follow such a learned man as one would the reporter of treasures. For one following such a one it becomes better, not worse.
+
+---
+
+##### 77
+
+Ovadeyyānusāseyya, asabbhā ca nivāraye, satañhi so piyo hoti, asataṃ hoti appiyo.
+
+- 訓誡與教示，阻他人過惡，善人愛此人，但為惡人憎。
+- He would advise, he would admonish, he would restrain from the impure. He becomes beloved of the good, he becomes unbeloved of the bad.
+
+---
+
+##### 78
+
+Na bhaje pāpake mitte, na bhaje purisādhame, bhajetha mitte kalyāṇe, bhajetha purisuttame.
+
+- 莫與惡友交，莫友卑鄙者，應與善友交，應友高尚士。
+- One should not associate with evil friends, one should not associate with the lowest of men. One should associate with good friends, one should associate with the best of men.
+
+---
+
+##### 79
+
+Dhammapīti sukhaṃ seti, vippasannena cetasā, ariyappavedite dhamme, sadā ramati paṇḍito.
+
+- 得飲法水者，心清而安樂，智者常喜悅，聖者所說法。
+- He who drinks of the doctrine sleeps happily, with a clear mind. The learned man always rejoices in the doctrine taught by the noble ones.
+
+---
+
+##### 80
+
+Udakañhi nayanti nettikā, usukārā namayanti tejanaṃ, dāruṃ namayanti tacchakā, attānaṃ damayanti paṇḍitā.
+
+- 灌溉者引水，箭匠之矯箭，木匠之繩木，智者自調禦。
+- Truly canal-makers lead water, fletchers bend the arrow (straight), carpenters bend wood, learned men tame the self.
+
+---
+
+##### 81
+
+Selo yathā ekaghano, vātena na samīrati, evaṃ nindāpasaṃsāsu, na samiñjanti paṇḍitā.
+
+- 猶如堅固岩，不為風所搖，毀謗與贊譽，智者不為動。
+- As a solid rock is not moved by the wind, so learned men are not moved amid praise and blame.
+
+---
+
+##### 82
+
+Yathā pi rahado gambhīro, vippasanno anāvilo, evaṃ dhammāni sutvāna, vippasīdanti paṇḍitā.
+
+- 亦如一深池，清明而澄淨，智者聞法已，如是心清淨。
+- Just as a deep pool is calm and clear, so, hearing the teachings, learned men are calm.
+
+---
+
+##### 83
+
+Sabbattha ve sappurisā cajanti, na kāmakāmā lapayanti santo, sukhena phuṭṭhā atha vā dukhena, na uccāvacaṃ paṇḍitā dassayanti.
+
+- 善人離諸欲，不論諸欲事，苦樂所不動，智者無喜憂。
+- Good men indeed go everywhere. The good do not boast from desire for sensual pleasures. Touched by happiness or misery, learned men do not show variation.
+
+---
+
+##### 84
+
+Na attahetu na parassa hetu, na puttam-icche na dhanaṃ na raṭṭhaṃ, na iccheyya adhammena samiddhim-attano, sa sīlavā paññavā dhammiko siyā.
+
+- 不因自因他，智者作諸惡，不求子求財，及謀國作惡，不欲以非法，求自己繁榮，彼實具戒行，智慧正法者。
+- Who neither for his own sake nor for the sake of another would wish for a son, or wealth, or a kingdom, nor would wish prosperity for himself by unlawful means, he would be virtuous, wise and lawful.
+
+---
+
+##### 85
+
+Appakā te manussesu, ye janā pāragāmino, athāyaṃ itarā pajā, tīram-evānudhāvati.
+
+- 於此人群中，達彼岸者少，其餘諸人等，徘徊於此岸。
+- Few are those persons among men who go to the far shore. But those other people only run along the bank.
+
+##### 86
+
+Ye ca kho sammadakkhāte, dhamme dhammānuvattino, te janā pāram-essanti, maccudheyyaṃ suduttaraṃ.
+
+- 善能說法者，及依正法行，彼能達彼岸，度難度魔境。
+- But those people, who, when the doctrine has been properly preached, follow the doctrine, will go to the far shore. The dominion of death is very hard to cross over.
+
+---
+
+##### 87
+
+Kaṇhaṃ dhammaṃ vippahāya, sukkaṃ bhāvetha paṇḍito, okā anokam-āgamma, viveke yattha dūramaṃ.
+
+- 應捨棄黑法，智者修白法，從家來無家，喜獨處不易。
+- Leaving the black characteristics, a learned man should develop the bright (characteristics), coming from his home to the homeless state, in seclusion where it is hard to find enjoyment.
+
+##### 88
+
+Tatrābhiratim-iccheyya, hitvā kāme akiñcano, pariyodapeyya attānaṃ, cittaklesehi paṇḍito.
+
+- 當求是法樂，捨欲無所有，智者須清淨，自心諸垢穢。
+- There he should seek enjoyment, leaving sensual pleasures, having nothing. The learned man should cleanse himself from all defilements of the mind.
+
+##### 89
+
+Yesaṃ sambodhiyaṅgesu, sammā cittaṃ subhāvitaṃ, ādānapaṭinissagge, anupādāya ye ratā, khīṇāsavā jutimanto, te loke parinibbutā.
+
+- 彼於諸覺支，正心而修習，遠離諸固執，樂捨諸愛著，漏盡而光耀，此世證涅槃。
+- Of whom the mind is properly developed in the elements of enlightment, who delight in the abandonment of attachment without clinging, they with āsavas extinguished, full of brightness, have gained nibbāna in the world.

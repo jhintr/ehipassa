@@ -1,0 +1,106 @@
+---
+title: Piya
+subtitle: 16:209-220
+date: 2016-09-05
+draft: false
+weight: 16
+type: translation
+layout: single
+---
+
+- 喜愛品
+- Pleasant
+
+---
+
+##### 209
+
+Ayoge yuñjam-attānaṃ, yogasmiñca ayojayaṃ, atthaṃ hitvā piyaggāhī, pihetattānuyoginaṃ.
+
+- 專事不當事，不事於應修，棄善趨愛欲，卻羨自勉者。
+- Joining oneself to distraction, not joining oneself to concentration, abandoning one's goal and seizing what is pleasant, one envies the one who applies himself to the goal.
+
+##### 210
+
+Mā piyehi samāgañchi, appiyehi kudācanaṃ, piyānaṃ adassanaṃ dukkhaṃ, appiyānañca dassanaṃ.
+
+- 莫結交愛人，莫結不愛人，不見愛人苦，見憎人亦苦。
+- Do not at any time associate withe pleasant (or) unpleasant things. Not seeing pleasant things is painful, and also seeing unpleasant things.
+
+##### 211
+
+Tasmā piyaṃ na kayirātha, piyāpāyo hi pāpako, ganthā tesaṃ na vijjanti, yesaṃ natthi piyāppiyaṃ.
+
+- 是故莫愛著，愛別離為苦，若無愛與憎，彼即無羈縛。
+- Therefore one should not treat anything as pleasant, for the loss of the pleasant is evil. There are no bonds for those for whom there is neither pleasant nor unpleasant.
+
+---
+
+##### 212
+
+Piyato jāyatī soko, piyato jāyatī bhayaṃ, piyato vippamuttassa, natthi soko kuto bhayaṃ?
+
+- 從喜愛生憂，從喜愛生怖，離喜愛無憂，何處有恐怖。
+- From what is pleasant comes grief, from what is pleasant comes fear. For one who is freed from what is pleasant there is no grief, much less fear.
+
+##### 213
+
+Pemato jāyatī soko, pemato jāyatī bhayaṃ, pemato vippamuttassa, natthi soko kuto bhayaṃ?
+
+- 從親愛生憂，從親愛生怖，離親愛無憂，何處有恐怖。
+- From love comes grief, from love comes fear. For one who is freed from love there is no grief, much less fear.
+
+##### 214
+
+Ratiyā jāyatī soko, ratiyā jāyatī bhayaṃ, ratiyā vippamuttassa, natthi soko kuto bhayaṃ?
+
+- 從貪欲生憂，從貪欲生怖，離貪欲無憂，何處有恐怖。
+- From delight comes grief, from delight comes fear. For one who is freed from delight there is no grief, much less fear.
+
+##### 215
+
+Kāmato jāyatī soko, kāmato jāyatī bhayaṃ, kāmato vippamuttassa, natthi soko kuto bhayaṃ?
+
+- 從欲樂生憂，從欲樂生怖，離欲樂無憂，何處有恐怖。
+- From sensual pleasure comes grief, from sensual pleasure comes fear. For one who is freed from sensual pleasure there is no grief, much less fear.
+
+##### 216
+
+Taṇhāya jāyatī soko, taṇhāya jāyatī bhayaṃ, taṇhāya vippamuttassa, natthi soko kuto bhayaṃ?
+
+- 從愛欲生憂，從愛欲生怖，離愛欲無憂，何處有恐怖。
+- From craving comes grief, from craving comes fear. For one who is freed from craving there is no grief, much less fear.
+
+---
+
+##### 217
+
+Sīladassanasampannaṃ, dhammaṭṭhaṃ saccavedinaṃ, attano kamma kubbānaṃ, taṃ jano kurute piyaṃ.
+
+- 具戒及正見，住法知真諦，圓滿自所行，彼為世人愛。
+- One who has virtue and insight, is righteous, speaking the truth, doing his own tasks, him people hold dear.
+
+---
+
+##### 218
+
+Chandajāto anakkhāte, manasā ca phuṭo siyā, kāmesu ca appaṭibaddhacitto, “uddhaṃsoto” ti vuccati.
+
+- 渴求離言法，充滿思慮心，諸欲心不著，是名上流人。
+- One should have a desire for the undefined, and be suffused with mind, and have one's thought not tied to sensual pleasures, (such a one) is called an up-streamer.
+
+---
+
+##### 219
+
+Cirappavāsiṃ purisaṃ, dūrato sotthim-āgataṃ, ñātimittā suhajjā ca, abhinandanti āgataṃ.
+
+- 久客異鄉者，自遠處安歸，親友與知識，歡喜而迎彼。
+- A man who has been abroad for a long time, (and) has come back to safety from afar, him kinsmen, friends and companions welcome when he has come back.
+
+##### 220
+
+Tatheva katapuññam pi, asmā lokā paraṃ gataṃ, puññāni paṭigaṇhanti, piyaṃ ñātīva āgataṃ.
+
+- 造福亦如是，從此生彼界，福業如親友，以迎愛者來。
+- In the same way his merits also receive one who has performed merits, gone from this world to the next world, as kinsmen receive a dear one who has come back

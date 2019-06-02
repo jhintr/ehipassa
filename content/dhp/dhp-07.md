@@ -1,0 +1,100 @@
+---
+title: Arahanta
+subtitle: 7:90-99
+date: 2016-09-05
+draft: false
+weight: 7
+type: translation
+layout: single
+---
+
+- 阿羅漢品
+- The Arahant
+
+---
+
+##### 90
+
+Gataddhino visokassa, vippamuttassa sabbadhi, sabbaganthappahīnassa, pariḷāho na vijjati.
+
+- 路行盡無憂，於一切解脫，斷一切繫縛，無有苦惱者。
+- For one who has completed his journey, is without sorrow, is freed in every way, has left behind every fetter, there is no suffering.
+
+---
+
+##### 91
+
+Uyyuñjanti satīmanto, na nikete ramanti te, haṃsā va pallalaṃ hitvā, okamokaṃ jahanti te.
+
+- 正念奮勇者，彼不樂在家，如鵝離池去，彼等棄水家。
+- The mindful exert themselves. They do not delight in a house. Like geese leaving a pool, they leave their various homes.
+
+---
+
+##### 92
+
+Yesaṃ sannicayo natthi, ye pariññātabhojanā, suññato animitto ca, vimokkho yesaṃ gocaro, ākāse va sakuntānaṃ, gati tesaṃ durannayā.
+
+- 彼等無積聚，於食如實知，空無相解脫，是彼所行境，如鳥遊虛空，蹤跡不可得。
+- Of whom there is no accumulation, who have knowledge of (and have renounced) food, whose realm is empty and unconditioned release, their going is hard to follow, like that of birds in the sky.
+
+##### 93
+
+Yassāsavā parikkhīṇā, āhāre ca anissito, suññato animitto ca, vimokkho yassa gocaro, ākāse va sakuntānaṃ, padaṃ tassa durannayaṃ.
+
+- 彼等諸漏盡，亦不貪飲食，空無相解脫，是彼所行境，如鳥遊虛空，蹤跡不可得。
+- Whose āsavas are destroyed, and who is not dependent upon food, whose realm is empty and unconditioned release, his track is hard to follow, like that of birds in the sky.
+
+---
+
+##### 94
+
+Yassindriyāni samathaṅgatāni, assā yathā sārathinā sudantā, pahīnamānassa anāsavassa, devā pi tassa pihayanti tādino.
+
+- 彼諸根寂靜，如禦者調馬，離我慢無漏，為天人所慕。
+- Whose senses have gone to rest, like horses well tamed by a charioteer, who has abandoned pride and has no āsavas, him, being of such a kind, even the gods envy.
+
+---
+
+##### 95
+
+Pathavisamo no virujjhati, indakhilupamo tādi subbato, rahado va apetakaddamo, saṃsārā na bhavanti tādino.
+
+- 彼已無憤恨，猶如於大地，彼虔誠堅固，如因陀揭羅，如無污泥池，是人無輪回。
+- Like the earth he is not hostile, he is like a locking post, venerable, with good vows, like a pool without mud. For one of such a kind there are no journeyings-on.
+
+---
+
+##### 96
+
+Santaṃ tassa manaṃ hoti, santā vācā ca kamma ca, sammadaññāvimuttassa, upasantassa tādino.
+
+- 彼人心寂靜，語與業寂靜，正智而解脫，如是得安穩。
+- Of him properly released by knowledge, calm, of such a kind, the mind is calm, the voice is calm and also the deed.
+
+---
+
+##### 97
+
+Assaddho akataññū ca, sandhicchedo ca yo naro, hatāvakāso vantāso, sa ve uttamaporiso.
+
+- 無信知無為，斷繫因永謝，棄捨於貪欲，真實無上士。
+- The man who is without desire (without faith), knows the uncreated (is ungrateful), cuts off rebirth (is a housebreaker), who has got rid of occasions (for quarrels or rebirth) (has destroyed his opportunity), has abandoned desire (is an eater of vomit, i.e. what has been abandoned by others), is the best person (is one of extreme audacity).
+
+---
+
+##### 98
+
+Gāme vā yadi vāraññe, ninne vā yadi vā thale, yattha arahanto viharanti, taṃ bhūmirāmaṇeyyakaṃ.
+
+- 於村落林間，平地或丘陵，何處有羅漢，彼地即可慶。
+- Whether in a village or in a forest, whether on low land or on high ground, wherever arahants live, that is a delightful place.
+
+---
+
+##### 99
+
+Ramaṇīyāni araññāni, yattha na ramatī jano, vītarāgā ramissanti, na te kāmagavesino.
+
+- 林野甚可樂，世人所不樂，彼喜離欲樂，不求諸欲樂。
+- Forests are delightful. Where ordinary people do not delight, those devoid of passion will delight. They do not seek sensual pleasures.

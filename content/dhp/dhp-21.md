@@ -1,0 +1,142 @@
+---
+title: Pakiṇṇaka
+subtitle: 21:290-305
+date: 2016-09-05
+draft: false
+weight: 21
+type: translation
+layout: single
+---
+
+- 雜品
+- Miscellaneous
+
+---
+
+##### 290
+
+Mattāsukhapariccāgā, passe ce vipulaṃ sukhaṃ, caje mattāsukhaṃ dhīro, sampassaṃ vipulaṃ sukhaṃ.
+
+- 若棄於小樂，得見於大樂，智者棄小樂，當見於大樂。
+- If by the abandonment of happiness coming from material things one might see abundant happiness, a wise man would abandon happiness coming from material things, seeing abundant happiness.
+
+---
+
+##### 291
+
+Paradukkhūpadhānena, attano sukham-icchati, verasaṃsaggasaṃsaṭṭho, verā so na parimuccati.
+
+- 施與他人苦，為求自己樂，彼為瞋繫縛，怨憎不解脫。
+- Whoever desires his own happiness by inflicting suffering on others, he, joined in close association with hatred, is not freed from hatred.
+
+---
+
+##### 292
+
+Yañhi kiccaṃ apaviddhaṃ, akiccaṃ pana kayirati, unnaḷānaṃ pamattānaṃ, tesaṃ vaḍḍhanti āsavā.
+
+- 應作而不作，不應作而作，傲慢放逸者，彼之漏增長。
+- For what is to be done is thrown away, but what is not to be done is done. Of those who are unseemly and careless the āsavas increase.
+
+##### 293
+
+Yesañca susamāraddhā, niccaṃ kāyagatā sati, akiccaṃ te na sevanti, kicce sātaccakārino, satānaṃ sampajānānaṃ, atthaṃ gacchanti āsavā.
+
+- 常精勤觀身，不作不應作，應作則常作，觀者漏滅盡。
+- But those whose mindfulness of the body is constantly fully undertaken, they do not practise what is not to be done, persevering at what is to be done. Of those who are mindful and knowing the āsavas come to an end.
+
+---
+
+##### 294
+
+Mātaraṃ pitaraṃ hantvā, rājāno dve ca khattiye, raṭṭhaṃ sānucaraṃ hantvā, anīgho yāti brāhmaṇo.
+
+- 殺愛欲母與慢父，殺剎帝利族二王，破王國殺其從臣，趨向無憂婆羅門。
+- Having killed mother and father, and two khattiya kings, having killed a nation together with the attendants, a brahman goes scatheless.
+
+##### 295
+
+Mātaraṃ pitaraṃ hantvā, rājāno dve ca sotthiye, veyagghapañcamaṃ hantvā, anīgho yāti brāhmaṇo.
+
+- 殺愛欲母與慢父，殺婆羅門族二王，殺其虎將第五疑，趨向無憂婆羅門。
+- Having killed mother and father, and two learned kings, having killed a tiger among men as the fifth, a brahman goes scatheless.
+
+---
+
+##### 296
+
+Suppabuddhaṃ pabujjhanti, sadā gotamasāvakā, yesaṃ divā ca ratto ca, niccaṃ buddhagatā sati.
+
+- 喬達摩弟子，常善自醒覺，無論晝與夜，彼常念佛陀。
+- The follower of Gotama are always well awakened, in whom day and night there is constantly mindfulness of the Buddha.
+
+##### 297
+
+Suppabuddhaṃ pabujjhanti, sadā gotamasāvakā, yesaṃ divā ca ratto ca, niccaṃ dhammagatā sati.
+
+- 喬達摩弟子，常善自醒覺，無論晝與夜，彼常念達摩。
+- The followers of Gotama are always well awakened, in whom day and night there is constantly mindfulness of the Doctrine.
+
+##### 298
+
+Suppabuddhaṃ pabujjhanti, sadā gotamasāvakā, yesaṃ divā ca ratto ca, niccaṃ saṅghagatā sati.
+
+- 喬達摩弟子，常善自醒覺，無論晝與夜，彼常念僧伽。
+- The followers of Gotama are always well awakened, in whom day and night there is constantly mindfulness of the Order.
+
+##### 299
+
+Suppabuddhaṃ pabujjhanti, sadā gotamasāvakā, yesaṃ divā ca ratto ca, niccaṃ kāyagatā sati.
+
+- 喬達摩弟子，常善自醒覺，無論晝與夜，彼常念於身。
+- The followers of Gotama are always well awakened, in whom day and night there is constantly mindfulness of the body.
+
+##### 300
+
+Suppabuddhaṃ pabujjhanti, sadā gotamasāvakā, yesaṃ divā ca ratto ca, ahiṃsāya rato mano.
+
+- 喬達摩弟子，常善自醒覺，無論晝與夜，常樂不殺生。
+- The followers of Gotama are always well awakened, whose minds day and night delight in non-harming.
+
+##### 301
+
+Suppabuddhaṃ pabujjhanti, sadā gotamasāvakā, yesaṃ divā ca ratto ca, bhāvanāya rato mano.
+
+- 喬達摩弟子，常善自醒覺，無論晝與夜，心常樂禪定。
+- The followers of Gotama are always well awakened, whose minds day and night delight in mental exercise.
+
+---
+
+##### 302
+
+Duppabbajjaṃ durabhiramaṃ, durāvāsā gharā dukhā, dukkhosamānasaṃvāso, dukkhānupatitaddhagū, tasmā na caddhagū siyā, na ca dukkhānupatito siyā.
+
+- 出家愛樂難，在家生活難，非儔共住苦，輪回往來苦，故不應往來，隨從於痛苦。
+- It is hard to go forth, it is hard to be delighted, houses are hard to live in and miserable, living with those who are different is difficult, a traveller is beset with misery. Therefore one should not be a traveller and one would not be beset with misery.
+
+---
+
+##### 303
+
+Saddho sīlena sampanno, yasobhogasamappito, yaṃ yaṃ padesaṃ bhajati, tattha tattheva pūjito.
+
+- 正信而具戒，得譽及財者，彼至於何處，處處受尊敬。
+- Whatever region one with faith, endowed with virtue, possessing fame and prosperity visits, there he is honoured.
+
+---
+
+##### 304
+
+Dūre santo pakāsenti, himavanto va pabbato, asantettha na dissanti, rattiṃ khittā yathā sarā.
+
+- 善名揚遠方，高顯如雪山，惡者如夜射，雖近不能見。
+- Good men shine from afar, like the Himavat mountain. Bad men are not seen here, like arrows shot at night.
+
+---
+
+##### 305
+
+Ekāsanaṃ ekaseyyaṃ, eko caram-atandito, eko damayam-attānaṃ, vanante ramito siyā.
+
+- 獨坐與獨臥，獨行而不倦，彼獨自調禦，喜樂於林中。
+- Sitting alone, sleeping alone, wandering alone unwearied, alone taming the self, one would be delighted in the forest.

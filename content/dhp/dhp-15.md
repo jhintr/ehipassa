@@ -1,0 +1,108 @@
+---
+title: Sukha
+subtitle: 15:197-208
+date: 2016-09-05
+draft: false
+weight: 15
+type: translation
+layout: single
+---
+
+- 樂品
+- Happiness
+
+---
+
+##### 197
+
+Susukhaṃ vata jīvāma, verinesu averino, verinesu manussesu, viharāma averino.
+
+- 我等實樂生，憎怨中無憎，於憎怨人中，我等無憎住。
+- We live very happily indeed without hate among those who hate, among men who hate we dwell without hate.
+
+##### 198
+
+Susukhaṃ vata jīvāma, āturesu anāturā, āturesu manussesu, viharāma anāturā.
+
+- 我等實樂生，疾病中無病，於疾病人中，我等無病住。
+- We live very happily indeed without disease among those who are diseased, among men who are diseased we dwell without disease.
+
+##### 199
+
+Susukhaṃ vata jīvāma, ussukesu anussukā, ussukesu manassesu, viharāma anussukā.
+
+- 我等實樂生，貪欲中無欲，於貪欲人中，我等無欲住。
+- We live very happily indeed without care among those who are full of care, among men who are full of care we dwell without care.
+
+##### 200
+
+Susukhaṃ vata jīvāma, yesaṃ no natthi kiñcanaṃ, pītibhakkhā bhavissāma, devā ābhassarā yathā.
+
+- 我等實樂生，我等無物障，我等樂為食，如光音天人。
+- We live very happily indeed, for whom there is nothing. Feeding on joy we shall be like Ābhassara gods.
+
+---
+
+##### 201
+
+Jayaṃ veraṃ pasavati, dukkhaṃ seti parājito, upasanto sukhaṃ seti, hitvā jayaparājayaṃ.
+
+- 勝利生憎怨，敗者住苦惱，勝敗兩俱捨，和靜住安樂。
+- Being victorious one produces enmity. The conquered one sleeps unhappily. The one at peace, giving up victory and defeat, sleeps happily.
+
+---
+
+##### 202
+
+Natthi rāgasamo aggi, natthi dosasamo kali, natthi khandhasamā dukkhā, natthi santiparaṃ sukhaṃ.
+
+- 無火如貪欲，無惡如瞋恨，無苦如五蘊，無樂勝寂靜。
+- There is no fire like passion, there is no ill like hatred, there is no suffering like the constituents of personality, there is no happiness greater than peace.
+
+---
+
+##### 203
+
+Jighacchāparamā rogā, saṅkhāraparamā dukhā, etaṃ ñatvā yathābhūtaṃ, nibbānaṃ paramaṃ sukhaṃ.
+
+- 饑為最大病，行為最大苦，如實知此已，涅槃樂最上。
+- Greed is the worst of diseases, conditioned things are the worst sorrow, (for one) knowing this as it really is, nibbāna is the best happiness.
+
+##### 204
+
+Ārogyaparamā lābhā, santuṭṭhiparamaṃ dhanaṃ, vissāsaparamā ñāti, nibbānaṃ paramaṃ sukhaṃ.
+
+- 無病最上利，知足最上財，信賴最上親，涅槃最上樂。
+- Health is the best possession, contentment is the best wealth, confidence is the best relative, nibbāna is the best happiness.
+
+---
+
+##### 205
+
+Pavivekarasaṃ pitvā, rasaṃ upasamassa ca, niddaro hoti nippāpo, dhammapītirasaṃ pivaṃ.
+
+- 已飲獨居味，以及寂靜味，喜飲於法味，離怖畏去惡。
+- Having drunk the flavour of seclusion, and the flavour of peace, one becomes free from distress and free from evil, drinking the flavour of joy in the doctrine.
+
+---
+
+##### 206
+
+Sāhu dassanam-ariyānaṃ, sannivāso sadā sukho, adassanena bālānaṃ, niccam-eva sukhī siyā.
+
+- 善哉見聖者，與彼同住樂，由不見愚人，彼即常歡樂。
+- Sight of the noble ones is good, living with (them) is always happiness, because of not seeing fools one would constantly be happy.
+
+##### 207
+
+Bālasaṅgatacārī hi, dīgham-addhāna socati, dukkho bālehi saṃvāso, amitteneva sabbadā, dhīro ca sukhasaṃvāso, ñātīnaṃ va samāgamo.
+
+- 與愚者同行，長時處憂悲，與愚同住苦，如與敵同居，與智者同住，樂如會親族。
+- For he who consorts with fools suffer for a long time, associating with fools is grievous, like associating always with an enemy. But a wise man is good to associate with, like meeting with relatives.
+
+##### 208
+
+Tasmā hi — Dhīrañca paññañca bahussutañca, dhorayhasīlaṃ vatavantam-ariyaṃ, taṃ tādisaṃ sappurisaṃ sumedhaṃ, bhajetha nakkhattapathaṃ va candimā.
+
+- 是故真實——賢者智者多聞者，持戒虔誠與聖者，從斯善人賢慧游，猶如月從於星道。
+- Firm, and wise, and learned, much enduring, dutiful, noble, him, such a one, a good man, wise, one should follow as the moon follows the path of the constellations.

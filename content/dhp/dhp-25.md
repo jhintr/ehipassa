@@ -1,0 +1,197 @@
+---
+title: Bhikkhu
+subtitle: 25:360-382
+date: 2016-09-05
+draft: false
+weight: 25
+type: translation
+layout: single
+---
+
+- 比丘品
+- The Bhikkhu
+
+---
+
+##### 360
+
+Cakkhunā saṃvaro sādhu, sādhu sotena saṃvaro, ghānena saṃvaro sādhu, sādhu jivhāya saṃvaro,
+
+- 善哉制於眼，善哉制於耳，善哉制於鼻，善哉制於舌，
+- Restraint of the eye is good, restraint of the ear is good, restraint of the nose is good, restraint of the tongue is good,
+
+##### 361
+
+kāyena saṃvaro sādhu, sādhu vācāya saṃvaro, manasā saṃvaro sādhu, sādhu sabbattha saṃvaro, sabbattha saṃvuto bhikkhu, sabbadukkhā pamuccati.
+
+- 善哉制於身，善哉制於語，善哉制於意，善哉制一切，制一切比丘，解脫一切苦。
+- restraint of the body is good, restraint of the voice is good, restraint of the mind is good, restraint everywhere is good. A bhikkhu who is restrained everywhere is released from all misery.
+
+---
+
+##### 362
+
+Hatthasaṃyato pādasaṃyato, vācāsaṃyato saṃyatuttamo, ajjhattarato samāhito, eko santusito tam-āhu bhikkhuṃ.
+
+- 調禦手足及言語，調禦最高之頭首，心喜於禪住於定，獨居知足名比丘。
+- One restrained in hand, restrained in foot, restrained in voice, the best of those who are restrained, delighting inwardly, concentrated, alone and content, him they call a bhikkhu.
+
+---
+
+##### 363
+
+Yo mukhasaṃyato bhikkhu, mantabhāṇī anuddhato, atthaṃ dhammañca dīpeti, madhuraṃ tassa bhāsitaṃ.
+
+- 比丘調於語，善巧而寂靜，顯示法與義，所說甚和婉。
+- Whatever bhikkhu is controlled in mouth, speaks gently, is not puffed up, teaches the meaning and the doctrine, his utterance is sweet.
+
+---
+
+##### 364
+
+Dhammārāmo dhammarato, dhammaṃ anuvicintayaṃ, dhammaṃ anussaraṃ bhikkhu, saddhammā na parihāyati.
+
+- 住法之樂園，喜法與隨法，思惟憶念法，比丘不復退。
+- The bhikkhu whose pleasure park is the doctrine, who delights in the doctrine, thinking about the doctrine, remembering the doctrine, does not fall away from the true doctrine.
+
+---
+
+##### 365
+
+Salābhaṃ nātimaññeyya, nāññesaṃ pihayaṃ care, aññesaṃ pihayaṃ bhikkhu, samādhiṃ nādhigacchati.
+
+- 莫輕自所得，莫羨他所得，比丘羨他得，不證三摩地。
+- One should not despise what one receives, one should not wander about envying others. A bhikkhu envying others does not attain concentration.
+
+##### 366
+
+Appalābho pi ce bhikkhu, salābhaṃ nātimaññati, taṃ ve devā pasaṃsanti, suddhājīviṃ atanditaṃ.
+
+- 比丘所得雖少，而不輕嫌所得，生活清淨不怠，實為諸天稱贊。
+- If a bhikkhu does not despise what he receives, even though he receives but little, him indeed the gods praise him as being of pure livelihood and unwearied.
+
+---
+
+##### 367
+
+Sabbaso nāmarūpasmiṃ, yassa natthi mamāyitaṃ, asatā ca na socati, sa ve “bhikkhū” ti vuccati.
+
+- 若於名與色，不著我我所，非有故無憂，彼實稱比丘。
+- Whoever does not count as his own anything in name-and -form in any way, and does not grieve because of something which does not exists, he indeed is called “a bhikkhu”.
+
+---
+
+##### 368
+
+Mettāvihārī yo bhikkhu, pasanno buddhasāsane, adhigacche padaṃ santaṃ, saṅkhārūpasamaṃ sukhaṃ.
+
+- 住於慈悲比丘，喜悅佛陀教法，到達寂靜安樂，諸行解脫境界。
+- The bhikkhu who lives in loving kindness, with faith in the teaching of the Buddha, would attain the peaceful place, the happy cessation of conditioned things.
+
+##### 369
+
+Siñca bhikkhu imaṃ nāvaṃ, sittā te lahum-essati, chetvā rāgañca dosañca, tato nibbānam-ehisi.
+
+- 比丘汲此舟水，水去則舟輕快，斷除貪欲瞋恚，則得證於涅槃。
+- Bail out this boat, o bhikkhu. When bailed out it will go lightly for you. Having cut off passion and hatred, then you will go to nibbāna.
+
+##### 370
+
+Pañca chinde pañca jahe, pañca cuttaribhāvaye, pañca saṅgātigo bhikkhu, “oghatiṇṇo” ti vuccati.
+
+- 五斷及五棄，而五種勤修，越五著比丘，名渡瀑流者。
+- One should cut off five, one should abandon five, one should especially develop five. A bhikkhu who has crossed the five attachments is called “flood crosser”.
+
+##### 371
+
+Jhāya bhikkhu mā pamādo, mā te kāmaguṇe ramessu cittaṃ, mā lohaguḷaṃ gilī pamatto, mā kandi “dukkham-idan” ti ḍayhamāno.
+
+- 修定莫放逸，心莫惑於欲，莫待吞鐵丸，燒然乃苦號。
+- Meditate, o bhikkhu, and do not be careless. Do not make your mind wander in the strand of sensual pleasures. Do not, being careless, swallow an iron ball. Do not cry out while being burned “this is suffering”.
+
+##### 372
+
+Natthi jhānaṃ apaññassa, paññā natthi ajhāyato, yamhi jhānañca paññā ca, sa ve nibbānasantike.
+
+- 無慧者無定，無定者無慧，兼具定與慧，彼實近涅槃。
+- There is no meditation for one who is without wisdom, no wisdom for one who is not meditation. He, in whom there are meditation and wisdom, is indeed close to nibbāna.
+
+##### 373
+
+Suññāgāraṃ paviṭṭhassa, santacittassa bhikkhuno, amānusī rati hoti, sammā dhammaṃ vipassato.
+
+- 比丘入屏處，彼之心寂靜，審觀於正法，得受超人樂。
+- There is a superhuman joy for a bhikkhu who has gone into an empty house (a secluded place) with a tranquil heart, rightly seeing the doctrine.
+
+##### 374
+
+Yato yato sammasati, khandhānaṃ udayabbayaṃ, labhatī pītipāmojjaṃ, amataṃ taṃ vijānataṃ.
+
+- 若人常正念，諸蘊之生滅，獲得喜與樂，知彼得不死。
+- Whenever one comprehends the arising and passing away of the constituents of personality, one obtains joy and delight. This is the death-free for those who know.
+
+##### 375
+
+Tatrāyam-ādi bhavati, idha paññassa bhikkhuno, indriyagutti santuṭṭhi, pātimokkhe ca saṃvaro.
+
+- 若智慧比丘，於世先作是，攝根及知足，護持別解脫。
+- This is the begining in this matter for a wise bhikkhu here, control of the senses, contentment, restraint under the rules of discipline.
+
+##### 376
+
+Mitte bhajassu kalyāṇe, suddhājīve atandite, paṭisanthāravuty-assa, ācārakusalo siyā, tato pāmojjabahulo, dukkhassantaṃ karissati.
+
+- 態度須誠懇，行為須端正，是故彼多樂，得滅盡諸苦。
+- Being of good livelihood and unwearied, associate with friends who are noble. One should be in the habit of distributing gifts. One should be skilful in conduct. Then full of joy one will put an end to suffering.
+
+---
+
+##### 377
+
+Vassikā viya pupphāni, maddavāni pamuñcati, evaṃ rāgañca dosañca, vippamuñcetha bhikkhavo.
+
+- 如跋悉迦花，枯萎而凋謝，汝等諸比丘，棄貪瞋亦爾。
+- As the jasmine sheds its withered flowers, so you should shed your love and hatred, o bhikkhu.
+
+---
+
+##### 378
+
+Santakāyo santavāco, santavā susamāhito, vantalokāmiso bhikkhu, “upasanto” ti vuccati.
+
+- 身靜及語靜，心寂住三昧，捨俗樂比丘，是名寂靜者。
+- The bhikkhu who has a calmed body, calmed thought, calmed speech, and is well concentrated, who has rejected the bait of the world, is called “calmed”.
+
+---
+
+##### 379
+
+Attanā codayattānaṃ, paṭimaṃsetha attanā, so attagutto satimā, sukhaṃ bhikkhu vihāhisi.
+
+- 汝當自警策，汝應自反省，自護與正念，比丘住安樂。
+- You should urge on the self by the self, you should examine the self by the self, guarded by the self, mindful, you will live happily, o bhikkhu.
+
+##### 380
+
+Attā hi attano nātho, attā hi attano gati, tasmā saṃyamamattānaṃ, assaṃ bhadraṃ va vāṇijo.
+
+- 自為自保護，自為自依怙，自為自調禦，如商調良馬。
+- The self indeed is master of the self, the self indeed is the refuge of the self, therefore restrain yourself, as a merchant restrains a fine horse.
+
+---
+
+##### 381
+
+Pāmojjabahulo bhikkhu, pasanno buddhasāsane, adhigacche padaṃ santaṃ, saṅkhārūpasamaṃ sukhaṃ.
+
+- 比丘具歡喜心，誠信佛陀教法，到達寂靜安樂，諸行解脫境界。
+- The bhikkhu who is full of delight, with faith in the teaching of the Buddha, would attain the peaceful place, the happy cessation of conditioned things.
+
+---
+
+##### 382
+
+Yo have daharo bhikkhu, yuñjati buddhasāsane, somaṃ lokaṃ pabhāseti, abbhā mutto va candimā.
+
+- 比丘雖年少，勤行佛陀教，彼輝耀此世，如月出雲翳。
+- Whoever indeed as a young bhikkhu applies himself to the teaching of the Buddha, he illuminates this world like the moon when freed from a cloud.

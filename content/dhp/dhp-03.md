@@ -1,0 +1,103 @@
+---
+title: Citta
+subtitle: 3:33-43
+date: 2016-09-05
+draft: false
+weight: 3
+type: translation
+layout: single
+---
+
+- 心品
+- Thought
+
+---
+
+##### 33
+
+Phandanaṃ capalaṃ cittaṃ, dūrakkhaṃ dunnivārayaṃ, ujuṃ karoti medhāvī, usukāro va tejanaṃ.
+
+- 輕動變易心，難護難制服，智者調直之，如匠搦箭直。
+- The wise man makes straight his trembling, unsteady thought which is difficult to guard and difficult to restrain, just as a fletcher makes an arrow straight.
+
+##### 34
+
+Vārijo va thale khitto, okamokata ubbhato, pariphandatidaṃ cittaṃ, māradheyyaṃ pahātave.
+
+- 如魚離水棲，投於陸地上，以此戰慄心，擺脫魔境界。
+- Like a fish taken from its watery home and thrown on the ground, this thought quivers all over in order to escape the dominion of Māra.
+
+---
+
+##### 35
+
+Dunniggahassa lahuno, yatthakāmanipātino, cittassa damatho sādhu, cittaṃ dantaṃ sukhāvahaṃ.
+
+- 此心隨欲轉，輕躁難捉摸，善哉心調伏，心調得安樂。
+- Good is the taming of thought which is hard to grasp, light, alighting where it will. Tamed thought is the bringer of happiness.
+
+##### 36
+
+Sududdasaṃ sunipuṇaṃ, yatthakāmanipātinaṃ, cittaṃ rakkhetha medhāvī, cittaṃ guttaṃ sukhāvahaṃ.
+
+- 此心隨欲轉，微妙極難見，智者防護心，心護得安樂。
+- A wise man should guard his thought, which is difficult to see, extremely subtle, alighting where it will. Guarded thought is the bringer of happiness.
+
+---
+
+##### 37
+
+Dūraṅgamaṃ ekacaraṃ, asarīraṃ guhāsayaṃ, ye cittaṃ saṃyam-essanti, mokkhanti mārabandhanā.
+
+- 遠行與獨行，無形隱深窟，誰能調伏心，解脫魔羅縛。
+- Those who will restrain their thought, which travels far, alone, incorporeal, lying in the cave (of the heart), will be freed from Māra's fetter.
+
+---
+
+##### 38
+
+Anavaṭṭhitacittassa, saddhammaṃ avijānato, pariplavapasādassa, paññā na paripūrati.
+
+- 心若不安定，又不了正法，信心不堅者，智慧不成就。
+- The wisdom of one whose thought is unsteady, who does not know the true doctrine, whose serenity of mind is troubled, is not perfected.
+
+##### 39
+
+Anavassutacittassa, ananvāhatacetaso, puññapāpapahīnassa, natthi jāgarato bhayaṃ.
+
+- 若得無漏心，亦無諸惑亂，超越善與惡，覺者無恐怖。
+- There is no fear for one whose thought is untroubled (by faults), whose thought is unagitated, who is freed from good and evil, who is awake.
+
+---
+
+##### 40
+
+Kumbhūpamaṃ kāyam-imaṃ viditvā, nagarūpamaṃ cittam-idaṃ ṭhapetvā, yodhetha māraṃ paññāvudhena, jitañca rakkhe anivesano siyā.
+
+- 知身如陶器，住心似城廓，慧劍擊魔羅，守勝莫染著。
+- Knowing that this body is (fragile) like a jar, making this thought (firm) like a city, one should fight Māra with the weapon of wisdom, and one should guard what has been conquered, one should take no rest.
+
+---
+
+##### 41
+
+Aciraṃ vatayaṃ kāyo, pathaviṃ adhisessati, chuddho apetaviññāṇo, niratthaṃ va kaliṅgaraṃ.
+
+- 此身實不久，當睡於地下，被棄無意識，無用如木屑。
+- Before long, alas, this body will lie on the earth, rejected, without consciousness, like a useless log of wood.
+
+---
+
+##### 42
+
+Diso disaṃ yaṃ taṃ kayirā, verī vā pana verinaṃ, micchāpaṇihitaṃ cittaṃ, pāpiyo naṃ tato kare.
+
+- 仇敵害仇敵，怨家對怨家，若心向邪行，惡業最為大。
+- Whatever an enemy may do to an enemy or, again, whatever a hater may do to a hater, a wrongly directed mind would do worse than that to him.
+
+##### 43
+
+Na taṃ mātā pitā kayirā, aññe vā pi ca ñātakā, sammāpaṇihitaṃ cittaṃ, seyyaso naṃ tato kare.
+
+- 善非父母作，亦非他眷屬，若心向正行，善業最為大。
+- A mother or father or any other relative would not do that (good), a rightly directed mind would do better than that to him.

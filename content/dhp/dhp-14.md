@@ -1,0 +1,156 @@
+---
+title: Buddha
+subtitle: 14:179-196
+date: 2016-09-05
+draft: false
+weight: 14
+type: translation
+layout: single
+---
+
+- 佛陀品
+- Awakened
+
+---
+
+##### 179
+
+Yassa jitaṃ nāvajīyati, jitaṃ yassa no yāti koci loke, taṃ buddham-anantagocaraṃ, apadaṃ kena padena nessatha?
+
+- 彼之勝利無能勝，敗者於世無可從，佛智無邊無行跡，汝復以何而誑惑？
+- Whose conquest is not lost, whose conquest does not go anywhere in the world, him awakened, with endless realm, leaving no track, by what track will you lead him?
+
+##### 180
+
+Yassa jālinī visattikā, taṇhā natthi kuhiñci netave, taṃ buddham-anantagocaraṃ, apadaṃ kena padena nessatha?
+
+- 彼已不具於結縛，愛欲難以誘使去，佛智無邊無行跡，汝復以何而誑惑？
+- Of whom there is no attachment with a net (or) craving to lead him anywhere, him awakened, with endless realm, leaving no track, by what track will you lead him?
+
+---
+
+##### 181
+
+Ye jhānapasutā dhīrā, nekkhammūpasame ratā, devā pi tesaṃ pihayanti, sambuddhānaṃ satīmataṃ.
+
+- 智者修禪定，喜出家寂靜，正念正覺者，天人所敬愛。
+- Even the gods envy those awakened and mindful ones who are intent on meditataion, wise, delighting in the peace of the absence of desire.
+
+---
+
+##### 182
+
+Kiccho manussapaṭilābho, kicchaṃ maccāna jīvitaṃ, kicchaṃ saddhammassavanaṃ, kiccho buddhānam-uppādo.
+
+- 得生人道難，生得壽終難，得聞正法難，遇佛出世難。
+- It is difficult to obtain birth as a man, difficult is the life of mortals, difficult is the hearing of the true doctrine, difficult is the arising of the awakened ones.
+
+---
+
+##### 183
+
+Sabbapāpassa akaraṇaṃ, kusalassa upasampadā, sacittapariyodapanaṃ, etaṃ buddhāna sāsanaṃ.
+
+- 一切惡莫作，一切善應行，自調淨其意，是則諸佛教。
+- The avoidance of all evil, the undertaking of good, the cleansing of one's mind, this is the teaching of the awakened ones.
+
+##### 184
+
+Khantī paramaṃ tapo titikkhā, nibbānaṃ paramaṃ vadanti buddhā, na hi pabbajito parūpaghātī, na samaṇo hoti paraṃ viheṭhayanto.
+
+- 諸佛說涅槃最上，忍辱為最高苦行，害他實非出家者，惱他不名為沙門。
+- Patience (and) forbearance are the highest austerity. The awakened ones say nibbāna is the highest. One is certainly not a wanderer if one injures others, one is not an ascetic if one harms another.
+
+##### 185
+
+Anūpavādo anūpaghāto, pātimokkhe ca saṃvaro, mattaññutā ca bhattasmiṃ, pantañca sayanāsanaṃ, adhicitte ca āyogo, etaṃ buddhāna sāsanaṃ.
+
+- 不誹與不害，嚴持於戒律，飲食知節量，遠處而獨居，勤修增上定，是為諸佛教。
+- Not abusing, not injuring, and restraint under the rules of discipline, and knowing moderation in eating, and secluded lodgings, and exertion in respect of higher thought, this is the teaching of the awakened ones.
+
+---
+
+##### 186
+
+Na kahāpaṇavassena, titti kāmesu vijjati, “appassādā dukhā kāmā”, iti viññāya paṇḍito,
+
+- 即使雨金錢，欲心不滿足，智者知淫欲，樂少而苦多，
+- Not satisfaction is found in respect of sensual pleasures (even) by a rain of gold pieces. Knowing that sensual pleasures are of little taste and painful, the learned one
+
+##### 187
+
+api dibbesu kāmesu, ratiṃ so nādhigacchati, taṇhakkhayarato hoti, sammāsambuddhasāvako.
+
+- 故彼於天欲，亦不起希求，正覺者弟子，希滅於愛欲。
+- obtains no delight, even in the sensual pleasures of the gods. The follower of the fully awakened one delights in the destruction of craving.
+
+---
+
+##### 188
+
+Bahuṃ ve saraṇaṃ yanti, pabbatāni vanāni ca, ārāmarukkhacetyāni, manussā bhayatajjitā.
+
+- 諸人恐怖故，去皈依山嶽，或依於森林，園苑樹支提。
+- Men who are terrified by danger go to many a refuge, to mountains, and woods, to parks, trees and shrines.
+
+##### 189
+
+Netaṃ kho saraṇaṃ khemaṃ, netaṃ saraṇam-uttamaṃ, netaṃ saraṇam-āgamma, sabbadukkhā pamuccati.
+
+- 此非安穩依，此非最上依，如是皈依者，不離一切苦。
+- That indeed is not a secure refuge, that is not the best refuge. Having come to that refuge one is not released from all suffering.
+
+##### 190
+
+Yo ca buddhañca dhammañca, saṅghañca saraṇaṃ gato, cattāri ariyasaccāni, sammappaññāya passati,
+
+- 若人皈依佛，皈依法及僧，由於正智慧，得見四聖諦，
+- But if any one goes to the Buddha, the Doctrine and the Order as a refuge, he perceives with proper knowledge the four noble truths,
+
+##### 191
+
+dukkhaṃ dukkhasamuppādaṃ, dukkhassa ca atikkamaṃ, ariyaṃ caṭṭhaṅgikaṃ maggaṃ, dukkhūpasamagāminaṃ.
+
+- 苦與苦之因，以及苦之滅，並八支聖道，能令苦寂滅。
+- suffering, the arising of suffering, and the overcoming of suffering, and the noble eight-fold path leading to the cessation of suffering.
+
+##### 192
+
+Etaṃ kho saraṇaṃ khemaṃ, etaṃ saraṇam-uttamaṃ, etaṃ saraṇam-āgamma, sabbadukkhā pamuccati.
+
+- 此皈依安穩，此皈依無上，如是皈依者，解脫一切苦。
+- That indeed is a secure refuge, that is the best refuge. Having come to that refuge one is released from all suffering.
+
+---
+
+##### 193
+
+Dullabho purisājañño, na so sabbattha jāyati, yattha so jāyati dhīro, taṃ kulaṃ sukham-edhati.
+
+- 聖人極難得，彼非隨處生，智者所生處，家族咸蒙慶。
+- A noble (thoroughbred) man is hard to find. He is not born everywhere. That family in which that wise one is born prospers happily.
+
+---
+
+##### 194
+
+Sukho buddhānam-uppādo, sukhā saddhammadesanā, sukhā saṅghassa sāmaggī, samaggānaṃ tapo sukho.
+
+- 諸佛出現樂，演說正法樂，僧伽和合樂，修士和合樂。
+- Happy is the arising of awakened ones, happy is the teaching of the good doctrine, happy is unity in the Order, happy is the austerity of those who are united.
+
+---
+
+##### 195
+
+Pūjārahe pūjayato, buddhe yadi va sāvake, papañcasamatikkante, tiṇṇasokapariddave,
+
+- 供養應供者，脫離於虛妄，超越諸憂患，佛及佛弟子，
+- Of one honouring those who deserve honour, awakened ones or their followers, those who have gone beyond the diversified world, those who have passed beyond grief and affliction,
+
+##### 196
+
+te tādise pūjayato, nibbute akutobhaye, na sakkā puññaṃ saṅkhātuṃ, imettam-api kenaci.
+
+- 若供養如是，寂靜無畏者，其所得功德，無能測量者。
+- of one honouring them, of such a kind, who have gained nibbāna, having fear of nothing, it is not possible for this merit — so great — to be measured by anyone.

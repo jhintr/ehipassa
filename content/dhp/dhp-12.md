@@ -1,0 +1,102 @@
+---
+title: Atta
+subtitle: 12:157-166
+date: 2016-09-05
+draft: false
+weight: 12
+type: translation
+layout: single
+---
+
+- 自己品
+- The Self
+
+---
+
+##### 157
+
+Attānañce piyaṃ jaññā, rakkheyya naṃ surakkhitaṃ, tiṇṇaṃ aññataraṃ yāmaṃ, paṭijaggeyya paṇḍito.
+
+- 若人知自愛，須善自保護，三時中一時，智者應醒覺。
+- If one knew the self to be dear, one would guard it well. A learned man would stay awake for one of the three watches.
+
+---
+
+##### 158
+
+Attānam-eva paṭhamaṃ, patirūpe nivesaye, athaññam-anusāseyya, na kilisseyya paṇḍito.
+
+- 第一將自己，安置於正道，然後教他人，賢者始無過。
+- One should first establish oneself in what is proper, then one should advise another. (Doing this) a learned man would not be defiled.
+
+---
+
+##### 159
+
+Attānaṃ ce tathā kayirā, yathāññam-anusāsati, sudanto vata dametha, attā hi kira duddamo.
+
+- 若欲誨他者，應如己所行，自制乃制他，克己實最難。
+- If a man should so do to himself as he advises another, then well tamed indeed he would tame, for the self they say is hard to tame.
+
+---
+
+##### 160
+
+Attā hi attano nātho, ko hi nātho paro siyā? attanā hi sudantena, nāthaṃ labhati dullabhaṃ.
+
+- 自為自依怙，他人何可依，自己善調禦，證難得所依。
+- The self indeed is the lord of self, who else indeed could be lord? By the self indeed, when well tamed, one obtains a lord who is hard to obtain.
+
+---
+
+##### 161
+
+Attanā hi kataṃ pāpaṃ, attajaṃ attasambhavaṃ, abhimatthati dummedhaṃ, vajiraṃ vasmamayaṃ maṇiṃ.
+
+- 惡業實由自己作，從自己生而自起，惡業摧壞於愚者，猶如金剛破寶石。
+- By the self alone is evil done, it is born of self, has its origin in self. It crushes the stupid one as diamond crushes a jewel made of stone.
+
+---
+
+##### 162
+
+Yassa accantadussīlyaṃ, māluvā sālam-ivotthataṃ, karoti so tathattānaṃ, yathā naṃ icchatī diso.
+
+- 破戒如蔓蘿，纏覆裟羅樹，彼自如此作，徒快敵者意。
+- He whose excessive bad conduct is spread out (over him), like a māluvā creeper spread out over a sāl tree, does to himself just as his enemy wishes to do to him.
+
+---
+
+##### 163
+
+Sukarāni asādhūni, attano ahitāni ca, yaṃ ve hitañca sādhuñca, taṃ ve paramadukkaraṃ.
+
+- 不善事易作，然無益於己，善與利益事，實為極難行。
+- Evil deeds, and those harmful to oneself, are easily done. What indeed is both beneficial and good, that indeed is very difficult to do.
+
+---
+
+##### 164
+
+Yo sāsanaṃ arahataṃ, ariyānaṃ dhammajīvinaṃ, paṭikkosati dummedho, diṭṭhiṃ nissāya pāpikaṃ, phalāni kaṭṭhakasseva, attaghātāya phallati.
+
+- 惡慧愚癡人，以其邪見故，侮蔑羅漢教，依正法行者，以及尊者教，而自取毀滅，如格他格草，結果自滅亡。
+- The foolish man who, following a wrong view, scoffs at the teaching of the arahants, the noble ones who live in accordance with the law, bears fruit to his own destruction, like the fruits of the bamboo.
+
+---
+
+##### 165
+
+Attanā hi kataṃ pāpaṃ, attanā saṃkilissati, attanā akataṃ pāpaṃ, attanā va visujjhati, suddhī asuddhi paccattaṃ, nāñño aññaṃ visodhaye.
+
+- 惡實由己作，染汙亦由己，由己不作惡，清淨亦由己，淨不淨依己，他何能淨他？
+- By the self alone is evil done, by the self is one defiled. By the self is evil not done, by the self alone is one purified. Purity and impurity concern the individual. One man may not purify another.
+
+---
+
+##### 166
+
+Attadatthaṃ paratthena, bahunā pi na hāpaye, attadattham-abhiññāya, sadatthapasuto siyā.
+
+- 莫以利他事，忽於己利益，善知己利者，常專心利益。
+- One should never give up one's own interests for another's interests, even if great. Knowing one's own interests, one should be intent upon one's own interests.

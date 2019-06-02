@@ -1,0 +1,107 @@
+---
+title: Jarā
+subtitle: 11:146-156
+date: 2016-09-05
+draft: false
+weight: 11
+type: translation
+layout: single
+---
+
+- 老品
+- Old Age
+
+---
+
+##### 146
+
+Ko nu hāso kim-ānando, niccaṃ pajjalite sati? andhakārena onaddhā, padīpaṃ na gavesatha ?
+
+- 常在燃燒中，何喜何可笑，幽暗之所蔽，何不求光明？
+- What is this laughter, why is there joy when (the world) is constantly burning? When bound by darkness do you not seek a lamp?
+
+---
+
+##### 147
+
+Passa cittakataṃ bimbaṃ, arukāyaṃ samussitaṃ, āturaṃ bahusaṅkappaṃ, yassa natthi dhuvaṃ ṭhiti.
+
+- 觀此粉飾身，瘡傷一堆骨，疾病多思惟，絕非常存者。
+- See the painted image, a heap of sores, a compounded body, diseased, with many (bad) thoughts, of which there is no permanent stability.
+
+---
+
+##### 148
+
+Parijiṇṇam-idaṃ rūpaṃ, roganīḷaṃ pabhaṅguraṃ, bhijjati pūtisandeho, maraṇantañhi jīvitaṃ.
+
+- 此衰老形骸，病藪而易壞，朽聚必毀滅，有生終歸死。
+- This body is worn out, a nest of diseases and very frail. This heap of corruption will break to pieces, for life has death as its end.
+
+---
+
+##### 149
+
+Yānimāni apatthāni, alābūneva sārade, kāpotakāni aṭṭhīni, tāni disvāna kā rati?
+
+- 猶如葫盧瓜，散棄於秋季，骸骨如鴿色，觀此何可樂。
+- What delight is there seeing these white bones, which are scattered like gourds in autumn?
+
+---
+
+##### 150
+
+Aṭṭhīnaṃ nagaraṃ kataṃ, maṃsalohitalepanaṃ, yattha jarā ca maccu ca, māno makkho ca ohito.
+
+- 此城骨所建，塗以血與肉，儲藏老與死，及慢並虛偽。
+- A city is made of bones, with a plaster of flesh and blood, wherein old age and death and pride and hypocrisy are deposited.
+
+---
+
+##### 151
+
+Jīranti ve rājarathā sucittā, atho sarīram pi jaraṃ upeti, satañca dhammo na jaraṃ upeti, santo have sabbhi pavedayanti.
+
+- 盛飾王車亦必朽，此身老邁當亦爾，唯善人法不老朽，善人傳示於善人。
+- The decorated chariots of kings grow old indeed, and the body too comes to old age, but the doctrine of the good does not comes to old age. The good indeed teach it to the good.
+
+---
+
+##### 152
+
+Appassutāyaṃ puriso, balibaddo va jīrati, maṃsāni tassa vaḍḍhanti, paññā tassa na vaḍḍhati.
+
+- 寡聞之愚人，生長如牡牛，唯增長筋肉，而不增智慧。
+- This man of little learning grows old like an ox. His flesh increases, his knowledge does not increase.
+
+---
+
+##### 153
+
+Anekajātisaṃsāraṃ, sandhāvissaṃ anibbisaṃ, gahakāraṃ gavesanto, dukkhā jāti punappunaṃ.
+
+- 經多生輪回，尋求造屋者，但未得見之，痛苦再再生。
+- I have run through the journeying-on of numerous births, without respite, seeking the house-maker, birth again and again is painful.
+
+##### 154
+
+Gahakāraka diṭṭhosi, puna gehaṃ na kāhasi, sabbā te phāsukā bhaggā, gahakūṭaṃ visaṅkhataṃ, visaṅkhāragataṃ cittaṃ, taṇhānaṃ khayam-ajjhagā.
+
+- 已見造屋者，不再造於屋，椽桷皆毀壞，棟樑亦摧折，我既證無為，一切愛盡滅。
+- O house-maker, you are seen. You will not make the house again. All these rafters are broken, the house-ridge is destroyed. The mind, set on the destruction (of material things), has attained the termination of the cravings.
+
+---
+
+##### 155
+
+Acaritvā brahmacariyaṃ, aladdhā yobbane dhanaṃ, jiṇṇakoñcā va jhāyanti, khīṇamacche va pallale.
+
+- 少壯不得財，並不修梵行，如池邊老鷺，無魚而萎滅。
+- Those who have not lived the holy life, who have not acquired wealth in youth, pine away like old herons in a lake without fish.
+
+##### 156
+
+Acaritvā brahmacariyaṃ, aladdhā yobbane dhanaṃ, senti cāpātikhīṇā va, purāṇāni anutthunaṃ.
+
+- 少壯不得財，並不修梵行，臥如破折弓，悲歎於過去。
+- Those who have not lived the holy life, who have not acquired wealth in youth, lie like (arrows) scattered from a bow, sighing after things of the past.

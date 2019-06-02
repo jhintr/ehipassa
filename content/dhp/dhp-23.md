@@ -1,0 +1,126 @@
+---
+title: Nāga
+subtitle: 23:320-333
+date: 2016-09-05
+draft: false
+weight: 23
+type: translation
+layout: single
+---
+
+- 象品
+- The Elephant
+
+---
+
+##### 320
+
+Ahaṃ nāgo va saṅgāme, cāpato patitaṃ saraṃ, ativākyaṃ titikkhissaṃ, dussīlo hi bahujjano.
+
+- 如象在戰陣，堪忍弓箭射，我忍謗亦爾，世多破戒者。
+- I shall endure abuse as a nāga elephant in battle endures arrows shot from the bow. Ill-natured indeed are the majority of people.
+
+##### 321
+
+Dantaṃ nayanti samitiṃ, dantaṃ rājābhirūhati, danto seṭṭho manussesu, yotivākyaṃ titikkhati.
+
+- 調禦象可赴集會，調禦象可為王乘，若能堪忍於謗言，人中最勝調禦者。
+- They lead a tamed one to war, the king mounts a tamed one. The tamed one, who endures abuse, is the best among men.
+
+##### 322
+
+Varam-assatarā dantā, ājānīyā ca sindhavā, kuñjarā ca mahānāgā, attadanto tato varaṃ.
+
+- 調禦之騾為優良，信度駿馬為優良，矯羅大象亦優良，自調禦者更優良。
+- Excellent are mules when tamed and Sindh thoroughbreds and great kuñjara nāga elephant, better than these is a tamed self.
+
+---
+
+##### 323
+
+Na hi etehi yānehi, gaccheyya agataṃ disaṃ, yathāttanā sudantena, danto dantena gacchati.
+
+- 實非彼等車乘，得達難到境地，若人善自調禦，由於調禦得達。
+- For not by these vehicles would a man go to the region where there is no rebirth, as by means of a well-tamed self. The tamed one goes by means of a tamed (vehicle).
+
+---
+
+##### 324
+
+Dhanapālo nāma kuñjaro, kaṭukabhedano dunnivārayo, baddho kabaḷaṃ na bhuñjati, sumarati nāgavanassa kuñjaro.
+
+- 如象名財護，泌液暴難制，繫縛不入食，惟念於象林。
+- The kuñjara elephant called Dhanapālaka is hard to control when he is oozing with rut. When tied up the kuñjara elephant does not eat a mouthful of food, (but) remembers the nāga elephant forest.
+
+---
+
+##### 325
+
+Middhī yadā hoti mahagghaso ca, niddāyitā samparivattasāyī, mahāvarāho va nivāpapuṭṭho, punappunaṃ gabbham-upeti mando.
+
+- 樂睡又貪食，轉側唯長眠，如豬食無厭，愚者數入胎。
+- When he is lazy and a glutton, a sleeper who rolls as he lies, like a great hog fed on grain, the fool comes to the womb again and again.
+
+---
+
+##### 326
+
+Idaṃ pure cittam-acāri cārikaṃ, yenicchakaṃ yatthakāmaṃ yathāsukhaṃ, tad-ajjahaṃ niggahessāmi yoniso, hatthippabhinnaṃ viya aṅkusaggaho.
+
+- 我此過去心，任意隨所欲，隨愛好遊行，我今悉調伏，如象師持鉤，制禦泌液象。
+- Formerly this mind wandered where it wished, where it liked, as it pleased. Today I shall control it properly, as a hook-holder controls an elephant in rut.
+
+---
+
+##### 327
+
+Appamādaratā hotha, sacittam-anurakkhatha, duggā uddharathattānaṃ, paṅke sanno va kuñjaro.
+
+- 當樂不放逸，善護於自心，自救出難處，如象出泥坑。
+- Be rejoicing in carefulness, protect your own mind, save yourselves from the difficult way like a kuñjara elephant sunk-in mud.
+
+---
+
+##### 328
+
+Sace labhetha nipakaṃ sahāyaṃ, saddhiṃ caraṃ sādhuvihāridhīraṃ, abhibhuyya sabbāni parissayāni, careyya tenattamano satīmā.
+
+- 若得同行伴，善行富智慮，能服諸艱困，欣然共彼行。
+- If one finds a zealous companion, a co-wanderer, a good-liver, wise, overcoming all dangers one should wander with him, happy (and) mindful.
+
+##### 329
+
+No ce labhetha nipakaṃ sahāyaṃ, saddhiṃ caraṃ sādhuvihāridhīraṃ, rājā va raṭṭhaṃ vijitaṃ pahāya, eko care mātaṅgaraññe va nāgo.
+
+- 若無同行伴，善行富智慮，應如王棄國，如象獨行林。
+- If one does not find a zealous companion, a co-wanderer, a good-liver, wise, like a king leaving a conquered kingdom one should wander alone like a mātaṅga nāga elephant in the forest.
+
+##### 330
+
+Ekassa caritaṃ seyyo, natthi bāle sahāyatā, eko care na ca pāpāni kayirā, appossukko mātaṅgaraññe va nāgo.
+
+- 寧一人獨行，不與愚為友，獨行離欲惡，如象獨游林。
+- Wandering for a solitary person is better, there is no companionship with fools. One should wander alone and one should not do evil deeds, desirous of little, like a mātaṅga nāga elephant in the forest.
+
+---
+
+##### 331
+
+Atthamhi jātamhi sukhā sahāyā, tuṭṭhī sukhā yā itarītarena, puññaṃ sukhaṃ jīvitasaṅkhayamhi, sabbassa dukkhassa sukhaṃ pahānaṃ.
+
+- 應時得友樂，適時滿足樂，命終善業樂，離一切苦樂。
+- Companions are pleasant when a need arises, contentment with this or that (i.e. with whatever turns up) is pleasant, merit is pleasant at the end of life, the abandonment of all pain is pleasant.
+
+##### 332
+
+Sukhā matteyyatā loke, atho petteyyatā sukhā, sukhā sāmaññatā loke, atho brahmaññatā sukhā.
+
+- 世中敬母樂，敬父親亦樂，世敬沙門樂，敬聖人亦樂。
+- Respect for one's mother is pleasant in the world, and respect for one's father is pleasant, respect for ascetics is pleasant in the world, and respect for brahmans is pleasant.
+
+##### 333
+
+Sukhaṃ yāva jarā sīlaṃ, sukhā saddhā patiṭṭhitā, sukho paññāya paṭilābho, pāpānaṃ akaraṇaṃ sukhaṃ.
+
+- 至老持戒樂，正信成就樂，獲得智慧樂，不作諸惡樂。
+- Virtue lasting until old age is pleasant, established faith is pleasant, the obtaining of knowledge is pleasant, the non-doing of evil deeds is pleasant.

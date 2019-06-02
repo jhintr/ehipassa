@@ -1,0 +1,67 @@
+body {
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+/* h3 and h4 can use together */
+
+h3 {
+    text-align: center;
+    color: #494f54;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+h4 {
+    color: #28a745;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+/* h5 only for digitals */
+
+h5 {
+    font-family: monospace;
+    font-weight: 700;
+    color: #28a745;
+}
+
+a, a:hover {
+    text-decoration: none;
+    color: #28a745;
+}
+
+blockquote {
+    font-size: 0.9rem;
+    margin-left: 2rem;
+    color: #494f54;
+}
+
+q {
+    quotes: '〔' '〕';
+    display: inline;
+    font-size: 0.9rem;
+    font-weight: normal;
+    color: #999;
+}
+
+strong, b {
+    color: #C60;
+}
+
+em, i {
+    color: #28a745;
+}
+
+del {
+    color: #999;
+}
+
+small {
+    font-weight: normal;
+    color: #494f54;
+}
+
+small em, small i, small strong, small b {
+    color: inherit;
+}
