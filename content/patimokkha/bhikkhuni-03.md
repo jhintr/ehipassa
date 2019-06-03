@@ -39,7 +39,7 @@ Yā pana bhikkhunī samaggena saṅghena ukkhittaṃ bhikkhuniṃ dhammena vinay
 
 Yā pana bhikkhunī avassutā avassutassa purisapuggalassa hatthato khādanīyaṃ vā bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, ayam pi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
 
-> 若比丘尼心怀漏泄，亲手从心怀漏泄的男子手中接受硬食或软食后或吃或食，此比丘尼乃犯初次即犯的僧残法，应驱摈。<span class="box">参见[比丘悔过一](/bhikkhu-07#1)</span>
+> 若比丘尼心怀漏泄，亲手从心怀漏泄的男子手中接受硬食或软食后或吃或食，此比丘尼乃犯初次即犯的僧残法，应驱摈。<span class="box">参见[比丘悔过一](../bhikkhu-07#1)</span>
 
 ##### 6
 
@@ -51,19 +51,19 @@ Yā pana bhikkhunī evaṃ vadeyya _“kiṃ te ayye eso purisapuggalo karissati
 
 Yā pana bhikkhunī sañcarittaṃ samāpajjeyya, itthiyā vā purisamatiṃ, purisassa vā itthimatiṃ, jāyattane vā jārattane vā, antamaso taṅkhaṇikāya pi, ayam pi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
 
-> 若比丘尼从事媒介，或传男意与女，或传女意与男，而为夫妇或情侣，乃至为临时关系，此比丘尼乃犯初次即犯的僧残法，应驱摈。<span class="box">参见[比丘僧残五](/bhikkhu-03#5)</span>
+> 若比丘尼从事媒介，或传男意与女，或传女意与男，而为夫妇或情侣，乃至为临时关系，此比丘尼乃犯初次即犯的僧残法，应驱摈。<span class="box">参见[比丘僧残五](../bhikkhu-03#5)</span>
 
 ##### 8
 
 Yā pana bhikkhunī bhikkhuniṃ duṭṭhā dosā appatītā amūlakena pārājikena dhammena anuddhaṃseyya _“app eva nāma naṃ imamhā brahmacariyā cāveyyan”_ ti, tato aparena samayena samanuggāhīyamānā vā asamanuggāhīyamānā vā amūlakañ c’ eva taṃ adhikaraṇaṃ hoti, bhikkhunī ca dosaṃ patiṭṭhāti, ayam pi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
 
-> 若比丘尼恶意、瞋恚、不满，以无根据的波罗夷法诽谤比丘尼——「或许我能使她从此梵行中退堕」，此后的某时若遭审问或未遭审问，此诤论系无根据的，且比丘尼住于瞋恚，此比丘尼乃犯初次即犯的僧残法，应驱摈。<span class="box">参见[比丘僧残八](/bhikkhu-03#8)</span>
+> 若比丘尼恶意、瞋恚、不满，以无根据的波罗夷法诽谤比丘尼——「或许我能使她从此梵行中退堕」，此后的某时若遭审问或未遭审问，此诤论系无根据的，且比丘尼住于瞋恚，此比丘尼乃犯初次即犯的僧残法，应驱摈。<span class="box">参见[比丘僧残八](../bhikkhu-03#8)</span>
 
 ##### 9
 
 Yā pana bhikkhunī bhikkhuniṃ duṭṭhā dosā appatītā aññabhāgiyassa adhikaraṇassa kiñci desaṃ lesamattaṃ upādāya pārājikena dhammena anuddhaṃseyya _“app eva nāma naṃ imamhā brahmacariyā cāveyyan”_ ti, tato aparena samayena samanuggāhīyamānā vā asamanuggāhīyamānā vā aññabhāgiyañ c’ eva taṃ adhikaraṇaṃ hoti koci deso lesamatto upādinno, bhikkhunī ca dosaṃ patiṭṭhāti, ayam pi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
 
-> 若比丘尼恶意、瞋恚、不满，取其他诤论的某个相似处，以波罗夷法诽谤比丘尼——「或许我能使她从此梵行中退堕」，此后的某时若遭审问或未遭审问，此诤论系取其他的某个相似处，且比丘尼住于瞋恚，此比丘尼乃犯初次即犯的僧残法，应驱摈。<span class="box">参见[比丘僧残九](/bhikkhu-03#9)</span>
+> 若比丘尼恶意、瞋恚、不满，取其他诤论的某个相似处，以波罗夷法诽谤比丘尼——「或许我能使她从此梵行中退堕」，此后的某时若遭审问或未遭审问，此诤论系取其他的某个相似处，且比丘尼住于瞋恚，此比丘尼乃犯初次即犯的僧残法，应驱摈。<span class="box">参见[比丘僧残九](../bhikkhu-03#9)</span>
 
 ##### 10
 
@@ -129,7 +129,7 @@ Yā pana bhikkhunī samaggassa saṅghassa bhedāya parakkameyya, bhedanasaṃva
 
 Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’ eva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañ ce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, ayam pi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
 
-> 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此比丘尼乃犯三次始犯的僧残法，应驱摈。<span class="box">参见[比丘僧残十](/bhikkhu-03#10)</span>
+> 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此比丘尼乃犯三次始犯的僧残法，应驱摈。<span class="box">参见[比丘僧残十](../bhikkhu-03#10)</span>
 
 ##### 15
 
@@ -143,7 +143,7 @@ Tā bhikkhuniyo bhikkhunīhi evam assu vacanīyā _“māyyāyo evaṃ avacuttha
 
 Evañ ca tā bhikkhuniyo bhikkhunīhi vuccamānā tath’ eva paggaṇheyyuṃ, tā bhikkhuniyo bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañ ce samanubhāsiyamānā taṃ paṭinissajjeyyuṃ, iccetaṃ kusalaṃ, no ce paṭinissajjeyyuṃ, imā pi bhikkhuniyo yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
 
-> 诸比丘尼如是告已，彼众比丘尼若仍如是执取，诸比丘尼应三次劝告彼众比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此众比丘尼乃犯三次始犯的僧残法，应驱摈。<span class="box">参见[比丘僧残十一](/bhikkhu-03#11)</span>
+> 诸比丘尼如是告已，彼众比丘尼若仍如是执取，诸比丘尼应三次劝告彼众比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此众比丘尼乃犯三次始犯的僧残法，应驱摈。<span class="box">参见[比丘僧残十一](../bhikkhu-03#11)</span>
 
 ##### 16
 
@@ -157,7 +157,7 @@ Sā bhikkhunī bhikkhunīhi evam assa vacanīyā _“māyyā attānaṃ avacanī
 
 Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’ eva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañ ce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, ayam pi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
 
-> 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此比丘尼乃犯三次始犯的僧残法，应驱摈。<span class="box">参见[比丘僧残十二](/bhikkhu-03#12)</span>
+> 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此比丘尼乃犯三次始犯的僧残法，应驱摈。<span class="box">参见[比丘僧残十二](../bhikkhu-03#12)</span>
 
 ##### 17
 
@@ -175,7 +175,7 @@ Sā bhikkhunī bhikkhunīhi evam assa vacanīyā _“māyyā evaṃ avaca, na ca
 
 Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’ eva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañ ce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, ayam pi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
 
-> 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此比丘尼乃犯三次始犯的僧残法，应驱摈。<span class="box">参见[比丘僧残十三](/bhikkhu-03#13)</span>
+> 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此比丘尼乃犯三次始犯的僧残法，应驱摈。<span class="box">参见[比丘僧残十三](../bhikkhu-03#13)</span>
 
 Uddiṭṭhā kho ayyāyo sattarasa saṅghādisesā dhammā, nava paṭhamāpattikā, aṭṭha yāvatatiyakā. Yesaṃ bhikkhunī aññataraṃ vā aññataraṃ vā āpajjati, tāya bhikkhuniyā ubhatosaṅghe pakkhamānattaṃ caritabbaṃ.
 

@@ -89,13 +89,13 @@ Lahupāvuraṇaṃ pana bhikkhuniyā cetāpentiyā aḍḍhateyyakaṃsaparama�
 
 Niṭṭhitacīvarasmiṃ bhikkhuniyā ubbhatasmiṃ kathine, dasāhaparamaṃ atirekacīvaraṃ dhāretabbaṃ, taṃ atikkāmentiyā, nissaggiyaṃ pācittiyaṃ.
 
-> 当比丘尼作衣已竟、迦絺那已出，多余的衣最多可持有十天，过此者，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提一](/bhikkhu-05#1)</span>
+> 当比丘尼作衣已竟、迦絺那已出，多余的衣最多可持有十天，过此者，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提一](../bhikkhu-05#1)</span>
 
 ##### 14
 
 Niṭṭhitacīvarasmiṃ bhikkhuniyā ubbhatasmiṃ kathine, ekarattam pi ce bhikkhunī ticīvarena vippavaseyya, aññatra bhikkhunisammutiyā, nissaggiyaṃ pācittiyaṃ.
 
-> 当比丘尼作衣已竟、迦絺那已出，若比丘尼即使一夜离三衣而住，除比丘尼许可，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提二](/bhikkhu-05#2)</span>
+> 当比丘尼作衣已竟、迦絺那已出，若比丘尼即使一夜离三衣而住，除比丘尼许可，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提二](../bhikkhu-05#2)</span>
 
 ##### 15
 
@@ -105,7 +105,7 @@ Niṭṭhitacīvarasmiṃ bhikkhuniyā ubbhatasmiṃ kathine, bhikkhuniyā pan�
 
 No ca ’ssa pāripūri, māsaparamaṃ tāya bhikkhuniyā taṃ cīvaraṃ nikkhipitabbaṃ, ūnassa pāripūriyā satiyā paccāsāya. Tato ce uttari nikkhipeyya, satiyā pi paccāsāya, nissaggiyaṃ pācittiyaṃ.
 
-> 若不足者，在存有补全不足的期望下，彼比丘尼可保存此衣最多一月。若保存过此者，即使是存有期望，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提三](/bhikkhu-05#3)</span>
+> 若不足者，在存有补全不足的期望下，彼比丘尼可保存此衣最多一月。若保存过此者，即使是存有期望，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提三](../bhikkhu-05#3)</span>
 
 ##### 16
 
@@ -115,13 +115,13 @@ Yā pana bhikkhunī aññātakaṃ gahapatiṃ vā gahapatāniṃ vā cīvaraṃ
 
 Tatthāyaṃ samayo, acchinnacīvarā vā hoti bhikkhunī, naṭṭhacīvarā vā, ayaṃ tattha samayo.
 
-> 这里的适时是，比丘尼的衣遭夺或丢失，这是这里的适时。<span class="box">参见[比丘舍波逸提六](/bhikkhu-05#6)</span>
+> 这里的适时是，比丘尼的衣遭夺或丢失，这是这里的适时。<span class="box">参见[比丘舍波逸提六](../bhikkhu-05#6)</span>
 
 ##### 17
 
 Tañ ce aññātako gahapati vā gahapatānī vā bahūhi cīvarehi abhihaṭṭhuṃ pavāreyya, santar-uttara-paramaṃ tāya bhikkhuniyā tato cīvaraṃ sāditabbaṃ. Tato ce uttari sādiyeyya, nissaggiyaṃ pācittiyaṃ.
 
-> 若非亲属的居士或居士女拿很多衣来邀请她，彼比丘尼最多可从中受用下衣与上衣。若受用过此者，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提七](/bhikkhu-05#7)</span>
+> 若非亲属的居士或居士女拿很多衣来邀请她，彼比丘尼最多可从中受用下衣与上衣。若受用过此者，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提七](../bhikkhu-05#7)</span>
 
 ##### 18
 
@@ -131,7 +131,7 @@ Bhikkhuniṃ pan’ eva uddissa aññātakassa gahapatissa vā gahapatāniyā v�
 
 Tatra ce sā bhikkhunī pubbe appavāritā upasaṅkamitvā cīvare vikappaṃ āpajjeyya _“sādhu vata maṃ āyasmā, iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī”_ ti, kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.
 
-> 若彼比丘尼事先未受邀请即前往那里，对衣提出建议——「善哉，大德！请用这衣资换取这般这般的衣而给我穿」，为了希求好者，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提八](/bhikkhu-05#8)</span>
+> 若彼比丘尼事先未受邀请即前往那里，对衣提出建议——「善哉，大德！请用这衣资换取这般这般的衣而给我穿」，为了希求好者，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提八](../bhikkhu-05#8)</span>
 
 ##### 19
 
@@ -141,7 +141,7 @@ Bhikkhuniṃ pan’ eva uddissa ubhinnaṃ aññātakānaṃ gahapatīnaṃ vā 
 
 Tatra ce sā bhikkhūnī pubbe appavāritā upasaṅkamitvā cīvare vikappaṃ āpajjeyya _“sādhu vata maṃ āyasmanto, imehi paccekacīvaracetāpannehi evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādetha, ubho va santā ekenā”_ ti, kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.
 
-> 若彼比丘尼事先未受邀请即前往那里，对衣提出建议——「善哉，诸大德！请你们用这些各自的衣资换取这般这般的衣而给我穿，合二为一」，为了希求好者，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提九](/bhikkhu-05#9)</span>
+> 若彼比丘尼事先未受邀请即前往那里，对衣提出建议——「善哉，诸大德！请你们用这些各自的衣资换取这般这般的衣而给我穿，合二为一」，为了希求好者，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提九](../bhikkhu-05#9)</span>
 
 ##### 20
 
@@ -171,7 +171,7 @@ No ce abhinipphādeyya, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tu�
 
 No ce abhinipphādeyya, yat’ assā cīvaracetāpannaṃ ābhataṃ, tattha sāmaṃ vā gantabbaṃ, dūto vā pāhetabbo _“yaṃ kho tumhe āyasmanto bhikkhuniṃ uddissa cīvaracetāpannaṃ pahiṇittha, na taṃ tassā bhikkhuniyā kiñci atthaṃ anubhoti, yuñjant’ āyasmanto sakaṃ, mā vo sakaṃ vinassā”_ ti, ayaṃ tattha sāmīci.
 
-> 若未得到，应自己去或派使者到为他带来衣资之处——「诸大德！你们已送给指定的比丘尼的衣资，彼比丘尼未获得其任何利益，请诸大德自己努力，莫失去你们自己的」，这是这里的规则。<span class="box">参见[比丘舍波逸提十](/bhikkhu-05#10)</span>
+> 若未得到，应自己去或派使者到为他带来衣资之处——「诸大德！你们已送给指定的比丘尼的衣资，彼比丘尼未获得其任何利益，请诸大德自己努力，莫失去你们自己的」，这是这里的规则。<span class="box">参见[比丘舍波逸提十](../bhikkhu-05#10)</span>
 
 <p class="text-center">Cīvaravaggo dutiyo <small>衣品第二</small></p>
 
@@ -179,19 +179,19 @@ No ce abhinipphādeyya, yat’ assā cīvaracetāpannaṃ ābhataṃ, tattha sā
 
 Yā pana bhikkhunī jātarūparajataṃ uggaṇheyya vā uggaṇhāpeyya vā upanikkhittaṃ vā sādiyeyya, nissaggiyaṃ pācittiyaṃ.
 
-> 若比丘尼捉持金银，或教人捉持，或受用放置者，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提十八](/bhikkhu-05#18)</span>
+> 若比丘尼捉持金银，或教人捉持，或受用放置者，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提十八](../bhikkhu-05#18)</span>
 
 ##### 22
 
 Yā pana bhikkhunī nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjeyya, nissaggiyaṃ pācittiyaṃ.
 
-> 若比丘尼从事种种金钱交易，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提十九](/bhikkhu-05#19)</span>
+> 若比丘尼从事种种金钱交易，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提十九](../bhikkhu-05#19)</span>
 
 ##### 23
 
 Yā pana bhikkhunī nānappakārakaṃ kayavikkayaṃ samāpajjeyya, nissaggiyaṃ pācittiyaṃ.
 
-> 若比丘尼从事种种买卖，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提二十](/bhikkhu-05#20)</span>
+> 若比丘尼从事种种买卖，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提二十](../bhikkhu-05#20)</span>
 
 ##### 24
 
@@ -201,25 +201,25 @@ Yā pana bhikkhunī ūnapañcabandhanena pattena aññaṃ navaṃ pattaṃ cet�
 
 Tāya bhikkhuniyā so patto bhikkhuniparisāya nissajjitabbo, yo ca tassā bhikkhuniparisāya pattapariyanto, so tassā bhikkhuniyā padātabbo _“ayaṃ te bhikkhuni patto yāva bhedanāya dhāretabbo”_ ti, ayaṃ tattha sāmīci.
 
-> 彼比丘尼应在比丘尼众中舍弃该钵，比丘尼众的最后一个钵即应给予彼比丘尼——「比丘尼！这是你的钵，要用到破了为止」，这是这里的规则。<span class="box">参见[比丘舍波逸提二十二](/bhikkhu-05#22)</span>
+> 彼比丘尼应在比丘尼众中舍弃该钵，比丘尼众的最后一个钵即应给予彼比丘尼——「比丘尼！这是你的钵，要用到破了为止」，这是这里的规则。<span class="box">参见[比丘舍波逸提二十二](../bhikkhu-05#22)</span>
 
 ##### 25
 
 Yāni kho pana tāni gilānānaṃ bhikkhunīnaṃ paṭisāyanīyāni bhesajjāni, seyyath’ idaṃ, sappi navanītaṃ telaṃ madhu phāṇitaṃ, tāni paṭiggahetvā sattāhaparamaṃ sannidhikārakaṃ paribhuñjitabbāni, taṃ atikkāmentiyā, nissaggiyaṃ pācittiyaṃ.
 
-> 诸生病比丘尼可服用的药，即熟酥、生酥、油、蜜、糖，接受已可以贮藏最多七天而食用，过此者，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提二十三](/bhikkhu-05#23)</span>
+> 诸生病比丘尼可服用的药，即熟酥、生酥、油、蜜、糖，接受已可以贮藏最多七天而食用，过此者，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提二十三](../bhikkhu-05#23)</span>
 
 ##### 26
 
 Yā pana bhikkhunī bhikkhuniyā sāmaṃ cīvaraṃ datvā kupitā anattamanā acchindeyya vā acchindāpeyya vā, nissaggiyaṃ pācittiyaṃ.
 
-> 若比丘尼自己把衣给比丘尼后，瞋恚、不喜，夺回或教人夺回，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提二十五](/bhikkhu-05#25)</span>
+> 若比丘尼自己把衣给比丘尼后，瞋恚、不喜，夺回或教人夺回，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提二十五](../bhikkhu-05#25)</span>
 
 ##### 27
 
 Yā pana bhikkhunī sāmaṃ suttaṃ viññāpetvā tantavāyehi cīvaraṃ vāyāpeyya, nissaggiyaṃ pācittiyaṃ.
 
-> 若比丘尼自己乞得线后，教织工们织衣，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提二十六](/bhikkhu-05#26)</span>
+> 若比丘尼自己乞得线后，教织工们织衣，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提二十六](../bhikkhu-05#26)</span>
 
 ##### 28
 
@@ -229,19 +229,19 @@ Bhikkhuniṃ pan’ eva uddissa aññātako gahapati vā gahapatānī vā tantav
 
 Evañ ca sā bhikkhunī vatvā kiñcimattaṃ anupadajjeyya, antamaso piṇḍapātamattam pi, nissaggiyaṃ pācittiyaṃ.
 
-> 若彼比丘尼如是说已送了些东西，即便仅一钵之食，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提二十七](/bhikkhu-05#27)</span>
+> 若彼比丘尼如是说已送了些东西，即便仅一钵之食，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提二十七](../bhikkhu-05#27)</span>
 
 ##### 29
 
 Dasāhānāgataṃ kattika-temāsika-puṇṇamaṃ bhikkhuniyā pan’ eva accekacīvaraṃ uppajjeyya, accekaṃ maññamānāya bhikkhuniyā paṭiggahetabbaṃ, paṭiggahetvā yāva cīvarakālasamayaṃ nikkhipitabbaṃ. Tato ce uttari nikkhipeyya, nissaggiyaṃ pācittiyaṃ.
 
-> 在迦提迦第三个满月之前十日，若有急施衣给予比丘尼，知是急施的比丘尼可以接受，接受已可以保存到衣时。若保存过此者，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提二十八](/bhikkhu-05#28)</span>
+> 在迦提迦第三个满月之前十日，若有急施衣给予比丘尼，知是急施的比丘尼可以接受，接受已可以保存到衣时。若保存过此者，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提二十八](../bhikkhu-05#28)</span>
 
 ##### 30
 
 Yā pana bhikkhunī jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ attano pariṇāmeyya, nissaggiyaṃ pācittiyaṃ.
 
-> 若比丘尼明知而将已分配给僧团的利养分配给自己，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提三十](/bhikkhu-05#30)</span>
+> 若比丘尼明知而将已分配给僧团的利养分配给自己，应舍弃、为波逸提。<span class="box">参见[比丘舍波逸提三十](../bhikkhu-05#30)</span>
 
 <p class="text-center">Jātarūpavaggo tatiyo <small>金品第三</small></p>
 

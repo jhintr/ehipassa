@@ -15,25 +15,25 @@ Tatr’ ime aṭṭha pārājikā dhammā uddesaṃ āgacchanti.
 
 Yā pana bhikkhunī chandaso methunaṃ dhammaṃ paṭiseveyya, antamaso tiracchānagatena pi, pārājikā hoti asaṃvāsā.
 
-> 若比丘尼起欲而从事淫欲法，乃至与雄性动物，为波罗夷、不共住。<span class="box">参见[比丘波罗夷一](/bhikkhu-02#1)</span>
+> 若比丘尼起欲而从事淫欲法，乃至与雄性动物，为波罗夷、不共住。<span class="box">参见[比丘波罗夷一](../bhikkhu-02#1)</span>
 
 ##### 2
 
 Yā pana bhikkhunī gāmā vā araññā vā adinnaṃ theyyasaṅkhātaṃ ādiyeyya, yathārūpe adinnādāne rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā _corā ’si bālā ’si mūḷhā ’si thenā ’sī_ ti, tathārūpaṃ bhikkhunī adinnaṃ ādiyamānā, ayam pi pārājikā hoti asaṃvāsā.
 
-> 若比丘尼从村落或从林野以被认为偷窃的方式而取走未给予之物，正如对于取走未给予之物，国王们捉拿盗已，会或杀、或缚、或流放——「你是盗，是愚人，是痴人，是贼」，比丘尼如此取走未给予之物，此亦为波罗夷、不共住。<span class="box">参见[比丘波罗夷二](/bhikkhu-02#2)</span>
+> 若比丘尼从村落或从林野以被认为偷窃的方式而取走未给予之物，正如对于取走未给予之物，国王们捉拿盗已，会或杀、或缚、或流放——「你是盗，是愚人，是痴人，是贼」，比丘尼如此取走未给予之物，此亦为波罗夷、不共住。<span class="box">参见[比丘波罗夷二](../bhikkhu-02#2)</span>
 
 ##### 3
 
 Yā pana bhikkhunī sañcicca manussaviggahaṃ jīvitā voropeyya, satthahārakaṃ vā ’ssa pariyeseyya, maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya _“ambho purisa, kiṃ tuyh’ iminā pāpakena dujjīvitena? mataṃ te jīvitā seyyo”_ ti, iti cittamanā cittasaṅkappā anekapariyāyena maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya, ayam pi pārājikā hoti asaṃvāsā.
 
-> 若比丘尼故意夺去人命，或为其寻凶，或赞叹死亡，或劝趣死——「哎，人啊！你为何恶苦而活？对你而言，死较生好」，有如是的心意、心思，以种种方法或赞叹死亡，或劝趣死，此亦为波罗夷、不共住。<span class="box">参见[比丘波罗夷三](/bhikkhu-02#3)</span>
+> 若比丘尼故意夺去人命，或为其寻凶，或赞叹死亡，或劝趣死——「哎，人啊！你为何恶苦而活？对你而言，死较生好」，有如是的心意、心思，以种种方法或赞叹死亡，或劝趣死，此亦为波罗夷、不共住。<span class="box">参见[比丘波罗夷三](../bhikkhu-02#3)</span>
 
 ##### 4
 
 Yā pana bhikkhunī anabhijānaṃ uttarimanussadhammaṃ, attupanāyikaṃ alamariyañāṇadassanaṃ samudācareyya _“iti jānāmi, iti passāmī”_ ti, tato aparena samayena samanuggāhīyamānā vā asamanuggāhīyamānā vā āpannā visuddhāpekkhā evaṃ vadeyya _“ajānam evaṃ ayye avacaṃ jānāmi, apassaṃ passāmi, tucchaṃ musā vilapin”_ ti, aññatra adhimānā, ayam pi pārājikā hoti asaṃvāsā.
 
-> 若比丘尼未证上人法，而称自己有圣智见——「我知如是，我见如是」，此后的某时若遭审问或未遭审问，已犯而欲求清净，作如是说——「尊者！我如是不知、不见而曾言我知、我见，我虚妄而说」，除增上慢，此亦为波罗夷、不共住。<span class="box">参见[比丘波罗夷四](/bhikkhu-02#4)</span>
+> 若比丘尼未证上人法，而称自己有圣智见——「我知如是，我见如是」，此后的某时若遭审问或未遭审问，已犯而欲求清净，作如是说——「尊者！我如是不知、不见而曾言我知、我见，我虚妄而说」，除增上慢，此亦为波罗夷、不共住。<span class="box">参见[比丘波罗夷四](../bhikkhu-02#4)</span>
 
 ##### 5
 

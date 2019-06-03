@@ -145,7 +145,7 @@ Yā pana bhikkhunī naggā nahāyeyya, pācittiyaṃ.
 
 Udakasāṭikaṃ pana bhikkhuniyā kārayamānāya pamāṇikā kāretabbā, tatr’ idaṃ pamāṇaṃ, dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṃ dve vidatthiyo, taṃ atikkāmentiyā, chedanakaṃ pācittiyaṃ.
 
-> 比丘尼教人做水浴衣，应按量做，其量为长四张善逝张手、宽二张，过此者，应截断、为波逸提。<span class="box">参见[比丘波逸提九十一](/bhikkhu-06#91)</span>
+> 比丘尼教人做水浴衣，应按量做，其量为长四张善逝张手、宽二张，过此者，应截断、为波逸提。<span class="box">参见[比丘波逸提九十一](../bhikkhu-06#91)</span>
 
 ##### 23
 
@@ -225,7 +225,7 @@ Yā pana bhikkhunī dukkhitaṃ sahajīviniṃ neva upaṭṭhaheyya na upaṭ�
 
 Yā pana bhikkhunī bhikkhuniyā upassayaṃ datvā kupitā anattamanā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṃ.
 
-> 若比丘尼给予比丘尼住所后，瞋恚、不喜而驱赶或教人驱赶，为波逸提。<span class="box">参见[比丘波逸提十七](/bhikkhu-06#17)</span>
+> 若比丘尼给予比丘尼住所后，瞋恚、不喜而驱赶或教人驱赶，为波逸提。<span class="box">参见[比丘波逸提十七](../bhikkhu-06#17)</span>
 
 ##### 36
 
@@ -297,7 +297,7 @@ Yā pana bhikkhunī bhikkhuniyā _“ehāyye imaṃ adhikaraṇaṃ vūpasamehī
 
 Yā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya, pācittiyaṃ.
 
-> 若比丘尼从自己手中给予在家人、男游行者、女游行者硬食或软食，为波逸提。<span class="box">参见[比丘波逸提四十一](/bhikkhu-06#41)</span>
+> 若比丘尼从自己手中给予在家人、男游行者、女游行者硬食或软食，为波逸提。<span class="box">参见[比丘波逸提四十一](../bhikkhu-06#41)</span>
 
 ##### 47
 
@@ -613,61 +613,61 @@ Yā pana bhikkhunī asaṃkacchikā gāmaṃ paviseyya, pācittiyaṃ.
 
 Sampajānamusāvāde, pācittiyaṃ.
 
-> 知而妄语者，为波逸提。<span class="box">参见[比丘波逸提一](/bhikkhu-06#1)</span>
+> 知而妄语者，为波逸提。<span class="box">参见[比丘波逸提一](../bhikkhu-06#1)</span>
 
 ##### 98
 
 Omasavāde, pācittiyaṃ.
 
-> 骂詈语者，为波逸提。<span class="box">参见[比丘波逸提二](/bhikkhu-06#2)</span>
+> 骂詈语者，为波逸提。<span class="box">参见[比丘波逸提二](../bhikkhu-06#2)</span>
 
 ##### 99
 
 Bhikkhunipesuññe, pācittiyaṃ.
 
-> 诽谤比丘尼者，为波逸提。<span class="box">参见[比丘波逸提三](/bhikkhu-06#3)</span>
+> 诽谤比丘尼者，为波逸提。<span class="box">参见[比丘波逸提三](../bhikkhu-06#3)</span>
 
 ##### 100
 
 Yā pana bhikkhunī anupasampannaṃ padaso dhammaṃ vāceyya, pācittiyaṃ.
 
-> 若比丘尼教未受具足者逐句诵法，为波逸提。<span class="box">参见[比丘波逸提四](/bhikkhu-06#4)</span>
+> 若比丘尼教未受具足者逐句诵法，为波逸提。<span class="box">参见[比丘波逸提四](../bhikkhu-06#4)</span>
 
 ##### 101
 
 Yā pana bhikkhunī anupasampannāya uttari-diratta-tirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.
 
-> 若比丘尼与未受具足者同宿过二三夜，为波逸提。<span class="box">参见[比丘波逸提五](/bhikkhu-06#5)</span>
+> 若比丘尼与未受具足者同宿过二三夜，为波逸提。<span class="box">参见[比丘波逸提五](../bhikkhu-06#5)</span>
 
 ##### 102
 
 Yā pana bhikkhunī purisena sahaseyyaṃ kappeyya, pācittiyaṃ.
 
-> 若比丘尼与男人同宿，为波逸提。<span class="box">参见[比丘波逸提六](/bhikkhu-06#6)</span>
+> 若比丘尼与男人同宿，为波逸提。<span class="box">参见[比丘波逸提六](../bhikkhu-06#6)</span>
 
 ##### 103
 
 Yā pana bhikkhunī purisassa uttarichappañcavācāhi dhammaṃ deseyya, aññatra viññunā itthiviggahena, pācittiyaṃ.
 
-> 若比丘尼对男人说法过五六句，除有智女子，为波逸提。<span class="box">参见[比丘波逸提七](/bhikkhu-06#7)</span>
+> 若比丘尼对男人说法过五六句，除有智女子，为波逸提。<span class="box">参见[比丘波逸提七](../bhikkhu-06#7)</span>
 
 ##### 104
 
 Yā pana bhikkhunī anupasampannāya uttarimanussadhammaṃ āroceyya, bhūtasmiṃ, pācittiyaṃ.
 
-> 若比丘尼对未受具足者宣说上人法，真实者，为波逸提。<span class="box">参见[比丘波逸提八](/bhikkhu-06#8)</span>
+> 若比丘尼对未受具足者宣说上人法，真实者，为波逸提。<span class="box">参见[比丘波逸提八](../bhikkhu-06#8)</span>
 
 ##### 105
 
 Yā pana bhikkhunī bhikkhuniyā duṭṭhullaṃ āpattiṃ anupasampannāya āroceyya, aññatra bhikkhunisammutiyā, pācittiyaṃ.
 
-> 若比丘尼对未受具足者宣说比丘尼的粗重罪，除比丘尼许可，为波逸提。<span class="box">参见[比丘波逸提九](/bhikkhu-06#9)</span>
+> 若比丘尼对未受具足者宣说比丘尼的粗重罪，除比丘尼许可，为波逸提。<span class="box">参见[比丘波逸提九](../bhikkhu-06#9)</span>
 
 ##### 106
 
 Yā pana bhikkhunī pathaviṃ khaṇeyya vā khaṇāpeyya vā, pācittiyaṃ.
 
-> 若比丘尼掘地或教人掘地，为波逸提。<span class="box">参见[比丘波逸提十](/bhikkhu-06#10)</span>
+> 若比丘尼掘地或教人掘地，为波逸提。<span class="box">参见[比丘波逸提十](../bhikkhu-06#10)</span>
 
 <p class="text-center">Musāvādavaggo dasamo <small>妄语品第十</small></p>
 
@@ -675,61 +675,61 @@ Yā pana bhikkhunī pathaviṃ khaṇeyya vā khaṇāpeyya vā, pācittiyaṃ.
 
 Bhūtagāmapātabyatāya, pācittiyaṃ.
 
-> 毁坏生物者，为波逸提。<span class="box">参见[比丘波逸提十一](/bhikkhu-06#11)</span>
+> 毁坏生物者，为波逸提。<span class="box">参见[比丘波逸提十一](../bhikkhu-06#11)</span>
 
 ##### 108
 
 Aññavādake vihesake, pācittiyaṃ.
 
-> 言他而恼乱者，为波逸提。<span class="box">参见[比丘波逸提十二](/bhikkhu-06#12)</span>
+> 言他而恼乱者，为波逸提。<span class="box">参见[比丘波逸提十二](../bhikkhu-06#12)</span>
 
 ##### 109
 
 Ujjhāpanake khiyyanake, pācittiyaṃ.
 
-> 嫌毁而轻贱者，为波逸提。<span class="box">参见[比丘波逸提十三](/bhikkhu-06#13)</span>
+> 嫌毁而轻贱者，为波逸提。<span class="box">参见[比丘波逸提十三](../bhikkhu-06#13)</span>
 
 ##### 110
 
 Yā pana bhikkhunī saṅghikaṃ mañcaṃ vā pīṭhaṃ vā bhisiṃ vā kocchaṃ vā ajjhokāse santharitvā vā santharāpetvā vā, taṃ pakkamantī n’ eva uddhareyya na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyaṃ.
 
-> 若比丘尼在露地敷设或教人敷设僧伽的床、椅、床褥、坐褥后，离开时既不收也不教人收，或不问而行，为波逸提。<span class="box">参见[比丘波逸提十四](/bhikkhu-06#14)</span>
+> 若比丘尼在露地敷设或教人敷设僧伽的床、椅、床褥、坐褥后，离开时既不收也不教人收，或不问而行，为波逸提。<span class="box">参见[比丘波逸提十四](../bhikkhu-06#14)</span>
 
 ##### 111
 
 Yā pana bhikkhunī saṅghike vihāre seyyaṃ santharitvā vā santharāpetvā vā, taṃ pakkamantī n’ eva uddhareyya na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyaṃ.
 
-> 若比丘尼在僧伽的精舍内敷设或教人敷设卧具后，离开时既不收也不教人收，或不问而行，为波逸提。<span class="box">参见[比丘波逸提十五](/bhikkhu-06#15)</span>
+> 若比丘尼在僧伽的精舍内敷设或教人敷设卧具后，离开时既不收也不教人收，或不问而行，为波逸提。<span class="box">参见[比丘波逸提十五](../bhikkhu-06#15)</span>
 
 ##### 112
 
 Yā pana bhikkhunī saṅghike vihāre jānaṃ pubbupagataṃ bhikkhuniṃ anupakhajja seyyaṃ kappeyya _“yassā sambādho bhavissati, sā pakkamissatī”_ ti, etad eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
-> 若比丘尼在僧伽的精舍内明知侵占先到的比丘尼而止宿——「她若觉得拥挤就会离开」，仅为此因缘作，而非其他，为波逸提。<span class="box">参见[比丘波逸提十六](/bhikkhu-06#16)</span>
+> 若比丘尼在僧伽的精舍内明知侵占先到的比丘尼而止宿——「她若觉得拥挤就会离开」，仅为此因缘作，而非其他，为波逸提。<span class="box">参见[比丘波逸提十六](../bhikkhu-06#16)</span>
 
 ##### 113
 
 Yā pana bhikkhunī bhikkhuniṃ kupitā anattamanā saṅghikā vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṃ.
 
-> 若比丘尼瞋恚、不喜而从僧伽的精舍中驱赶或教人驱赶比丘尼，为波逸提。<span class="box">参见[比丘波逸提十七](/bhikkhu-06#17)</span>
+> 若比丘尼瞋恚、不喜而从僧伽的精舍中驱赶或教人驱赶比丘尼，为波逸提。<span class="box">参见[比丘波逸提十七](../bhikkhu-06#17)</span>
 
 ##### 114
 
 Yā pana bhikkhunī saṅghike vihāre upari-vehāsa-kuṭiyā āhaccapādakaṃ mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.
 
-> 若比丘尼在僧伽的精舍内的阁楼上，或坐或卧于脚可拆卸的床椅上，为波逸提。<span class="box">参见[比丘波逸提十八](/bhikkhu-06#18)</span>
+> 若比丘尼在僧伽的精舍内的阁楼上，或坐或卧于脚可拆卸的床椅上，为波逸提。<span class="box">参见[比丘波逸提十八](../bhikkhu-06#18)</span>
 
 ##### 115
 
 Mahallakaṃ pana bhikkhuniyā vihāraṃ kārayamānāya yāva dvārakosā aggaḷa-ṭṭhapanāya ālokasandhi-parikammāya dvatticchadanassa pariyāyaṃ appaharite ṭhitāya adhiṭṭhātabbaṃ, tato ce uttari appaharite pi ṭhitā adhiṭṭhaheyya, pācittiyaṃ.
 
-> 若比丘尼使人建造大精舍，为安置门闩、准备窗户，直到门边，应站在无草处指示二三层屋盖的方法，若过此者，即便站在无草处指示，为波逸提。<span class="box">参见[比丘波逸提十九](/bhikkhu-06#19)</span>
+> 若比丘尼使人建造大精舍，为安置门闩、准备窗户，直到门边，应站在无草处指示二三层屋盖的方法，若过此者，即便站在无草处指示，为波逸提。<span class="box">参见[比丘波逸提十九](../bhikkhu-06#19)</span>
 
 ##### 116
 
 Yā pana bhikkhunī jānaṃ sappāṇakaṃ udakaṃ tiṇaṃ vā mattikaṃ vā siñceyya vā siñcāpeyya vā, pācittiyaṃ.
 
-> 若比丘尼明知而将含有生物的水泼或教人泼到草上或土上，为波逸提。<span class="box">参见[比丘波逸提二十](/bhikkhu-06#20)</span>
+> 若比丘尼明知而将含有生物的水泼或教人泼到草上或土上，为波逸提。<span class="box">参见[比丘波逸提二十](../bhikkhu-06#20)</span>
 
 <p class="text-center">Bhūtagāmavaggo ekādasamo <small>生物品第十一</small></p>
 
@@ -737,7 +737,7 @@ Yā pana bhikkhunī jānaṃ sappāṇakaṃ udakaṃ tiṇaṃ vā mattikaṃ v
 
 Agilānāya bhikkhuniyā eko āvasathapiṇḍo bhuñjitabbo, tato ce uttari bhuñjeyya, pācittiyaṃ.
 
-> 无病比丘尼可以食用一次施处食，若食用过此者，为波逸提。<span class="box">参见[比丘波逸提三十一](/bhikkhu-06#31)</span>
+> 无病比丘尼可以食用一次施处食，若食用过此者，为波逸提。<span class="box">参见[比丘波逸提三十一](../bhikkhu-06#31)</span>
 
 ##### 118
 
@@ -747,7 +747,7 @@ Gaṇabhojane, aññatra samayā, pācittiyaṃ.
 
 Tatthāyaṃ samayo, gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo, mahāsamayo, samaṇabhattasamayo, ayaṃ tattha samayo.
 
-> 这里的适时是，病时，施衣时，作衣时，旅行时，乘船时，大众会时，沙门食时，这是这里的适时。<span class="box">参见[比丘波逸提三十二](/bhikkhu-06#32)</span>
+> 这里的适时是，病时，施衣时，作衣时，旅行时，乘船时，大众会时，沙门食时，这是这里的适时。<span class="box">参见[比丘波逸提三十二](../bhikkhu-06#32)</span>
 
 ##### 119
 
@@ -757,49 +757,49 @@ Bhikkhuniṃ pan’ eva kulaṃ upagataṃ pūvehi vā manthehi vā abhihaṭṭ
 
 Dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhunīhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.
 
-> 接受二三钵后，应从彼处带回与诸比丘尼分享，这是这里的规则。<span class="box">参见[比丘波逸提三十四](/bhikkhu-06#34)</span>
+> 接受二三钵后，应从彼处带回与诸比丘尼分享，这是这里的规则。<span class="box">参见[比丘波逸提三十四](../bhikkhu-06#34)</span>
 
 ##### 120
 
 Yā pana bhikkhunī vikāle khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
-> 若比丘尼在非时或吃硬食、或食软食，为波逸提。<span class="box">参见[比丘波逸提三十七](/bhikkhu-06#37)</span>
+> 若比丘尼在非时或吃硬食、或食软食，为波逸提。<span class="box">参见[比丘波逸提三十七](../bhikkhu-06#37)</span>
 
 ##### 121
 
 Yā pana bhikkhunī sannidhikārakaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
-> 若比丘尼吃或食贮藏的硬食或软食，为波逸提。<span class="box">参见[比丘波逸提三十八](/bhikkhu-06#38)</span>
+> 若比丘尼吃或食贮藏的硬食或软食，为波逸提。<span class="box">参见[比丘波逸提三十八](../bhikkhu-06#38)</span>
 
 ##### 122
 
 Yā pana bhikkhunī adinnaṃ mukhadvāraṃ āhāraṃ āhareyya, aññatra udaka-dantaponā, pācittiyaṃ.
 
-> 若比丘尼把未给予的食物送入口中，除水及牙具，为波逸提。<span class="box">参见[比丘波逸提四十](/bhikkhu-06#40)</span>
+> 若比丘尼把未给予的食物送入口中，除水及牙具，为波逸提。<span class="box">参见[比丘波逸提四十](../bhikkhu-06#40)</span>
 
 ##### 123
 
 Yā pana bhikkhunī bhikkhuniṃ _“ehāyye, gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā”_ ti tassā dāpetvā vā adāpetvā vā uyyojeyya _“gacchāyye, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti, ekikāya me kathā vā nisajjā vā phāsu hotī”_ ti, etad eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
-> 若比丘尼对比丘尼（说）——「来吧，尊者！我们入村或镇去乞食」，教人给予或未教人给予彼已即驱赶——「去吧，尊者！和你一起或说或坐于我不乐，于我独自或说或坐则安乐」，仅为此因缘作，而非其他，为波逸提。<span class="box">参见[比丘波逸提四十二](/bhikkhu-06#42)</span>
+> 若比丘尼对比丘尼（说）——「来吧，尊者！我们入村或镇去乞食」，教人给予或未教人给予彼已即驱赶——「去吧，尊者！和你一起或说或坐于我不乐，于我独自或说或坐则安乐」，仅为此因缘作，而非其他，为波逸提。<span class="box">参见[比丘波逸提四十二](../bhikkhu-06#42)</span>
 
 ##### 124
 
 Yā pana bhikkhunī sabhojane kule anupakhajja nisajjaṃ kappeyya, pācittiyaṃ.
 
-> 若比丘尼侵占有食之家而坐，为波逸提。<span class="box">参见[比丘波逸提四十三](/bhikkhu-06#43)</span>
+> 若比丘尼侵占有食之家而坐，为波逸提。<span class="box">参见[比丘波逸提四十三](../bhikkhu-06#43)</span>
 
 ##### 125
 
 Yā pana bhikkhunī purisena saddhiṃ raho paṭicchanne āsane nisajjaṃ kappeyya, pācittiyaṃ.
 
-> 若比丘尼隐密地与男人在覆蔽的坐处而坐，为波逸提。<span class="box">参见[比丘波逸提四十四](/bhikkhu-06#44)</span>
+> 若比丘尼隐密地与男人在覆蔽的坐处而坐，为波逸提。<span class="box">参见[比丘波逸提四十四](../bhikkhu-06#44)</span>
 
 ##### 126
 
 Yā pana bhikkhunī purisena saddhiṃ eken’ ekā raho nisajjaṃ kappeyya, pācittiyaṃ.
 
-> 若比丘尼隐密地与男人一对一而坐，为波逸提。<span class="box">参见[比丘波逸提四十五](/bhikkhu-06#45)</span>
+> 若比丘尼隐密地与男人一对一而坐，为波逸提。<span class="box">参见[比丘波逸提四十五](../bhikkhu-06#45)</span>
 
 <p class="text-center">Bhojanavaggo dvādasamo <small>食物品第十二</small></p>
 
@@ -811,61 +811,61 @@ Yā pana bhikkhunī nimantitā sabhattā samānā santiṃ bhikkhuniṃ anāpucc
 
 Tatthāyaṃ samayo, cīvaradānasamayo, cīvarakārasamayo, ayaṃ tattha samayo.
 
-> 这里的适时是，施衣时，作衣时，这是这里的适时。<span class="box">参见[比丘波逸提四十六](/bhikkhu-06#46)</span>
+> 这里的适时是，施衣时，作衣时，这是这里的适时。<span class="box">参见[比丘波逸提四十六](../bhikkhu-06#46)</span>
 
 ##### 128
 
 Agilānāya bhikkhuniyā catumāsa-ppaccaya-pavāraṇā sāditabbā, aññatra punapavāraṇāya, aññatra niccapavāraṇāya, tato ce uttari sādiyeyya, pācittiyaṃ.
 
-> 无病比丘尼可以受用四个月资具的邀请，除再邀请，除常邀请，若受用过此者，为波逸提。<span class="box">参见[比丘波逸提四十七](/bhikkhu-06#47)</span>
+> 无病比丘尼可以受用四个月资具的邀请，除再邀请，除常邀请，若受用过此者，为波逸提。<span class="box">参见[比丘波逸提四十七](../bhikkhu-06#47)</span>
 
 ##### 129
 
 Yā pana bhikkhunī uyyuttaṃ senaṃ dassanāya gaccheyya, aññatra tathārūpappaccayā, pācittiyaṃ.
 
-> 若比丘尼前往观看列队的军队，除适当的因缘，为波逸提。<span class="box">参见[比丘波逸提四十八](/bhikkhu-06#48)</span>
+> 若比丘尼前往观看列队的军队，除适当的因缘，为波逸提。<span class="box">参见[比丘波逸提四十八](../bhikkhu-06#48)</span>
 
 ##### 130
 
 Siyā ca tassā bhikkhuniyā kocid eva paccayo senaṃ gamanāya, dirattatirattaṃ tāya bhikkhuniyā senāya vasitabbaṃ, tato ce uttari vaseyya, pācittiyaṃ.
 
-> 若比丘尼有某因缘前往军队，彼比丘尼可以在军队中住二三夜，若住过此者，为波逸提。<span class="box">参见[比丘波逸提四十九](/bhikkhu-06#49)</span>
+> 若比丘尼有某因缘前往军队，彼比丘尼可以在军队中住二三夜，若住过此者，为波逸提。<span class="box">参见[比丘波逸提四十九](../bhikkhu-06#49)</span>
 
 ##### 131
 
 Dirattatirattaṃ ce bhikkhunī senāya vasamānā uyyodhikaṃ vā balaggaṃ vā senābyūhaṃ vā anīkadassanaṃ vā gaccheyya, pācittiyaṃ.
 
-> 若比丘尼在军队中住二三夜，前往演习、或将军、或列阵、或阅兵，为波逸提。<span class="box">参见[比丘波逸提五十](/bhikkhu-06#50)</span>
+> 若比丘尼在军队中住二三夜，前往演习、或将军、或列阵、或阅兵，为波逸提。<span class="box">参见[比丘波逸提五十](../bhikkhu-06#50)</span>
 
 ##### 132
 
 Surā-meraya-pāne, pācittiyaṃ.
 
-> 饮谷酒、果酒者，为波逸提。<span class="box">参见[比丘波逸提五十一](/bhikkhu-06#51)</span>
+> 饮谷酒、果酒者，为波逸提。<span class="box">参见[比丘波逸提五十一](../bhikkhu-06#51)</span>
 
 ##### 133
 
 Aṅguli-patodake, pācittiyaṃ.
 
-> 以指戳者，为波逸提。<span class="box">参见[比丘波逸提五十二](/bhikkhu-06#52)</span>
+> 以指戳者，为波逸提。<span class="box">参见[比丘波逸提五十二](../bhikkhu-06#52)</span>
 
 ##### 134
 
 Udake hasadhamme, pācittiyaṃ.
 
-> 水中嬉戏者，为波逸提。<span class="box">参见[比丘波逸提五十三](/bhikkhu-06#53)</span>
+> 水中嬉戏者，为波逸提。<span class="box">参见[比丘波逸提五十三](../bhikkhu-06#53)</span>
 
 ##### 135
 
 Anādariye, pācittiyaṃ.
 
-> 不恭敬者，为波逸提。<span class="box">参见[比丘波逸提五十四](/bhikkhu-06#54)</span>
+> 不恭敬者，为波逸提。<span class="box">参见[比丘波逸提五十四](../bhikkhu-06#54)</span>
 
 ##### 136
 
 Yā pana bhikkhunī bhikkhuniṃ bhiṃsāpeyya, pācittiyaṃ.
 
-> 若比丘尼恐吓比丘尼，为波逸提。<span class="box">参见[比丘波逸提五十五](/bhikkhu-06#55)</span>
+> 若比丘尼恐吓比丘尼，为波逸提。<span class="box">参见[比丘波逸提五十五](../bhikkhu-06#55)</span>
 
 <p class="text-center">Cārittavaggo terasamo <small>交际品第十三</small></p>
 
@@ -873,7 +873,7 @@ Yā pana bhikkhunī bhikkhuniṃ bhiṃsāpeyya, pācittiyaṃ.
 
 Yā pana bhikkhunī agilānā visibbanāpekkhā jotiṃ samādaheyya vā samādahāpeyya vā, aññatra tathārūpappaccayā, pācittiyaṃ.
 
-> 若比丘尼无病而期望取暖，燃火或教人燃火，除适当的因缘，为波逸提。<span class="box">参见[比丘波逸提五十六](/bhikkhu-06#56)</span>
+> 若比丘尼无病而期望取暖，燃火或教人燃火，除适当的因缘，为波逸提。<span class="box">参见[比丘波逸提五十六](../bhikkhu-06#56)</span>
 
 ##### 138
 
@@ -883,7 +883,7 @@ Yā pana bhikkhunī orena ’ddhamāsaṃ nahāyeyya, aññatra samayā, pācitt
 
 Tatthāyaṃ samayo, _“diyaḍḍho māso seso gimhānan”_ ti _“vassānassa paṭhamo māso”_ iccete aḍḍhateyyamāsā uṇhasamayo, pariḷāhasamayo, gilānasamayo, kammasamayo, addhānagamanasamayo, vātavuṭṭhisamayo, ayaṃ tattha samayo.
 
-> 这里的适时是，「热季的最后一个半月」、「雨季的第一个月」等两个半月为热时，烧时，病时，作业时，旅行时，风雨时，这是这里的适时。<span class="box">参见[比丘波逸提五十七](/bhikkhu-06#57)</span>
+> 这里的适时是，「热季的最后一个半月」、「雨季的第一个月」等两个半月为热时，烧时，病时，作业时，旅行时，风雨时，这是这里的适时。<span class="box">参见[比丘波逸提五十七](../bhikkhu-06#57)</span>
 
 ##### 139
 
@@ -893,43 +893,43 @@ Navaṃ pana bhikkhuniyā cīvaralābhāya tiṇṇaṃ dubbaṇṇakaraṇāna�
 
 Anādā ce bhikkhunī tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubbaṇṇakaraṇaṃ navaṃ cīvaraṃ paribhuñjeyya, pācittiyaṃ.
 
-> 若比丘尼未取三种坏色中的任一种坏色而穿用新衣，为波逸提。<span class="box">参见[比丘波逸提五十八](/bhikkhu-06#58)</span>
+> 若比丘尼未取三种坏色中的任一种坏色而穿用新衣，为波逸提。<span class="box">参见[比丘波逸提五十八](../bhikkhu-06#58)</span>
 
 ##### 140
 
 Yā pana bhikkhunī bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṃ cīvaraṃ vikappetvā apaccuddhāraṇaṃ paribhuñjeyya, pācittiyaṃ.
 
-> 若比丘尼自己把衣分配给比丘、比丘尼、式叉摩那、沙弥或沙弥尼后，未经舍弃即穿用，为波逸提。<span class="box">参见[比丘波逸提五十九](/bhikkhu-06#59)</span>
+> 若比丘尼自己把衣分配给比丘、比丘尼、式叉摩那、沙弥或沙弥尼后，未经舍弃即穿用，为波逸提。<span class="box">参见[比丘波逸提五十九](../bhikkhu-06#59)</span>
 
 ##### 141
 
 Yā pana bhikkhunī bhikkhuniyā pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigharaṃ vā kāyabandhanaṃ vā apanidheyya vā apanidhāpeyya vā, antamaso hasāpekkhā pi, pācittiyaṃ.
 
-> 若比丘尼藏匿或教人藏匿比丘尼的钵、衣、坐具、针筒或腰带，乃至仅为嬉戏，为波逸提。<span class="box">参见[比丘波逸提六十](/bhikkhu-06#60)</span>
+> 若比丘尼藏匿或教人藏匿比丘尼的钵、衣、坐具、针筒或腰带，乃至仅为嬉戏，为波逸提。<span class="box">参见[比丘波逸提六十](../bhikkhu-06#60)</span>
 
 ##### 142
 
 Yā pana bhikkhunī sañcicca pāṇaṃ jīvitā voropeyya, pācittiyaṃ.
 
-> 若比丘尼故意夺去生物之命，为波逸提。<span class="box">参见[比丘波逸提六十一](/bhikkhu-06#61)</span>
+> 若比丘尼故意夺去生物之命，为波逸提。<span class="box">参见[比丘波逸提六十一](../bhikkhu-06#61)</span>
 
 ##### 143
 
 Yā pana bhikkhunī jānaṃ sappāṇakaṃ udakaṃ paribhuñjeyya, pācittiyaṃ.
 
-> 若比丘尼明知而服用有生物的水，为波逸提。<span class="box">参见[比丘波逸提六十二](/bhikkhu-06#62)</span>
+> 若比丘尼明知而服用有生物的水，为波逸提。<span class="box">参见[比丘波逸提六十二](../bhikkhu-06#62)</span>
 
 ##### 144
 
 Yā pana bhikkhunī jānaṃ yathādhammaṃ nihatādhikaraṇaṃ punakammāya ukkoṭeyya, pācittiyaṃ.
 
-> 若比丘尼明知而为再次羯磨重开如法裁决的诤论，为波逸提。<span class="box">参见[比丘波逸提六十三](/bhikkhu-06#63)</span>
+> 若比丘尼明知而为再次羯磨重开如法裁决的诤论，为波逸提。<span class="box">参见[比丘波逸提六十三](../bhikkhu-06#63)</span>
 
 ##### 145
 
 Yā pana bhikkhunī jānaṃ theyyasatthena saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya, antamaso gāmantaram pi, pācittiyaṃ.
 
-> 若比丘尼明知而与盗贼商队相约而行于同一道路，乃至仅至邻村，为波逸提。<span class="box">参见[比丘波逸提六十六](/bhikkhu-06#66)</span>
+> 若比丘尼明知而与盗贼商队相约而行于同一道路，乃至仅至邻村，为波逸提。<span class="box">参见[比丘波逸提六十六](../bhikkhu-06#66)</span>
 
 ##### 146
 
@@ -943,7 +943,7 @@ Sā bhikkhunī bhikkhunīhi evam assa vacanīyā _“māyye evaṃ avaca, mā Bh
 
 Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’ eva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañ ce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, pācittiyaṃ.
 
-> 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，为波逸提。<span class="box">参见[比丘波逸提六十八](/bhikkhu-06#68)</span>
+> 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，为波逸提。<span class="box">参见[比丘波逸提六十八](../bhikkhu-06#68)</span>
 
 <p class="text-center">Jotivaggo cuddasamo <small>火品第十四</small></p>
 
@@ -951,7 +951,7 @@ Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’ eva paggaṇheyya, sā 
 
 Yā pana bhikkhunī jānaṃ tathāvādiniyā bhikkhuniyā akaṭānudhammāya taṃ diṭṭhiṃ appaṭinissaṭṭhāya saddhiṃ sambhuñjeyya vā, saṃvaseyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ.
 
-> 若比丘尼明知而与如是说且未随法作、未舍弃此见的比丘尼同吃、同住或同宿，为波逸提。<span class="box">参见[比丘波逸提六十九](/bhikkhu-06#69)</span>
+> 若比丘尼明知而与如是说且未随法作、未舍弃此见的比丘尼同吃、同住或同宿，为波逸提。<span class="box">参见[比丘波逸提六十九](../bhikkhu-06#69)</span>
 
 ##### 148
 
@@ -969,7 +969,7 @@ Evañ ca sā samaṇuddesā bhikkhunīhi vuccamānā tath’ eva paggaṇheyya, 
 
 Yā pana bhikkhunī jānaṃ tathānāsitaṃ samaṇuddesaṃ upalāpeyya vā, upaṭṭhāpeyya vā, sambhuñjeyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ.
 
-> 若比丘尼明知而与如是灭摈的沙弥尼谈论，或令侍奉，或同吃、同宿，为波逸提。<span class="box">参见[比丘波逸提七十](/bhikkhu-06#70)</span>
+> 若比丘尼明知而与如是灭摈的沙弥尼谈论，或令侍奉，或同吃、同宿，为波逸提。<span class="box">参见[比丘波逸提七十](../bhikkhu-06#70)</span>
 
 ##### 149
 
@@ -979,13 +979,13 @@ Yā pana bhikkhunī bhikkhunīhi sahadhammikaṃ vuccamānā evaṃ vadeyya _“
 
 Sikkhamānāya, bhikkhave, bhikkhuniyā aññātabbaṃ paripucchitabbaṃ paripañhitabbaṃ, ayaṃ tattha sāmīci.
 
-> 诸比丘！为学的比丘尼应了知、应遍问、应遍审，这是这里的规则。<span class="box">参见[比丘波逸提七十一](/bhikkhu-06#71)</span>
+> 诸比丘！为学的比丘尼应了知、应遍问、应遍审，这是这里的规则。<span class="box">参见[比丘波逸提七十一](../bhikkhu-06#71)</span>
 
 ##### 150
 
 Yā pana bhikkhunī pātimokkhe uddissamāne evaṃ vadeyya _“kiṃ pan’ imehi khuddānukhuddakehi sikkhāpadehi uddiṭṭhehi, yāvad eva kukkuccāya vihesāya vilekhāya saṃvattantī”_ ti, sikkhāpadavivaṇṇake pācittiyaṃ.
 
-> 若比丘尼在诵波罗提木叉时如是说——「为何要诵这些小随小学处，它们只会引起恶作、恼害、混乱」，诽谤学处者，为波逸提。<span class="box">参见[比丘波逸提七十二](/bhikkhu-06#72)</span>
+> 若比丘尼在诵波罗提木叉时如是说——「为何要诵这些小随小学处，它们只会引起恶作、恼害、混乱」，诽谤学处者，为波逸提。<span class="box">参见[比丘波逸提七十二](../bhikkhu-06#72)</span>
 
 ##### 151
 
@@ -999,37 +999,37 @@ Tañ ce bhikkhuniṃ aññā bhikkhuniyo jāneyyuṃ _nisinnapubbaṃ imāya bhi
 
 Na ca tassā bhikkhuniyā aññāṇakena mutti atthi, yañ ca tattha āpattiṃ āpannā, tañ ca yathādhammo kāretabbo, uttari ca ’ssā moho āropetabbo _“tassā te, ayye, alābhā, tassā te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī”_ ti, idaṃ tasmiṃ mohanake pācittiyaṃ.
 
-> 彼比丘尼不得以无知而开脱，于此已犯之罪应如法对待，更应指责其愚痴——「尊者！这对你无利，这对你无得，你在诵波罗提木叉时未善用心、作意」，这于彼愚痴之人为波逸提。<span class="box">参见[比丘波逸提七十三](/bhikkhu-06#73)</span>
+> 彼比丘尼不得以无知而开脱，于此已犯之罪应如法对待，更应指责其愚痴——「尊者！这对你无利，这对你无得，你在诵波罗提木叉时未善用心、作意」，这于彼愚痴之人为波逸提。<span class="box">参见[比丘波逸提七十三](../bhikkhu-06#73)</span>
 
 ##### 152
 
 Yā pana bhikkhunī bhikkhuniyā kupitā anattamanā pahāraṃ dadeyya, pācittiyaṃ.
 
-> 若比丘尼瞋恚、不喜而打比丘尼，为波逸提。<span class="box">参见[比丘波逸提七十四](/bhikkhu-06#74)</span>
+> 若比丘尼瞋恚、不喜而打比丘尼，为波逸提。<span class="box">参见[比丘波逸提七十四](../bhikkhu-06#74)</span>
 
 ##### 153
 
 Yā pana bhikkhunī bhikkhuniyā kupitā anattamanā talasattikaṃ uggireyya, pācittiyaṃ.
 
-> 若比丘尼瞋恚、不喜而对比丘尼举手作打，为波逸提。<span class="box">参见[比丘波逸提七十五](/bhikkhu-06#75)</span>
+> 若比丘尼瞋恚、不喜而对比丘尼举手作打，为波逸提。<span class="box">参见[比丘波逸提七十五](../bhikkhu-06#75)</span>
 
 ##### 154
 
 Yā pana bhikkhunī bhikkhuniṃ amūlakena saṅghādisesena anuddhaṃseyya, pācittiyaṃ.
 
-> 若比丘尼以无根据的僧残诽谤比丘尼，为波逸提。<span class="box">参见[比丘波逸提七十六](/bhikkhu-06#76)</span>
+> 若比丘尼以无根据的僧残诽谤比丘尼，为波逸提。<span class="box">参见[比丘波逸提七十六](../bhikkhu-06#76)</span>
 
 ##### 155
 
 Yā pana bhikkhunī bhikkhuniyā sañcicca kukkuccaṃ upadaheyya _“iti ’ssā muhuttam pi aphāsu bhavissatī”_ ti, etad eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
-> 若比丘尼故意导致比丘尼恶作——「如此她将有片刻的不安」，仅为此因缘作，而非其他，为波逸提。<span class="box">参见[比丘波逸提七十七](/bhikkhu-06#77)</span>
+> 若比丘尼故意导致比丘尼恶作——「如此她将有片刻的不安」，仅为此因缘作，而非其他，为波逸提。<span class="box">参见[比丘波逸提七十七](../bhikkhu-06#77)</span>
 
 ##### 156
 
 Yā pana bhikkhunī bhikkhunīnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivādāpannānaṃ upassutiṃ tiṭṭheyya _“yaṃ imā bhaṇissanti, taṃ sossāmī”_ ti, etad eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
-> 若比丘尼驻足窃听发生争吵、发生不和、从事诤论的比丘尼们——「我要听听她们说的」，仅为此因缘作，而非其他，为波逸提。<span class="box">参见[比丘波逸提七十八](/bhikkhu-06#78)</span>
+> 若比丘尼驻足窃听发生争吵、发生不和、从事诤论的比丘尼们——「我要听听她们说的」，仅为此因缘作，而非其他，为波逸提。<span class="box">参见[比丘波逸提七十八](../bhikkhu-06#78)</span>
 
 <p class="text-center">Diṭṭhivaggo pannarasamo <small>见品第十五</small></p>
 
@@ -1037,25 +1037,25 @@ Yā pana bhikkhunī bhikkhunīnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vi
 
 Yā pana bhikkhunī dhammikānaṃ kammānaṃ chandaṃ datvā pacchā khīyanadhammaṃ āpajjeyya, pācittiyaṃ.
 
-> 若比丘尼对如法的羯磨给欲已，之后又生不平，为波逸提。<span class="box">参见[比丘波逸提七十九](/bhikkhu-06#79)</span>
+> 若比丘尼对如法的羯磨给欲已，之后又生不平，为波逸提。<span class="box">参见[比丘波逸提七十九](../bhikkhu-06#79)</span>
 
 ##### 158
 
 Yā pana bhikkhunī saṅghe vinicchayakathāya vattamānāya chandaṃ adatvā uṭṭhāyāsanā pakkameyya, pācittiyaṃ.
 
-> 若比丘尼在僧伽作裁决时，不给欲即从坐起而离开，为波逸提。<span class="box">参见[比丘波逸提八十](/bhikkhu-06#80)</span>
+> 若比丘尼在僧伽作裁决时，不给欲即从坐起而离开，为波逸提。<span class="box">参见[比丘波逸提八十](../bhikkhu-06#80)</span>
 
 ##### 159
 
 Yā pana bhikkhunī samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya _“yathāsanthutaṃ bhikkhuniyo saṅghikaṃ lābhaṃ pariṇāmentī”_ ti, pācittiyaṃ.
 
-> 若比丘尼给与和合的僧团衣已，之后又生不平——「诸比丘尼随亲疏地分配僧团的利养」，为波逸提。<span class="box">参见[比丘波逸提八十一](/bhikkhu-06#81)</span>
+> 若比丘尼给与和合的僧团衣已，之后又生不平——「诸比丘尼随亲疏地分配僧团的利养」，为波逸提。<span class="box">参见[比丘波逸提八十一](../bhikkhu-06#81)</span>
 
 ##### 160
 
 Yā pana bhikkhunī jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ puggalassa pariṇāmeyya, pācittiyaṃ.
 
-> 若比丘尼明知而将已分配给僧团的利养分配给个人，为波逸提。<span class="box">参见[比丘波逸提八十二](/bhikkhu-06#82)</span>
+> 若比丘尼明知而将已分配给僧团的利养分配给个人，为波逸提。<span class="box">参见[比丘波逸提八十二](../bhikkhu-06#82)</span>
 
 ##### 161
 
@@ -1065,31 +1065,31 @@ Yā pana bhikkhunī ratanaṃ vā ratanasammataṃ vā aññatra ajjhārāmā v�
 
 Ratanaṃ vā pana bhikkhuniyā ratanasammataṃ vā ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggahāpetvā vā nikkhipitabbaṃ _“yassa bhavissati, so harissatī”_ ti, ayaṃ tattha sāmīci.
 
-> 比丘尼在自园或自住处捉持或教人捉持宝或类似宝者后，应保存——「物主将会拿去」，这是这里的规则。<span class="box">参见[比丘波逸提八十四](/bhikkhu-06#84)</span>
+> 比丘尼在自园或自住处捉持或教人捉持宝或类似宝者后，应保存——「物主将会拿去」，这是这里的规则。<span class="box">参见[比丘波逸提八十四](../bhikkhu-06#84)</span>
 
 ##### 162
 
 Yā pana bhikkhunī aṭṭhimayaṃ vā dantamayaṃ vā visāṇamayaṃ vā sūcigharaṃ kārāpeyya, bhedanakaṃ pācittiyaṃ.
 
-> 若比丘尼教人做骨制、牙制、角制的针筒，应打碎、为波逸提。<span class="box">参见[比丘波逸提八十六](/bhikkhu-06#86)</span>
+> 若比丘尼教人做骨制、牙制、角制的针筒，应打碎、为波逸提。<span class="box">参见[比丘波逸提八十六](../bhikkhu-06#86)</span>
 
 ##### 163
 
 Navaṃ pana bhikkhuniyā mañcaṃ vā pīṭhaṃ vā kārayamānāya aṭṭhaṅgulapādakaṃ kāretabbaṃ sugataṅgulena, aññatra heṭṭhimāya aṭaniyā, taṃ atikkāmentiyā, chedanakaṃ pācittiyaṃ.
 
-> 比丘尼教人做新的床或椅，应做八善逝指高的脚，除底部框架，过此者，应截断、为波逸提。<span class="box">参见[比丘波逸提八十七](/bhikkhu-06#87)</span>
+> 比丘尼教人做新的床或椅，应做八善逝指高的脚，除底部框架，过此者，应截断、为波逸提。<span class="box">参见[比丘波逸提八十七](../bhikkhu-06#87)</span>
 
 ##### 164
 
 Yā pana bhikkhunī mañcaṃ vā pīṭhaṃ vā tūlonaddhaṃ kārāpeyya, uddālanakaṃ pācittiyaṃ.
 
-> 若比丘尼教人做覆以棉花的床或椅，应破坏、为波逸提。<span class="box">参见[比丘波逸提八十八](/bhikkhu-06#88)</span>
+> 若比丘尼教人做覆以棉花的床或椅，应破坏、为波逸提。<span class="box">参见[比丘波逸提八十八](../bhikkhu-06#88)</span>
 
 ##### 165
 
 Kaṇḍuppaṭicchādiṃ pana bhikkhuniyā kārayamānāya pamāṇikā kāretabbā, tatr’ idaṃ pamāṇaṃ, dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṃ dve vidatthiyo, taṃ atikkāmentiyā, chedanakaṃ pācittiyaṃ.
 
-> 比丘尼教人做覆疮衣，应按量做，其量为长四张善逝张手、宽二张手，过此者，应截断、为波逸提。<span class="box">参见[比丘波逸提九十](/bhikkhu-06#90)</span>
+> 比丘尼教人做覆疮衣，应按量做，其量为长四张善逝张手、宽二张手，过此者，应截断、为波逸提。<span class="box">参见[比丘波逸提九十](../bhikkhu-06#90)</span>
 
 ##### 166
 
@@ -1099,7 +1099,7 @@ Yā pana bhikkhunī sugatacīvarappamāṇaṃ cīvaraṃ kārāpeyya, atireka�
 
 Tatr’ idaṃ Sugatassa sugatacīvarappamāṇaṃ, dīghaso nava vidatthiyo sugatavidatthiyā, tiriyaṃ cha vidatthiyo, idaṃ Sugatassa sugatacīvarappamāṇanti.
 
-> 善逝的善逝衣量为长九张善逝张手、宽六张手，这是善逝的善逝衣量。<span class="box">参见[比丘波逸提九十二](/bhikkhu-06#92)</span>
+> 善逝的善逝衣量为长九张善逝张手、宽六张手，这是善逝的善逝衣量。<span class="box">参见[比丘波逸提九十二](../bhikkhu-06#92)</span>
 
 <p class="text-center">Dhammikavaggo soḷasamo <small>如法品第十六</small></p>
 
