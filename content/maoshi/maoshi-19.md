@@ -2,7 +2,7 @@
 title: 節南山之什第十九
 subtitle: 十篇
 date: 2019-06-03T10:14:15+08:00
-draft: true
+draft: false
 weight: 19
 ---
 
