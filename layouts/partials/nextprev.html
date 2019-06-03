@@ -1,0 +1,16 @@
+<div class="row mt-5">
+    <div class="col-md-6">
+        {{ if .NextInSection }}
+        <a class="btn btn-outline-success btn-block mt-3" href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a>
+        {{ else }}
+        <a class="btn btn-outline-secondary btn-block mt-3 disabled">无</a>
+        {{ end }}
+    </div>
+    <div class="col-md-6">
+        {{ if .PrevInSection }}
+        <a class="btn btn-outline-success btn-block mt-3" href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a>
+        {{ else }}
+        <a class="btn btn-outline-secondary btn-block mt-3 disabled">无</a>
+        {{ end }}
+    </div>
+</div>
