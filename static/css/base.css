@@ -1,15 +1,15 @@
 body {
-    line-height: 2;
     letter-spacing: 1px;
+    line-height: 2;
 }
 
 /* h3 and h4 can use together */
 
 h3 {
-    text-align: center;
     color: #494f54;
     margin-top: 3rem;
     margin-bottom: 3rem;
+    text-align: center;
 }
 
 h4 {
@@ -21,28 +21,30 @@ h4 {
 /* h5 only for digitals */
 
 h5 {
-    font-family: monospace;
-    font-weight: 700;
     color: #28a745;
+    font-family: monospace;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 2;
 }
 
 a, a:hover {
-    text-decoration: none;
     color: #28a745;
+    text-decoration: none;
 }
 
 blockquote {
-    font-size: 0.9rem;
-    margin-left: 2rem;
     color: #494f54;
+    margin-left: 2rem;
+    font-size: 0.9rem;
 }
 
 q {
-    quotes: '〔' '〕';
-    display: inline;
+    color: #999;
     font-size: 0.9rem;
     font-weight: normal;
-    color: #999;
+    quotes: '〔' '〕';
+    display: inline;
 }
 
 strong, b {
@@ -58,8 +60,8 @@ del {
 }
 
 small {
-    font-weight: normal;
     color: #494f54;
+    font-weight: normal;
 }
 
 small em, small i, small strong, small b {

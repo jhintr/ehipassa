@@ -45,7 +45,7 @@ Subhāsitā ca yā vācā, etaṃ maṅgalam-uttamaṃ.
 Mātāpitu upaṭṭhānaṃ, puttadārassa saṅgaho,  
 Anākulā ca kammantā, etaṃ maṅgalam-uttamaṃ.
 
-> 侍奉父母，爱护子妻，行事不乱，此最吉祥。
+> 侍奉父母，爱护子妻，行事不紊，此最吉祥。
 
 ##### 266
 
