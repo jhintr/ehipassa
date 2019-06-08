@@ -73,7 +73,7 @@ Kālena dhammassavanaṃ, etaṃ maṅgalam-uttamaṃ.
 Khantī ca sovacassatā, samaṇānañ ca dassanaṃ,  
 Kālena dhammasākacchā, etaṃ maṅgalam-uttamaṃ.
 
-> 忍辱，顺从，亲近沙门，时常论法，此最吉祥。
+> 忍辱，易于受教，亲近沙门，时常论法，此最吉祥。
 
 ##### 270
 
