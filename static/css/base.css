@@ -6,14 +6,14 @@ body {
 /* h3 and h4 can use together */
 
 h3 {
-    color: #494f54;
+    color: var(--gray);
     margin-top: 3rem;
     margin-bottom: 3rem;
     text-align: center;
 }
 
 h4 {
-    color: #28a745;
+    color: var(--green);
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
@@ -21,20 +21,25 @@ h4 {
 /* h5 only for digitals */
 
 h5 {
-    color: #28a745;
+    color: var(--green);
     font-family: monospace;
     font-size: 16px;
     font-weight: 700;
     line-height: 2;
 }
 
-a, a:hover {
-    color: #28a745;
+a {
+    color: var(--green);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--red);
     text-decoration: none;
 }
 
 blockquote {
-    color: #494f54;
+    color: var(--gray);
     margin-left: 2rem;
     font-size: 0.9rem;
 }
@@ -48,11 +53,11 @@ q {
 }
 
 strong, b {
-    color: #C60;
+    color: var(--orange);
 }
 
 em, i {
-    color: #28a745;
+    color: var(--green);
 }
 
 del {
@@ -60,7 +65,7 @@ del {
 }
 
 small {
-    color: #494f54;
+    color: var(--gray);
     font-weight: normal;
 }
 

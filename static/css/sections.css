@@ -1,5 +1,5 @@
 .box {
-    color: #28a745;
+    color: var(--green);
     font-size: 0.9rem;
     margin: auto 0.5rem;
     padding: 2px 5px;
@@ -31,5 +31,5 @@
 .cina em,
 .cina i {
     font-style: normal;
-    border-bottom: 1px solid #28a745;
+    border-bottom: 1px solid var(--green);
 }
