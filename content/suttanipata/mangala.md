@@ -66,7 +66,7 @@ Appamādo ca dhammesu, etaṃ maṅgalam-uttamaṃ.
 Gāravo ca nivāto ca, santuṭṭhi ca kataññutā,  
 Kālena dhammassavanaṃ, etaṃ maṅgalam-uttamaṃ.
 
-> 恭敬，谦逊，知足，感恩，时常闻法，此最吉祥。
+> 恭敬，谦逊，知足，知恩，时常闻法，此最吉祥。
 
 ##### 269
 
