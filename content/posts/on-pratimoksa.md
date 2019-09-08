@@ -5,7 +5,6 @@ date: 2019-06-01
 draft: false
 type: cina
 layout: single
-weight: 1001
 ---
 
 <p class="text-secondary text-center">呂澂 撰</p>

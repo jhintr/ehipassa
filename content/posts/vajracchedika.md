@@ -5,7 +5,6 @@ date: 2019-06-01
 draft: false
 type: translation
 layout: single
-weight: 500
 ---
 
 <p class="text-center">

@@ -3,7 +3,6 @@ title: 吳譯法句經
 subtitle: 維祇難
 date: 2015-11-23
 draft: false
-weight: 501
 ---
 
 <p class="text-center">尊者法救撰、吳天竺沙門維祇難等譯</p>
