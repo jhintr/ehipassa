@@ -1,8 +1,8 @@
 ---
 title: "寓言第二十七"
+subtitle: "莊子"
 date: 2019-10-07T08:55:50+08:00
 draft: false
-subtitle: "莊子"
 weight: 127
 ---
 

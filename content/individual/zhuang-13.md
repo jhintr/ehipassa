@@ -1,8 +1,8 @@
 ---
 title: "天道第十三"
+subtitle: "莊子"
 date: 2019-09-04T08:25:34+08:00
 draft: false
-subtitle: "莊子"
 weight: 113
 ---
 

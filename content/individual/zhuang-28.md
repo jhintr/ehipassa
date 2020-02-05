@@ -1,8 +1,8 @@
 ---
 title: "讓王第二十八"
+subtitle: "莊子"
 date: 2019-10-07T14:42:22+08:00
 draft: false
-subtitle: "莊子"
 weight: 128
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "繕性第十六"
+subtitle: "莊子"
 date: 2019-09-08T07:49:13+08:00
 draft: false
-subtitle: "莊子"
 weight: 116
 ---
 

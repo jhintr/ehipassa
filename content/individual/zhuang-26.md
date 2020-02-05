@@ -1,8 +1,8 @@
 ---
 title: "外物第二十六"
+subtitle: "莊子"
 date: 2019-10-07T08:53:27+08:00
 draft: false
-subtitle: "莊子"
 weight: 126
 ---
 
