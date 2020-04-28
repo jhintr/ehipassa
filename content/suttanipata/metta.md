@@ -69,7 +69,7 @@ Uddhaṃ adho ca tiriyañ ca, asambādhaṃ averam-asapattaṃ.
 Tiṭṭhaṃ caraṃ nisinno va, sayāno yāvatāssa vitamiddho,  
 Etaṃ satiṃ adhiṭṭheyya, brahmam-etaṃ vihāram-idham-āhu.
 
-> <q>无论</q>站着、走着、坐着或躺着，只要没有睡着，就应确立此念，他们说这就是此世的梵住。
+> <q>无论</q>站着、走着、坐着或躺着，只要尚未入睡，就应确立此念，他们说这就是此世的梵住。
 
 ##### 152
 
