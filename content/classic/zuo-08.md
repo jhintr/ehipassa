@@ -1,6 +1,6 @@
 ---
 title: "成公"
-subtitle: "590~573 BCE"
+subtitle: "公元前 590-573"
 date: 2019-09-14T20:06:43+08:00
 draft: false
 weight: 108

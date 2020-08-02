@@ -1,6 +1,6 @@
 ---
 title: "襄公"
-subtitle: "572~542 BCE"
+subtitle: "公元前 572-542"
 date: 2019-09-14T20:06:48+08:00
 draft: false
 weight: 109

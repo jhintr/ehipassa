@@ -1,6 +1,6 @@
 ---
 title: "閔公"
-subtitle: "661~660 BCE"
+subtitle: "公元前 661-660"
 date: 2019-09-14T20:06:27+08:00
 draft: false
 weight: 104

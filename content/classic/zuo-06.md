@@ -1,6 +1,6 @@
 ---
 title: "文公"
-subtitle: "626~609 BCE"
+subtitle: "公元前 626-609"
 date: 2019-09-14T20:06:36+08:00
 draft: false
 weight: 106

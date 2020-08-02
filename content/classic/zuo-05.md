@@ -1,6 +1,6 @@
 ---
 title: "僖公"
-subtitle: "659~627 BCE"
+subtitle: "公元前 659-627"
 date: 2019-09-14T20:06:31+08:00
 draft: false
 weight: 105

@@ -1,6 +1,6 @@
 ---
 title: "桓公"
-subtitle: "711~694 BCE"
+subtitle: "公元前 711-694"
 date: 2019-09-14T20:06:18+08:00
 draft: false
 weight: 102

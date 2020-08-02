@@ -1,6 +1,6 @@
 ---
 title: "宣公"
-subtitle: "608~591 BCE"
+subtitle: "公元前 608-591"
 date: 2019-09-14T20:06:39+08:00
 draft: false
 weight: 107

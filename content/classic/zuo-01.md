@@ -1,6 +1,6 @@
 ---
 title: "隱公"
-subtitle: "722~712 BCE"
+subtitle: "公元前 722-712"
 date: 2019-09-14T20:06:11+08:00
 draft: false
 weight: 101

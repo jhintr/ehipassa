@@ -15,7 +15,7 @@
                     {{- if .Params.subtitle }}
                     <small class="text-muted">{{ .Params.subtitle }}</small>
                     {{- else }}
-                    <small class="text-muted text-monospace">{{ .Params.date.Format "2006/01/02" }}</small>
+                    <span class="badge badge-light badge-pill text-monospace">{{ .Params.date.Format "2006/01/02" }}</span>
                     {{- end }}
                 </a>
             </li>

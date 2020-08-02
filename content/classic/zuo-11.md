@@ -1,6 +1,6 @@
 ---
 title: "定公"
-subtitle: "509~495 BCE"
+subtitle: "公元前 509-495"
 date: 2019-09-14T20:06:56+08:00
 draft: false
 weight: 111
