@@ -7,49 +7,49 @@ weight: 109
 ---
 
 
-#### 襄元年｜前五七二
+#### 襄元年<small>｜前五七二</small>
 
-<p class="text-primary ml-5">元年春王正月公即位<small>無傳於是公年四歲</small></p>
+<p class="text-primary">元年春王正月公即位<small>無傳於是公年四歲</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">仲孫蔑會晉欒黶宋華元衞甯殖曹人莒人邾人滕人薛人圍宋彭城<small>魯與謀於虛朾而書會者稟命霸主非匹敵故</small></p>
+<p class="text-primary">仲孫蔑會晉欒黶宋華元衞甯殖曹人莒人邾人滕人薛人圍宋彭城<small>魯與謀於虛朾而書會者稟命霸主非匹敵故</small></p>
 
 元年春己亥圍宋彭城<small>下有二月則此己亥為正月正月無己亥日誤</small>非宋地追書也<small>成十八年楚取彭城以封魚石故曰非宋地夫子治春秋追書繫之宋</small>於是為宋討魚石故稱宋且不登叛人也<small>登成也不與其專邑叛君故使彭城還繫宋</small>謂之宋志<small>稱宋亦以成宋志</small>彭城降晉晉人以宋五大夫在彭城者歸寘諸瓠丘<small>彭城降不書賤略之瓠丘晉地河東東垣縣東南有瓠丘五大夫魚石向為人鱗朱向帶魚府</small>齊人不會彭城晉人以為討二月齊大子光為質於晉<small>光齊靈公大子</small>
 
 <hr/>
 
-<p class="text-primary ml-5">夏晉韓厥帥師伐鄭</p>
+<p class="text-primary">夏晉韓厥帥師伐鄭</p>
 
 夏五月晉韓厥荀偃帥諸侯之師伐鄭入其郛<small>荀偃不書非元帥</small>敗其徒兵於洧上<small>徒兵步兵洧水出密縣東南至長平入潁</small>
 
-<p class="text-primary ml-5">仲孫蔑會齊崔杼曹人邾人杞人次于鄫<small>鄫鄭地在陳留襄邑縣東南書次兵不加鄭次鄫以待晉師</small></p>
+<p class="text-primary">仲孫蔑會齊崔杼曹人邾人杞人次于鄫<small>鄫鄭地在陳留襄邑縣東南書次兵不加鄭次鄫以待晉師</small></p>
 
 於是東諸侯之師次于鄫以待晉師<small>齊魯曹邾杞</small>晉師自鄭以鄫之師侵楚焦夷及陳<small>於是孟獻子自鄫先歸不與侵陳楚故不書</small>晉侯衞侯次于戚以為之援<small>為韓厥援</small>
 
-<p class="text-primary ml-5">秋楚公子壬夫帥師侵宋</p>
+<p class="text-primary">秋楚公子壬夫帥師侵宋</p>
 
 秋楚子辛救鄭侵宋呂留<small>呂留二縣今屬彭城郡</small>鄭子然侵宋取犬丘<small>譙國酇縣東北有犬丘城迂迴疑</small>
 
 <hr/>
 
-<p class="text-primary ml-5">九月辛酉天王崩<small>無傳辛酉九月十五日</small></p>
+<p class="text-primary">九月辛酉天王崩<small>無傳辛酉九月十五日</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">邾子來朝冬衞侯使公孫剽來聘<small>剽子叔黑背子</small>晉侯使荀罃來聘<small>冬者十月初也王崩赴未至皆未聞喪故各得行朝聘之禮而傳善之</small></p>
+<p class="text-primary">邾子來朝冬衞侯使公孫剽來聘<small>剽子叔黑背子</small>晉侯使荀罃來聘<small>冬者十月初也王崩赴未至皆未聞喪故各得行朝聘之禮而傳善之</small></p>
 
 九月邾子來朝禮也<small>邾宣公</small>冬衞子叔晉知武子來聘禮也凡諸侯即位小國朝之<small>小事大</small>大國聘焉<small>大字小</small>以繼好結信謀事補闕禮之大者也<small>闕猶過也禮以安國家利民人為大</small>
 
 <hr/>
 
-#### 襄二年｜前五七一
+#### 襄二年<small>｜前五七一</small>
 
-<p class="text-primary ml-5">二年春王正月葬簡王<small>無傳五月而葬速</small></p>
+<p class="text-primary">二年春王正月葬簡王<small>無傳五月而葬速</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">鄭師伐宋<small>書伐從告</small></p>
+<p class="text-primary">鄭師伐宋<small>書伐從告</small></p>
 
 二年春鄭師侵宋楚令也<small>以彭城故</small>
 
@@ -59,61 +59,61 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">夏五月庚寅夫人姜氏薨</p>
+<p class="text-primary">夏五月庚寅夫人姜氏薨</p>
 
 夏齊姜薨初穆姜使擇美檟<small>檟梓之屬</small>以自為櫬與頌琴<small>櫬棺也頌琴琴名猶言雅琴皆欲以送終</small>季文子取以葬君子曰非禮也禮無所逆婦養姑者也虧姑以成婦逆莫大焉<small>穆姜成公母齊姜成公婦</small>詩曰其惟哲人告之話言順德之行<small>詩大雅哲知也話善也言知者行事無不順</small>季孫於是為不哲矣<small>言逆德</small>且姜氏君之妣也<small>襄公適母故曰君之妣</small>詩曰為酒為醴烝畀祖妣以洽百禮降福孔偕<small>詩周頌烝進也畀與也偕徧也言敬事祖妣則鬼神降福季孫葬姜氏不以禮是不敬祖妣</small>齊侯使諸姜宗婦來送葬<small>宗婦同姓大夫之婦婦人越疆送葬非禮</small>召萊子萊子不會故晏弱城東陽以偪之<small>為六年滅萊傳東陽齊竟上邑</small>
 
 <hr/>
 
-<p class="text-primary ml-5">六月庚辰鄭伯睔卒<small>未與襄同盟而赴以名庚辰七月九日書六月經誤</small></p>
+<p class="text-primary">六月庚辰鄭伯睔卒<small>未與襄同盟而赴以名庚辰七月九日書六月經誤</small></p>
 
 鄭成公疾子駟請息肩於晉<small>欲辟楚役以負擔喻</small>公曰楚君以鄭故親集矢於其目<small>謂鄢陵戰晉射楚王目</small>非異人任寡人也<small>言楚子任此患不為他人蓋在己</small>若背之是弃力與言其誰暱我<small>言盟誓之言</small>免寡人唯二三子秋七月庚辰鄭伯睔卒於是子罕當國<small>攝君事</small>子駟為政<small>為政卿</small>子國為司馬
 
-<p class="text-primary ml-5">晉師宋師衞甯殖侵鄭<small>宋雖非卿師重故敘衞上</small></p>
+<p class="text-primary">晉師宋師衞甯殖侵鄭<small>宋雖非卿師重故敘衞上</small></p>
 
 晉師侵鄭<small>晉伐喪非禮</small>諸大夫欲從晉子駟曰官命未改<small>成公未葬嗣君未免喪故言未改不欲違先君意</small>
 
-<p class="text-primary ml-5">秋七月仲孫蔑會晉荀罃宋華元衞孫林父曹人邾人于戚</p>
+<p class="text-primary">秋七月仲孫蔑會晉荀罃宋華元衞孫林父曹人邾人于戚</p>
 
 會于戚謀鄭故也<small>鄭久叛晉謀討之</small>孟獻子曰請城虎牢以偪鄭<small>虎牢舊鄭邑今屬晉</small>知武子曰善鄫之會吾子聞崔子之言今不來矣<small>元年孟獻子與齊崔杼次于鄫崔杼有不服晉之言獻子以告知武子</small>滕薛小邾之不至皆齊故也<small>三國齊之屬</small>寡君之憂不唯鄭<small>言復憂齊叛</small>罃將復於寡君而請於齊<small>以城事白晉君而請齊會之欲以觀齊志</small>得請而告吾子之功也<small>得請謂齊人應命告諸侯會築虎牢</small>若不得請事將在齊<small>將伐齊</small>吾子之請諸侯之福也<small>城虎牢足以服鄭息征伐</small>豈唯寡君賴之<small>傳言荀罃能用善謀</small>
 
 <hr/>
 
-<p class="text-primary ml-5">己丑葬我小君齊姜<small>齊謚也三月而葬速</small></p>
+<p class="text-primary">己丑葬我小君齊姜<small>齊謚也三月而葬速</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">叔孫豹如宋<small>豹於此始自齊還為卿</small></p>
+<p class="text-primary">叔孫豹如宋<small>豹於此始自齊還為卿</small></p>
 
 穆叔聘于宋通嗣君也
 
 <hr/>
 
-<p class="text-primary ml-5">冬仲孫蔑會晉荀罃齊崔杼宋華元衞孫林父曹人邾人滕人薛人小邾人于戚遂城虎牢<small>以偪鄭</small></p>
+<p class="text-primary">冬仲孫蔑會晉荀罃齊崔杼宋華元衞孫林父曹人邾人滕人薛人小邾人于戚遂城虎牢<small>以偪鄭</small></p>
 
 冬復會于戚齊崔武子及滕薛小邾之大夫皆會知武子之言故也<small>武子言事將在齊齊人懼帥小國而會之</small>遂城虎牢鄭人乃成<small>如孟獻子之謀</small>
 
 <hr/>
 
-<p class="text-primary ml-5">楚殺其大夫公子申</p>
+<p class="text-primary">楚殺其大夫公子申</p>
 
 楚公子申為右司馬多受小國之賂以偪子重子辛<small>偪奪其權勢</small>楚人殺之故書曰楚殺其大夫公子申<small>言所以致國討之文</small>
 
 <hr/>
 
-#### 襄三年｜前五七〇
+#### 襄三年<small>｜前五七〇</small>
 
-<p class="text-primary ml-5">三年春楚公子嬰齊帥師伐吳</p>
+<p class="text-primary">三年春楚公子嬰齊帥師伐吳</p>
 
 三年春楚子重伐吳為簡之師<small>簡選練</small>克鳩茲至于衡山<small>鳩茲吳邑在丹陽無湖縣東今皐夷也衡山在吳興烏程縣南</small>使鄧廖帥組甲三百被練三千<small>組甲被練皆戰備也組甲漆甲成組文被練練袍</small>以侵吳吳人要而擊之獲鄧廖其能免者組甲八十被練三百而已子重歸既飲至三日吳人伐楚取駕駕良邑也鄧廖亦楚之良也君子謂子重於是役也所獲不如所亡<small>當時君子</small>楚人以是咎子重子重病之遂遇心疾而卒<small>憂恚故成心疾</small>
 
 <hr/>
 
-<p class="text-primary ml-5">公如晉夏四月壬戌公及晉侯盟于長樗<small>晉侯出其國都與公盟于外</small></p>
+<p class="text-primary">公如晉夏四月壬戌公及晉侯盟于長樗<small>晉侯出其國都與公盟于外</small></p>
 
 公如晉始朝也<small>公即位而朝</small>夏盟於長樗孟獻子相公稽首<small>相儀也稽首首至地</small>知武子曰天子在而君辱稽首寡君懼矣<small>稽首事天子之禮</small>孟獻子曰以敝邑介在東表密邇仇讎<small>仇讎謂齊楚與晉爭</small>寡君將君是望敢不稽首<small>傳言獻子能固事盟主</small>
 
-<p class="text-primary ml-5">公至自晉<small>無傳不以長樗至本非會</small></p>
+<p class="text-primary">公至自晉<small>無傳不以長樗至本非會</small></p>
 
 <hr/>
 
@@ -121,61 +121,61 @@ weight: 109
 
 祁奚請老<small>老致仕</small>晉侯問嗣焉<small>嗣續其職者</small>稱解狐其讎也將立之而卒<small>解狐卒</small>又問焉對曰午也可<small>午祁奚子</small>於是羊舌職死矣晉侯曰孰可以代之對曰赤也可<small>赤職之子伯華</small>於是使祁午為中軍尉羊舌赤佐之<small>各代其父</small>君子謂祁奚於是能舉善矣稱其讎不為諂立其子不為比舉其偏不為黨<small>諂媚也偏屬也</small>商書曰無偏無黨王道蕩蕩<small>商書洪範也蕩蕩平正無私</small>其祁奚之謂矣解狐得舉<small>未得位故曰得舉</small>祁午得位伯華得官建一官而三物成<small>一官軍尉物事也</small>能舉善也夫唯善故能舉其類詩云惟其有之是以似之祁奚有焉<small>詩小雅言唯有德之人能舉似己者</small>
 
-<p class="text-primary ml-5">六月公會單子晉侯宋公衞侯鄭伯莒子邾子齊世子光己未同盟于雞澤<small>雞澤在廣平曲梁縣西南周靈王新即位使王官伯出與諸侯盟以安王室故無譏</small></p>
+<p class="text-primary">六月公會單子晉侯宋公衞侯鄭伯莒子邾子齊世子光己未同盟于雞澤<small>雞澤在廣平曲梁縣西南周靈王新即位使王官伯出與諸侯盟以安王室故無譏</small></p>
 
 六月公會單頃公及諸侯己未同盟于雞澤<small>單頃公王卿士</small>晉侯使荀會逆吳子于淮上吳子不至<small>道遠多難</small>
 
-<p class="text-primary ml-5">陳侯使袁僑如會<small>陳疾楚政而來屬晉本非召會而自來故言如會</small>戊寅叔孫豹及諸侯之大夫及陳袁僑盟<small>諸侯既盟袁僑乃至故使大夫別與之盟言諸侯之大夫則在雞澤之諸侯也殊袁僑者明諸侯大夫所以盟盟袁僑也據傳盟在秋長歷推戊寅七月十三日經誤</small></p>
+<p class="text-primary">陳侯使袁僑如會<small>陳疾楚政而來屬晉本非召會而自來故言如會</small>戊寅叔孫豹及諸侯之大夫及陳袁僑盟<small>諸侯既盟袁僑乃至故使大夫別與之盟言諸侯之大夫則在雞澤之諸侯也殊袁僑者明諸侯大夫所以盟盟袁僑也據傳盟在秋長歷推戊寅七月十三日經誤</small></p>
 
 楚子辛為令尹侵欲於小國陳成公使袁僑如會求成<small>患楚侵欲袁僑濤塗四世孫</small>晉侯使和組父告于諸侯<small>告陳服</small>秋叔孫豹及諸侯之大夫及陳袁僑盟陳請服也<small>其君不來使大夫盟之匹敵之宜</small>
 
-<p class="text-primary ml-5">秋公至自會<small>無傳</small></p>
+<p class="text-primary">秋公至自會<small>無傳</small></p>
 
 晉侯之弟揚干亂行於曲梁<small>行陳次</small>魏絳戮其僕<small>僕御也</small>晉侯怒謂羊舌赤曰合諸侯以為榮也揚干為戮何辱如之必殺魏絳無失也對曰絳無貳志事君不辟難有罪不逃刑其將來辭何辱命焉言終魏絳至授僕人書<small>僕人晉侯御僕</small>將伏劒士魴張老止之公讀其書曰日君乏使使臣斯司馬<small>斯此也</small>臣聞師衆以順為武<small>順莫敢違</small>軍事有死無犯為敬<small>守官行法雖死不敢有違</small>君合諸侯臣敢不敬君師不武執事不敬罪莫大焉臣懼其死以及揚干無所逃罪<small>懼自犯不武不敬之罪</small>不能致訓至於用鉞<small>用鉞斬揚干之僕</small>臣之罪重敢有不從以怒君心<small>言不敢不從戮</small>請歸死於司寇<small>致尸於司寇使戮之</small>公跣而出曰寡人之言親愛也吾子之討軍禮也寡人有弟弗能教訓使干大命寡人之過也子無重寡人之過<small>聽絳死為重過</small>敢以為請<small>請使無死</small>晉侯以魏絳為能以刑佐民矣反役與之禮食使佐新軍<small>羣臣旅會今欲顯絳故特為設禮食</small>張老為中軍司馬<small>代魏絳</small>士富為候奄<small>代張老士富士會別族</small>
 
 楚司馬公子何忌侵陳陳叛故也
 
-<p class="text-primary ml-5">冬晉荀罃帥師伐許</p>
+<p class="text-primary">冬晉荀罃帥師伐許</p>
 
 許靈公事楚不會于雞澤冬晉知武子帥師伐許
 
-#### 襄四年｜前五六九
+#### 襄四年<small>｜前五六九</small>
 
 四年春楚師為陳叛故猶在繁陽<small>前年何忌之師侵陳今猶未還繁陽楚地在汝南鮦陽縣南</small>韓獻子患之言於朝曰文王帥殷之叛國以事紂唯知時也<small>知時未可爭</small>今我易之難哉<small>晉力未能服楚受陳為非時</small>
 
-<p class="text-primary ml-5">四年春王三月己酉陳侯午卒<small>前年大夫盟雞澤三月無己酉日誤</small></p>
+<p class="text-primary">四年春王三月己酉陳侯午卒<small>前年大夫盟雞澤三月無己酉日誤</small></p>
 
 三月陳成公卒楚人將伐陳聞喪乃止<small>軍禮不伐喪</small>陳人不聽命<small>不聽楚命</small>臧武仲聞之曰陳不服於楚必亡大國行禮焉而不服在大猶有咎而況小乎夏楚彭名侵陳陳無禮故也<small>為下陳圍頓傳</small>
 
 <hr/>
 
-<p class="text-primary ml-5">夏叔孫豹如晉</p>
+<p class="text-primary">夏叔孫豹如晉</p>
 
 穆叔如晉報知武子之聘也<small>武子聘在元年</small>晉侯享之金奏肆夏之三不拜<small>肆夏樂曲名周禮以鐘鼓奏九夏其二曰肆夏一名樊三曰韶夏一名遏四曰納夏一名渠盖擊鐘而奏此三夏曲</small>工歌文王之三又不拜<small>工樂人也文王之三大雅之首文王大明緜</small>歌鹿鳴之三三拜<small>小雅之首鹿鳴四牡皇皇者華</small>韓獻子使行人子員問之<small>行人通使之官</small>曰子以君命辱於敝邑先君之禮藉之以樂以辱吾子<small>藉薦也</small>吾子舍其大而重拜其細敢問何禮也對曰三夏天子所以享元侯也使臣弗敢與聞<small>元侯牧伯</small>文王兩君相見之樂也臣不敢及<small>及與也文王之三皆稱文王之德受命作周故諸侯會同以相樂</small>鹿鳴君所以嘉寡君也敢不拜嘉<small>晉以叔孫為嘉賓故歌鹿鳴之詩取其我有嘉賓叔孫奉君命而來嘉叔孫乃所以嘉魯君</small>四牡君所以勞使臣也敢不重拜<small>詩言使臣乘四牡騑騑然行不止勤勞也晉以叔孫來聘故以此勞之</small>皇皇者華君教使臣曰必諮於周<small>皇皇者華君遣使臣之詩言忠臣奉使能光輝君命如華之皇皇然又當諮于忠信以補己不及忠信為周其詩曰周爰諮諏周爰諮謀周爰諮度周爰諮詢言必於忠信之人諮此四事</small>臣聞之訪問於善為咨<small>問善道</small>咨親為詢<small>問親戚之義</small>咨禮為度<small>問禮宜</small>咨事為諏<small>問政事</small>咨難為謀<small>問患難</small>臣獲五善敢不重拜<small>五善謂諮詢度諏謀</small>
 
 <hr/>
 
-<p class="text-primary ml-5">秋七月戊子夫人姒氏薨<small>成公妾襄公母姒杞姓</small></p>
+<p class="text-primary">秋七月戊子夫人姒氏薨<small>成公妾襄公母姒杞姓</small></p>
 
 秋定姒薨不殯于廟無櫬不虞<small>櫬親身棺季孫以定姒本賤既無器備議其喪制欲殯不過廟又不反哭</small>匠慶謂季文子<small>匠慶魯大匠</small>曰子為正卿而小君之喪不成<small>謂如季孫所議則為夫人禮不成</small>不終君也<small>慢其母是不終事君之道</small>君長誰受其咎<small>言襄公長將責季孫</small>初季孫為己樹六檟於蒲圃東門之外<small>蒲圃場圃名季文子樹檟欲自為櫬</small>匠慶請木<small>為定姒作櫬</small>季孫曰略<small>不以道取為略</small>匠慶用蒲圃之檟季孫不御<small>御止也傳言遂得成禮故經無異文</small>君子曰志所謂多行無禮必自及也其是之謂乎
 
 <hr/>
 
-<p class="text-primary ml-5">葬陳成公<small>無傳</small></p>
+<p class="text-primary">葬陳成公<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">八月辛亥葬我小君定姒<small>無傳定謚也赴同祔姑反哭成喪皆以正夫人禮母以子貴踰月而葬速</small></p>
+<p class="text-primary">八月辛亥葬我小君定姒<small>無傳定謚也赴同祔姑反哭成喪皆以正夫人禮母以子貴踰月而葬速</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">冬公如晉</p>
+<p class="text-primary">冬公如晉</p>
 
 冬公如晉聽政<small>受貢賦多少之政</small>晉侯享公公請屬鄫<small>鄫小國也欲得使屬魯如須句顓臾之比使助魯出貢賦公時年七歲蓋相者為之言鄫今琅邪鄫縣</small>晉侯不許孟獻子曰以寡君之密邇於仇讎而願固事君無失官命<small>晉官徵發之命</small>鄫無賦於司馬<small>晉司馬又掌諸侯之賦</small>為執事朝夕之命敝邑敝邑褊小闕而為罪<small>闕不共也</small>寡君是以願借助焉<small>借鄫以自助</small>晉侯許之<small>為明年叔孫豹鄫世子巫如晉傳</small>
 
 <hr/>
 
-<p class="text-primary ml-5">陳人圍頓</p>
+<p class="text-primary">陳人圍頓</p>
 
 楚人使頓間陳而侵伐之故陳人圍頓<small>間伺間缺</small>
 
@@ -189,9 +189,9 @@ weight: 109
 
 <hr/>
 
-#### 襄五年｜前五六八
+#### 襄五年<small>｜前五六八</small>
 
-<p class="text-primary ml-5">五年春公至自晉</p>
+<p class="text-primary">五年春公至自晉</p>
 
 五年春公至自晉<small>公在晉既聽屬鄫聞其見伐遙命臧紇出救故傳稱經公至以明之</small>
 
@@ -201,139 +201,139 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">夏鄭伯使公子發來聘<small>發子產父</small></p>
+<p class="text-primary">夏鄭伯使公子發來聘<small>發子產父</small></p>
 
 夏鄭子國來聘通嗣君也<small>鄭僖公初即位</small>
 
 <hr/>
 
-<p class="text-primary ml-5">叔孫豹鄫世子巫如晉<small>比魯大夫故書巫如晉</small></p>
+<p class="text-primary">叔孫豹鄫世子巫如晉<small>比魯大夫故書巫如晉</small></p>
 
 穆叔覿鄫大子于晉以成屬鄫<small>覿見也前年請屬鄫故將鄫大子巫如晉以成之</small>書曰叔孫豹鄫大子巫如晉言比諸魯大夫也<small>豹與巫俱受命於魯故經不書及比之魯大夫</small>
 
 <hr/>
 
-<p class="text-primary ml-5">仲孫蔑衞孫林父會吳于善道<small>魯衞俱受命於晉故不言及吳先在善道二大夫往會之故曰會吳善道地闕</small></p>
+<p class="text-primary">仲孫蔑衞孫林父會吳于善道<small>魯衞俱受命於晉故不言及吳先在善道二大夫往會之故曰會吳善道地闕</small></p>
 
 吳子使壽越如晉<small>壽越吳大夫</small>辭不會于雞澤之故<small>三年會雞澤吳不至今來謝之</small>且請聽諸侯之好<small>更請會</small>晉人將為之合諸侯使魯衞先會吳且告會期<small>以其道遠故使魯衞先告期</small>故孟獻子孫文子會吳于善道<small>二子皆受晉命而行</small>
 
 <hr/>
 
-<p class="text-primary ml-5">秋大雩</p>
+<p class="text-primary">秋大雩</p>
 
 秋大雩旱也<small>雩夏祭所以祈甘雨若旱則又脩其禮故雖秋雩非書過也然經與過雩同文是以傳每釋之曰旱也雩而獲雨故書雩而不書旱</small>
 
 <hr/>
 
-<p class="text-primary ml-5">楚殺其大夫公子壬夫<small>書名罪其貪</small></p>
+<p class="text-primary">楚殺其大夫公子壬夫<small>書名罪其貪</small></p>
 
 楚人討陳叛故<small>討治也</small>曰由令尹子辛實侵欲焉乃殺之書曰楚殺其大夫公子壬夫貪也君子謂楚共王於是不刑<small>陳之叛楚罪在子辛共王既不能素明法教陳叛之日又不能嚴斷威刑以謝小國而擁其罪人興兵致討加禮於陳而陳恨彌篤乃怨而歸罪子辛子辛之貪雖足以取死然共王用刑為失其節故言不刑</small>詩曰周道挺挺我心扃扃講事不令集人來定<small>逸詩也挺挺正直也扃扃明察也講謀也言謀事不善當聚致賢人以定之</small>己則無信而殺人以逞不亦難乎<small>共王伐宋封魚石背盟敗于鄢陵殺子反公子申及壬夫八年之中戮殺三卿欲以屬諸侯故君子以為不可</small>夏書曰成允成功<small>亦逸書也允信也言信成然後有成功</small>
 
 <hr/>
 
-<p class="text-primary ml-5">公會晉侯宋公陳侯衞侯鄭伯曹伯莒子邾子滕子薛伯齊世子光吳人鄫人于戚<small>穆叔使鄫人聽命于會故鄫見經不復殊吳者吳來會于戚</small></p>
+<p class="text-primary">公會晉侯宋公陳侯衞侯鄭伯曹伯莒子邾子滕子薛伯齊世子光吳人鄫人于戚<small>穆叔使鄫人聽命于會故鄫見經不復殊吳者吳來會于戚</small></p>
 
 九月丙午盟于戚會吳且命戍陳也<small>公及其會而不書盟非公後會蓋不以盟告廟</small>穆叔以屬鄫為不利使鄫大夫聽命于會<small>鄫近魯竟故欲以為屬國既而與莒有忿魯不能救恐致譴責故復乞還之傳言鄫人所以見於戚會</small>
 
-<p class="text-primary ml-5">公至自會<small>無傳</small>冬戍陳<small>諸侯在戚會皆受命戍陳各還國遣戍不復有告命故獨書魯戍</small>楚公子貞帥師伐陳</p>
+<p class="text-primary">公至自會<small>無傳</small>冬戍陳<small>諸侯在戚會皆受命戍陳各還國遣戍不復有告命故獨書魯戍</small>楚公子貞帥師伐陳</p>
 
 楚子囊為令尹<small>公子貞</small>范宣子曰我喪陳矣楚人討貳而立子囊必改行<small>改子辛所行</small>而疾討陳<small>疾急也</small>陳近於楚民朝夕急能無往乎有陳非吾事也無之而後可<small>言晉力不能及陳故七年陳侯逃歸</small>冬諸侯戍陳<small>備楚</small>子囊伐陳
 
-<p class="text-primary ml-5">公會晉侯宋公衞侯鄭伯曹伯齊世子光救陳</p>
+<p class="text-primary">公會晉侯宋公衞侯鄭伯曹伯齊世子光救陳</p>
 
 十一月甲午會于城棣以救之<small>公及救陳而不及會故不書城棣城棣鄭地陳留酸棗縣西南有棣城</small>
 
-<p class="text-primary ml-5">十有二月公至自救陳<small>無傳</small></p>
+<p class="text-primary">十有二月公至自救陳<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">辛未季孫行父卒</p>
+<p class="text-primary">辛未季孫行父卒</p>
 
 季文子卒大夫入斂公在位<small>在阼階西鄉</small>宰庀家器為葬備<small>庀具也</small>無衣帛之妾無食粟之馬無藏金玉無重器備<small>器備謂珍寶甲兵之物</small>君子是以知季文子之忠於公室也相三君矣而無私積可不謂忠乎
 
 <hr/>
 
-#### 襄六年｜前五六七
+#### 襄六年<small>｜前五六七</small>
 
-<p class="text-primary ml-5">六年春王三月壬午杞伯姑容卒</p>
+<p class="text-primary">六年春王三月壬午杞伯姑容卒</p>
 
 六年春杞桓公卒始赴以名同盟故也<small>杞入春秋未嘗書名桓公三與成同盟故赴以名</small>
 
 <hr/>
 
-<p class="text-primary ml-5">夏宋華弱來奔<small>華椒孫</small></p>
+<p class="text-primary">夏宋華弱來奔<small>華椒孫</small></p>
 
 宋華弱與樂轡少相狎長相優又相謗也<small>狎親習也優調戲也</small>子蕩怒以弓梏華弱于朝<small>子蕩樂轡也張弓以貫其頸若械之在手故曰梏</small>平公見之曰司武而梏於朝難以勝矣<small>司武司馬言其懦弱不足以勝敵</small>遂逐之夏宋華弱來奔司城子罕曰同罪異罰非刑也專戮於朝罪孰大焉亦逐子蕩子蕩射子罕之門曰幾日而不我從<small>言我射女門女亦當以不勝任見逐</small>子罕善之如初<small>言子罕雖見辱不追忿所以得安</small>
 
 <hr/>
 
-<p class="text-primary ml-5">秋葬杞桓公<small>無傳</small></p>
+<p class="text-primary">秋葬杞桓公<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">滕子來朝</p>
+<p class="text-primary">滕子來朝</p>
 
 秋滕成公來朝始朝公也
 
 <hr/>
 
-<p class="text-primary ml-5">莒人滅鄫</p>
+<p class="text-primary">莒人滅鄫</p>
 
 莒人滅鄫鄫恃賂也<small>鄫有貢賦之賂在魯恃之而慢莒故滅之</small>
 
 <hr/>
 
-<p class="text-primary ml-5">冬叔孫豹如邾</p>
+<p class="text-primary">冬叔孫豹如邾</p>
 
 冬穆叔如邾聘且脩平<small>平四年狐駘戰</small>
 
 <hr/>
 
-<p class="text-primary ml-5">季孫宿如晉<small>行父之子</small></p>
+<p class="text-primary">季孫宿如晉<small>行父之子</small></p>
 
 晉人以鄫故來討曰何故亡鄫<small>鄫屬魯恃賂而慢莒魯不致力輔助無何以還晉尋便見滅故晉責魯</small>季武子如晉見且聽命<small>始代父為卿見大國且謝亡鄫聽命受罪</small>
 
 <hr/>
 
-<p class="text-primary ml-5">十有二月齊侯滅萊<small>書十二月從告</small></p>
+<p class="text-primary">十有二月齊侯滅萊<small>書十二月從告</small></p>
 
 十一月齊侯滅萊萊恃謀也<small>賂夙沙衞之謀也事在二年</small>於鄭子國之來聘也四月晏弱城東陽而遂圍萊<small>子國聘在五年二年晏弱城東陽至五年四月復託治城因遂圍萊</small>甲寅堙之環城傅於堞<small>堞女墻也堙土山也周城為土山及女墻</small>及杞桓公卒之月<small>此年三月</small>乙未王湫帥師及正輿子棠人軍齊師<small>王湫故齊人成十八年奔萊正輿子萊大夫棠萊邑也北海即墨縣有棠鄉三人帥別邑兵來解圍</small>齊師大敗之<small>敗湫等</small>丁未入萊萊共公浮柔奔棠正輿子王湫奔莒莒人殺之四月陳無宇獻萊宗器于襄宮<small>無宇桓子陳完玄孫襄宮齊襄公廟</small>晏弱圍棠十一月丙辰而滅之遷萊于郳<small>遷萊子于郳國</small>高厚崔杼定其田<small>定其疆界高厚高固子</small>
 
 <hr/>
 
-#### 襄七年｜前五六六
+#### 襄七年<small>｜前五六六</small>
 
-<p class="text-primary ml-5">七年春郯子來朝</p>
+<p class="text-primary">七年春郯子來朝</p>
 
 七年春郯子來朝始朝公也
 
 <hr/>
 
-<p class="text-primary ml-5">夏四月三卜郊不從乃免牲<small>稱牲既卜日也卜郊又非禮也</small></p>
+<p class="text-primary">夏四月三卜郊不從乃免牲<small>稱牲既卜日也卜郊又非禮也</small></p>
 
 夏四月三卜郊不從乃免牲孟獻子曰吾乃今而後知有卜筮夫郊祀后稷以祈農事也<small>郊祀后稷以配天后稷周始祖能播殖者</small>是故啟蟄而郊郊而後耕今既耕而卜郊宜其不從也<small>啟蟄夏正建寅之月耕謂春分</small>
 
 <hr/>
 
-<p class="text-primary ml-5">城費<small>南遺假事難而城之</small><small class="text-success">「原在小邾子來朝下」</small></p>
+<p class="text-primary">城費<small>南遺假事難而城之</small><small class="text-success">「原在小邾子來朝下」</small></p>
 
 南遺為費宰<small>費季氏邑</small>叔仲昭伯為隧正<small>隧正主役徒昭伯叔仲惠伯之孫</small>欲善季氏而求媚於南遺謂遺請城費<small>使遺請城</small>吾多與而役故季氏城費<small>傳言祿去公室季氏所以強</small>
 
 <hr/>
 
-<p class="text-primary ml-5">小邾子來朝</p>
+<p class="text-primary">小邾子來朝</p>
 
 小邾穆公來朝亦始朝公也<small>亦郯子也</small>
 
 <hr/>
 
-<p class="text-primary ml-5">秋季孫宿如衞</p>
+<p class="text-primary">秋季孫宿如衞</p>
 
 秋季武子如衞報子叔之聘且辭緩報非貳也<small>子叔聘在元年言國家多難故不時報</small>
 
 <hr/>
 
-<p class="text-primary ml-5">八月螽<small>無傳為災故書</small></p>
+<p class="text-primary">八月螽<small>無傳為災故書</small></p>
 
 <hr/>
 
@@ -341,83 +341,83 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">冬十月衞侯使孫林父來聘壬戌及孫林父盟</p>
+<p class="text-primary">冬十月衞侯使孫林父來聘壬戌及孫林父盟</p>
 
 衞孫文子來聘且拜武子之言<small>緩報非貳之言</small>而尋孫桓子之盟<small>盟在成三年</small>公登亦登<small>禮登階臣後君一等</small>叔孫穆子相趨進曰諸侯之會寡君未嘗後衞君<small>敵體並登</small>今吾子不後寡君寡君未知所過吾子其少安<small>安徐也</small>孫子無辭亦無悛容<small>悛改也</small>穆叔曰孫子必亡為臣而君過而不悛亡之本也詩曰退食自公委蛇委蛇<small>委蛇順貌詩召南言人臣自公門入私門無不順禮</small>謂從者也<small>從順也</small>衡而委蛇必折<small>衡橫也橫不順道必毀折為十四年林父逐君起本</small>
 
 <hr/>
 
-<p class="text-primary ml-5">楚公子貞帥師圍陳</p>
+<p class="text-primary">楚公子貞帥師圍陳</p>
 
 楚子囊圍陳
 
-<p class="text-primary ml-5">十有二月公會晉侯宋公陳侯衞侯曹伯莒子邾子于鄬<small>謀救陳陳侯逃歸不成救故不書救也鄬鄭地</small></p>
+<p class="text-primary">十有二月公會晉侯宋公陳侯衞侯曹伯莒子邾子于鄬<small>謀救陳陳侯逃歸不成救故不書救也鄬鄭地</small></p>
 
 會于鄬以救之<small>晉會諸侯</small>
 
-<p class="text-primary ml-5">鄭伯髡頑如會未見諸侯丙戌卒于鄵<small>實為子駟所弒以瘧疾赴故不書弒稱名為書卒同盟故也如會會於鄬也未見諸侯未至會所而死鄵鄭地不欲再稱鄭伯故約文上其名於會上</small></p>
+<p class="text-primary">鄭伯髡頑如會未見諸侯丙戌卒于鄵<small>實為子駟所弒以瘧疾赴故不書弒稱名為書卒同盟故也如會會於鄬也未見諸侯未至會所而死鄵鄭地不欲再稱鄭伯故約文上其名於會上</small></p>
 
 鄭僖公之為大子也於成之十六年<small>魯成公</small>與子罕適晉不禮焉又與子豐適楚亦不禮焉<small>子豐穆公子</small>及其元年朝于晉<small>鄭僖元年魯襄三年</small>子豐欲愬諸晉而廢之子罕止之及將會于鄬子駟相又不禮焉侍者諫不聽又諫殺之及鄵子駟使賊夜弒僖公而以瘧疾赴于諸侯<small>傳言經所以不書弒</small>簡公生五年奉而立之<small>僖公子</small>
 
-<p class="text-primary ml-5">陳侯逃歸<small>畏楚逃晉而歸</small></p>
+<p class="text-primary">陳侯逃歸<small>畏楚逃晉而歸</small></p>
 
 陳人患楚<small>楚圍陳故</small>慶虎慶寅謂楚人曰吾使公子黃往而執之<small>二慶陳執政大夫公子黃哀公弟</small>楚人從之<small>為執黃</small>二慶使告陳侯于會<small>鄬之會</small>曰楚人執公子黃矣君若不來羣臣不忍社稷宗廟懼有二圖<small>背君屬楚</small>陳侯逃歸<small>鄬會所以不書救</small>
 
 <hr/>
 
-#### 襄八年｜前五六五
+#### 襄八年<small>｜前五六五</small>
 
-<p class="text-primary ml-5">八年春王正月公如晉</p>
+<p class="text-primary">八年春王正月公如晉</p>
 
 八年春公如晉朝且聽朝聘之數<small>晉悼復脩霸業故朝而稟其多少</small>
 
 <hr/>
 
-<p class="text-primary ml-5">夏葬鄭僖公<small>無傳</small></p>
+<p class="text-primary">夏葬鄭僖公<small>無傳</small></p>
 
 鄭羣公子以僖公之死也謀子駟子駟先之夏四月庚辰辟殺子狐子熙子侯子丁<small>辟罪也加罪以戮之</small>孫擊孫惡出奔衞<small>二孫子孤之子</small>
 
-<p class="text-primary ml-5">鄭人侵蔡獲蔡公子燮<small>鄭子國稱人刺其無故侵蔡以生國患燮蔡莊公子</small></p>
+<p class="text-primary">鄭人侵蔡獲蔡公子燮<small>鄭子國稱人刺其無故侵蔡以生國患燮蔡莊公子</small></p>
 
 庚寅鄭子國子耳侵蔡獲蔡司馬公子燮<small>鄭侵蔡欲以求媚於晉子耳子良之子不言敗唯以獲告</small>鄭人皆喜唯子產不順<small>子產子國子不順衆而喜</small>曰小國無文德而有武功禍莫大焉楚人來討能勿從乎從之晉師必至晉楚伐鄭自今鄭國不四五年弗得寧矣子國怒之曰爾何知國有大命而有正卿童子言焉將為戮矣<small>大命起師行軍之命</small>
 
 <hr/>
 
-<p class="text-primary ml-5">季孫宿會晉侯鄭伯齊人宋人衞人邾人于邢丘<small>時公在晉晉悼難勞諸侯唯使大夫聽命故季孫在會而公先歸</small></p>
+<p class="text-primary">季孫宿會晉侯鄭伯齊人宋人衞人邾人于邢丘<small>時公在晉晉悼難勞諸侯唯使大夫聽命故季孫在會而公先歸</small></p>
 
 五月甲辰會于邢丘以命朝聘之數使諸侯之大夫聽命季孫宿齊高厚宋向戌衞甯殖邾大夫會之<small>晉難重煩諸侯故使大夫聽命</small>鄭伯獻捷于會故親聽命<small>獻蔡捷也</small>大夫不書尊晉侯也<small>晉悼復文襄之業制朝聘之節儉而有禮德義可尊故退諸侯大夫以崇之</small>
 
-<p class="text-primary ml-5">公至自晉<small>無傳</small></p>
+<p class="text-primary">公至自晉<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">莒人伐我東鄙</p>
+<p class="text-primary">莒人伐我東鄙</p>
 
 莒人伐我東鄙以疆鄫田<small>莒既滅鄫魯侵其西界故伐魯東鄙以正其封疆</small>
 
 <hr/>
 
-<p class="text-primary ml-5">秋九月大雩</p>
+<p class="text-primary">秋九月大雩</p>
 
 秋九月大雩旱也
 
 <hr/>
 
-<p class="text-primary ml-5">冬楚公子貞帥師伐鄭</p>
+<p class="text-primary">冬楚公子貞帥師伐鄭</p>
 
 冬楚子囊伐鄭討其侵蔡也子駟子國子耳欲從楚子孔子蟜子展欲待晉<small>待晉來救子孔穆公子子蟜子游子子展子罕子</small>子駟曰周詩有之曰俟河之清人壽幾何<small>逸詩也言人壽促而河清遲喻晉之不可待</small>兆云詢多職競作羅<small>兆卜詢謀也職主也言既卜且謀多則競作羅網之難無成功</small>謀之多族民之多違<small>族家也</small>事滋無成<small>滋益也</small>民急矣姑從楚以紓吾民晉師至吾又從之敬共幣帛以待來者小國之道也犧牲玉帛待於二竟<small>二竟晉楚界上</small>以待彊者而庇民焉寇不為害民不罷病不亦可乎子展曰小所以事大信也小國無信兵亂日至亡無日矣五會之信<small>謂三年會雞澤五年會戚又會城棣七年會鄬八年會邢丘</small>今將背之雖楚救我將安用之<small>言失信得楚不足貴</small>親我無成<small>晉親鄭</small>鄙我是欲<small>楚欲以鄭為鄙邑而反欲與成</small>不可從也<small>言子駟不可從</small>不如待晉晉君方明四軍無闕八卿和睦必不弃鄭<small>四軍謂上中下新軍也軍有二卿</small>楚師遼遠糧食將盡必將速歸何患焉舍之聞之<small>舍之子展名</small>杖莫如信完守以老楚杖信以待晉不亦可乎子駟曰詩云謀夫孔多是用不集<small>詩小雅孔甚也集就也言人欲為政是非相亂而不成</small>發言盈庭誰敢執其咎<small>言謀者多若有不善無適受其咎</small>如匪行邁謀是用不得于道<small>匪彼也行邁謀謀於路人也不得于道衆無適從</small>請從楚騑也受其咎<small>騑子駟名</small>乃及楚平
 
 使王子伯駢告于晉<small>伯駢鄭大夫</small>曰君命敝邑脩而車賦儆而師徒以討亂略蔡人不從敝邑之人不敢寧處悉索敝賦<small>索盡也</small>以討于蔡獲司馬燮獻于邢丘今楚來討曰女何故稱兵于蔡<small>稱舉也</small>焚我郊保<small>郭外曰郊保守也</small>馮陵我城郭<small>馮迫也</small>敝邑之衆夫婦男女不皇啟處以相救也<small>皇暇也啟跪也</small>翦焉傾覆無所控告<small>翦盡也控引也</small>民死亡者非其父兄即其子弟夫人愁痛<small>夫人猶人人也</small>不知所庇民知窮困而受盟于楚孤也與其二三臣不能禁止<small>孤鄭伯</small>不敢不告知武子使行人子員對之曰君有楚命<small>見討之命</small>亦不使一个行李告于寡君<small>一个獨使也行李行人也</small>而即安于楚君之所欲也誰敢違君寡君將帥諸侯以見于城下唯君圖之<small>為明年晉伐鄭傳</small>
 
-<p class="text-primary ml-5">晉侯使士匄來聘</p>
+<p class="text-primary">晉侯使士匄來聘</p>
 
 晉范宣子來聘且拜公之辱<small>謝公此春朝</small>告將用師于鄭公享之宣子賦摽有梅<small>摽有梅詩召南摽落也梅盛極則落詩人以興女色盛則有衰衆士求之宜及其時宣子欲魯及時共討鄭取其汲汲相赴</small>季武子曰誰敢哉<small>言誰敢不從命</small>今譬於草木寡君在君君之臭味也<small>言同類</small>歡以承命何時之有<small>遲速無時</small>武子賦角弓<small>角弓詩小雅取其兄弟昏姻無相遠也</small>賓將出武子賦彤弓<small>彤弓天子賜有功諸侯之詩欲使晉君繼文之業復受彤弓於王</small>宣子曰城濮之役<small>在僖二十八年</small>我先君文公獻功于衡雍受彤弓于襄王以為子孫藏<small>藏之以示子孫</small>匄也先君守官之嗣也敢不承命<small>言己嗣其父祖為先君守官不敢廢命欲匡晉君</small>君子以為知禮<small>彤弓之義義在晉君故范匄受之所謂知禮</small>
 
 <hr/>
 
-#### 襄九年｜前五六四
+#### 襄九年<small>｜前五六四</small>
 
-<p class="text-primary ml-5">九年春宋災<small>天火曰災來告故書</small></p>
+<p class="text-primary">九年春宋災<small>天火曰災來告故書</small></p>
 
 九年春宋災樂喜為司城以為政<small>樂喜子罕也為政卿知將有火災素戒為備火之政</small>使伯氏司里<small>伯氏宋大夫司里里宰</small>火所未至徹小屋塗大屋<small>大屋難徹就塗之</small>陳畚挶具綆缶<small>畚簣籠挶土轝綆汲索缶汲器</small>備水器<small>盆鑒之屬</small>量輕重<small>計人力所任</small>蓄水潦積土塗巡丈城繕守備<small>巡行也丈度也繕治也行度守備之處恐因災有亂</small>表火道<small>火起則從其所趣摽表之</small>使華臣具正徒<small>華臣華元子為司徒正徒役徒也司徒之所主也</small>令隧正納郊保奔火所<small>隧正官名也五縣為隧納聚郊野保守之民使隨火所起往救之</small>使華閱討右官官庀其司<small>亦華元子代元為右師討治也庀具也使具其官屬</small>向戌討左亦如之<small>向戌左師</small>使樂遄庀刑器亦如之<small>樂遄司寇刑器刑書</small>使皇鄖命校正出馬工正出車備甲兵庀武守<small>皇鄖皇父充石之後校正主馬工正主車使各備其官</small>使西鉏吾庀府守<small>鉏吾大宰也府六官之典</small>令司宮巷伯儆宮<small>司宮奄臣巷伯寺人皆掌宮內之事</small>二師令四鄉正敬享<small>二師左右師也鄉正鄉大夫享祀也</small>祝宗用馬于四墉祀盤庚于西門之外<small>祝大祝宗宗人墉城也用馬祭于四城以禳火盤庚殷王宋之遠祖城積陰之氣故祀之凡天災有幣無牲用馬祀盤庚皆非禮</small>
 
@@ -425,17 +425,17 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">夏季孫宿如晉</p>
+<p class="text-primary">夏季孫宿如晉</p>
 
 夏季武子如晉報宣子之聘也<small>宣子聘在八年</small>
 
 <hr/>
 
-<p class="text-primary ml-5">五月辛酉夫人姜氏薨<small>成公母</small></p>
+<p class="text-primary">五月辛酉夫人姜氏薨<small>成公母</small></p>
 
 穆姜薨於東宮<small>大子宮也穆姜淫僑如欲廢成公故徙居東宮事在成十六年</small>始往而筮之遇艮之八<small>艮下艮上艮周禮大卜掌三易然則雜用連山歸藏周易二易皆以七八為占故言遇艮之八</small>史曰是謂艮之隨<small>震下兌上隨史疑古易遇八為不利故更以周易占變爻得隨卦而論之</small>隨其出也<small>史謂隨非閉固之卦</small>君必速出姜曰亡<small>亡猶無也</small>是於周易曰隨元亨利貞無咎<small>易筮皆以變者占遇一爻變義異則論彖故姜亦以彖為占也史據周易故指言周易以折之</small>元體之長也亨嘉之會也利義之和也貞事之幹也體仁足以長人嘉德足以合禮利物足以和義貞固足以幹事然故不可誣也是以雖隨無咎<small>言不誣四德乃遇隨無咎明無四德者則為淫而相隨非吉事</small>今我婦人而與於亂固在下位<small>婦人卑於丈夫</small>而有不仁不可謂元不靖國家不可謂亨作而害身不可謂利弃位而姣<small>姣淫之別名</small>不可謂貞有四德者隨而無咎我皆無之豈隨也哉我則取惡能無咎乎必死於此弗得出矣<small>傳言穆姜辯而不德</small>
 
-<p class="text-primary ml-5">秋八月癸未葬我小君穆姜<small>無傳四月而葬速</small></p>
+<p class="text-primary">秋八月癸未葬我小君穆姜<small>無傳四月而葬速</small></p>
 
 <hr/>
 
@@ -443,11 +443,11 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">冬公會晉侯宋公衞侯曹伯莒子邾子滕子薛伯杞伯小邾子齊世子光伐鄭</p>
+<p class="text-primary">冬公會晉侯宋公衞侯曹伯莒子邾子滕子薛伯杞伯小邾子齊世子光伐鄭</p>
 
 冬十月諸侯伐鄭<small>鄭從楚也</small>庚午季武子齊崔杼宋皇鄖從荀罃士匄門于鄟門<small>鄭城門也三國從中軍</small>衞北宮括曹人邾人從荀偃韓起門于師之梁<small>師之梁亦鄭城門三國從上軍</small>滕人薛人從欒黶士魴門于北門<small>二國從下軍</small>杞人郳人從趙武魏絳斬行栗<small>二國從新軍行栗表道樹</small>甲戌師于氾<small>衆軍還聚氾氾鄭地東氾</small>令於諸侯曰脩器備<small>兵器戰備</small>盛餱糧<small>餱乾食</small>歸老幼<small>示將久師</small>居疾于虎牢<small>諸侯已取鄭虎牢故使諸軍疾病息其中</small>肆眚圍鄭<small>肆緩也眚過也不書圍鄭逆服不成圍</small>鄭人恐乃行成<small>與晉成也</small>中行獻子曰遂圍之以待楚人之救也而與之戰不然無成<small>獻子荀偃也恐楚救鄭鄭復屬之</small>知武子曰許之盟而還師以敝楚人<small>敝罷也</small>吾三分四軍<small>分四軍為三部</small>與諸侯之銳以逆來者<small>來者楚也</small>於我未病楚不能矣<small>晉各一動而楚三來故曰不能</small>猶愈於戰<small>勝聚戰</small>暴骨以逞不可以爭<small>言爭當以謀不可以暴骨</small>大勞未艾君子勞心小人勞力先王之制也<small>艾息也言當從勞心之勞</small>諸侯皆不欲戰乃許鄭成
 
-<p class="text-primary ml-5">十有二月己亥同盟于戲<small>伐鄭而書同盟則鄭受盟可知傳言十一月己亥以長歷推之十二月無己亥經誤戲鄭地</small></p>
+<p class="text-primary">十有二月己亥同盟于戲<small>伐鄭而書同盟則鄭受盟可知傳言十一月己亥以長歷推之十二月無己亥經誤戲鄭地</small></p>
 
 十一月己亥同盟于戲鄭服也<small>鄭服故言同</small>將盟鄭六卿公子騑<small>子駟</small>公子發<small>子國</small>公子嘉<small>子孔</small>公孫輒<small>子耳</small>公孫蠆<small>子蟜</small>公孫舍之<small>子展</small>及其大夫門子皆從鄭伯<small>門子卿之適子</small>晉士莊子為載書<small>莊子士弱載書盟書</small>曰自今日既盟之後鄭國而不唯晉命是聽而或有異志者有如此盟<small>如違盟之罰</small>公子騑趨進曰天禍鄭國使介居二大國之間<small>介猶間也</small>大國不加德音而亂以要之<small>謂以兵亂之力強要鄭</small>使其鬼神不獲歆其禋祀其民人不獲享其土利夫婦辛苦墊隘無所厎告<small>墊隘猶委頓厎至也</small>自今日既盟之後鄭國而不唯有禮與彊可以庇民者是從而敢有異志者亦如之<small>亦如此盟</small>荀偃曰改載書<small>子駟亦以所言載於策故欲改之</small>公孫舍之曰昭大神要言焉<small>要誓以告神</small>若可改也大國亦可叛也知武子謂獻子曰我實不德而要人以盟豈禮也哉非禮何以主盟姑盟而退脩德息師而來終必獲鄭何必今日我之不德民將弃我豈唯鄭若能休和遠人將至何恃於鄭乃盟而還<small>遂兩用載書</small>
 
@@ -455,7 +455,7 @@ weight: 109
 
 公送晉侯晉侯以公宴于河上問公年季武子對曰會于沙隨之歲寡君以生<small>沙隨在成十六年</small>晉侯曰十二年矣是謂一終一星終也<small>歲星十二歲而一周天</small>國君十五而生子冠而生子禮也<small>冠成人之服故必冠而後生子</small>君可以冠矣大夫盍為冠具武子對曰君冠必以祼享之禮行之<small>祼謂灌鬯酒也享祭先君也</small>以金石之樂節之<small>以鐘磬為舉動之節</small>以先君之祧處之<small>諸侯以始祖之廟為祧</small>今寡君在行未可具也請及兄弟之國而假備焉晉侯曰諾公還及衞冠于成公之廟<small>成公今衞獻公之曾祖從衞所處</small>假鐘磬焉禮也
 
-<p class="text-primary ml-5">楚子伐鄭</p>
+<p class="text-primary">楚子伐鄭</p>
 
 楚子伐鄭<small>與晉成故</small>子駟將及楚平子孔子蟜曰與大國盟口血未乾而背之可乎子駟子展曰吾盟固云唯彊是從今楚師至晉不我救則楚彊矣盟誓之言豈敢背之且要盟無質神弗臨也<small>質主也</small>所臨唯信信者言之瑞也<small>瑞符也</small>善之主也是故臨之<small>神臨之</small>明神不蠲要盟<small>蠲絜也</small>背之可也乃及楚平公罷戎入盟同盟于中分<small>中分鄭城中里名罷戎楚大夫</small>楚莊夫人卒<small>共王母</small>王未能定鄭而歸
 
@@ -465,31 +465,31 @@ weight: 109
 
 <hr/>
 
-#### 襄十年｜前五六三
+#### 襄十年<small>｜前五六三</small>
 
-<p class="text-primary ml-5">十年春公會晉侯宋公衞侯曹伯莒子邾子滕子薛伯杞伯小邾子齊世子光會吳于柤<small>吳子在柤晉以諸侯往會之故曰會吳吳不稱子從所稱也柤楚地</small></p>
+<p class="text-primary">十年春公會晉侯宋公衞侯曹伯莒子邾子滕子薛伯杞伯小邾子齊世子光會吳于柤<small>吳子在柤晉以諸侯往會之故曰會吳吳不稱子從所稱也柤楚地</small></p>
 
 十年春會于柤會吳子壽夢也<small>壽夢吳子乘</small>三月癸丑齊高厚相大子光以先會諸侯于鍾離不敬<small>吳子未至光從東道與東諸侯會遇非本期地故不書會高厚高固子也癸丑月二十六日</small>士莊子曰高子相大子以會諸侯將社稷是衞而皆不敬<small>厚與光俱不敬</small>弃社稷也其將不免乎<small>為十九年齊殺高厚二十五年弒其君光傳</small>夏四月戊午會于柤<small>經書春書始行也戊午月一日</small>
 
-<p class="text-primary ml-5">夏五月甲午遂滅偪陽<small>偪陽妘姓國今彭城傅陽縣也因柤會而滅之故曰遂</small></p>
+<p class="text-primary">夏五月甲午遂滅偪陽<small>偪陽妘姓國今彭城傅陽縣也因柤會而滅之故曰遂</small></p>
 
 晉荀偃士匄請伐偪陽而封宋向戌焉<small>以宋常事晉而向戌有賢行故欲封之為附庸</small>荀罃曰城小而固勝之不武弗勝為笑固請丙寅圍之弗克<small>丙寅四月九日</small>孟氏之臣秦堇父輦重如役<small>堇父孟獻子家臣步挽重車以從師</small>偪陽人啟門諸侯之士門焉<small>見門開故攻之</small>縣門發郰人紇抉之以出門者<small>門者諸侯之士在門內者也紇郰邑大夫仲尼父叔梁紇也郰邑魯縣東南莝城是也言紇多力抉舉縣門出在內者</small>狄虒彌建大車之輪而蒙之以甲以為櫓<small>狄虒彌魯人也蒙覆也櫓大楯</small>左執之右拔戟以成一隊<small>百人為隊</small>孟獻子曰詩所謂有力如虎者也<small>詩邶風也</small>主人縣布堇父登之及堞而絕之<small>偪陽人縣布以試外勇者</small>隊則又縣之蘇而復上者三主人辭焉乃退<small>主人嘉其勇故辭謝不復縣布</small>帶其斷以徇於軍三日<small>帶其斷布以示勇</small>諸侯之師久於偪陽荀偃士匄請於荀罃曰水潦將降懼不能歸<small>向夏恐有久雨從丙寅至庚寅二十五日故曰久</small>請班師<small>班還也</small>知伯怒<small>知伯荀罃</small>投之以机出於其間<small>出偃匄之間</small>曰女成二事而後告余<small>二事伐偪陽封向戌</small>余恐亂命以不女違<small>既成改之為亂命</small>女既勤君而興諸侯牽帥老夫以至于此既無武守<small>無武功可執守</small>而又欲易余罪曰是實班師不然克矣<small>謂偃匄將言爾</small>余羸老也可重任乎<small>不任受女此責</small>七日不克必爾乎取之<small>言當取女以謝不克之罪</small>五月庚寅<small>月四日</small>荀偃士匄帥卒攻偪陽親受矢石<small>躬在矢石間</small>甲午滅之<small>月八日</small>書曰遂滅偪陽言自會也<small>言其因會以滅國非之也</small>
 
 以與向戌向戌辭曰君若猶辱鎮撫宋國而以偪陽光啟寡君羣臣安矣其何貺如之<small>言見賜之厚無過此</small>若專賜臣是臣興諸侯以自封也其何罪大焉敢以死請乃予宋公宋公享晉侯於楚丘請以桑林<small>桑林殷天子之樂名</small>荀罃辭<small>辭讓之</small>荀偃士匄曰諸侯宋魯於是觀禮<small>宋王者後魯以周公故皆用天子禮樂故可觀</small>魯有禘樂賓祭用之<small>禘三年大祭則作四代之樂別祭羣公則用諸侯樂</small>宋以桑林享君不亦可乎<small>言俱天子樂也</small>舞師題以旌夏<small>師帥也旌夏大旌也題識也以大旌表識其行列</small>晉侯懼而退入于房<small>旌夏非常卒見之人心偶有所畏</small>去旌卒享而還及著雍疾<small>晉侯疾也著雍晉地</small>卜桑林見<small>祟見於卜兆</small>荀偃士匄欲奔請禱焉<small>奔走還宋禱謝</small>荀罃不可曰我辭禮矣彼則以之<small>以用也</small>猶有鬼神於彼加之<small>言自當加罪於宋</small>晉侯有間<small>間疾差也</small>以偪陽子歸獻于武宮謂之夷俘<small>諱俘中國故謂之夷</small>偪陽妘姓也使周內史選其族嗣納諸霍人禮也<small>霍晉邑內史掌爵祿廢置者使選偪陽宗族賢者令居霍奉妘姓之祀善不滅姓故曰禮也使周史者示有王命</small>
 
-<p class="text-primary ml-5">公至自會<small>無傳</small></p>
+<p class="text-primary">公至自會<small>無傳</small></p>
 
 師歸孟獻子以秦堇父為右<small>嘉其勇力</small>生秦丕茲事仲尼<small>言二父以力相尚子事仲尼以德相高</small>
 
 <hr/>
 
-<p class="text-primary ml-5">楚公子貞鄭公孫輒帥師伐宋</p>
+<p class="text-primary">楚公子貞鄭公孫輒帥師伐宋</p>
 
 六月楚子囊鄭子耳伐宋師于訾毋<small>宋地</small>庚午圍宋門于桐門<small>不成圍而攻其城門</small>
 
 <hr/>
 
-<p class="text-primary ml-5">晉師伐秦<small>荀罃不書不親兵也</small></p>
+<p class="text-primary">晉師伐秦<small>荀罃不書不親兵也</small></p>
 
 晉荀罃伐秦報其侵也<small>侵在九年</small>
 
@@ -501,33 +501,33 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">秋莒人伐我東鄙</p>
+<p class="text-primary">秋莒人伐我東鄙</p>
 
 莒人間諸侯之有事也故伐我東鄙<small>諸侯有討鄭之事</small>
 
 <hr/>
 
-<p class="text-primary ml-5">公會晉侯宋公衞侯曹伯莒子邾子齊世子光滕子薛伯杞伯小邾子伐鄭<small>齊世子光先至於師為盟主所尊故在滕上</small></p>
+<p class="text-primary">公會晉侯宋公衞侯曹伯莒子邾子齊世子光滕子薛伯杞伯小邾子伐鄭<small>齊世子光先至於師為盟主所尊故在滕上</small></p>
 
 諸侯伐鄭齊崔杼使大子光先至于師故長於滕<small>大子宜賓之以上卿而今晉悼以一時之宜令在滕侯上故傳從而釋之</small>己酉師于牛首<small>鄭地</small>
 
-<p class="text-primary ml-5">冬盜殺鄭公子騑公子發公孫輒<small>非國討當兩稱名氏殺者非卿故稱盜以盜為文故不得言其大夫</small></p>
+<p class="text-primary">冬盜殺鄭公子騑公子發公孫輒<small>非國討當兩稱名氏殺者非卿故稱盜以盜為文故不得言其大夫</small></p>
 
 初子駟與尉止有爭將禦諸侯之師而黜其車<small>禦牛首師也黜減損</small>尉止獲又與之爭<small>獲囚俘</small>子駟抑尉止曰爾車非禮也<small>言女車猶多過制</small>遂弗使獻<small>不使獻所獲</small>初子駟為田洫司氏堵氏侯氏子師氏皆喪田焉<small>洫田畔溝也子駟為田洫以正封疆而侵四族田</small>故五族聚羣不逞之人因公子之徒以作亂<small>八年子駟所殺公子熙等之黨</small>於是子駟當國<small>攝君事也</small>子國為司馬子耳為司空子孔為司徒冬十月戊辰尉止司臣侯晉堵女父子師僕帥賊以入晨攻執政于西宮之朝<small>公宮</small>殺子駟子國子耳劫鄭伯以如北宮子孔知之故不死<small>子孔公子嘉也知難不告利得其處也為十九年殺公子嘉傳</small>書曰盜言無大夫焉<small>尉止等五人皆士也大夫謂卿</small>子西聞盜不儆而出<small>子西公孫夏子駟子</small>尸而追盜<small>先臨尸而逐賊</small>盜入於北宮乃歸授甲臣妾多逃器用多喪子產聞盜<small>子國子</small>為門者<small>置守門</small>庀羣司<small>具衆官</small>閉府庫愼閉藏完守備成列而後出兵車十七乘<small>千二百七十五人</small>尸而攻盜於北宮子蟜帥國人助之殺尉止子師僕盜衆盡死侯晉奔晉堵女父司臣尉翩司齊奔宋<small>尉翩尉止子司齊司臣子</small>
 
 子孔當國<small>代子駟</small>為載書以位序聽政辟<small>自羣卿諸司各守其職位以受執政之法不得與朝政</small>大夫諸司門子弗順將誅之<small>子孔欲誅不順者</small>子產止之請為之焚書<small>既止子孔又勸令燒除載書</small>子孔不可曰為書以定國衆怒而焚之是衆為政也國不亦難乎<small>難以至治</small>子產曰衆怒難犯專欲難成合二難以安國危之道也不如焚書以安衆子得所欲<small>欲為政也</small>衆亦得安不亦可乎專欲無成犯衆興禍子必從之乃焚書於倉門之外衆而後定<small>不於朝內燒欲使遠近見所燒</small>
 
-<p class="text-primary ml-5">戍鄭虎牢<small>伐鄭諸侯各受晉命戍虎牢不復為告命故獨書魯戍而不敘諸侯</small></p>
+<p class="text-primary">戍鄭虎牢<small>伐鄭諸侯各受晉命戍虎牢不復為告命故獨書魯戍而不敘諸侯</small></p>
 
 諸侯之師城虎牢而戍之晉師城梧及制<small>欲以偪鄭也不書城魯不與也梧制皆鄭舊地</small>士魴魏絳戍之書曰戍鄭虎牢非鄭地也言將歸焉<small>二年晉城虎牢而居之今鄭復叛故脩其城而置戍鄭服則欲以還鄭故夫子追書繫之于鄭以見晉志</small>鄭及晉平
 
-<p class="text-primary ml-5">楚公子貞帥師救鄭</p>
+<p class="text-primary">楚公子貞帥師救鄭</p>
 
 楚子囊救鄭十一月諸侯之師還鄭而南至於陽陵<small>還繞也陽陵鄭地</small>楚師不退知武子欲退曰今我逃楚楚必驕驕則可與戰矣<small>武子荀罃</small>欒黶曰逃楚晉之恥也合諸侯以益恥不如死我將獨進師遂進己亥與楚師夾潁而軍<small>潁水出城陽至下蔡入淮</small>子矯曰諸侯既有成行必不戰矣<small>言有成去之志</small>從之將退不從亦退<small>從猶服也</small>退楚必圍我猶將退也不如從楚亦以退之<small>以退楚</small>宵涉潁與楚人盟<small>夜渡畏晉知之</small>
 
 欒黶欲伐鄭師<small>伐涉潁者</small>荀罃不可曰我實不能禦楚又不能庇鄭鄭何罪不如致怨焉而還<small>致怨為後伐之資</small>今伐其師楚必救之戰而不克為諸侯笑克不可命<small>勝負難要不可命以必克</small>不如還也丁未諸侯之師還侵鄭北鄙而歸<small>欲以致怨</small>楚人亦還<small>鄭服故也</small>
 
-<p class="text-primary ml-5">公至自伐鄭<small>無傳</small></p>
+<p class="text-primary">公至自伐鄭<small>無傳</small></p>
 
 <hr/>
 
@@ -535,83 +535,83 @@ weight: 109
 
 <hr/>
 
-#### 襄十一年｜前五六二
+#### 襄十一年<small>｜前五六二</small>
 
-<p class="text-primary ml-5">十有一年春王正月作三軍<small>增立中軍萬二千五百人為軍</small></p>
+<p class="text-primary">十有一年春王正月作三軍<small>增立中軍萬二千五百人為軍</small></p>
 
 十一年春季武子將作三軍<small>魯本無中軍唯上下二軍皆屬於公有事三卿更帥以征伐季氏欲專其民人故假立中軍因以改作</small>告叔孫穆子曰請為三軍各征其軍<small>征賦稅也三家各征其軍之家屬</small>穆子曰政將及子子必不能<small>政者霸國之政令禮大國三軍魯次國而為大國之制貢賦必重故憂不能堪</small>武子固請之穆子曰然則盟諸<small>穆子知季氏將復變易故盟之</small>乃盟諸僖閎<small>僖宮之門</small>詛諸五父之衢<small>五父衢道名在魯國東南詛以禍福之言相要</small>正月作三軍三分公室而各有其一<small>三分國民衆</small>三子各毀其乘<small>壞其軍乘分以足成三軍</small>季氏使其乘之人以其役邑入者無征<small>使軍乘之人率其邑役入季氏者無公征</small>不入者倍征<small>不入季氏者則使公家倍征之設利病欲驅使入己故昭五年傳曰季氏盡征之民辟倍征故盡屬季氏</small>孟氏使半為臣若子若弟<small>取其子弟之半也四分其乘之人以三歸公而取其一</small>叔孫氏使盡為臣<small>盡取子弟以其父兄歸公</small>不然不舍<small>制軍分民不如是則三家不舍其故而改作也此蓋三家盟詛之本言</small>
 
 <hr/>
 
-<p class="text-primary ml-5">夏四月四卜郊不從乃不郊<small>無傳</small></p>
+<p class="text-primary">夏四月四卜郊不從乃不郊<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">鄭公孫舍之帥師侵宋</p>
+<p class="text-primary">鄭公孫舍之帥師侵宋</p>
 
 鄭人患晉楚之故諸大夫曰不從晉國幾亡<small>幾近也</small>楚弱於晉晉不吾疾也<small>疾急也</small>晉疾楚將辟之何為而使晉師致死於我<small>言當作何計</small>楚弗敢敵而後可固與也<small>固與晉也</small>子展曰與宋為惡諸侯必至吾從之盟楚師至吾又從之則晉怒甚矣晉能驟來楚將不能吾乃固與晉大夫說之使疆埸之司惡於宋<small>使守疆埸之吏侵犯宋</small>宋向戌侵鄭大獲子展曰師而伐宋可矣若我伐宋諸侯之伐我必疾吾乃聽命焉且告於楚楚師至吾乃與之盟而重賂晉師乃免矣<small>言如此乃免於晉楚之難</small>夏鄭子展侵宋<small>欲以致諸侯</small>
 
-<p class="text-primary ml-5">公會晉侯宋公衞侯曹伯齊世子光莒子邾子滕子薛伯杞伯小邾子伐鄭<small>世子光至復在莒子之先故晉悼亦進之</small></p>
+<p class="text-primary">公會晉侯宋公衞侯曹伯齊世子光莒子邾子滕子薛伯杞伯小邾子伐鄭<small>世子光至復在莒子之先故晉悼亦進之</small></p>
 
 四月諸侯伐鄭己亥齊大子光宋向戌先至于鄭門于東門<small>傳釋齊大子光所以序莒上也向戌不書宋公在會故</small>其莫晉荀罃至于西郊東侵舊許<small>許之舊國鄭新邑</small>衞孫林父侵其北鄙六月諸侯會于北林師于向<small>向地在潁川長社縣東北</small>右還次于瑣<small>北行而西為右還熒陽宛陵縣西有瑣候亭</small>圍鄭觀兵于南門<small>觀示也</small>西濟于濟隧<small>濟隧水名</small>鄭人懼乃行成
 
-<p class="text-primary ml-5">秋七月己未同盟于亳城北<small>亳城鄭地伐鄭而書同盟鄭與盟可知</small></p>
+<p class="text-primary">秋七月己未同盟于亳城北<small>亳城鄭地伐鄭而書同盟鄭與盟可知</small></p>
 
 秋七月同盟于亳范宣子曰不愼必失諸侯<small>愼敬威儀謹辭令</small>諸侯道敝而無成能無貳乎<small>數伐鄭皆罷於道路</small>乃盟載書曰凡我同盟毋蕰年<small>蕰積年穀而不分災</small>毋壅利<small>專山川之利</small>毋保姦<small>藏罪人</small>毋留慝<small>速去惡</small>救災患恤禍亂同好惡獎王室<small>獎助也</small>或間茲命司愼司盟名山名川<small>二司天神</small>羣神羣祀<small>羣祀在祀典者</small>先王先公<small>先王諸侯之大祖宋祖帝乙鄭祖厲王之比也先公始封君</small>七姓十二國之祖<small>七姓晉魯衞鄭曹滕姬姓邾小邾曹姓宋子姓齊姜姓莒己姓杞姒姓薛任姓實十三國言十二誤也</small>明神殛之<small>殛誅也</small>俾失其民隊命亡氏踣其國家<small>踣斃也</small>
 
-<p class="text-primary ml-5">公至自伐鄭<small>無傳</small></p>
+<p class="text-primary">公至自伐鄭<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">楚子鄭伯伐宋</p>
+<p class="text-primary">楚子鄭伯伐宋</p>
 
 楚子囊乞旅于秦<small>乞師旅於秦</small>秦右大夫詹帥師從楚子將以伐鄭鄭伯逆之丙子伐宋<small>鄭逆服故更伐宋也秦師不書不與伐宋而還</small>
 
-<p class="text-primary ml-5">公會晉侯宋公衞侯曹伯齊世子光莒子邾子滕子薛伯杞伯小邾子伐鄭<small>晉遂尊光</small></p>
+<p class="text-primary">公會晉侯宋公衞侯曹伯齊世子光莒子邾子滕子薛伯杞伯小邾子伐鄭<small>晉遂尊光</small></p>
 
 九月諸侯悉師以復伐鄭<small>此夏諸侯皆復來故曰悉師</small>
 
-<p class="text-primary ml-5">楚人執鄭行人良霄<small>良霄公孫輒子伯有也</small><small class="text-success">「原在公至自會下」</small></p>
+<p class="text-primary">楚人執鄭行人良霄<small>良霄公孫輒子伯有也</small><small class="text-success">「原在公至自會下」</small></p>
 
 鄭人使良霄大宰石㚟如楚告將服于晉曰孤以社稷之故不能懷君君若能以玉帛綏晉不然則武震以攝威之孤之願也楚人執之書曰行人言使人也<small>書行人言非使人之罪古者兵交使在其間所以通命示整或執殺之皆以為譏也既成而後告故書在蕭魚下石㚟為介故不書</small>
 
-<p class="text-primary ml-5">會于蕭魚<small>鄭服而諸侯會蕭魚鄭地</small></p>
+<p class="text-primary">會于蕭魚<small>鄭服而諸侯會蕭魚鄭地</small></p>
 
 諸侯之師觀兵于鄭東門鄭人使王子伯駢行成甲戌晉趙武入盟鄭伯冬十月丁亥鄭子展出盟晉侯<small>二盟不書不告</small>十二月戊寅會于蕭魚<small>經書秋史失之</small>庚辰赦鄭囚皆禮而歸之納斥候<small>不相備也</small>禁侵掠晉侯使叔肸告于諸侯<small>叔肸叔向也告諸侯亦使赦鄭囚</small>公使臧孫紇對曰凡我同盟小國有罪大國致討苟有以藉手鮮不赦宥寡君聞命矣<small>言晉討小國有藉手之功則赦其罪人德義如是不敢不承命</small>鄭人賂晉侯以師悝師觸師蠲<small>悝觸蠲皆樂師名</small>廣車軘車淳十五乘甲兵備<small>廣車軘車皆兵車名淳耦也</small>凡兵車百乘<small>他兵車及廣軘共百乘</small>歌鐘二肆<small>肆列也縣鐘十六為一肆二肆三十二枚</small>及其鎛磬<small>鎛磬皆樂器</small>女樂二八<small>十六人</small>
 
 晉侯以樂之半賜魏絳曰子教寡人和諸戎狄以正諸華<small>在四年</small>八年之中九合諸侯如樂之和無所不諧<small>諧亦和也</small>請與子樂之<small>共此樂</small>辭曰夫和戎狄國之福也八年之中九合諸侯諸侯無慝君之靈也二三子之勞也臣何力之有焉抑臣願君安其樂而思其終也詩曰樂旨君子殿天子之邦<small>詩小雅也謂諸侯有樂美之德可以鎮撫天子之邦殿鎮也</small>樂旨君子福祿攸同<small>攸所也</small>便蕃左右亦是帥從<small>便蕃數也言遠人相帥來服從便蕃然在左右</small>夫樂以安德<small>和其心也</small>義以處之<small>處位以義</small>禮以行之<small>行教令</small>信以守之<small>守所行</small>仁以厲之<small>厲風俗</small>而後可以殿邦國同福祿來遠人所謂樂也<small>言五德皆備乃為樂非但金石</small>書曰居安思危<small>逸書</small>思則有備有備無患敢以此規<small>規正公</small>公曰子之教敢不承命抑微子寡人無以待戎<small>待遇接納</small>不能濟河<small>渡河南服鄭</small>夫賞國之典也藏在盟府<small>司盟之府有賞功之制</small>不可廢也子其受之魏絳於是乎始有金石之樂禮也<small>禮大夫有功則賜樂</small>
 
-<p class="text-primary ml-5">公至自會<small>無傳以會至者觀兵而不果侵伐</small></p>
+<p class="text-primary">公至自會<small>無傳以會至者觀兵而不果侵伐</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">冬秦人伐晉</p>
+<p class="text-primary">冬秦人伐晉</p>
 
 秦庶長鮑庶長武帥師伐晉以救鄭<small>庶長秦爵也不書救鄭已屬晉無所救</small>鮑先入晉地士魴禦之少秦師而弗設備壬午武濟自輔氏<small>從輔氏渡河</small>與鮑交伐晉師己丑秦晉戰于櫟晉師敗績易秦故也<small>不書敗績晉恥易秦而敗故不告也櫟晉地</small>
 
 <hr/>
 
-#### 襄十二年｜前五六一
+#### 襄十二年<small>｜前五六一</small>
 
-<p class="text-primary ml-5">十有二年春王三月莒人伐我東鄙圍台<small>琅邪費縣南有台亭</small>季孫宿帥師救台遂入鄆<small>鄆莒邑</small></p>
+<p class="text-primary">十有二年春王三月莒人伐我東鄙圍台<small>琅邪費縣南有台亭</small>季孫宿帥師救台遂入鄆<small>鄆莒邑</small></p>
 
 十二年春莒人伐我東鄙圍台季武子救台遂入鄆<small>乘勝入鄆報見伐</small>取其鐘以為公盤
 
 <hr/>
 
-<p class="text-primary ml-5">夏晉侯使士魴來聘</p>
+<p class="text-primary">夏晉侯使士魴來聘</p>
 
 夏晉士魴來聘且拜師<small>謝前年伐鄭師</small>
 
 <hr/>
 
-<p class="text-primary ml-5">秋九月吳子乘卒<small>五年會於戚公不與盟而赴以名</small></p>
+<p class="text-primary">秋九月吳子乘卒<small>五年會於戚公不與盟而赴以名</small></p>
 
 秋吳子壽夢卒<small>壽夢吳子之號</small>臨於周廟禮也<small>周廟文王廟也周公出文王故魯立其廟吳始通故曰禮</small>凡諸侯之喪異姓臨於外<small>於城外向其國</small>同姓於宗廟<small>所出王之廟</small>同宗於祖廟<small>始封君之廟</small>同族於禰廟<small>父廟也同族謂高祖以下</small>是故魯為諸姬臨於周廟<small>諸姬同姓國</small>為邢凡蔣茅胙祭臨於周公之廟<small>即祖廟也六國皆周公之支子別封為國共祖周公</small>
 
 <hr/>
 
-<p class="text-primary ml-5">冬楚公子貞帥師侵宋</p>
+<p class="text-primary">冬楚公子貞帥師侵宋</p>
 
 冬楚子囊秦庶長無地伐宋師于揚梁以報晉之取鄭也<small>取鄭在前年梁國雎陽縣東有地名揚梁</small>
 
@@ -621,7 +621,7 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">公如晉</p>
+<p class="text-primary">公如晉</p>
 
 公如晉朝且拜士魴之辱禮也<small>士魴聘在此年夏嫌君臣不敵故曰禮</small>
 
@@ -631,15 +631,15 @@ weight: 109
 
 <hr/>
 
-#### 襄十三年｜前五六〇
+#### 襄十三年<small>｜前五六〇</small>
 
-<p class="text-primary ml-5">十有三年春公至自晉</p>
+<p class="text-primary">十有三年春公至自晉</p>
 
 十三年春公至自晉孟獻子書勞于廟禮也<small>書勳勞於策也桓二年傳曰公至自唐告於廟也凡公行告於宗廟反行飲至舍爵策勳焉禮也桓十六年傳又曰公至自伐鄭以飲至之禮也然則還告廟及飲至及書勞三事偏行一禮則亦書至悉闕乃不書至傳因獻子之事以發明凡例釋例詳之</small>
 
 <hr/>
 
-<p class="text-primary ml-5">夏取邿<small>邿小國也任城亢父縣有邿亭傳例曰書取言易也</small></p>
+<p class="text-primary">夏取邿<small>邿小國也任城亢父縣有邿亭傳例曰書取言易也</small></p>
 
 夏邿亂分為三<small>國分為三部志力各異</small>師救邿遂取之<small>魯師也經不稱師不滿二千五百人傳通言之</small>凡書取言易也<small>不用師徒及用師徒而不勞雖國亦曰取</small>用大師焉曰滅<small>敵人距戰斬獲俘馘用力難重雖邑亦曰滅</small>弗地曰入<small>謂勝其國邑不有其地</small>
 
@@ -649,7 +649,7 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">秋九月庚辰楚子審卒<small>共王也成二年大夫盟于蜀</small></p>
+<p class="text-primary">秋九月庚辰楚子審卒<small>共王也成二年大夫盟于蜀</small></p>
 
 楚子疾告大夫曰不穀不德少主社稷生十年而喪先君未及習師保之教訓而應受多福<small>多福謂為君</small>是以不德而亡師于鄢<small>鄢在成十六年</small>以辱社稷為大夫憂其弘多矣<small>弘大也</small>若以大夫之靈獲保首領以沒於地唯是春秋窀穸之事<small>窀厚也穸夜也厚夜猶長夜春秋謂祭祀長夜謂葬埋</small>所以從先君於禰廟者<small>從先君代為禰廟</small>請為靈若厲<small>欲受惡謚以歸先君也亂而不損曰靈戮殺不辜曰厲</small>大夫擇焉莫對及五命乃許秋楚共王卒子囊謀謚大夫曰君有命矣子囊曰君命以共若之何毀之赫赫楚國而君臨之撫有蠻夷奄征南海以屬諸夏而知其過可不謂共乎請謚之共大夫從之<small>傳言子囊之善</small>
 
@@ -657,7 +657,7 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">冬城防</p>
+<p class="text-primary">冬城防</p>
 
 冬城防書事時也<small>土功雖有常節通以事間為時</small>於是將早城臧武仲請俟畢農事禮也
 
@@ -667,9 +667,9 @@ weight: 109
 
 <hr/>
 
-#### 襄十四年｜前五五九
+#### 襄十四年<small>｜前五五九</small>
 
-<p class="text-primary ml-5">十有四年春王正月季孫宿叔老會晉士匄齊人宋人衞人鄭公孫蠆曹人莒人邾人滕人薛人杞人小邾人會吳于向<small>叔老聲伯子也魯使二卿會晉敬事霸國晉人自是輕魯幣而益敬其使故叔老雖介亦列於會也齊崔杼宋華閱衞北宮括在會惰慢不攝故貶稱人蓋欲以督率諸侯獎成霸功也吳來在向諸侯會之故曰會吳向鄭地</small></p>
+<p class="text-primary">十有四年春王正月季孫宿叔老會晉士匄齊人宋人衞人鄭公孫蠆曹人莒人邾人滕人薛人杞人小邾人會吳于向<small>叔老聲伯子也魯使二卿會晉敬事霸國晉人自是輕魯幣而益敬其使故叔老雖介亦列於會也齊崔杼宋華閱衞北宮括在會惰慢不攝故貶稱人蓋欲以督率諸侯獎成霸功也吳來在向諸侯會之故曰會吳向鄭地</small></p>
 
 十四年春吳告敗于晉<small>前年為楚所敗</small>會于向為吳謀楚故也<small>謀為吳伐楚</small>范宣子數吳之不德也以退吳人<small>吳伐楚喪故以為不德數而遣之卒不為伐楚</small>執莒公子務婁<small>在會不書非卿</small>以其通楚使也<small>莒貳於楚故比年伐魯</small>將執戎子駒支<small>駒支戎子名</small>范宣子親數諸朝<small>行之所在亦設朝位</small>曰來姜戎氏昔秦人迫逐乃祖吾離于瓜州<small>四嶽之後皆姜姓又別為允姓瓜州地在今燉煌</small>乃祖吾離被苫蓋<small>蓋苫之別名</small>蒙荊棘以來歸我先君<small>蒙冒也</small>我先君惠公有不腆之田<small>腆厚也</small>與女剖分而食之<small>中分為剖</small>今諸侯之事我寡君不如昔者蓋言語漏洩則職女之由<small>職主也</small>詰朝之事爾無與焉<small>詰朝明旦不使復得與會事</small>與將執女對曰昔秦人負恃其衆貪于土地逐我諸戎惠公蠲其大德<small>蠲明也</small>謂我諸戎是四嶽之裔冑也<small>四嶽堯時方伯姜姓也裔遠也冑後也</small>毋是翦弃<small>翦削也</small>賜我南鄙之田狐貍所居豺狼所噑我諸戎除翦其荊棘驅其狐貍豺狼以為先君不侵不叛之臣至于今不貳<small>不內侵亦不外叛</small>昔文公與秦伐鄭秦人竊與鄭盟而舍戍焉<small>在僖三十年</small>於是乎有殽之師<small>在僖三十三年</small>晉禦其上戎亢其下<small>亢猶當也</small>秦師不復我諸戎實然譬如捕鹿晉人角之諸戎掎之<small>掎其足也</small>與晉踣之<small>踣僵也</small>戎何以不免自是以來晉之百役與我諸戎相繼于時<small>言給晉役不曠時</small>以從執政猶殽志也<small>意常如殽無中二也</small>豈敢離逷今官之師旅無乃實有所闕以攜諸侯而罪我諸戎我諸戎飲食衣服不與華同贄幣不通言語不達何惡之能為不與於會亦無瞢焉<small>瞢悶也</small>賦青蠅而退<small>青蠅詩小雅取其愷悌君子無信讒言</small>宣子辭焉<small>辭謝</small>使即事於會成愷悌也<small>成愷悌不信讒也不書者戎為晉屬不得特達</small>於是子叔齊子為季武子介以會自是晉人輕魯幣而益敬其使<small>齊子叔老字也言晉敬魯使經所以並書二卿</small>
 
@@ -677,11 +677,11 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">二月乙未朔日有食之<small>無傳</small></p>
+<p class="text-primary">二月乙未朔日有食之<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">夏四月叔孫豹會晉荀偃齊人宋人衞北宮括鄭公孫蠆曹人莒人邾人滕人薛人杞人小邾人伐秦<small>齊宋大夫不書義與向同</small></p>
+<p class="text-primary">夏四月叔孫豹會晉荀偃齊人宋人衞北宮括鄭公孫蠆曹人莒人邾人滕人薛人杞人小邾人伐秦<small>齊宋大夫不書義與向同</small></p>
 
 夏諸侯之大夫從晉侯伐秦以報櫟之役也<small>櫟役在十一年</small>晉侯待于竟使六卿帥諸侯之師以進<small>言經所以不稱晉侯</small>及涇不濟<small>諸侯之師不肯渡也涇水出安定朝那縣至京兆高陸縣入渭</small>叔向見叔孫穆子穆子賦匏有苦葉<small>詩邶風也義取於深則厲淺則揭言己志在於必濟</small>叔向退而具舟魯人莒人先濟鄭子蟜見衞北宮懿子曰與人而不固取惡莫甚焉若社稷何懿子說二子見諸侯之師而勸之濟濟涇而次<small>傳言北宮括所以書於伐秦</small>秦人毒涇上流師人多死<small>飲毒水故</small>鄭司馬子蟜帥鄭師以進師皆從之至于棫林<small>棫林秦地</small>不獲成焉<small>秦不服</small>荀偃令曰雞鳴而駕塞井夷竈<small>示不反</small>唯余馬首是瞻<small>言進退從己</small>欒黶曰晉國之命未是有也余馬首欲東乃歸<small>黶惡偃自專故弃之歸</small>下軍從之左史謂魏莊子曰不待中行伯乎<small>中行伯荀偃也莊子魏絳也左史晉大史</small>莊子曰夫子命從帥<small>夫子謂荀偃</small>欒伯吾帥也吾將從之從帥所以待夫子也<small>以從命為待也欒黶下軍帥莊子為佐故曰吾帥</small>伯游曰吾令實過悔之何及多遺秦禽<small>軍帥不和恐多為秦所禽獲</small>乃命大還晉人謂之遷延之役<small>遷延却退</small>欒鍼曰此役也報櫟之敗也役又無功晉之恥也吾有二位於戎路<small>欒鍼欒黶弟也二位謂黶將下軍鍼為戎右</small>敢不恥乎與士鞅馳秦師死焉士鞅反<small>鞅士匄子</small>欒黶謂士匄曰余弟不欲往而子召之余弟死而子來是而子殺余之弟也弗逐余亦將殺之士鞅奔秦<small>欒黶汏侈誣逐士鞅也而女也</small>於是齊崔杼宋華閱仲江會伐秦不書惰也<small>臨事惰慢不脩也仲江宋公孫師之子</small>向之會亦如之衞北宮括不書於向<small>亦惰</small>書於伐秦攝也<small>能自攝整從鄭子蟜俱濟涇</small>
 
@@ -689,7 +689,7 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">己未衞侯出奔齊<small>諸侯之策書孫甯逐衞侯春秋以其自取奔亡之禍以諸侯失國者皆不書逐君之賊也不書名從告</small></p>
+<p class="text-primary">己未衞侯出奔齊<small>諸侯之策書孫甯逐衞侯春秋以其自取奔亡之禍以諸侯失國者皆不書逐君之賊也不書名從告</small></p>
 
 衞獻公戒孫文子甯惠子食<small>勑戒二子欲共宴食</small>皆服而朝<small>服朝服待命於朝</small>日旰不召<small>旰晏也</small>而射鴻於囿二子從之<small>從公於囿</small>不釋皮冠而與之言<small>皮冠田獵之冠也既不釋冠又不與食</small>二子怒孫文子如戚<small>戚孫文子邑</small>孫蒯入使<small>孫蒯孫文子之子</small>公飲之酒使大師歌巧言之卒章<small>巧言詩小雅其卒章曰彼何人斯居河之麋無拳無勇職為亂階戚衞河上邑公欲以喻文子居河上而為亂大師掌樂大夫</small>大師辭師曹請為之<small>辭以為不可師曹樂人</small>初公有嬖妾使師曹誨之琴<small>誨教也</small>師曹鞭之公怒鞭師曹三百故師曹欲歌之以怒孫子以報公公使歌之遂誦之<small>恐孫蒯不解故</small>蒯懼告文子文子曰君忌我矣弗先必死<small>欲先公作亂</small>并帑於戚<small>帑子也</small>而入見蘧伯玉曰君之暴虐子所知也大懼社稷之傾覆將若之何<small>伯玉蘧瑗</small>對曰君制其國臣敢奸之<small>奸猶犯也</small>雖奸之庸知愈乎<small>言逐君更立未知當差否</small>遂行從近關出<small>懼難作欲速出竟</small>公使子蟜子伯子皮與孫子盟于丘宮孫子皆殺之<small>三子衞羣公子疑孫子故盟之丘宮近戚地</small>四月己未子展奔齊<small>子展衞獻公弟</small>公如鄄<small>鄄衞地</small>使子行於孫子孫子又殺之<small>使往請和也子行羣公子</small>公出奔齊孫氏追之敗公徒于阿澤<small>濟北東阿縣西南有大澤</small>鄄人執之<small>公徒因敗散還故為公執之</small>
 
@@ -705,7 +705,7 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">莒人侵我東鄙<small>無傳報入鄆</small></p>
+<p class="text-primary">莒人侵我東鄙<small>無傳報入鄆</small></p>
 
 <hr/>
 
@@ -715,7 +715,7 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">秋楚公子貞帥師伐吳</p>
+<p class="text-primary">秋楚公子貞帥師伐吳</p>
 
 秋楚子為庸浦之役故<small>在前年</small>子囊師于棠以伐吳吳不出而還子囊殿<small>殿軍後</small>以吳為不能而弗儆吳人自皐舟之隘要而擊之<small>皐舟吳險阨之道</small>楚人不能相救吳人敗之獲楚公子宜穀<small>傳言不備不可以師</small>
 
@@ -725,7 +725,7 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">冬季孫宿會晉士匄宋華閱衞孫林父鄭公孫蠆莒人邾人于戚</p>
+<p class="text-primary">冬季孫宿會晉士匄宋華閱衞孫林父鄭公孫蠆莒人邾人于戚</p>
 
 晉侯問衞故於中行獻子<small>問衞逐君當討否獻子荀偃</small>對曰不如因而定之衞有君矣<small>謂剽已立</small>伐之未可以得志而勤諸侯史佚有言曰因重而撫之<small>重不可移就撫安之</small>仲虺有言曰亡者侮之亂者取之推亡固存國之道也<small>仲虺湯左相</small>君其定衞以待時乎<small>待其昏亂之時乃伐之</small>冬會于戚謀定衞也<small>定立剽</small>范宣子假羽毛於齊而弗歸齊人始貳<small>析羽為旌王者游車之所建齊私有之因謂之羽毛宣子聞而借觀之</small>
 
@@ -735,15 +735,15 @@ weight: 109
 
 <hr/>
 
-#### 襄十五年｜前五五八
+#### 襄十五年<small>｜前五五八</small>
 
-<p class="text-primary ml-5">十有五年春宋公使向戌來聘二月己亥及向戌盟于劉</p>
+<p class="text-primary">十有五年春宋公使向戌來聘二月己亥及向戌盟于劉</p>
 
 十五年春宋向戌來聘且尋盟<small>報二年豹之聘尋十一年亳之盟</small>見孟獻子尤其室<small>尤責過也</small>曰子有令聞而美其室非所望也對曰我在晉吾兄為之毀之重勞且不敢間<small>傳言獻子友于兄且不隱其實</small>
 
 <hr/>
 
-<p class="text-primary ml-5">劉夏逆王后于齊<small>劉采地夏名也天子卿書字劉夏非卿故書名天子無外所命則成故不言逆女</small></p>
+<p class="text-primary">劉夏逆王后于齊<small>劉采地夏名也天子卿書字劉夏非卿故書名天子無外所命則成故不言逆女</small></p>
 
 官師從單靖公逆王后于齊卿不行非禮也<small>官師劉夏也天子官師非卿也劉夏獨過魯告昏故不書單靖公天子不親昏使上卿逆而公監之故曰卿不行非禮</small>
 
@@ -757,23 +757,23 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">夏齊侯伐我北鄙圍成公救成至遇<small>無傳遇魯地書至遇公畏齊不敢至成</small>季孫宿叔孫豹帥師城成郛<small>備齊故夏城非例所譏</small></p>
+<p class="text-primary">夏齊侯伐我北鄙圍成公救成至遇<small>無傳遇魯地書至遇公畏齊不敢至成</small>季孫宿叔孫豹帥師城成郛<small>備齊故夏城非例所譏</small></p>
 
 夏齊侯圍成貳於晉故也<small>不畏霸主故敢伐魯</small>於是乎城成郛<small>郛郭也</small>
 
 <hr/>
 
-<p class="text-primary ml-5">秋八月丁巳日有食之<small>無傳八月無丁巳丁巳七月一日也日月必有誤</small></p>
+<p class="text-primary">秋八月丁巳日有食之<small>無傳八月無丁巳丁巳七月一日也日月必有誤</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">邾人伐我南鄙</p>
+<p class="text-primary">邾人伐我南鄙</p>
 
 秋邾人伐我南鄙<small>亦貳於晉故</small>使告于晉
 
 <hr/>
 
-<p class="text-primary ml-5">冬十有一月癸亥晉侯周卒<small>四同盟</small></p>
+<p class="text-primary">冬十有一月癸亥晉侯周卒<small>四同盟</small></p>
 
 晉將為會以討邾莒<small>十二年十四年莒人伐魯未之討也</small>晉侯有疾乃止冬晉悼公卒遂不克會<small>為明年會湨梁傳</small>鄭公孫夏如晉奔喪子蟜送葬<small>夏子西也言諸侯畏晉故卿共葬</small>
 
@@ -787,29 +787,29 @@ weight: 109
 
 <hr/>
 
-#### 襄十六年｜前五五七
+#### 襄十六年<small>｜前五五七</small>
 
-<p class="text-primary ml-5">十有六年春王正月葬晉悼公<small>踰月而葬速也</small>三月公會晉侯宋公衞侯鄭伯曹伯莒子邾子薛伯杞伯小邾子于湨梁<small>不書高厚逃歸故也湨水出河內軹縣東南至溫入河</small></p>
+<p class="text-primary">十有六年春王正月葬晉悼公<small>踰月而葬速也</small>三月公會晉侯宋公衞侯鄭伯曹伯莒子邾子薛伯杞伯小邾子于湨梁<small>不書高厚逃歸故也湨水出河內軹縣東南至溫入河</small></p>
 
 十六年春葬晉悼公平公即位<small>平公悼公子彪</small>羊舌肸為傅<small>肸叔向也代士渥濁</small>張君臣為中軍司馬<small>張老子代其父</small>祁奚韓襄欒盈士鞅為公族大夫<small>祁奚去中軍尉為公族大夫去劇職就間官韓襄無忌子</small>虞丘書為乘馬御<small>代程鄭</small>改服脩官烝于曲沃<small>既葬改喪服脩官選賢能曲沃晉祖廟烝冬祭也諸侯五月而葬既葬卒哭作主然後烝嘗於廟今晉踰月葬作主而烝祭傳言晉將有湨梁之會故速葬</small>警守而下會于湨梁<small>順河東行故曰下</small>命歸侵田<small>諸侯相侵取之田</small>
 
-<p class="text-primary ml-5">晉人執莒子邾子以歸<small>邾莒二國數侵魯又無道於其民故稱人以執不以歸京師非禮也</small><small class="text-success">「原在戊寅大夫盟下」</small></p>
+<p class="text-primary">晉人執莒子邾子以歸<small>邾莒二國數侵魯又無道於其民故稱人以執不以歸京師非禮也</small><small class="text-success">「原在戊寅大夫盟下」</small></p>
 
 以我故執邾宣公莒犂比公<small>犂比莒子號也十二年十四年莒人侵魯前年邾人伐魯晉將為魯討之悼公卒不克會故平公終其事</small>且曰通齊楚之使<small>邾莒在齊楚往來道中故并以此責之經書執在大夫盟下既盟而後告</small>
 
-<p class="text-primary ml-5">戊寅大夫盟<small>諸大夫本欲盟高厚高厚逃歸故遂自共盟雞澤會重序諸侯今此間無異事即上諸侯大夫可知</small></p>
+<p class="text-primary">戊寅大夫盟<small>諸大夫本欲盟高厚高厚逃歸故遂自共盟雞澤會重序諸侯今此間無異事即上諸侯大夫可知</small></p>
 
 晉侯與諸侯宴于溫使諸大夫舞曰歌詩必類<small>歌古詩當使各從義類</small>齊高厚之詩不類<small>齊有二心故</small>荀偃怒且曰諸侯有異志矣使諸大夫盟高厚高厚逃歸<small>齊為大國高厚若此知小國必當有從者</small>於是叔孫豹晉荀偃宋向戌衞甯殖鄭公孫蠆小邾之大夫盟曰同討不庭<small>自曹以下大夫不書故傳舉小邾以包之</small>
 
-<p class="text-primary ml-5">齊侯伐我北鄙<small>無傳齊貳晉故</small>夏公至自會<small>無傳</small></p>
+<p class="text-primary">齊侯伐我北鄙<small>無傳齊貳晉故</small>夏公至自會<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">五月甲子地震<small>無傳</small></p>
+<p class="text-primary">五月甲子地震<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">叔老會鄭伯晉荀偃衞甯殖宋人伐許<small>荀偃主兵當序鄭上方示叔老可以會鄭伯故荀偃在下</small></p>
+<p class="text-primary">叔老會鄭伯晉荀偃衞甯殖宋人伐許<small>荀偃主兵當序鄭上方示叔老可以會鄭伯故荀偃在下</small></p>
 
 許男請遷于晉<small>許欲叛楚</small>諸侯遂遷許許大夫不可晉人歸諸侯<small>唯以其師討許之不肯遷</small>鄭子蟜聞將伐許遂相鄭伯以從諸侯之師<small>鄭與許有宿怨故其君親行</small>穆叔從公<small>從公歸</small>齊子帥師會晉荀偃書曰會鄭伯為夷故也<small>夷平也春秋於魯事所記不與外事同者客主之言所以為文固當異也魯卿每會公侯春秋無譏故於此示例不先書主兵之荀偃而書後至之鄭伯時皆諸侯大夫義取皆平故得會鄭伯</small>夏六月次于棫林庚寅伐許次于函氏<small>棫林函氏皆許地</small>
 
@@ -817,57 +817,57 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">秋齊侯伐我北鄙圍成</p>
+<p class="text-primary">秋齊侯伐我北鄙圍成</p>
 
 秋齊侯圍成<small>成魯孟氏邑貳晉故伐魯</small>孟孺子速儌之<small>孟獻子之子莊子速也儌要也</small>齊侯曰是好勇去之以為之名速遂塞海陘而還<small>海陘魯隘道</small>
 
 <hr/>
 
-<p class="text-primary ml-5">大雩<small>無傳書過</small></p>
+<p class="text-primary">大雩<small>無傳書過</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">冬叔孫豹如晉</p>
+<p class="text-primary">冬叔孫豹如晉</p>
 
 冬穆叔如晉聘且言齊故<small>言齊再伐魯</small>晉人曰以寡君之未禘祀<small>禘祀三年喪畢之吉祭</small>與民之未息<small>新伐許及楚</small>不然不敢忘穆叔曰以齊人之朝夕釋憾於敝邑之地是以大請敝邑之急朝不及夕引領西望曰庶幾乎<small>庶幾晉來救</small>比執事之間恐無及也見中行獻子賦圻父<small>圻父詩小雅周司馬掌封畿之兵甲故謂之圻父詩人責圻父為王爪牙不脩其職使百姓受困苦之憂而無所止居</small>獻子曰偃知罪矣敢不從執事以同恤社稷而使魯及此<small>及此憂</small>見范宣子賦鴻鴈之卒章<small>鴻鴈詩小雅卒章曰鴻鴈于飛哀鳴嗸嗸唯此哲人謂我劬勞言魯憂困嗸嗸然若鴻鴈之失所大曰鴻小曰鴈</small>宣子曰匄在此敢使魯無鳩乎<small>鳩集也</small>
 
 <hr/>
 
-#### 襄十七年｜前五五六
+#### 襄十七年<small>｜前五五六</small>
 
-<p class="text-primary ml-5">十有七年春王二月庚午邾子牼卒<small>無傳宣公也四同盟</small></p>
+<p class="text-primary">十有七年春王二月庚午邾子牼卒<small>無傳宣公也四同盟</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">宋人伐陳</p>
+<p class="text-primary">宋人伐陳</p>
 
 十七年春宋莊朝伐陳獲司徒卬卑宋也<small>司徒卬陳大夫卑宋不設備</small>
 
 <hr/>
 
-<p class="text-primary ml-5">夏衞石買帥師伐曹<small>買石稷子</small></p>
+<p class="text-primary">夏衞石買帥師伐曹<small>買石稷子</small></p>
 
 衞孫蒯田于曹隧<small>越竟而獵孫蒯林父之子</small>飲馬于重丘<small>重丘曹邑</small>毀其瓶重丘人閉門而訽之<small>訽罵也</small>曰親逐而君爾父為厲<small>厲惡鬼林父逐君在十四年</small>是之不憂而何以田為夏衞石買孫蒯伐曹取重丘<small>孫蒯不書非卿</small>曹人愬于晉<small>為明年晉人執石買傳</small>
 
 <hr/>
 
-<p class="text-primary ml-5">秋齊侯伐我北鄙圍桃高厚帥師伐我北鄙圍防<small>弁縣東南有桃虛</small></p>
+<p class="text-primary">秋齊侯伐我北鄙圍桃高厚帥師伐我北鄙圍防<small>弁縣東南有桃虛</small></p>
 
 齊人以其未得志于我故<small>前年圍成辟孟孺子</small>秋齊侯伐我北鄙圍桃高厚圍臧紇于防<small>防臧紇邑</small>師自陽關逆臧孫至于旅松<small>陽關在泰山鉅平縣東旅松近防地也魯師畏齊不敢至防</small>郰叔紇臧疇臧賈帥甲三百宵犯齊師送之而復<small>郰叔紇叔梁紇臧疇臧賈臧紇之昆弟也三子與臧紇共在防故夜送臧紇於旅松而復還守防</small>齊師去之<small>失臧紇故</small>齊人獲臧堅<small>堅臧紇之族</small>齊侯使夙沙衞唁之且曰無死<small>使無自殺</small>堅稽首曰拜命之辱抑君賜不終姑又使其刑臣禮於士以杙抉其傷而死<small>言使賤人來唁己是惠賜不終也夙沙衞奄人故謂之刑臣</small>
 
 <hr/>
 
-<p class="text-primary ml-5">九月大雩<small>無傳書過</small></p>
+<p class="text-primary">九月大雩<small>無傳書過</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">冬邾人伐我南鄙<small class="text-success">「原在宋華臣出奔陳下」</small></p>
+<p class="text-primary">冬邾人伐我南鄙<small class="text-success">「原在宋華臣出奔陳下」</small></p>
 
 冬邾人伐我南鄙為齊故也<small>齊未得志於魯故邾助之</small>
 
 <hr/>
 
-<p class="text-primary ml-5">宋華臣出奔陳<small>暴亂宗室懼而出奔實以冬出書秋者以始作亂時來告</small></p>
+<p class="text-primary">宋華臣出奔陳<small>暴亂宗室懼而出奔實以冬出書秋者以始作亂時來告</small></p>
 
 宋華閱卒華臣弱皐比之室<small>臣閱之弟皐比閱之子弱侵易之</small>使賊殺其宰華吳賊六人以鈹殺諸盧門合左師之後<small>盧門宋城門合向戌邑後屋後</small>左師懼曰老夫無罪賊曰皐比私有討於吳遂幽其妻<small>幽吳妻也</small>曰畀余而大璧<small>畀與也</small>宋公聞之曰臣也不唯其宗室是暴大亂宋國之政必逐之左師曰臣也亦卿也大臣不順國之恥也不如蓋之乃舍之左師為己短策苟過華臣之門必騁<small>惡之</small>十一月甲午國人逐瘈狗瘈狗入於華臣氏國人從之華臣懼遂奔陳<small>華臣心不自安見逐狗而驚走</small>
 
@@ -879,35 +879,35 @@ weight: 109
 
 <hr/>
 
-#### 襄十八年｜前五五五
+#### 襄十八年<small>｜前五五五</small>
 
-<p class="text-primary ml-5">十有八年春白狄來<small>不言朝不能行朝禮</small></p>
+<p class="text-primary">十有八年春白狄來<small>不言朝不能行朝禮</small></p>
 
 十八年春白狄始來<small>白狄狄之別名未嘗與魯接故曰始</small>
 
 <hr/>
 
-<p class="text-primary ml-5">夏晉人執衞行人石買<small>石買即是伐曹者宜即懲治本罪而晉因其為行人之使執之故書行人以罪晉</small></p>
+<p class="text-primary">夏晉人執衞行人石買<small>石買即是伐曹者宜即懲治本罪而晉因其為行人之使執之故書行人以罪晉</small></p>
 
 夏晉人執衞行人石買于長子執孫蒯于純留<small>長子純留二縣今皆屬上黨郡孫蒯不書父在位蒯非卿</small>為曹故也<small>前年衞伐曹</small>
 
 <hr/>
 
-<p class="text-primary ml-5">秋齊師伐我北鄙<small>不書齊侯齊侯不入竟</small></p>
+<p class="text-primary">秋齊師伐我北鄙<small>不書齊侯齊侯不入竟</small></p>
 
 秋齊侯伐我北鄙
 
-<p class="text-primary ml-5">冬十月公會晉侯宋公衞侯鄭伯曹伯莒子邾子滕子薛伯杞伯小邾子同圍齊<small>齊數行不義諸侯同心俱圍之</small></p>
+<p class="text-primary">冬十月公會晉侯宋公衞侯鄭伯曹伯莒子邾子滕子薛伯杞伯小邾子同圍齊<small>齊數行不義諸侯同心俱圍之</small></p>
 
 中行獻子將伐齊夢與厲公訟弗勝<small>厲公獻子所弒者</small>公以戈擊之首隊於前跪而戴之奉之以走見梗陽之巫皐<small>梗陽晉邑在大原晉陽縣南皐巫名也夢并見之</small>他日見諸道與之言同<small>巫亦夢見獻子與厲公訟</small>巫曰今茲主必死若有事於東方則可以逞<small>巫知獻子有死徵故勸使快意伐齊</small>獻子許諾晉侯伐齊將濟河獻子以朱絲係玉二瑴<small>雙玉曰瑴</small>而禱曰齊環怙恃其險負其衆庶<small>環齊靈公名負依也</small>弃好背盟陵虐神主<small>神主民也謂數伐魯殘民人</small>曾臣彪將率諸侯以討焉<small>彪晉平公名稱臣者明上有天子以謙告神曾臣猶末臣</small>其官臣偃實先後之<small>守官之臣偃獻子名</small>苟捷有功無作神羞<small>羞恥也</small>官臣偃無敢復濟<small>偃信巫言故以死自誓</small>唯爾有神裁之沈玉而濟
 
 冬十月會于魯濟尋湨梁之言同伐齊<small>湨梁在十六年盟曰同討不庭</small>齊侯禦諸平陰塹防門而守之廣里<small>平陰城在濟北盧縣東北其城南有防防有門於門外作塹橫行廣一里故經書圍</small>夙沙衞曰不能戰莫如守險<small>謂防門不足為險</small>弗聽諸侯之士門焉齊人多死范宣子告析文子<small>析文子齊大夫子家</small>曰吾知子敢匿情乎魯人莒人皆請以車千乘自其鄉入既許之矣若入君必失國子盍圖之子家以告公公恐晏嬰聞之曰君固無勇而又聞是弗能久矣<small>不能久敵晉</small>齊侯登巫山以望晉師<small>巫山在盧縣東北</small>晉人使司馬斥山澤之險雖所不至必旆而疏陳之<small>斥候也疏建旌旗以為陳示衆也</small>使乘車者左實右偽以旆先<small>偽以衣服為人形也建旆以先驅</small>輿曳柴而從之<small>以揚塵</small>齊侯見之畏其衆也乃脫歸<small>脫不張旗幟</small>丙寅晦齊師夜遁師曠告晉侯曰鳥烏之聲樂齊師其遁<small>鳥烏得空營故樂也</small>邢伯告中行伯<small>邢伯晉大夫邢侯也中行伯獻子</small>曰有班馬之聲<small>夜遁馬不相見故鳴班別也</small>齊師其遁叔向告晉侯曰城上有烏齊師其遁十一月丁卯朔入平陰遂從齊師夙沙衞連大車以塞隧而殿<small>此衞所欲守險</small>殖綽郭最曰子殿國師齊之辱也<small>奄人殿師故以為辱</small>子姑先乎乃代之殿衞殺馬於隘以塞道<small>恨二子故塞其道欲使晉得之</small>晉州綽及之射殖綽中肩兩矢夾脰<small>脰頸也</small>曰止將為三軍獲不止將取其衷<small>不止復欲射兩矢中央</small>顧曰為私誓州綽曰有如日<small>言必不殺女明如日</small>乃弛弓而自後縛之<small>反縛之</small>其右具丙<small>州綽之右</small>亦舍兵而縛郭最皆衿甲面縛<small>衿甲不解甲</small>坐于中軍之鼓下晉人欲逐歸者魯衞請攻險<small>險固城守者</small>己卯荀偃士匄以中軍克京茲<small>在平陰城東南</small>乙酉魏絳欒盈以下軍克邿<small>欒黶死其子盈佐下軍平陰西有邿山</small>趙武韓起以上軍圍盧弗克十二月戊戌及秦周伐雍門之萩<small>秦周魯大夫趙武及之共伐萩也雍門齊城門</small>范鞅門于雍門其御追喜以戈殺犬于門中<small>殺犬示間暇</small>孟莊子斬其橁以為公琴<small>莊子孺子速也橁木名</small>己亥焚雍門及西郭南郭劉難士弱率諸侯之師焚申池之竹木<small>二子晉大夫</small>壬寅焚東郭北郭范鞅門于揚門<small>齊西門</small>州綽門于東閭<small>齊東門</small>左驂迫還于門中以枚數闔<small>枚馬檛也闔門扇也數其板示不恐</small>齊侯駕將走郵棠<small>郵棠齊邑</small>大子與郭榮扣馬<small>大子光也榮齊大夫</small>曰師速而疾略也<small>言欲略行其地無久攻意</small>將退矣君何懼焉且社稷之主不可以輕輕則失衆君必待之將犯之大子抽劒斷鞅乃止甲辰東侵及濰南及沂<small>濰水在東莞東北至北海都昌縣入海沂水出東莞蓋縣至下邳入泗</small>
 
-<p class="text-primary ml-5">曹伯負芻卒于師<small>無傳禮當與許男同三同盟</small></p>
+<p class="text-primary">曹伯負芻卒于師<small>無傳禮當與許男同三同盟</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">楚公子午帥師伐鄭</p>
+<p class="text-primary">楚公子午帥師伐鄭</p>
 
 鄭子孔欲去諸大夫<small>欲專權</small>將叛晉而起楚師以去之使告子庚子庚弗許<small>子庚楚令尹公子午</small>楚子聞之使揚豚尹宜告子庚曰國人謂不穀主社稷而不出師死不從禮<small>不能承先君之業死將不得從先君之禮</small>不穀即位於今五年師徒不出人其以不穀為自逸而忘先君之業矣<small>謂己未嘗統師自出</small>大夫圖之其若之何子庚歎曰君王其謂午懷安乎吾以利社稷也見使者稽首而對曰諸侯方睦於晉臣請嘗之<small>嘗試其難易也</small>若可君而繼之不可收師而退可以無害君亦無辱子庚帥師治兵於汾<small>襄城縣東北有汾丘城</small>於是子蟜伯有子張從鄭伯伐齊<small>子張公孫黑肱</small>子孔子展子西守二子知子孔之謀<small>二子子展子西</small>完守入保<small>完城郭內保守</small>子孔不敢會楚師楚師伐鄭次於魚陵<small>魚陵魚齒山也在南陽犫縣北鄭地</small>右師城上棘遂涉潁次于旃然<small>將涉潁故於水邊權築小城以為進退之備旃然水出熒陽成皐縣東入汴</small>蒍子馮公子格率銳師侵費滑胥靡獻于雍梁<small>胥靡獻于雍梁皆鄭邑河南陽翟縣東北有雍氏城</small>右回梅山<small>在熒陽密縣東北</small>侵鄭東北至于蟲牢而反子庚門于純門信于城下而還<small>信再宿也</small>涉於魚齒之下<small>魚齒山之下有滍水故言涉</small>甚雨及之楚師多凍役徒幾盡
 
@@ -915,9 +915,9 @@ weight: 109
 
 <hr/>
 
-#### 襄十九年｜前五五四
+#### 襄十九年<small>｜前五五四</small>
 
-<p class="text-primary ml-5">十有九年春王正月諸侯盟于祝柯<small>前年圍齊之諸侯也祝柯縣今屬濟南郡</small>晉人執邾子<small>稱人以執惡及民也</small>公至自伐齊<small>無傳</small>取邾田自漷水<small>取邾田以漷水為界也漷水出東海合鄉縣西南經魯國至高平湖陸縣入泗</small></p>
+<p class="text-primary">十有九年春王正月諸侯盟于祝柯<small>前年圍齊之諸侯也祝柯縣今屬濟南郡</small>晉人執邾子<small>稱人以執惡及民也</small>公至自伐齊<small>無傳</small>取邾田自漷水<small>取邾田以漷水為界也漷水出東海合鄉縣西南經魯國至高平湖陸縣入泗</small></p>
 
 十九年春諸侯還自沂上盟于督揚曰大毋侵小<small>督揚即祝柯也</small>執邾悼公以其伐我故<small>伐魯在十七年</small>遂次于泗上疆我田<small>正邾魯之界也泗水名</small>取邾田自漷水歸之于我<small>邾田在漷水北今更以漷為界故曰取邾田</small>晉侯先歸公享晉六卿于蒲圃<small>六卿過魯</small>賜之三命之服軍尉司馬司空輿尉候奄皆受一命之服<small>如鞌戰還之賜唯無先輅</small>賄荀偃束錦加璧乘馬先吳壽夢之鼎<small>荀偃中軍元帥故特賄之五匹為束四馬為乘壽夢吳子乘也獻鼎於魯因以為名古之獻物必有以先今以璧馬為鼎之先</small>
 
@@ -925,7 +925,7 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">季孫宿如晉</p>
+<p class="text-primary">季孫宿如晉</p>
 
 季武子如晉拜師<small>謝討齊</small>晉侯享之范宣子為政<small>代荀偃將中軍</small>賦黍苗<small>黍苗詩小雅美召伯勞來諸侯如陰雨之長黍苗也喻晉君憂勞魯國猶召伯</small>季武子興再拜稽首曰小國之仰大國也如百穀之仰膏雨焉若常膏之其天下輯睦豈唯敝邑賦六月<small>六月尹吉甫佐天子征伐之詩以晉侯比吉甫出征以匡王國</small>
 
@@ -933,21 +933,21 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">葬曹成公<small>無傳</small></p>
+<p class="text-primary">葬曹成公<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">夏衞孫林父帥師伐齊</p>
+<p class="text-primary">夏衞孫林父帥師伐齊</p>
 
 晉欒魴帥師從衞孫文子伐齊<small>為懷子之言故也欒魴欒氏族不書兵并林父不別告也經書夏從告</small><small class="text-success">「原在季武子如晉拜師上」</small>
 
 <hr/>
 
-<p class="text-primary ml-5">秋七月辛卯齊侯環卒<small>世子光三與魯同盟</small></p>
+<p class="text-primary">秋七月辛卯齊侯環卒<small>世子光三與魯同盟</small></p>
 
 齊侯娶于魯曰顏懿姬無子其姪鬷聲姬生光以為大子<small>兄子曰姪顏鬷皆二姬母姓因以為號懿聲皆謚</small>諸子仲子戎子戎子嬖<small>諸子諸妾姓子者二子皆宋女</small>仲子生牙屬諸戎子<small>屬託之</small>戎子請以為大子許之<small>齊侯許之</small>仲子曰不可廢常不祥<small>廢立嫡之常</small>間諸侯難<small>事難成也</small>光之立也列於諸侯矣<small>列諸侯之會</small>今無故而廢之是專黜諸侯<small>謂光已有諸侯之尊</small>而以難犯不祥也君必悔之公曰在我而已遂東大子光<small>廢而徙之東鄙</small>使高厚傅牙以為大子夙沙衞為少傅齊侯疾崔杼微逆光疾病而立之光殺戎子<small>終言之</small>尸諸朝非禮也婦人無刑<small>無黥刖之刑</small>雖有刑不在朝市<small>謂犯死刑者猶不暴尸</small>夏五月壬辰晦齊靈公卒<small>經書七月辛卯光定位而後赴</small>莊公即位<small>大子光也</small>執公子牙於句瀆之丘以夙沙衞易己衞奔高唐以叛<small>光謂衞教公易己高唐在祝柯縣西北</small>
 
-<p class="text-primary ml-5">晉士匄帥師侵齊至穀聞齊侯卒乃還<small>詳錄所至及還者善得禮</small></p>
+<p class="text-primary">晉士匄帥師侵齊至穀聞齊侯卒乃還<small>詳錄所至及還者善得禮</small></p>
 
 晉士匄侵齊及穀聞喪而還禮也<small>禮之常不必待君命</small>
 
@@ -957,37 +957,37 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">八月丙辰仲孫蔑卒<small>無傳</small></p>
+<p class="text-primary">八月丙辰仲孫蔑卒<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">齊殺其大夫高厚</p>
+<p class="text-primary">齊殺其大夫高厚</p>
 
 秋八月齊崔侯殺高厚於灑藍而兼其室<small>灑藍齊地</small>書曰齊殺其大夫從君於昏也<small>傳解經不言崔杼殺而為國討文</small>
 
 <hr/>
 
-<p class="text-primary ml-5">鄭殺其大夫公子嘉</p>
+<p class="text-primary">鄭殺其大夫公子嘉</p>
 
 鄭子孔之為政也專<small>專權</small>國人患之乃討西宮之難<small>十年尉止等作難西宮子孔知而不言</small>與純門之師<small>前年子孔召楚師至純門</small>子孔當罪以其甲及子革子良氏之甲守<small>以自守也</small>甲辰子展子西率國人伐之殺子孔而分其室書曰鄭殺其大夫專也<small>亦以國討為文</small>子然子孔宋子之子也<small>子然子革父</small>士子孔圭媯之子也<small>宋子圭媯皆鄭穆公妾士子孔子良父</small>圭媯之班亞宋子而相親也<small>亞次也</small>二子孔亦相親也僖之四年子然卒<small>鄭僖四年魯襄六年</small>簡之元年士子孔卒<small>魯襄八年</small>司徒孔實相子革子良之室<small>司徒孔與二父相親故相助其子</small>三室如一<small>言同心</small>故及於難<small>故二子并及難</small>子革子良出奔楚子革為右尹<small>子革即鄭丹</small>鄭人使子展當國子西聽政立子產為卿<small>簡公猶幼故大夫當國</small>
 
 <hr/>
 
-<p class="text-primary ml-5">冬葬齊靈公<small>無傳</small></p>
+<p class="text-primary">冬葬齊靈公<small>無傳</small></p>
 
 齊慶封圍高唐弗克<small>夙沙衞以叛故圍之</small>冬十一月齊侯圍之見衞在城上號之乃下<small>衞下與齊侯語</small>問守備焉以無備告揖之乃登<small>齊侯以衞告誠揖而禮之欲生之也衞志於戰死故不順齊侯之揖而還登城</small>聞師將傅食高唐人殖綽工僂會夜縋納師<small>因其會食二子齊大夫</small>醢衞于軍
 
 <hr/>
 
-<p class="text-primary ml-5">城西郛<small>魯西郭</small></p>
+<p class="text-primary">城西郛<small>魯西郭</small></p>
 
 城西郛懼齊也<small>前年與晉伐齊又鑄其器為鐘故懼</small>
 
-<p class="text-primary ml-5">叔孫豹會晉士匄于柯<small>魏郡內黃縣東北有柯城</small></p>
+<p class="text-primary">叔孫豹會晉士匄于柯<small>魏郡內黃縣東北有柯城</small></p>
 
 齊及晉平盟于大隧<small>大隧地闕</small>故穆叔會范宣子于柯<small>齊晉平魯懼齊故為柯會以自固</small>穆叔見叔向賦載馳之四章<small>四章曰控于大邦誰因誰極控引也取其欲引大國以自救助</small>叔向曰肸敢不承命<small>叔向度齊未肯以盟服故許救魯</small>
 
-<p class="text-primary ml-5">城武城<small>泰山南武城縣</small></p>
+<p class="text-primary">城武城<small>泰山南武城縣</small></p>
 
 穆叔歸曰齊猶未也不可以不懼乃城武城
 
@@ -997,45 +997,45 @@ weight: 109
 
 <hr/>
 
-#### 襄二十年｜前五五三
+#### 襄二十年<small>｜前五五三</small>
 
-<p class="text-primary ml-5">二十年春王正月辛亥仲孫速會莒人盟于向<small>向莒邑</small></p>
+<p class="text-primary">二十年春王正月辛亥仲孫速會莒人盟于向<small>向莒邑</small></p>
 
 二十年春及莒平孟莊子會莒人盟于向督揚之盟故也<small>莒數伐魯前年諸侯盟督揚以和解之故二國自復共盟結其好</small>
 
 <hr/>
 
-<p class="text-primary ml-5">夏六月庚申公會晉侯齊侯宋公衞侯鄭伯曹伯莒子邾子滕子薛伯杞伯小邾子盟于澶淵<small>澶淵在頓丘縣南今名繁汙此衞地又近戚田</small></p>
+<p class="text-primary">夏六月庚申公會晉侯齊侯宋公衞侯鄭伯曹伯莒子邾子滕子薛伯杞伯小邾子盟于澶淵<small>澶淵在頓丘縣南今名繁汙此衞地又近戚田</small></p>
 
 夏盟于澶淵齊成故也<small>齊與晉平</small>
 
-<p class="text-primary ml-5">秋公至自會<small>無傳</small></p>
+<p class="text-primary">秋公至自會<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">仲孫速帥師伐邾</p>
+<p class="text-primary">仲孫速帥師伐邾</p>
 
 邾人驟至以諸侯之事弗能報也<small>驟數也謂十五年十七年伐魯</small>秋孟莊子伐邾以報之<small>既盟而又伐之非</small>
 
 <hr/>
 
-<p class="text-primary ml-5">蔡殺其大夫公子燮<small>莊公子</small>蔡公子履出奔楚<small>燮母弟也</small>陳侯之弟黃出奔楚<small>稱弟明無罪也</small></p>
+<p class="text-primary">蔡殺其大夫公子燮<small>莊公子</small>蔡公子履出奔楚<small>燮母弟也</small>陳侯之弟黃出奔楚<small>稱弟明無罪也</small></p>
 
 蔡公子燮欲以蔡之晉<small>背楚</small>蔡人殺之公子履其母弟也故出奔楚<small>與兄同謀故</small>陳慶虎慶寅畏公子黃之偪<small>二慶陳卿恐黃偪奪其政</small>愬諸楚曰與蔡司馬同謀<small>同欲之晉</small>楚人以為討<small>討責陳</small>公子黃出奔楚<small>奔楚自理</small>初蔡文侯欲事晉曰先君與於踐土之盟<small>先君文侯父莊侯甲午也踐土盟在僖二十八年</small>晉不可弃且兄弟也畏楚不能行而卒<small>宣十七年文侯卒</small>楚人使蔡無常<small>徵發無准</small>公子燮求從先君以利蔡不能而死書曰蔡殺其大夫公子燮言不與民同欲也<small>罪其違衆</small>陳侯之弟黃出奔楚言非其罪也<small>稱弟罪陳侯及二慶</small>公子黃將出奔呼於國曰慶氏無道求專陳國暴蔑其君而去其親五年不滅是無天也<small>為二十三年陳殺二慶傳</small>
 
 <hr/>
 
-<p class="text-primary ml-5">叔老如齊</p>
+<p class="text-primary">叔老如齊</p>
 
 齊子初聘于齊禮也<small>齊魯有怨朝聘禮絕今始復通故曰初繼好息民故曰禮</small>
 
 <hr/>
 
-<p class="text-primary ml-5">冬十月丙辰朔日有食之<small>無傳</small></p>
+<p class="text-primary">冬十月丙辰朔日有食之<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">季孫宿如宋</p>
+<p class="text-primary">季孫宿如宋</p>
 
 冬季武子如宋報向戌之聘也<small>向戌聘在十五年</small>褚師段逆之以受享<small>段共公子子石也逆以入國受享禮</small>賦常棣之七章以卒<small>武子賦也七章以卒盡八章取其妻子好合如鼓瑟琴宜爾室家樂爾妻帑言二國好合宜其室家相親如兄弟</small>宋人重賄之歸復命公享之賦魚麗之卒章<small>魚麗詩小雅卒章曰物其有矣維其時矣喻聘宋得其時</small>公賦南山有臺<small>南山有臺詩小雅取其樂只君子邦家之基邦家之光喻武子奉使能為國光煇</small>武子去所曰臣不堪也<small>去所辟席</small>
 
@@ -1045,17 +1045,17 @@ weight: 109
 
 <hr/>
 
-#### 襄二十一年｜前五五二
+#### 襄二十一年<small>｜前五五二</small>
 
-<p class="text-primary ml-5">二十有一年春王正月公如晉</p>
+<p class="text-primary">二十有一年春王正月公如晉</p>
 
 二十一年春公如晉拜師及取邾田也<small>謝十八年伐齊之師漷水之田</small>
 
-<p class="text-primary ml-5">邾庶其以漆閭丘來奔<small>二邑在高平南平陽縣東北有漆鄉西北有顯閭亭以邑出為叛適魯而言來奔內外之辭</small></p>
+<p class="text-primary">邾庶其以漆閭丘來奔<small>二邑在高平南平陽縣東北有漆鄉西北有顯閭亭以邑出為叛適魯而言來奔內外之辭</small></p>
 
 邾庶其以漆閭丘來奔<small>庶其邾大夫</small>季武子以公姑姊妻之<small>計公年不得有未嫁姑姊蓋寡者二人</small>皆有賜於其從者於是魯多盜季孫謂臧武仲曰子盍詰盜<small>詰治也</small>武仲曰不可詰也紇又不能季孫曰我有四封而詰其盜何故不可子為司寇將盜是務去若之何不能武仲曰子召外盜而大禮焉何以止吾盜<small>吾謂國中</small>子為正卿而來外盜使紇去之將何以能庶其竊邑於邾以來子以姬氏妻之而與之邑<small>使食漆閭丘</small>其從者皆有賜焉若大盜禮焉以君之姑姊與其大邑其次皁牧輿馬<small>給其賤役從皁至牧凡八等之人</small>其小者衣裳劒帶是賞盜也賞而去之其或難焉紇也聞之在上位者洒濯其心壹以待人軌度其信可明徵也<small>徵驗也</small>而後可以治人夫上之所為民之歸也上所不為而民或為之是以加刑罰焉而莫敢不懲若上之所為而民亦為之乃其所也又可禁乎夏書曰念茲在茲<small>逸書也茲此也謂行此事當念使可施之於此</small>釋茲在茲<small>釋除也謂欲有所治除於人亦當顧己得無亦有之</small>名言茲在茲<small>名此事言此事亦皆當令可施於此</small>允出茲在茲<small>允信也信出於此則善亦在此</small>惟帝念功<small>言帝念功則功成也</small>將謂由己壹也信由己壹而後功可念也<small>言非但意念而已當須信己誠至</small>庶其非卿也以地來雖賤必書重地也<small>重地故書其人其人書則惡名彰以懲不義</small>
 
-<p class="text-primary ml-5">夏公至自晉<small>無傳</small></p>
+<p class="text-primary">夏公至自晉<small>無傳</small></p>
 
 <hr/>
 
@@ -1067,7 +1067,7 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">秋晉欒盈出奔楚<small>盈不能防閑其母以取奔亡稱名罪之</small></p>
+<p class="text-primary">秋晉欒盈出奔楚<small>盈不能防閑其母以取奔亡稱名罪之</small></p>
 
 欒桓子娶於范宣子生懷子<small>桓子欒黶懷子盈也</small>范鞅以其亡也怨欒氏<small>十四年欒黶強逐范鞅使奔秦</small>故與欒盈為公族大夫而不相能桓子卒欒祁與其老州賓通<small>欒祁桓子妻范宣子女盈之母也范氏堯後祁姓</small>幾亡室矣<small>言亂甚</small>懷子患之祁懼其討也愬諸宣子曰盈將為亂以范氏為死桓主而專政矣<small>桓主欒黶</small>曰吾父逐鞅也不怒而以寵報之<small>謂宣子不為黶責怒鞅而反與鞅寵位</small>又與吾同官而專之<small>同為公族大夫而鞅專其權勢</small>吾父死而益富死吾父而專於國有死而已吾蔑從之矣<small>言宣子專政盈欲以死作難</small>其謀如是懼害於主吾不敢不言范鞅為之徵<small>證其有此</small>懷子好施士多歸之宣子畏其多士也信之懷子為下卿<small>下軍佐</small>宣子使城著而遂逐之<small>著晉邑在外易逐</small>秋欒盈出奔楚
 
@@ -1077,25 +1077,25 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">九月庚戌朔日有食之<small>無傳</small>冬十月庚辰朔日有食之<small>無傳</small></p>
+<p class="text-primary">九月庚戌朔日有食之<small>無傳</small>冬十月庚辰朔日有食之<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">曹伯來朝</p>
+<p class="text-primary">曹伯來朝</p>
 
 冬曹武公來朝始見也<small>即位三年始來見公</small>
 
 <hr/>
 
-<p class="text-primary ml-5">公會晉侯齊侯宋公衞侯鄭伯曹伯莒子邾子于商任<small>商任地闕</small></p>
+<p class="text-primary">公會晉侯齊侯宋公衞侯鄭伯曹伯莒子邾子于商任<small>商任地闕</small></p>
 
 會於商任錮欒氏也<small>禁錮欒盈使諸侯不得受</small>齊侯衞侯不敬叔向曰二君者必不免會朝禮之經也禮政之輿也<small>政須禮而行</small>政身之守也<small>政存則身安</small>怠禮失政失政不立是以亂也<small>為二十五年齊弒光二十六年衞弒剽傳</small>
 
 知起中行喜州綽刑蒯出奔齊<small>四子晉大夫</small>皆欒氏之黨也樂王鮒謂范宣子曰盍反州綽邢蒯勇士也宣子曰彼欒氏之勇也余何獲焉<small>言不為己用</small>王鮒曰子為彼欒氏乃亦子之勇也<small>言子待之如欒氏亦為子用也</small>齊莊公朝指殖綽郭最曰是寡人之雄也州綽曰君以為雄誰敢不雄然臣不敏平陰之役先二子鳴<small>十八年晉伐齊及平陰州綽獲殖綽郭最故自比於雞鬭勝而先鳴</small>莊公為勇爵<small>設爵位以命勇士</small>殖綽郭最欲與焉<small>自以為勇</small>州綽曰東閭之役臣左驂迫還於門中識其枚數<small>識門版數亦在十八年</small>其可以與於此乎公曰子為晉君也對曰臣為隷新<small>言但為僕隷尚新耳</small>然二子者譬於禽獸臣食其肉而寢處其皮矣<small>言嘗射得之</small>
 
-#### 襄二十二年｜前五五一
+#### 襄二十二年<small>｜前五五一</small>
 
-<p class="text-primary ml-5">二十有二年春王正月公至自會<small>無傳</small></p>
+<p class="text-primary">二十有二年春王正月公至自會<small>無傳</small></p>
 
 <hr/>
 
@@ -1103,7 +1103,7 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">夏四月</p>
+<p class="text-primary">夏四月</p>
 
 <hr/>
 
@@ -1111,7 +1111,7 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">秋七月辛酉叔老卒<small>無傳子叔齊子</small></p>
+<p class="text-primary">秋七月辛酉叔老卒<small>無傳子叔齊子</small></p>
 
 <hr/>
 
@@ -1123,15 +1123,15 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">冬公會晉侯齊侯宋公衞侯鄭伯曹伯莒子邾子薛伯杞伯小邾子于沙隨</p>
+<p class="text-primary">冬公會晉侯齊侯宋公衞侯鄭伯曹伯莒子邾子薛伯杞伯小邾子于沙隨</p>
 
 冬會于沙隨復錮欒氏也<small>晉知欒盈在齊故復錮也</small>欒盈猶在齊晏子曰禍將作矣齊將伐晉不可以不懼<small>為明年齊伐晉傳</small>
 
-<p class="text-primary ml-5">公至自會<small>無傳</small></p>
+<p class="text-primary">公至自會<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">楚殺其大夫公子追舒<small>書名者寵近小人貪而多馬為國所患</small></p>
+<p class="text-primary">楚殺其大夫公子追舒<small>書名者寵近小人貪而多馬為國所患</small></p>
 
 楚觀起有寵於令尹子南未益祿而有馬數十乘<small>言子南偏寵觀起令富</small>楚人患之王將討焉子南之子弃疾為王御士<small>御王車者</small>王每見之必泣弃疾曰君三泣臣矣敢問誰之罪也王曰令尹之不能爾所知也國將討焉爾其居乎<small>問能止事我否</small>對曰父戮子居君焉用之洩命重刑臣亦不為<small>漏洩君命罪之重</small>王遂殺子南於朝轘觀起於四竟<small>轘車裂以徇</small>子南之臣謂弃疾請徙子尸於朝<small>欲犯命取殯</small>曰君臣有禮唯二三子<small>不欲犯命移尸</small>三日弃疾請尸王許之既葬其徒曰行乎<small>行去也</small>曰吾與殺吾父行將焉入曰然則臣王乎曰弃父事讎吾弗忍也<small>於事是讎於實是君故雖謂讎而不敢報</small>遂縊而死<small>傳譏康王與人子謀其父失君臣之義</small>
 
@@ -1143,33 +1143,33 @@ weight: 109
 
 <hr/>
 
-#### 襄二十三年｜前五五〇
+#### 襄二十三年<small>｜前五五〇</small>
 
-<p class="text-primary ml-5">二十有三年春王二月癸酉朔日有食之<small>無傳</small></p>
+<p class="text-primary">二十有三年春王二月癸酉朔日有食之<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">三月己巳杞伯匄卒<small>五同盟</small></p>
+<p class="text-primary">三月己巳杞伯匄卒<small>五同盟</small></p>
 
 二十三年春杞孝公卒晉悼夫人喪之<small>悼夫人晉平公母杞孝公姊妹</small>平公不徹樂非禮也<small>徹去也</small>禮為鄰國闕<small>禮諸侯絕期故以鄰國責之</small>
 
 <hr/>
 
-<p class="text-primary ml-5">夏邾畀我來奔<small>無傳畀我是庶其之黨同有竊邑叛君之罪來奔故書</small></p>
+<p class="text-primary">夏邾畀我來奔<small>無傳畀我是庶其之黨同有竊邑叛君之罪來奔故書</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">葬杞孝公<small>無傳</small></p>
+<p class="text-primary">葬杞孝公<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">陳殺其大夫慶虎及慶寅<small>書名皆罪其專國叛君言及史異辭無義例</small>陳侯之弟黃自楚歸于陳<small>諸侯納之曰歸黃至楚自理得直欲為楚所納</small></p>
+<p class="text-primary">陳殺其大夫慶虎及慶寅<small>書名皆罪其專國叛君言及史異辭無義例</small>陳侯之弟黃自楚歸于陳<small>諸侯納之曰歸黃至楚自理得直欲為楚所納</small></p>
 
 陳侯如楚<small>朝也</small>公子黃愬二慶於楚楚人召之<small>二慶虎及寅也二十年二慶譖黃黃奔楚自理今陳侯往楚乃信黃為召二慶</small>使慶樂往殺之<small>慶樂二慶之族二慶畏誅故不敢自往</small>慶氏以陳叛<small>因陳侯在楚而叛之不書叛不以告</small>夏屈建從陳侯圍陳陳人城<small>治城以距君屈建楚莫敖</small>板隊而殺人役人相命各殺其長<small>慶氏忿其板隊遂殺築人故役人怒而作亂</small>遂殺慶虎慶寅楚人納公子黃君子謂慶氏不義不可肆也<small>肆放也</small>故書曰惟命不于常<small>周書康誥言有義則存無義則亡</small>
 
 <hr/>
 
-<p class="text-primary ml-5">晉欒盈復入于晉<small>以惡入曰復入</small>入于曲沃<small>兵敗奔曲沃據曲沃衆還與君爭非欲出附他國故不言叛</small></p>
+<p class="text-primary">晉欒盈復入于晉<small>以惡入曰復入</small>入于曲沃<small>兵敗奔曲沃據曲沃衆還與君爭非欲出附他國故不言叛</small></p>
 
 晉將嫁女于吳齊侯使析歸父媵之以藩載欒盈及其士<small>藩車之有障蔽者使若媵妾在其中</small>納諸曲沃<small>欒盈邑也</small>欒盈夜見胥午而告之<small>胥午守曲沃大夫</small>對曰不可天之所廢誰能興之子必不免吾非愛死也知不集也<small>集成也</small>盈曰雖然因子而死吾無悔矣我實不天子無咎焉<small>言我雖不為天所祐子無天咎故可因</small>許諾伏之而觴曲沃人<small>胥午匿盈而飲其衆</small>樂作午言曰今也得欒孺子何如<small>孺子欒盈</small>對曰得主而為之死猶不死也皆歎有泣者爵行又言皆曰得主何貳之有盈出徧拜之<small>謝衆之思己</small>四月欒盈帥曲沃之甲因魏獻子以晝入絳<small>獻子魏舒絳晉國都</small>初欒盈佐魏莊子於下軍<small>莊子魏絳獻子之父</small>獻子私焉故因之<small>私相親愛</small>趙氏以原屏之難怨欒氏<small>成八年莊姬譖之欒郤為徵</small>韓趙方睦<small>韓起讓趙武故和睦</small>中行氏以伐秦之役怨欒氏<small>十四年晉伐秦欒黶違荀偃命曰余馬首欲東</small>而固與范氏和親<small>范宣子佐中行偃於中軍</small>知悼子少而聽於中行氏<small>悼子知罃之子荀盈也少年十七知氏中行氏同祖故相聽從</small>程鄭嬖於公<small>鄭亦荀氏宗</small>唯魏氏及七輿大夫與之<small>七輿官名</small>樂王鮒侍坐於范宣子或告曰欒氏至矣宣子懼桓子曰奉君以走固宮必無害也<small>桓子樂王鮒</small>且欒氏多怨子為政欒氏自外子在位其利多矣既有利權又執民柄<small>賞罰為民柄</small>將何懼焉欒氏所得其唯魏氏乎而可強取也夫克亂在權子無懈矣公有姻喪<small>夫人有杞喪</small>王鮒使宣子墨縗冒絰<small>晉自殽戰還遂常墨縗</small>二婦人輦以如公<small>恐欒氏有內應距之故為婦人服而入</small>奉公以如固宮<small>固宮宮之有臺觀備守者</small>范鞅逆魏舒<small>用王鮒計欲強取之</small>則成列既乘將逆欒氏矣趨進曰欒氏帥賊以入鞅之父與二三子在君所矣<small>二三子諸大夫</small>使鞅逆吾子鞅請驂乘持帶<small>驂乘必持帶備隋隊</small>遂超乘<small>跳上獻子車</small>右撫劒左援帶<small>劫之</small>命驅之出僕請<small>請所至</small>鞅曰之公宣子逆諸階<small>逆獻子也</small>執其手賂之以曲沃<small>恐不與己同心</small>
 
@@ -1179,7 +1179,7 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">秋齊侯伐衞遂伐晉<small>兩事故言遂</small></p>
+<p class="text-primary">秋齊侯伐衞遂伐晉<small>兩事故言遂</small></p>
 
 秋齊侯伐衞先驅穀榮御王孫揮召揚為右<small>先驅前鋒軍</small>申驅成秩御莒恒申鮮虞之傅摯為右<small>申驅次前軍傅摯申鮮虞之子</small>曹開御戎晏父戎為右<small>公御右也</small>貳廣上之登御邢公盧蒲癸為右<small>貳廣公副車</small>啟牢成御襄罷師狼蘧疏為右<small>左翼曰啟</small>胠商子車御侯朝桓跳為右<small>右翼曰胠</small>大殿商子游御夏之御寇崔如為右<small>大殿後軍</small>燭庸之越駟乘<small>四人共乘殿車也傳具載此言莊公廢舊臣任武力</small>自衞將遂伐晉
 
@@ -1187,7 +1187,7 @@ weight: 109
 
 齊侯遂伐晉取朝歌<small>朝歌今屬汲郡</small>為二隊入孟門登大行<small>二隊分兵為二部孟門晉隘道大行山在河內郡北</small>張武軍於熒庭<small>張武軍謂築壘壁熒庭晉地</small>戍郫邵<small>取晉邑而守之</small>封少水<small>封晉尸於少水以為京觀</small>以報平陰之役乃還<small>平陰役在十八年</small>趙勝帥東陽之師以追之獲晏氂<small>趙勝趙旃之子東陽晉之山東魏郡廣平以北晏氂齊大夫</small>
 
-<p class="text-primary ml-5">八月叔孫豹帥師救晉次于雍榆<small>豹救晉待命于雍榆故書次雍榆晉地汲郡朝歌縣東有雍城</small></p>
+<p class="text-primary">八月叔孫豹帥師救晉次于雍榆<small>豹救晉待命于雍榆故書次雍榆晉地汲郡朝歌縣東有雍城</small></p>
 
 八月叔孫豹帥師救晉次于雍榆禮也<small>救盟主故曰禮</small>
 
@@ -1195,11 +1195,11 @@ weight: 109
 
 季武子無適子公彌長而愛悼子欲立之<small>公彌公鉏悼子紇也</small>訪於申豐曰彌與紇吾皆愛之欲擇才焉而立之申豐趨退歸盡室將行<small>申豐季氏屬大夫</small>他日又訪焉對曰其然將具敝車而行<small>其然猶必爾</small>乃止<small>止不立紇</small>訪於臧紇臧紇曰飲我酒吾為子立之季氏飲大夫酒臧紇為客<small>為上賓</small>既獻<small>已獻酒</small>臧孫命北面重席新樽絜之<small>酒樽既新復絜澡之</small>召悼子降逆之大夫皆起<small>臧孫下迎悼子</small>及旅而召公鉏<small>獻酬禮畢而通行為旅</small>使與之齒<small>使從庶子之禮列在悼子之下</small>季孫失色<small>恐公鉏不從</small>季氏以公鉏為馬正<small>馬正家司馬</small>慍而不出閔子馬見之<small>閔子馬閔馬父</small>曰子無然禍福無門唯人所召為人子者患不孝不患無所<small>所位處</small>敬共父命何常之有<small>言廢置在父無常位也</small>若能孝敬富倍季氏可也<small>父寵之則可富</small>姦回不軌禍倍下民可也<small>禍甚於貧賤</small>公鉏然之敬共朝夕恪居官次<small>次舍也</small>季孫喜使飲己酒而以具往盡舍旃<small>具饗燕之具</small>故公鉏氏富又出為公左宰<small>出季氏家臣仕於公</small>
 
-<p class="text-primary ml-5">己卯仲孫速卒<small>孟莊子也</small></p>
+<p class="text-primary">己卯仲孫速卒<small>孟莊子也</small></p>
 
 孟孫惡臧孫<small>不相善</small>季孫愛之<small>愛其成己志</small>孟氏之御騶豐點好羯也<small>羯孟莊子之庶子孺子秩之弟孝伯也</small>曰從余言必為孟孫<small>為孟孫後</small>再三云羯從之孟莊子疾豐點謂公鉏苟立羯請讎臧氏<small>使孟氏與公鉏共憎臧孫</small>公鉏謂季孫曰孺子秩固其所也<small>固自當立</small>若羯立則季氏信有力於臧氏矣<small>臧氏因季孫之欲而為定之猶為有力今若專立孟氏之少則季氏有力過於臧氏</small>弗應己卯孟孫卒公鉏奉羯立于戶側<small>戶側喪主</small>季孫至入哭而出曰秩焉在公鉏曰羯在此矣季孫曰孺子長公鉏曰何長之有唯其才也<small>季孫廢鉏立紇云欲擇才故以此答之</small>且夫子之命也<small>遂誣孟孫</small>遂立羯秩奔邾
 
-<p class="text-primary ml-5">冬十月乙亥臧孫紇出奔邾<small>書名者阿順季氏為之廢長立少以取奔亡罪之</small></p>
+<p class="text-primary">冬十月乙亥臧孫紇出奔邾<small>書名者阿順季氏為之廢長立少以取奔亡罪之</small></p>
 
 臧孫入哭甚哀多涕出其御曰孟孫之惡子也而哀如是季孫若死其若之何臧孫曰季孫之愛我疾疢也<small>常志相順從身之害</small>孟孫之惡我藥石也<small>常志相違戾猶藥石之療疾</small>美疢不如惡石夫石猶生我<small>愈己疾也</small>疢之美其毒滋多孟孫死吾亡無日矣孟氏閉門告於季孫曰臧氏將為亂不使我葬<small>欲為公鉏讎臧氏</small>季孫不信臧孫聞之戒<small>戒為備也</small>冬十月孟氏將辟藉除於臧氏<small>辟穿藏也於臧氏借人除葬道</small>臧孫使正夫助之<small>正夫隧正</small>除於東門甲從己而視之<small>畏孟氏故從甲士視作者</small>孟氏又告季孫季孫怒命攻臧氏<small>見其有甲故</small>乙亥臧紇斬鹿門之關以出奔邾<small>魯南城東門</small>
 
@@ -1207,13 +1207,13 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">晉人殺欒盈</p>
+<p class="text-primary">晉人殺欒盈</p>
 
 晉人克欒盈于曲沃盡殺欒氏之族黨欒魴出奔宋書曰晉人殺欒盈不言大夫言自外也<small>自外犯君而入非復晉大夫</small>
 
 <hr/>
 
-<p class="text-primary ml-5">齊侯襲莒<small>輕行掩其不備曰襲因伐晉還襲莒不言遂者間有事</small></p>
+<p class="text-primary">齊侯襲莒<small>輕行掩其不備曰襲因伐晉還襲莒不言遂者間有事</small></p>
 
 齊侯還自晉不入<small>不入國</small>遂襲莒門于且于<small>且于莒邑</small>傷股而退<small>齊侯傷</small>明日將復戰期于壽舒<small>壽舒莒地</small>杞殖華還載甲夜入且于之隧宿於莒郊<small>二子齊大夫且于隧狹路</small>明日先遇莒子於蒲侯氏<small>蒲侯氏近莒之邑</small>莒子重賂之使無死曰請有盟<small>欲以盟要二子無致死戰</small>華周對曰貪貨弃命亦君所惡也<small>華周即華還</small>昏而受命日未中而弃之何以事君莒子親鼓之從而伐之獲杞梁<small>杞梁即杞殖</small>莒人行成<small>勝大國益懼故行成</small>齊侯歸遇杞梁之妻於郊<small>梁戰死妻行迎喪</small>使弔之辭曰殖之有罪何辱命焉<small>言若有罪不足弔</small>若免於罪猶有先人之敝廬在下妾不得與郊弔<small>婦人無外事故下猶賤也</small>齊侯弔諸其室<small>傳善婦人有禮</small>
 
@@ -1221,9 +1221,9 @@ weight: 109
 
 <hr/>
 
-#### 襄二十四年｜前五四九
+#### 襄二十四年<small>｜前五四九</small>
 
-<p class="text-primary ml-5">二十有四年春叔孫豹如晉<small>賀克欒氏</small></p>
+<p class="text-primary">二十有四年春叔孫豹如晉<small>賀克欒氏</small></p>
 
 二十四年春穆叔如晉范宣子逆之問焉曰古人有言曰死而不朽何謂也穆叔未對宣子曰昔匄之祖自虞以上為陶唐氏<small>陶唐堯所治地大原晉陽縣也終虞之世以為號故曰自虞以上</small>在夏為御龍氏<small>謂劉累也事見昭二十九年</small>在商為豕韋氏<small>豕韋國名東郡白馬縣東南有韋城</small>在周為唐杜氏<small>唐杜二國名殷末豕韋國於唐周成王滅唐遷之於杜為杜伯杜伯之子隰叔奔晉四世及士會食邑於范復為范氏杜今京兆杜縣</small>晉主夏盟為范氏其是之謂乎<small>晉為諸夏盟主范氏復為之佐言己世為興家</small>穆叔曰以豹所聞此之謂世祿非不朽也魯有先大夫曰臧文仲既沒其言立<small>立謂不廢絕</small>其是之謂乎豹聞之大上有立德<small>黃帝堯舜</small>其次有立功<small>禹稷</small>其次有立言<small>史佚周任臧文仲</small>雖久不廢此之謂不朽若夫保姓受氏以守宗祊<small>祊廟門</small>世不絕祀無國無之祿之大者不可謂不朽<small>傳善穆叔之知言</small>
 
@@ -1231,57 +1231,57 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">仲孫羯帥師侵齊</p>
+<p class="text-primary">仲孫羯帥師侵齊</p>
 
 孟孝伯侵齊晉故也<small>前年齊伐晉魯為晉報侵</small>
 
 <hr/>
 
-<p class="text-primary ml-5">夏楚子伐吳</p>
+<p class="text-primary">夏楚子伐吳</p>
 
 夏楚子為舟師以伐吳<small>舟師水軍</small>不為軍政<small>不設賞罰之差</small>無功而還<small>為下吳召舒鳩起本</small>
 
 <hr/>
 
-<p class="text-primary ml-5">秋七月甲子朔日有食之既<small>無傳</small></p>
+<p class="text-primary">秋七月甲子朔日有食之既<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">齊崔杼帥師伐莒</p>
+<p class="text-primary">齊崔杼帥師伐莒</p>
 
 齊侯既伐晉而懼將欲見楚子楚子使薳啟彊如齊聘且請期<small>請會期</small>齊社蒐軍實使客觀之<small>祭社因閱數軍器以示薳啟彊</small>陳文子曰齊將有寇吾聞之兵不戢必取其族<small>戢藏也族類也取其族還自害也</small>秋齊侯聞將有晉師<small>夷儀之師</small>使陳無宇從薳啟彊如楚辭且乞師<small>辭有晉師未得相見</small>崔杼帥師送之遂伐莒侵介根<small>介根莒邑今城陽黔陬縣東北計基城是也齊既與莒平因兵出侵之言無信也</small>
 
 <hr/>
 
-<p class="text-primary ml-5">大水<small>無傳</small></p>
+<p class="text-primary">大水<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">八月癸巳朔日有食之<small>無傳</small></p>
+<p class="text-primary">八月癸巳朔日有食之<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">公會晉侯宋公衞侯鄭伯曹伯莒子邾子滕子薛伯杞伯小邾子于夷儀</p>
+<p class="text-primary">公會晉侯宋公衞侯鄭伯曹伯莒子邾子滕子薛伯杞伯小邾子于夷儀</p>
 
 會于夷儀將以伐齊水不克<small>晉合諸侯以報前年見伐</small>
 
-<p class="text-primary ml-5">冬楚子蔡侯陳侯許男伐鄭</p>
+<p class="text-primary">冬楚子蔡侯陳侯許男伐鄭</p>
 
 冬楚子伐鄭以救齊門于東門次于棘澤<small>以齊無宇乞師故也</small>諸侯還救鄭<small>夷儀諸侯</small>晉侯使張骼輔躒致楚師求御于鄭<small>欲得鄭人自御知其地利故也</small>鄭人卜宛射犬吉<small>射犬鄭公孫</small>子大叔戒之曰大國之人不可與也<small>言不可與等也欲使卑下之大叔游吉</small>對曰無有衆寡其上一也<small>言在己上者有常分無大小國之異</small>大叔曰不然部婁無松柏<small>部婁小阜松柏大木喻小國異於大國</small>二子在幄坐射犬于外<small>二子張骼輔躒幄帳也</small>既食而後食之使御廣車而行<small>廣車兵車</small>己皆乘乘車<small>乘車安車</small>將及楚師而後從之乘皆踞轉而鼓琴<small>轉衣裝</small>近不告而馳之<small>射犬恨故近敵不告而馳</small>皆取冑於櫜而冑入壘皆下搏人以投收禽挾囚<small>禽獲也</small>弗待而出<small>射犬又不待二子</small>皆超乘抽弓而射既免復踞轉而鼓琴曰公孫同乘兄弟也<small>言同乘義如兄弟</small>胡再不謀<small>謂不告而馳不待而出</small>對曰曩者志入而已今則怯也皆笑曰公孫之亟也<small>亟急也言其性急不能受屈</small>楚子自棘澤還使薳啟彊帥師送陳無宇<small>傳言齊楚固相結也</small>
 
-<p class="text-primary ml-5">公至自會<small>無傳</small></p>
+<p class="text-primary">公至自會<small>無傳</small></p>
 
 吳人為楚舟師之役故<small>在此年夏</small>召舒鳩人舒鳩人叛楚<small>舒鳩楚屬國召欲與共伐楚</small>楚子師于荒浦<small>荒浦舒鳩地</small>使沈尹壽與師祁犂讓之<small>二子楚大夫</small>舒鳩子敬逆二子而告無之且請受盟二子復命王欲伐之薳子曰不可<small>令尹薳子馮</small>彼告不叛且請受盟而又伐之伐無罪也姑歸息民以待其卒<small>卒終也</small>卒而不貳吾又何求若猶叛我無辭有庸乃還<small>彼無辭我有功為明年楚滅舒鳩傳</small>
 
 <hr/>
 
-<p class="text-primary ml-5">陳鍼宜咎出奔楚<small>陳鍼子八世孫慶氏之黨書名惡之也</small></p>
+<p class="text-primary">陳鍼宜咎出奔楚<small>陳鍼子八世孫慶氏之黨書名惡之也</small></p>
 
 陳人復討慶氏之黨鍼宜咎出奔楚<small>言宜咎所以稱名</small>
 
 <hr/>
 
-<p class="text-primary ml-5">叔孫豹如京師</p>
+<p class="text-primary">叔孫豹如京師</p>
 
 齊人城郟<small>郟王城也於是穀雒鬭毀王宮齊叛晉欲求媚於天子故為王城之</small>穆叔如周聘且賀城王嘉其有禮也賜之大路<small>大路天子所賜車之揔名為昭四年叔孫以所賜路葬張本</small>
 
@@ -1291,19 +1291,19 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">大饑<small>無傳</small></p>
+<p class="text-primary">大饑<small>無傳</small></p>
 
 <hr/>
 
-#### 襄二十五年｜前五四八
+#### 襄二十五年<small>｜前五四八</small>
 
-<p class="text-primary ml-5">二十有五年春齊崔杼帥師伐我北鄙</p>
+<p class="text-primary">二十有五年春齊崔杼帥師伐我北鄙</p>
 
 二十五年春齊崔杼帥師伐我北鄙以報孝伯之師也<small>前年魯使孟孝伯為晉伐齊</small>公患之使告于晉孟公綽曰崔子將有大志<small>志在弒君孟公綽魯大夫</small>不在病我必速歸何患焉其來也不寇<small>不為寇害</small>使民不嚴<small>欲得民心</small>異於他日齊師徒歸<small>徒空也</small>
 
 <hr/>
 
-<p class="text-primary ml-5">夏五月乙亥齊崔杼弒其君光<small>齊侯雖背盟主未有無道於民故書臣罪崔杼也</small></p>
+<p class="text-primary">夏五月乙亥齊崔杼弒其君光<small>齊侯雖背盟主未有無道於民故書臣罪崔杼也</small></p>
 
 齊棠公之妻東郭偃之姊也<small>棠公齊棠邑大夫</small>東郭偃臣崔武子棠公死偃御武子以弔焉見棠姜而美之<small>美其色也</small>使偃取之<small>為己取也</small>偃曰男女辨姓<small>辨別也</small>今君出自丁<small>齊丁公崔杼之祖</small>臣出自桓不可<small>齊桓公小白東郭偃之祖同姜姓故不可昏</small>武子筮之遇困<small>坎下兌上困</small>之大過<small>巽下兌上大過困六三變為大過</small>史皆曰吉<small>阿崔子</small>示陳文子文子曰夫從風<small>坎為中男故曰夫變而為巽故曰從風</small>風隕妻不可娶也<small>風能隕落物者變而隕落故曰妻不可娶</small>且其繇曰困于石據于蒺蔾入于其宮不見其妻凶<small>困六三爻辭</small>困于石往不濟也<small>坎為險為水水之險者石不可以動</small>據于蒺蔾所恃傷也<small>坎為險兌為澤澤之生物而險者蒺蔾恃之則傷</small>入于其宮不見其妻凶無所歸也<small>易曰非所困而困名必辱非所據而據身必危既辱且危死其將至妻其可得見邪今卜昏而遇此卦六三失位無應則喪其妻失其所歸也</small>崔子曰嫠也何害先夫當之矣<small>寡婦曰嫠言棠公已當此凶</small>遂取之莊公通焉驟如崔氏以崔子之冠賜人侍者曰不可公曰不為崔子其無冠乎<small>言雖不為崔子猶自應有冠</small>崔子因是<small>因是怒公</small>又以其間伐晉也<small>間晉之難而伐之</small>曰晉必將報欲弒公以說于晉而不獲間公鞭侍人賈舉而又近之乃為崔子間公<small>伺公間隙</small>夏五月莒為且于之役故莒子朝于齊<small>且于役在二十三年</small>甲戌饗諸北郭崔子稱疾不視事<small>欲使公來</small>乙亥公問崔子<small>問疾</small>遂從姜氏姜入于室與崔子自側戶出公拊楹而歌<small>歌以命姜</small>侍人賈舉止衆從者而入閉門<small>為崔子閉公也重言侍人者別下賈舉</small>甲興公登臺而請弗許<small>請免</small>請盟弗許請自刃於廟弗許<small>求還廟自殺也</small>皆曰君之臣杼疾病不能聽命<small>不能親聽公命</small>近於公宮<small>言崔子宮近公宮或淫者詐稱公</small>陪臣干掫有淫者不知二命<small>干掫行夜言行夜得淫人受崔子命討之不知他命</small>公踰牆又射之中股反隊遂弒之賈舉州綽邴師公孫敖封具鐸父襄伊僂堙皆死<small>八子皆齊勇力之臣為公所嬖者與公共死於崔子之宮</small>祝佗父祭於高唐<small>高唐有齊別廟也</small>至復命不說弁而死於崔氏<small>爵弁祭服</small>申蒯侍漁者<small>侍漁監取魚之官</small>退謂其宰曰爾以帑免<small>帑宰之妻子</small>我將死其宰曰免是反子之義也與之皆死<small>反死君之義</small>崔氏殺鬷蔑于平陰<small>鬷蔑平陰大夫公外嬖傳言莊公所養非國士故其死難皆嬖寵之人</small>晏子立於崔氏之門外<small>聞難而來</small>其人曰死乎曰獨吾君也乎哉吾死也<small>言己與衆臣無異</small>曰行乎曰吾罪也乎哉吾亡也<small>自謂無罪</small>曰歸乎曰君死安歸<small>言安可以歸</small>君民者豈以陵民社稷是主臣君者豈為其口實社稷是養<small>言君不徒居民上臣不徒求祿皆為社稷</small>故君為社稷死則死之為社稷亡則亡之<small>謂以公義死亡</small>若為己死而為己亡非其私暱誰敢任之<small>私暱所親愛也非所親愛無為當其禍</small>且人有君而弒之吾焉得死之而焉得亡之<small>言己非正卿見待無異於衆臣故不得死其難也</small>將庸何歸<small>將用死亡之義何所歸趣</small>門啟而入枕尸股而哭<small>以公尸枕己股</small>興三踊而出人謂崔子必殺之崔子曰民之望也舍之得民<small>舍置也</small>盧蒲癸奔晉王何奔莒<small>二子莊公黨為二十八年殺慶舍張本</small>
 
@@ -1315,39 +1315,39 @@ weight: 109
 
 崔氏側莊公于北郭<small>側瘞埋之不殯於廟</small>丁亥葬諸士孫之里<small>士孫人姓因名里死十三日便葬不待五月</small>四翣<small>喪車之飾諸侯六翣</small>不蹕<small>蹕止行人</small>下車七乘不以兵甲<small>下車送葬之車齊舊依上公禮九乘又有甲兵今皆降損</small>
 
-<p class="text-primary ml-5">公會晉侯宋公衞侯鄭伯曹伯莒子邾子滕子薛伯杞伯小邾子于夷儀</p>
+<p class="text-primary">公會晉侯宋公衞侯鄭伯曹伯莒子邾子滕子薛伯杞伯小邾子于夷儀</p>
 
 晉侯濟自泮<small>泮闕</small>會于夷儀伐齊以報朝歌之役<small>朝歌役在二十三年不書伐齊齊人逆服兵不加</small>齊人以莊公說<small>以弒莊公說晉也</small>使隰鉏請成慶封如師<small>慶封獨使於晉不通諸侯故不書鉏隰朋之曾孫</small>男女以班賂晉侯以宗器樂器<small>宗器祭祀之器樂器鐘磬之屬</small>自六正<small>三軍之六卿</small>五吏三十帥<small>五吏文職三十帥武職皆軍卿之屬官</small>三軍之大夫百官之正長師旅<small>百官正長羣有司也師旅小將帥</small>及處守者皆有賂<small>皆以男女為賂處守守國者</small>晉侯許之<small>晉侯受賂還不譏者齊有喪師自宜退</small>使叔向告於諸侯<small>告齊服</small>公使子服惠伯對曰君舍有罪以靖小國君之惠也寡君聞命矣晉侯使魏舒宛沒逆衞侯<small>衞獻公以十四年奔齊</small>將使衞與之夷儀崔子止其帑以求五鹿<small>崔杼欲得衞之五鹿故留衞侯妻子於齊以質之</small>
 
 <hr/>
 
-<p class="text-primary ml-5">六月壬子鄭公孫舍之帥師入陳<small>子產之言陳以不義見入故舍之無譏釋例詳之</small></p>
+<p class="text-primary">六月壬子鄭公孫舍之帥師入陳<small>子產之言陳以不義見入故舍之無譏釋例詳之</small></p>
 
 初陳侯會楚子伐鄭<small>在前年</small>當陳隧者井堙木刊<small>隧徑也堙塞也刊除也</small>鄭人怨之六月鄭子展子產帥車七百乘伐陳宵突陳城<small>突穿也</small>遂入之陳侯扶其大子偃師奔墓<small>欲逃冢間</small>遇司馬桓子曰載余<small>陳之司馬</small>曰將巡城<small>不欲載公以巡城辭</small>遇賈獲<small>賈獲陳大夫</small>載其母妻下之而授公車公曰舍而母辭曰不祥<small>雖急猶不欲男女無別</small>與其妻扶其母以奔墓亦免子展命師無入公宮與子產親御諸門<small>欲服之而已故禁侵掠</small>陳侯使司馬桓子賂以宗器陳侯免擁社<small>免喪服擁社抱社主示服</small>使其衆男女別而纍以待於朝<small>纍自囚係以待命</small>子展執縶而見<small>見陳侯</small>再拜稽首承飲而進獻<small>承飲奉觴示不失臣敬</small>子美入數俘而出<small>子美子產也但數其所獲人數不將以歸</small>祝祓社司徒致民司馬致節司空致地乃還<small>祓除也節兵符陳亂故正其衆官脩其所職以安定之乃還也</small>
 
 <hr/>
 
-<p class="text-primary ml-5">秋八月己巳諸侯同盟于重丘<small>夷儀之諸侯也重丘齊地己巳七月十二日經誤</small></p>
+<p class="text-primary">秋八月己巳諸侯同盟于重丘<small>夷儀之諸侯也重丘齊地己巳七月十二日經誤</small></p>
 
 秋七月己巳同盟于重丘齊成故也<small>伐齊而稱同盟以明齊亦同盟</small>趙文子為政<small>趙武代范匄</small>令薄諸侯之幣而重其禮<small>以重禮待諸侯</small>穆叔見之謂穆叔曰自今以往兵其少弭矣<small>弭止也</small>齊崔慶新得政將求善於諸侯武也知楚令尹<small>令尹屈建</small>若敬行其禮道之以文辭以靖諸侯兵可以弭<small>為二十七年晉楚盟于宋傳</small>
 
-<p class="text-primary ml-5">公至自會<small>無傳</small></p>
+<p class="text-primary">公至自會<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">楚屈建帥師滅舒鳩<small>傳在衞侯入夷儀上經在下從告</small><small class="text-success">「原在衞侯入于夷儀下」</small></p>
+<p class="text-primary">楚屈建帥師滅舒鳩<small>傳在衞侯入夷儀上經在下從告</small><small class="text-success">「原在衞侯入于夷儀下」</small></p>
 
 楚薳子馮卒屈建為令尹<small>屈建子木</small>屈蕩為莫敖<small>代屈建宣十二年邲之役楚有屈蕩為左廣之右世本屈蕩屈建之祖父今此屈蕩與之同姓名</small>舒鳩人卒叛<small>前年辭不叛</small>楚令尹子木伐之及離城<small>離城舒鳩城</small>吳人救之子木遽以右師先<small>先至舒鳩</small>子彊息桓子捷子駢子盂帥左師以退<small>五人不及子木與吳相遇而退</small>吳人居其間七日<small>居楚兩軍之間</small>子彊曰久將墊隘隘乃禽也不如速戰<small>墊隘慮水雨</small>請以其私卒誘之簡師陳以待我<small>簡閱精兵駐後為陳</small>我克則進奔則亦視之<small>視其形勢而救助之</small>乃可以免不然必為吳禽從之五人以其私卒先擊吳師吳師奔登山以望見楚師不繼復逐之傅諸其軍<small>吳還逐五子至其本軍</small>簡師會之吳師大敗遂圍舒鳩舒鳩潰八月楚滅舒鳩<small>五子既敗吳師遂前及子木共圍滅舒鳩</small>
 
 <hr/>
 
-<p class="text-primary ml-5">衞侯入于夷儀<small>夷儀本邢地衞滅邢而為衞邑晉愍衞衎失國使衞分之一邑書入者自外而入之辭非國逆之例</small></p>
+<p class="text-primary">衞侯入于夷儀<small>夷儀本邢地衞滅邢而為衞邑晉愍衞衎失國使衞分之一邑書入者自外而入之辭非國逆之例</small></p>
 
 衞獻公入于夷儀<small>為下自夷儀與甯喜言張本</small>
 
 <hr/>
 
-<p class="text-primary ml-5">冬鄭公孫夏帥師伐陳<small>陳猶未服</small></p>
+<p class="text-primary">冬鄭公孫夏帥師伐陳<small>陳猶未服</small></p>
 
 鄭子產獻捷于晉<small>獻入陳之功而不獻其俘</small>戎服將事<small>戎服軍旅之衣異於朝服</small>晉人問陳之罪對曰昔虞閼父為周陶正以服事我先王<small>閼父舜之後當周之興閼父為武王陶正</small>我先王賴其利器用也與其神明之後也<small>舜聖故謂之神明</small>庸以元女大姬配胡公<small>庸用也元女武王之長女胡公閼父之子滿也</small>而封諸陳以備三恪<small>周得天下封夏殷二王後又封舜後謂之恪并二王後為三國其禮轉降示敬而已故曰三恪</small>則我周之自出至于今是賴<small>言陳周之甥至今賴周德</small>桓公之亂蔡人欲立其出<small>陳桓公鮑卒於是陳亂事在魯桓五年蔡出桓公之子厲公也</small>我先君莊公奉五父而立之<small>五父佗桓公弟殺大子免而代之鄭莊公因就定其位</small>蔡人殺之<small>欲立其出故</small>我又與蔡人奉戴厲公<small>奉戴猶奉事</small>至於莊宣皆我之自立<small>陳莊公宣公皆厲公子</small>夏氏之亂成公播蕩又我之自入君所知也<small>播蕩流移失所宣十一年陳夏徵舒弒靈公靈公之子成公奔晉自晉因鄭而入也</small>今陳忘周之大德蔑我大惠弃我姻親介恃楚衆以馮陵我敝邑不可億逞<small>億度也逞盡也</small>我是以有往年之告<small>謂鄭伯稽首告晉請伐陳</small>未獲成命<small>未得伐陳命</small>則有我東門之役<small>前年陳從楚伐鄭東門</small>當陳隧者井堙木刊敝邑大懼不競而恥大姬<small>上辱大姬之靈</small>天誘其衷啟敝邑心<small>啟開也開道其心故得勝</small>陳知其罪授手于我用敢獻功晉人曰何故侵小對曰先王之命唯罪所在各致其辟<small>辟誅也</small>且昔天子之地一圻<small>方千里</small>列國一同<small>方百里</small>自是以衰<small>衰差降</small>今大國多數圻矣若無侵小何以至焉晉人曰何故戎服對曰我先君武莊為平桓卿士<small>鄭武公莊公為周平王桓王卿士</small>城濮之役文公布命曰各復舊職<small>晉文公</small>命我文公戎服輔王以授楚捷不敢廢王命故也<small>城濮在僖二十八年</small>士莊伯不能詰<small>士莊伯士弱也</small>復於趙文子文子曰其辭順犯順不祥乃受之冬十月子展相鄭伯如晉拜陳之功<small>謝晉受其功</small>子西復伐陳陳及鄭平<small>前雖入陳服之而已故更伐以結成</small>仲尼曰志有之<small>志古書</small>言以足志文以足言<small>足猶成也</small>不言誰知其志言之無文行而不遠<small>雖得行猶不能及遠</small>晉為伯鄭入陳非文辭不為功愼辭哉<small>樞機之發榮辱之主</small>
 
@@ -1355,7 +1355,7 @@ weight: 109
 
 楚蒍掩為司馬<small>蒍子馮之子</small>子木使庀賦<small>庀治</small>數甲兵<small>閱數之</small>甲午蒍掩書土田<small>書土地之所宜</small>度山林<small>度量山林之材以共國用</small>鳩藪澤<small>鳩聚也聚成藪澤使民不得焚燎壞之欲以備田獵之處</small>辨京陵<small>辨別也絕高曰京大阜曰陵別之以為冢墓之地</small>表淳鹵<small>淳鹵埆薄之地表異輕其賦稅</small>數疆潦<small>疆界有流潦者計數減其租入</small>規偃豬<small>偃豬下濕之地規度其受水多少</small>町原防<small>廣平曰原防隄也隄防間地不得方正如井田別為小頃町</small>牧隰皐<small>隰皐水岸下濕為芻牧之地</small>井衍沃<small>衍沃平美之地則如周禮制以為井田六尺為步步百為畒畒百為夫九夫為井</small>量入脩賦<small>量九土之所入而治理其賦稅</small>賦車籍馬<small>籍疏其毛色歲齒以備軍用</small>賦車兵<small>車兵甲士</small>徒兵<small>步卒</small>甲楯之數<small>使器杖有常數</small>既成以授子木禮也<small>得治國之禮傳言楚之所以興</small>
 
-<p class="text-primary ml-5">十有二月吳子遏伐楚門于巢卒<small>遏諸樊也為巢牛臣所殺不書滅者楚人不獲其尸吳以卒告未同盟而赴以名</small></p>
+<p class="text-primary">十有二月吳子遏伐楚門于巢卒<small>遏諸樊也為巢牛臣所殺不書滅者楚人不獲其尸吳以卒告未同盟而赴以名</small></p>
 
 十二月吳子諸樊伐楚以報舟師之役<small>舟師在二十四年也</small>門于巢<small>攻巢門</small>巢牛臣曰吳王勇而輕若啟之將親門<small>啟開門也</small>我獲射之必殪<small>殪死也</small>是君也死疆其少安從之吳子門焉牛臣隱於短牆以射之卒
 
@@ -1371,21 +1371,21 @@ weight: 109
 
 <hr/>
 
-#### 襄二十六年｜前五四七
+#### 襄二十六年<small>｜前五四七</small>
 
 會于夷儀之歲齊人城郟<small>在二十四年不直言會夷儀者別二十五年夷儀會</small>其五月秦晉為成晉韓起如秦涖盟秦伯車如晉涖盟<small>伯車秦伯之弟鍼也</small>成而不結<small>不結固也傳為後年脩成起本當繼前年之末而特跳此者傳寫失之</small>二十六年春秦伯之弟鍼如晉脩成<small>脩會夷儀歲之成</small>叔向命召行人子員<small>欲使答秦命</small>行人子朱曰朱也當御<small>御進也言次當行</small>三云叔向不應子朱怒曰班爵同<small>同為大夫</small>何以黜朱於朝<small>黜退也</small>撫劒從之<small>從叔向也</small>叔向曰秦晉不和久矣今日之事幸而集<small>集成</small>晉國賴之不集三軍暴骨子員道二國之言無私子常易之姦以事君者吾所能御也拂衣從之<small>拂衣褰裳也</small>人救之平公曰晉其庶乎<small>庶幾於治</small>吾臣之所爭者大師曠曰公室懼卑臣不心競而力爭<small>謂二子不心競為忠而撫劒拂衣</small>不務德而爭善<small>爭謂所行為善</small>私欲已侈能無卑乎<small>私欲侈則公義廢</small>
 
 <hr/>
 
-<p class="text-primary ml-5">二十有六年春王二月辛卯衞甯喜弒其君剽</p>
+<p class="text-primary">二十有六年春王二月辛卯衞甯喜弒其君剽</p>
 
 衞獻公使子鮮為復<small>使為己求反國</small>辭<small>辭不能</small>敬姒強命之<small>敬姒獻公及子鮮之母</small>對曰君無信臣懼不免敬姒曰雖然以吾故也許諾初獻公使與甯喜言<small>言復國</small>甯喜曰必子鮮在不然必敗<small>子鮮賢國人信之必欲使在其間</small>故公使子鮮子鮮不獲命於敬姒<small>不得止命</small>以公命與甯喜言曰苟反政由甯氏祭則寡人甯喜告蘧伯玉伯玉曰瑗不得聞君之出敢聞其入<small>十四年孫氏欲逐獻公瑗走從近關出</small>遂行從近關出告右宰穀<small>衞大夫</small>右宰穀曰不可獲罪於兩君<small>前出獻公今弒剽</small>天下誰畜之<small>畜猶容也</small>悼子曰吾受命於先人不可以貳<small>悼子甯喜也受命在二十年</small>穀曰我請使焉而觀之<small>觀知可還否</small>遂見公於夷儀反曰君淹恤在外十二年矣<small>淹久也</small>而無憂色亦無寬言猶夫人也<small>言其為人猶如故</small>若不已死無日矣<small>已止也</small>悼子曰子鮮在右宰穀曰子鮮在何益多而能亡於我何為<small>言子鮮為義多不過亡出</small>悼子曰雖然弗可以已孫文子在戚孫嘉聘於齊孫襄居守<small>二子孫文子之子</small>二月庚寅甯喜右宰穀伐孫氏不克伯國傷<small>伯國孫襄也父兄皆不在故乘弱攻之</small>甯子出舍於郊<small>欲奔</small>伯國死孫氏夜哭國人召甯子甯子復攻孫氏克之辛卯殺子叔及大子角<small>子叔衞侯剽言子叔剽無謚故</small>書曰甯喜弒其君剽言罪之在甯氏也<small>嫌受父命納舊君無罪故發之</small>
 
-<p class="text-primary ml-5">衞孫林父入于戚以叛<small>衎雖未居位林父專邑背國猶為叛也</small></p>
+<p class="text-primary">衞孫林父入于戚以叛<small>衎雖未居位林父專邑背國猶為叛也</small></p>
 
 孫林父以戚如晉<small>以邑屬晉</small>書曰入于戚以叛罪孫氏也臣之祿君實有之義則進否則奉身而退專祿以周旋戮也<small>林父事剽而衎入義可以退唯以專邑自隨為罪故傳發之</small>
 
-<p class="text-primary ml-5">甲午衞侯衎復歸于衞<small>復其位曰復歸名與不名傳無義例</small></p>
+<p class="text-primary">甲午衞侯衎復歸于衞<small>復其位曰復歸名與不名傳無義例</small></p>
 
 甲午衞侯入書曰復歸國納之也<small>本晉納之夷儀今從夷儀入國嫌若晉所納故發國納之例言國之所納而復其位</small>大夫逆於竟者執其手而與之言道逆者自車揖之逆於門者頷之而已<small>頷搖其頭言衎驕心易生</small>公至使讓大叔文子曰寡人淹恤在外二三子皆使寡人朝夕聞衞國之言<small>二三子諸大夫</small>吾子獨不在寡人<small>在存問之公聞文子答甯喜之言故忿之</small>古人有言曰非所怨勿怨寡人怨矣<small>所怨在親親</small>對曰臣知罪矣臣不佞不能負羈絏以從扞牧圉臣之罪一也有出者有居者<small>出謂衎居謂剽也</small>臣不能貳通外內之言以事君臣之罪二也有二罪敢忘其死乃行從近關出公使止之<small>傳言衞侯不能安和大臣</small>
 
@@ -1397,7 +1397,7 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">夏晉侯使荀吳來聘<small>吳荀偃子</small></p>
+<p class="text-primary">夏晉侯使荀吳來聘<small>吳荀偃子</small></p>
 
 晉人為孫氏故召諸侯將以討衞也夏中行穆子來聘召公也<small>召公為澶淵會</small>
 
@@ -1409,7 +1409,7 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">公會晉人鄭良霄宋人曹人于澶淵<small>卿會公侯皆應貶方責宋向戌後期故書良霄以駮之若皆稱人則嫌向戌直以會公貶之</small>晉人執衞甯喜</p>
+<p class="text-primary">公會晉人鄭良霄宋人曹人于澶淵<small>卿會公侯皆應貶方責宋向戌後期故書良霄以駮之若皆稱人則嫌向戌直以會公貶之</small>晉人執衞甯喜</p>
 
 六月公會晉趙武宋向戌鄭良霄曹人于澶淵以討衞疆戚田<small>正戚之封疆</small>取衞西鄙懿氏六十以與孫氏<small>戚城西北五十里有懿城因姓以名城取田六十井也</small>趙武不書尊公也<small>罪武會公侯</small>向戌不書後也<small>後會期</small>鄭先宋不失所也<small>如期至</small>於是衞侯會之<small>晉將執之不得與會故不書</small>晉人執甯喜北宮遺使女齊以先歸<small>討其弒君伐孫氏也遺北宮括之子女齊司馬侯歸晉而後告諸侯故經書在秋</small>衞侯如晉晉人執而囚之於士弱氏<small>士弱晉主獄大夫</small>
 
@@ -1417,7 +1417,7 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">秋宋公殺其世子痤<small>稱君以殺惡其父子相殘害</small><small class="text-success">「原在晉人執衞甯喜上」</small></p>
+<p class="text-primary">秋宋公殺其世子痤<small>稱君以殺惡其父子相殘害</small><small class="text-success">「原在晉人執衞甯喜上」</small></p>
 
 初宋芮司徒生女子<small>芮司徒宋大夫</small>赤而毛弃諸堤下共姬之妾取以入<small>共姬宋伯姬也</small>名之曰弃長而美平公入夕<small>平公共姬子也</small>共姬與之食公見弃也而視之尤<small>尤甚也</small>姬納諸御嬖生佐<small>佐元公</small>惡而婉<small>佐貌惡而心順</small>大子痤美而很<small>貌美而心很戾</small>合左師畏而惡之<small>合左師向戌</small>寺人惠牆伊戾為大子內師而無寵<small>惠牆氏伊戾名</small>秋楚客聘於晉過宋<small>上已有秋復發傳者中間有初不言秋則嫌楚客過在他年</small>大子知之請野享之公使往伊戾請從之公曰夫不惡女乎<small>夫謂大子也</small>對曰小人之事君子也惡之不敢遠好之不敢近敬以待命敢有貳心乎縱有共其外莫共其內<small>伊戾為大子內師不行恐內侍廢闕</small>臣請往也遣之至則欿用牲加書徵之<small>詐作盟處為大子反徵驗也</small>而騁告公<small>騁馳也</small>曰大子將為亂既與楚客盟矣公曰為我子又何求對曰欲速<small>言欲速得公位</small>公使視之則信有焉<small>有盟徵也</small>問諸夫人與左師<small>夫人佐母弃也</small>則皆曰固聞之公囚大子大子曰唯佐也能免我<small>以其婉也</small>召而使請曰日中不來吾知死矣左師聞之聒而與之語<small>聒讙也欲使佐失期</small>過期乃縊而死佐為大子公徐聞其無罪也乃亨伊戾
 
@@ -1433,11 +1433,11 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">八月壬午許男甯卒于楚<small>未同盟而赴以名</small>冬楚子蔡侯陳侯伐鄭</p>
+<p class="text-primary">八月壬午許男甯卒于楚<small>未同盟而赴以名</small>冬楚子蔡侯陳侯伐鄭</p>
 
 許靈公如楚請伐鄭<small>十六年晉伐許他國皆大夫獨鄭伯自行故許恚欲報之</small>曰師不興孤不歸矣八月卒于楚楚子曰不伐鄭何以求諸侯冬十月楚子伐鄭<small>為許</small>鄭人將禦之子產曰晉楚將平諸侯將和<small>和在明年</small>楚王是故昧於一來<small>昧猶貪冒</small>不如使逞而歸乃易成也<small>逞快也</small>夫小人之性釁於勇嗇於禍以足其性而求名焉者非國家之利也若何從之<small>釁動也嗇貪也言鄭之欲與楚戰者皆釁勇貪名之人非能為國計慮久利不可從也</small>子展說不禦寇
 
-<p class="text-primary ml-5">葬許靈公</p>
+<p class="text-primary">葬許靈公</p>
 
 十二月乙酉入南里墮其城<small>南里鄭邑</small>涉於樂氏<small>樂氏津名</small>門于師之梁<small>鄭城門</small>縣門發獲九人焉涉于氾而歸<small>於氾城下涉汝水南歸</small>而後葬許靈公<small>卒靈公之志而後葬之</small>
 
@@ -1451,23 +1451,23 @@ weight: 109
 
 <hr/>
 
-#### 襄二十七年｜前五四六
+#### 襄二十七年<small>｜前五四六</small>
 
 齊人城郟之歲<small>在二十四年</small>其夏齊烏餘以廩丘奔晉<small>烏餘齊大夫廩丘今東郡廩丘縣故城是</small>襲衞羊角取之<small>今廩丘縣所治羊角城是</small>遂襲我高魚<small>高魚城在廩丘縣東北</small>有大雨自其竇入<small>雨故水竇開</small>介于其庫<small>入高魚庫而介其甲</small>以登其城克而取之<small>取魯高魚無所諱而不書其義未聞</small>又取邑于宋於是范宣子卒<small>宣子范匄</small>諸侯弗能治也及趙文子為政乃卒治之文子言於晉侯曰晉為盟主諸侯或相侵也則討而使歸其地今烏餘之邑皆討類也<small>言於比類宜見討</small>而貪之是無以為盟主也請歸之公曰諾孰可使也對曰胥梁帶能無用師晉侯使往<small>胥梁帶晉大夫能無用師言有權謀</small>二十七年春胥梁帶使諸喪邑者具車徒以受地必周<small>諸喪邑謂齊魯宋也周密也必密來勿以受地為名</small>使烏餘具車徒以受封<small>烏餘以地來故詐許封之</small>烏餘以其衆出<small>出受封也</small>使諸侯偽效烏餘之封者<small>效致也使齊魯宋偽若致邑封烏餘者</small>而遂執之盡獲之<small>皆獲其徒衆</small>皆取其邑而歸諸侯諸侯是以睦於晉<small>傳言趙文子賢故平公雖失政而諸侯猶睦</small>
 
 <hr/>
 
-<p class="text-primary ml-5">二十有七年春齊侯使慶封來聘<small>景公即位通嗣君也</small></p>
+<p class="text-primary">二十有七年春齊侯使慶封來聘<small>景公即位通嗣君也</small></p>
 
 齊慶封來聘其車美孟孫謂叔孫曰慶季之車不亦美乎<small>季慶封字</small>叔孫曰豹聞之服美不稱必以惡終美車何為叔孫與慶封食不敬為賦相鼠亦不知也<small>相鼠詩鄘風曰相鼠有皮人而無儀人而無儀不死何為慶封不知此詩為己言其闇甚為明年慶封來奔傳</small>
 
 <hr/>
 
-<p class="text-primary ml-5">衞殺其大夫甯喜<small>甯喜弒剽立衎衎今雖不以弒剽致討於大義宜追討之故經以國討為文書名也書在宋會下從赴</small></p>
+<p class="text-primary">衞殺其大夫甯喜<small>甯喜弒剽立衎衎今雖不以弒剽致討於大義宜追討之故經以國討為文書名也書在宋會下從赴</small></p>
 
 衞甯喜專公患之公孫免餘請殺之<small>免餘衞大夫</small>公曰微甯子不及此<small>及此反國也</small>吾與之言矣<small>言政由甯氏</small>事未可知<small>恐伐之未必勝</small>祗成惡名止也<small>祗適也</small>對曰臣殺之君勿與知乃與公孫無地公孫臣謀<small>二公孫衞大夫</small>使攻甯氏弗克皆死<small>無地及臣皆死</small>公曰臣也無罪父子死余矣<small>獻公出時公孫臣之父為孫氏所殺</small>夏免餘復攻甯氏殺甯喜及右宰穀尸諸朝<small>穀不書非卿也</small>石惡將會宋之盟受命而出衣其尸枕之股而哭之欲斂以亡懼不免且曰受命矣乃行<small>行會于宋為明年石惡奔傳</small>
 
-<p class="text-primary ml-5">衞侯之弟鱄出奔晉<small>衞侯始者云政由甯氏祭則寡人而今復患其專緩答免餘既負其前信且不能友于賢弟使至出奔故書弟以罪兄</small></p>
+<p class="text-primary">衞侯之弟鱄出奔晉<small>衞侯始者云政由甯氏祭則寡人而今復患其專緩答免餘既負其前信且不能友于賢弟使至出奔故書弟以罪兄</small></p>
 
 子鮮曰逐我者出<small>謂孫林父</small>納我者死<small>謂甯喜</small>賞罰無章何以沮勸君失其信而國無刑不亦難乎<small>難以治國</small>且鱄實使之<small>使甯喜納君</small>遂出奔晉公使止之不可<small>不肯留</small>及河又使止之止使者而盟於河<small>誓不還</small>託於木門<small>木門晉邑</small>不鄉衞國而坐<small>怨之深也</small>木門大夫勸之仕不可曰仕而廢其事罪也從之昭吾所以出也將誰愬乎<small>從之謂治其事也事治則明己出欲仕無所自愬</small>吾不可以立於人之朝矣終身不仕<small>自誓不仕終身</small>公喪之如稅服終身<small>稅即繐也喪服繐縗裳縷細而希非五服之常本無月數痛愍子鮮故特為此服此服無月數而獻公尋薨故言終身</small>
 
@@ -1475,13 +1475,13 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">夏叔孫豹會晉趙武楚屈建蔡公孫歸生衞石惡陳孔奐鄭良霄許人曹人于宋<small>案傳會者十四國齊秦不交相見邾滕為私屬皆不與盟宋為主人地於宋則與盟可知故經唯序九國大夫楚先晉歃而書先晉貴信也陳于晉會常在衞上孔奐非上卿故在石惡下</small><small class="text-success">「原在衞殺其大夫甯喜上」</small></p>
+<p class="text-primary">夏叔孫豹會晉趙武楚屈建蔡公孫歸生衞石惡陳孔奐鄭良霄許人曹人于宋<small>案傳會者十四國齊秦不交相見邾滕為私屬皆不與盟宋為主人地於宋則與盟可知故經唯序九國大夫楚先晉歃而書先晉貴信也陳于晉會常在衞上孔奐非上卿故在石惡下</small><small class="text-success">「原在衞殺其大夫甯喜上」</small></p>
 
 宋向戌善於趙文子又善於令尹子木欲弭諸侯之兵以為名<small>欲獲息民之名</small>如晉告趙孟趙孟謀於諸大夫韓宣子曰兵民之殘也財用之蠹<small>蠹害物之蟲</small>小國之大菑也將或弭之雖曰不可必將許之<small>言雖知兵不得久弭今不可不許</small>弗許楚將許之以召諸侯則我失為盟主矣晉人許之如楚楚亦許之如齊齊人難之陳文子曰晉楚許之我焉得已且人曰弭兵而我弗許則固攜吾民矣將焉用之齊人許之告於秦秦亦許之皆告於小國為會於宋
 
 五月甲辰晉趙武至於宋丙午鄭良霄至六月丁未朔宋人享趙文子叔向為介司馬置折俎禮也<small>折俎體解節折升之於俎合卿享宴之禮故曰禮也周禮司馬掌會同之事</small>仲尼使舉是禮也以為多文辭<small>宋向戌自美弭兵之意敬逆趙武趙武叔向因享宴之會展賓主之辭故仲尼以為多文辭</small>戊申叔孫豹齊慶封陳須無衞石惡至<small>須無陳文子</small>甲寅晉荀盈從趙武至<small>趙武命盈追己故言從趙武後武遣盈如楚</small>丙辰邾悼公至<small>小國故君自來</small>壬戌楚公子黑肱先至成言於晉<small>時令尹子木止陳遣黑肱就晉大夫成盟載之言兩相然可</small>丁卯宋向戌如陳從子木成言於楚<small>就於陳成楚之要言</small>戊辰滕成公至<small>亦小國君自來</small>子木謂向戌請晉楚之從交相見也<small>使諸侯從晉楚者更相朝見</small>庚午向戌復於趙孟趙孟曰晉楚齊秦匹也晉之不能於齊猶楚之不能於秦也<small>不能服而使之</small>楚君若能使秦君辱於敝邑寡君敢不固請於齊<small>請齊使朝楚</small>壬申左師復言於子木子木使馹謁諸王<small>馹傳也謁告也</small>王曰釋齊秦他國請相見也<small>經所以不書齊秦</small>
 
-<p class="text-primary ml-5">秋七月辛巳豹及諸侯之大夫盟于宋<small>夏會之大夫也豹不倚順以顯弱命之君而辨小是以自從故以違命貶之釋例論之備矣</small></p>
+<p class="text-primary">秋七月辛巳豹及諸侯之大夫盟于宋<small>夏會之大夫也豹不倚順以顯弱命之君而辨小是以自從故以違命貶之釋例論之備矣</small></p>
 
 秋七月戊寅左師至<small>從陳還</small>是夜也趙孟及子皙盟以齊言<small>子皙公子黑肱素要齊其辭至盟時不得復訟爭</small>庚辰子木至自陳陳孔奐蔡公孫歸生至<small>二國大夫與子木俱至</small>曹許之大夫皆至以藩為軍<small>示不相忌</small>晉楚各處其偏<small>晉處北楚處南</small>伯夙謂趙孟<small>伯夙荀盈</small>曰楚氛甚惡懼難<small>氛氣也言楚有襲晉之氣</small>趙孟曰吾左還入於宋若我何<small>營在宋北東頭為上故晉營在東有急可左廻入宋東門</small>辛巳將盟於宋西門之外楚人衷甲<small>甲在衣中欲因會擊晉</small>伯州犂曰合諸侯之師以為不信無乃不可乎夫諸侯望信於楚是以來服若不信是弃其所以服諸侯也固請釋甲子木曰晉楚無信久矣事利而已苟得志焉焉用有信大宰退<small>大宰伯州犂</small>告人曰令尹將死矣不及三年求逞志而弃信志將逞乎志以發言言以出信信以立志參以定之<small>志言信三者具而後身安存</small>信亡何以及三<small>為明年子木死起本</small>趙孟患楚衷甲以告叔向叔向曰何害也匹夫一為不信猶不可單斃其死<small>單盡也斃踣也</small>若合諸侯之卿以為不信必不捷矣食言者不病<small>不病者單斃於死</small>非子之患也<small>楚食言當死晉不食言故無患</small>夫以信召人而以僭濟之<small>濟成也</small>必莫之與也安能害我且吾因宋以守病<small>為楚所病則欲入宋城</small>則夫能致死與宋致死雖倍楚可也<small>宋為地主致死助我則力可倍楚</small>子何懼焉又不及是曰弭兵以召諸侯而稱兵以害我<small>稱舉也</small>吾庸多矣非所患也<small>晉獨取信故其功多</small>季武子使謂叔孫以公命曰視邾滕<small>兩事晉楚則貢賦重故欲比小國武子恐叔孫不從其言故假公命以敦之</small>既而齊人請邾宋人請滕皆不與盟<small>私屬二國故</small>叔孫曰邾滕人之私也我列國也何故視之宋衞吾匹也乃盟故不書其族言違命也<small>季孫專政於國魯君非得有命今君唯以此命告豹豹宜崇大順以顯弱命之君而遂其小是故貶之</small>晉楚爭先<small>爭先歃血</small>晉人曰晉固為諸侯盟主未有先晉者也楚人曰子言晉楚匹也若晉常先是楚弱也且晉楚狎主諸侯之盟也久矣<small>狎更也</small>豈專在晉叔向謂趙孟曰諸侯歸晉之德只<small>只辭</small>非歸其尸盟也<small>尸主也</small>子務德無爭先且諸侯盟小國固必有尸盟者<small>小國主辨具</small>楚為晉細不亦可乎<small>欲推使楚主盟</small>乃先楚人書先晉晉有信也<small>蓋孔子追正之</small>壬午宋公兼享晉楚之大夫趙孟為客<small>客一坐所尊故季孫飲大夫酒臧紇為客</small>子木與之言弗能對使叔向侍言焉子木亦不能對也乙酉宋公及諸侯之大夫盟于蒙門之外<small>前盟諸大夫不敢敵公禮也今宋公以近在其國故謙而重盟重盟故不書蒙門宋城門</small>子木問於趙孟曰范武子之德何如<small>士會賢聞於諸侯故問之</small>對曰夫子之家事治言於晉國無隱情其祝史陳信於鬼神無愧辭<small>祝陳馨香德足副之故不愧</small>子木歸以語王王曰尚矣哉<small>尚上也</small>能歆神人<small>歆享也使神享其祭人懷其德</small>宜其光輔五君以為盟主也<small>五君謂文襄靈成景</small>子木又語王曰宜晉之伯也有叔向以佐其卿楚無以當之不可與爭晉荀盈遂如楚涖盟<small>重結晉楚之好</small>
 
@@ -1503,15 +1503,15 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">冬十有二月乙亥朔日有食之<small>今長歷推十一月朔非十二月傳曰辰在申再失閏若是十二月則為三失閏故知經誤</small></p>
+<p class="text-primary">冬十有二月乙亥朔日有食之<small>今長歷推十一月朔非十二月傳曰辰在申再失閏若是十二月則為三失閏故知經誤</small></p>
 
 十一月乙亥朔日有食之辰在申司歷過也再失閏矣<small>謂斗建指申周十一月今之九月斗當建戌而在申故知再失閏也文十一年三月甲子至今年七十一歲應有二十六閏今長歷推得二十四閏通計少再閏釋例言之詳矣</small>
 
 <hr/>
 
-#### 襄二十八年｜前五四五
+#### 襄二十八年<small>｜前五四五</small>
 
-<p class="text-primary ml-5">二十有八年春無冰<small>前年知其再失閏頓置兩閏以應天正故此年正月建子得以無冰為災而書</small></p>
+<p class="text-primary">二十有八年春無冰<small>前年知其再失閏頓置兩閏以應天正故此年正月建子得以無冰為災而書</small></p>
 
 二十八年春無冰梓愼曰今茲宋鄭其饑乎<small>梓愼魯大夫今年鄭游吉宋向戌言之明年饑甚傳乃詳其事</small>歲在星紀而淫於玄枵<small>歲歲星也星紀在丑斗牛之次玄枵在子虛危之次十八年晉董叔曰天道多在西北是歲歲星在亥至此年十一歲故在星紀明年乃當在玄枵今已在玄枵淫行失次</small>以有時菑陰不堪陽<small>時菑無冰也盛陰用事而溫無冰是陰不勝陽地氣發洩</small>蛇乘龍<small>蛇玄武之宿虛危之星龍歲星歲星木也木為青龍失次出虛危下為蛇所乘</small>龍宋鄭之星也<small>歲星本位在東方東方房心為宋角亢為鄭故以龍為宋鄭之星</small>宋鄭必饑玄枵虛中也<small>玄枵三宿虛星在其中</small>枵秏名也土虛而民秏不饑何為<small>歲為宋鄭之星今失常淫入虛秏之次時復無冰地氣發洩故曰土虛民秏</small>
 
@@ -1521,19 +1521,19 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">夏衞石惡出奔晉<small>甯喜之黨書名惡之</small></p>
+<p class="text-primary">夏衞石惡出奔晉<small>甯喜之黨書名惡之</small></p>
 
 衞人討甯氏之黨故石惡出奔晉衞人立其從子圃以守石氏之祀禮也<small>石惡之先石碏有大功於衞國惡之罪不及不祀故曰禮</small>
 
 <hr/>
 
-<p class="text-primary ml-5">邾子來朝</p>
+<p class="text-primary">邾子來朝</p>
 
 邾悼公來朝時事也<small>傳言來朝非宋盟宋盟唯施於朝晉楚</small>
 
 <hr/>
 
-<p class="text-primary ml-5">秋八月大雩</p>
+<p class="text-primary">秋八月大雩</p>
 
 秋八月大雩旱也
 
@@ -1543,7 +1543,7 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">仲孫羯如晉<small>告將朝楚</small></p>
+<p class="text-primary">仲孫羯如晉<small>告將朝楚</small></p>
 
 孟孝伯如晉告將為宋之盟故如楚也<small>魯晉屬故告晉而行</small>
 
@@ -1555,7 +1555,7 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">冬齊慶封來奔<small>崔杼之黨耆酒荒淫而出書名罪之自魯奔吳不書以絕位不為卿</small></p>
+<p class="text-primary">冬齊慶封來奔<small>崔杼之黨耆酒荒淫而出書名罪之自魯奔吳不書以絕位不為卿</small></p>
 
 齊慶封好田而耆酒與慶舍政<small>舍慶封子慶封當國不自為政以付舍</small>則以其內實遷于盧蒲嫳氏易內而飲酒<small>內實寶物妻妾也移而居嫳家</small>數日國遷朝焉<small>就於盧蒲氏朝見封</small>使諸亡人得賊者以告而反之<small>亡人辟崔氏難出奔者</small>故反盧蒲癸癸臣子之<small>子之慶舍</small>有寵妻之<small>子之以其女妻癸</small>慶舍之士謂盧蒲癸曰男女辨姓子不辟宗何也<small>辨別也別姓而後可相取慶氏盧蒲氏皆姜姓</small>曰宗不余辟<small>言舍欲妻己</small>余獨焉辟之賦詩斷章余取所求焉惡識宗<small>言己苟欲有求於慶氏不能復顧禮譬如賦詩者取其一章而已</small>癸言王何而反之二人皆嬖<small>二子皆莊公黨二十五年崔氏弒莊公癸何出奔今還求寵於慶氏欲為莊公報讎</small>使執寢戈而先後之<small>寢戈親近兵杖</small>公膳日雙雞<small>卿大夫之膳食</small>饔人竊更之以鶩御者知之則去其肉而以其洎饋<small>御進食者饔人御者欲使諸大夫怨慶氏減其膳蓋盧蒲癸王何之謀</small>子雅子尾怒<small>二子皆惠公孫</small>慶封告盧蒲嫳<small>以二子怒告嫳</small>盧蒲嫳曰譬之如禽獸吾寢處之矣<small>言能殺而席其皮</small>使析歸父告晏平仲<small>欲與共謀子雅子尾</small>平仲曰嬰之衆不足用也知無能謀也言弗敢出<small>不敢洩謀</small>有盟可也子家曰子之言云<small>子家析歸父</small>又焉用盟告北郭子車<small>子車齊大夫</small>子車曰人各有以事君非佐之所能也<small>佐子車名</small>陳文子謂桓子<small>桓子文子之子無宇</small>曰禍將作矣吾其何得對曰得慶氏之木百車於莊<small>慶封時有此木積於六軌之道</small>文子曰可愼守也已<small>善其不志於貨財</small>盧蒲癸王何卜攻慶氏示子之兆<small>龜兆</small>曰或卜攻讎敢獻其兆子之曰克見血冬十月慶封田于萊陳無宇從丙辰文子使召之請曰無宇之母疾病請歸慶季卜之<small>季慶封</small>示之兆曰死奉龜而泣<small>無宇泣</small>乃使歸慶嗣聞之<small>嗣慶封之族</small>曰禍將作矣謂子家速歸<small>子家慶封字</small>禍作必於嘗<small>嘗秋祭</small>歸猶可及也子家弗聽亦無悛志<small>悛改寤也</small>子息曰亡矣幸而獲在吳越<small>子息慶嗣</small>陳無宇濟水而戕舟發梁<small>戕殘壞也不欲慶封得救難</small>盧蒲姜謂癸曰有事而不告我必不捷矣<small>姜癸妻慶舍女</small>癸告之<small>告欲殺慶舍</small>姜曰夫子愎莫之止將不出我請止之<small>夫子謂慶舍</small>癸曰諾十一月乙亥嘗于大公之廟慶舍涖事<small>臨祭事</small>盧蒲姜告之且止之弗聽曰誰敢者遂如公<small>至公所</small>麻嬰為尸<small>為祭尸</small>慶奊為上獻<small>上獻先獻者</small>盧蒲癸王何執寢戈慶氏以其甲環公宮<small>廟在宮內</small>陳氏鮑氏之圉人為優<small>優俳</small>慶氏之馬善驚士皆釋甲束馬<small>束絆之也</small>而飲酒且觀優至於魚里<small>魚里里名優在魚里就觀之</small>欒高陳鮑之徒介慶氏之甲<small>欒子雅高子尾陳陳須無鮑鮑國</small>子尾抽桷擊扉三<small>桷椽也扉門闔也以桷擊扉為期</small>盧蒲癸自後刺子之王何以戈擊之解其左肩猶援廟桷動於甍<small>甍屋棟</small>以俎壺投殺人而後死<small>言其多力</small>遂殺慶繩麻嬰<small>慶繩慶奊</small>公懼鮑國曰羣臣為君故也<small>言欲尊公室非為亂</small>陳須無以公歸稅服而如內宮<small>言公懼於外難</small>慶封歸遇告亂者丁亥伐西門弗克還伐北門克之入伐內宮<small>陳鮑在公所故</small>弗克反陳于嶽<small>嶽里名</small>請戰弗許遂來奔獻車於季武子美澤可以鑑<small>光鑑形也</small>展莊叔見之<small>魯大夫</small>曰車甚澤人必瘁宜其亡也叔孫穆子食慶封慶封氾祭<small>禮食有祭示有所先也氾祭遠散所祭不共</small>穆子不說使工為之誦茅鴟<small>工樂師茅鴟逸詩刺不敬</small>亦不知既而齊人來讓<small>讓魯受慶封</small>奔吳吳句餘予之朱方<small>句餘吳子夷末也朱方吳邑</small>聚其族焉而居之富於其舊子服惠伯謂叔孫曰天殆富淫人慶封又富矣穆子曰善人富謂之賞淫人富謂之殃天其殃之也其將聚而殲旃<small>殲盡也旃之也為昭四年殺慶封傳</small>
 
@@ -1571,11 +1571,11 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">十有一月公如楚<small>為宋之盟故朝楚</small></p>
+<p class="text-primary">十有一月公如楚<small>為宋之盟故朝楚</small></p>
 
 為宋之盟故公及宋公陳侯鄭伯許男如楚公過鄭鄭伯不在<small>已在楚</small>伯有迋勞於黃崖不敬<small>熒陽宛陵縣西有黃水西南至新鄭城西入洧</small>穆叔曰伯有無戾於鄭鄭必有大咎<small>伯有不受戮必還為鄭國害</small>敬民之主也而弃之何以承守<small>言無以承先祖守其家</small>鄭人不討必受其辜濟澤之阿<small>言薄土</small>行潦之蘋藻<small>言賤菜</small>寘諸宗室<small>薦宗廟</small>季蘭尸之敬也<small>言取蘋藻之菜於阿澤之中使服蘭之女而為之主神猶享之以其敬也</small>敬可弃乎<small>為三十年鄭殺良霄傳</small>
 
-<p class="text-primary ml-5">乙未楚子昭卒<small>康王也十二月無乙未日誤</small><small class="text-success">「原在十有二月甲寅天王崩下」</small></p>
+<p class="text-primary">乙未楚子昭卒<small>康王也十二月無乙未日誤</small><small class="text-success">「原在十有二月甲寅天王崩下」</small></p>
 
 及漢楚康王卒公欲反叔仲昭伯曰我楚國之為豈為一人行也<small>昭伯叔仲帶</small>子服惠伯曰君子有遠慮小人從邇<small>邇近也</small>飢寒之不恤誰遑其後<small>遑暇也</small>不如姑歸也叔孫穆子曰叔仲子專之矣<small>言足專任</small>子服子始學者也<small>言未識遠</small>榮成伯曰遠圖者忠也<small>成伯榮駕鵞</small>公遂行<small>從昭伯謀</small>宋向戌曰我一人之為非為楚也飢寒之不恤誰能恤楚姑歸而息民待其立君而為之備宋公遂反
 
@@ -1583,15 +1583,15 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">十有二月甲寅天王崩<small>靈王也</small></p>
+<p class="text-primary">十有二月甲寅天王崩<small>靈王也</small></p>
 
 王人來告喪問崩日以甲寅告故書之以徵過也<small>徵審也此緩告非有事宜直臣子怠慢故於此發例</small>
 
 <hr/>
 
-#### 襄二十九年｜前五四四
+#### 襄二十九年<small>｜前五四四</small>
 
-<p class="text-primary ml-5">二十有九年春王正月公在楚<small>公在外闕朝正之禮甚多而唯書此一年者魯公如楚既非常此公又踰年故發此一事以明常</small></p>
+<p class="text-primary">二十有九年春王正月公在楚<small>公在外闕朝正之禮甚多而唯書此一年者魯公如楚既非常此公又踰年故發此一事以明常</small></p>
 
 二十九年春王正月公在楚釋不朝正于廟也<small>釋解也告廟在楚解公所以不朝正</small>楚人使公親襚<small>諸侯有遣使賵襚之禮今楚欲依遣使之比</small>公患之穆叔曰祓殯而襚則布幣也<small>先使巫祓除殯之凶邪而行襚禮與朝而布幣無異</small>乃使巫以桃茢先祓殯<small>茢黍穰</small>楚人弗禁既而悔之<small>禮君臨臣喪乃祓殯故楚悔之</small>
 
@@ -1605,13 +1605,13 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">夏五月公至自楚</p>
+<p class="text-primary">夏五月公至自楚</p>
 
 公還及方城季武子取卞<small>取卞邑以自益</small>使公冶問<small>問公起居公冶季氏屬大夫</small>璽書追而與之<small>璽印也</small>曰聞守卞者將叛臣帥徒以討之既得之矣敢告公冶致使而退<small>致季氏使命</small>及舍而後聞取卞<small>發書乃聞之</small>公曰欲之而言叛祗見疏也<small>言季氏欲得卞而欺我言叛益疏我</small>公謂公冶曰吾可以入乎<small>以季氏疏己故不敢入</small>對曰君實有國誰敢違君公與公冶冕服<small>以卿服玄冕賞之</small>固辭強之而後受公欲無入榮成伯賦式微乃歸<small>式微詩邶風曰式微式微胡不歸式用也義取寄寓之微陋勸公歸</small>五月公至自楚公冶致其邑於季氏<small>本從季氏得邑故還之</small>而終不入焉<small>不入季孫家</small>曰欺其君何必使余季孫見之則言季氏如他日不見則終不言季氏及疾聚其臣<small>大夫家臣</small>曰我死必無以冕服斂非德賞也<small>言公畏季氏而賞其使非以我有德</small>且無使季氏葬我
 
 <hr/>
 
-<p class="text-primary ml-5">庚午衞侯衎卒<small>無傳四同盟</small></p>
+<p class="text-primary">庚午衞侯衎卒<small>無傳四同盟</small></p>
 
 <hr/>
 
@@ -1619,7 +1619,7 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">閽弒吳子餘祭<small>閽守門者下賤非士故不言盜</small></p>
+<p class="text-primary">閽弒吳子餘祭<small>閽守門者下賤非士故不言盜</small></p>
 
 吳人伐越獲俘焉以為閽使守舟吳子餘祭觀舟閽以刀弒之<small>言以刀明近刑人</small>
 
@@ -1629,25 +1629,25 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">仲孫羯會晉荀盈齊高止宋華定衞世叔儀鄭公孫段曹人莒人滕人薛人小邾人城杞<small>公孫段伯石也三十年伯有死乃命為卿今蓋以攝卿行</small></p>
+<p class="text-primary">仲孫羯會晉荀盈齊高止宋華定衞世叔儀鄭公孫段曹人莒人滕人薛人小邾人城杞<small>公孫段伯石也三十年伯有死乃命為卿今蓋以攝卿行</small></p>
 
 晉平公杞出也故治杞<small>治理其地脩其城</small>六月知悼子合諸侯之大夫以城杞孟孝伯會之鄭子大叔與伯石往<small>大叔不書不親事</small>子大叔見大叔文子<small>文子衞大叔儀</small>與之語文子曰甚乎其城杞也子大叔曰若之何哉晉國不恤周宗之闕而夏肄是屏<small>周宗諸姬也夏肄杞也肄餘也屏城也</small>其弃諸姬亦可知也已諸姬是弃其誰歸之吉也聞之弃同即異是謂離德詩曰協比其鄰昏姻孔云<small>詩小雅言王者和協近親則昏姻甚歸附</small>晉不鄰矣其誰云之<small>云猶旋旋歸之</small>
 
 齊高子容與宋司徒見知伯女齊相禮<small>子容高止也司徒華定也知伯荀盈也女齊司馬侯也相禮侍威儀也</small>賓出司馬侯言於知伯曰二子皆將不免子容專<small>專自是也</small>司徒侈皆亡家之主也知伯曰何如對曰專則速及<small>速及禍也</small>侈將以其力斃<small>力盡而自斃</small>專則人實斃之將及矣<small>為此秋高止出奔燕昭二十年華定出奔陳傳</small>
 
-<p class="text-primary ml-5">晉侯使士鞅來聘</p>
+<p class="text-primary">晉侯使士鞅來聘</p>
 
 范獻子來聘拜城杞也<small>謝魯為杞城</small>公享之展莊叔執幣<small>公將以酬賓</small>射者三耦<small>二人為耦</small>公臣不足取於家臣家臣展瑕展王父為一耦公臣公巫召伯仲顏莊叔為一耦鄫鼓父黨叔為一耦<small>言公室卑微公臣不能備於三耦</small>
 
 晉侯使司馬女叔侯來治杞田<small>使魯歸前侵杞田所歸少故不書</small>弗盡歸也晉悼夫人慍曰齊也取貨<small>夫人平公母杞女也謂叔侯取貨於魯故不盡歸杞田</small>先君若有知也不尚取之<small>不尚叔侯之取貨</small>公告叔侯叔侯曰虞虢焦滑霍揚韓魏皆姬姓也<small>八國皆晉所滅焦在陝縣揚屬平陽郡</small>晉是以大若非侵小將何所取武獻以下兼國多矣<small>武公獻公晉始盛之君</small>誰得治之杞夏餘也而即東夷<small>行夷禮</small>魯周公之後也而睦於晉以杞封魯猶可而何有焉<small>何有盡歸之</small>魯之於晉也職貢不乏玩好時至公卿大夫相繼於朝史不絕書<small>書魯之朝聘</small>府無虛月<small>無月不受魯貢</small>如是可矣何必瘠魯以肥杞且先君而有知也毋寧夫人而焉用老臣<small>言先君毋寧怪夫人之所為無用責我</small>
 
-<p class="text-primary ml-5">杞子來盟<small>杞復稱子用夷禮也</small></p>
+<p class="text-primary">杞子來盟<small>杞復稱子用夷禮也</small></p>
 
 杞文公來盟<small>魯歸其田故來盟</small>書曰子賤之也<small>賤其用夷禮</small>
 
 <hr/>
 
-<p class="text-primary ml-5">吳子使札來聘<small>吳子餘祭既遣札聘上國而後死札以六月到魯未聞喪也不稱公子其禮未同於上國</small></p>
+<p class="text-primary">吳子使札來聘<small>吳子餘祭既遣札聘上國而後死札以六月到魯未聞喪也不稱公子其禮未同於上國</small></p>
 
 吳公子札來聘見叔孫穆子說之謂穆子曰子其不得死乎<small>不得以壽死</small>好善而不能擇人吾聞君子務在擇人吾子為魯宗卿而任其大政不愼舉何以堪之禍必及子<small>為昭四年豎牛作亂起本</small>
 
@@ -1667,17 +1667,17 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">秋九月葬衞獻公<small>無傳</small></p>
+<p class="text-primary">秋九月葬衞獻公<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">齊高止出奔北燕<small>止高厚之子</small></p>
+<p class="text-primary">齊高止出奔北燕<small>止高厚之子</small></p>
 
 秋九月齊公孫蠆公孫竈放其大夫高止於北燕<small>蠆子尾竈子雅放者宥之以遠</small>乙未出書曰出奔罪高止也<small>實放書奔所以示罪</small>高止好以事自為功且專故難及之
 
 <hr/>
 
-<p class="text-primary ml-5">冬仲孫羯如晉</p>
+<p class="text-primary">冬仲孫羯如晉</p>
 
 冬孟孝伯如晉報范叔也<small>范叔士鞅也此年夏來聘</small>
 
@@ -1691,9 +1691,9 @@ weight: 109
 
 <hr/>
 
-#### 襄三十年｜前五四三
+#### 襄三十年<small>｜前五四三</small>
 
-<p class="text-primary ml-5">三十年春王正月楚子使薳罷來聘</p>
+<p class="text-primary">三十年春王正月楚子使薳罷來聘</p>
 
 三十年春王正月楚子使薳罷來聘通嗣君也<small>郟敖即位</small>穆叔問王子之為政何如<small>王子圍為令尹</small>對曰吾儕小人食而聽事猶懼不給命而不免於戾焉與知政固問焉不告穆叔告大夫曰楚令尹將有大事子蕩將與焉<small>子蕩薳罷</small>助之匿其情矣<small>子圍素貴郟敖微弱諸侯皆知其將為亂故穆叔問之</small>
 
@@ -1713,19 +1713,19 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">夏四月蔡世子般弒其君固</p>
+<p class="text-primary">夏四月蔡世子般弒其君固</p>
 
 蔡景侯為大子般娶于楚通焉大子弒景侯<small>終子產言有子禍也</small>
 
 <hr/>
 
-<p class="text-primary ml-5">天王殺其弟佞夫<small>稱弟以惡王殘骨肉</small>王子瑕奔晉<small>不言出奔周無外</small><small class="text-success">「原在宋伯姬卒下」</small></p>
+<p class="text-primary">天王殺其弟佞夫<small>稱弟以惡王殘骨肉</small>王子瑕奔晉<small>不言出奔周無外</small><small class="text-success">「原在宋伯姬卒下」</small></p>
 
 初王儋季卒<small>儋季周靈王弟</small>其子括將見王而歎<small>括除服見靈王入朝而歎</small>單公子愆期為靈王御士過諸廷<small>愆期行過王廷</small>聞其歎而言曰烏呼必有此夫<small>欲有此朝廷之權</small>入以告王且曰必殺之不慼而願大視躁而足高心在他矣不殺必害王曰童子何知及靈王崩儋括欲立王子佞夫<small>佞夫靈王子景王弟</small>佞夫弗知戊子儋括圍蒍逐成愆<small>成愆蒍邑大夫</small>成愆奔平畤<small>平畤周邑</small>五月癸巳尹言多劉毅單蔑甘過鞏成殺佞夫<small>五子周大夫</small>括瑕廖奔晉<small>括廖不書賤也</small>書曰天王殺其弟佞夫罪在王也<small>佞夫不知故經書在宋災下從赴</small>
 
 <hr/>
 
-<p class="text-primary ml-5">五月甲午宋災<small>天火曰災</small>宋伯姬卒</p>
+<p class="text-primary">五月甲午宋災<small>天火曰災</small>宋伯姬卒</p>
 
 或叫于宋大廟<small>叫呼也</small>曰譆譆出出<small>譆譆熱也出出戒伯姬</small>鳥鳴于亳社<small>殷社</small>如曰譆譆<small>皆火妖也</small>甲午宋大災宋伯姬卒待姆也<small>姆女師</small>君子謂宋共姬女而不婦女待人<small>待人而行</small>婦義事也<small>義從宜也伯姬時年六十左右</small>
 
@@ -1735,19 +1735,19 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">秋七月叔弓如宋葬宋共姬<small>共姬從夫謚也叔弓叔老之子卿共葬事禮過厚三月而葬速</small></p>
+<p class="text-primary">秋七月叔弓如宋葬宋共姬<small>共姬從夫謚也叔弓叔老之子卿共葬事禮過厚三月而葬速</small></p>
 
 秋七月叔弓如宋葬共姬也<small>傷伯姬之遇災故使卿共葬</small>
 
 <hr/>
 
-<p class="text-primary ml-5">鄭良霄出奔許<small>耆酒荒淫書名罪之</small></p>
+<p class="text-primary">鄭良霄出奔許<small>耆酒荒淫書名罪之</small></p>
 
 鄭伯有耆酒為窟室<small>窟室地室</small>而夜飲酒擊鐘焉朝至未已朝者曰公焉在<small>家臣故謂伯有為公</small>其人曰吾公在壑谷<small>壑谷窟室</small>皆自朝布路而罷<small>布路分散</small>既而朝<small>伯有朝鄭君</small>則又將使子皙如楚歸而飲酒庚子子皙以駟氏之甲伐而焚之伯有奔雍梁<small>雍梁鄭地</small>醒而後知之遂奔許
 
 大夫聚謀子皮曰仲虺之志<small>仲虺湯左相</small>云亂者取之亡者侮之推亡固存國之利也罕駟豐同生<small>罕子皮駟子皙豐公孫段也三家本同母兄弟</small>伯有汏侈故不免<small>三家同出而伯有孤特又汏侈所以亡</small>人謂子產就直助彊<small>時謂子皙直三家彊</small>子產曰豈為我徒<small>徒黨也言不以駟良為黨</small>國之禍難誰知所敝或主彊直難乃不生<small>言能彊能直則可弭難今三家未能則伯有方爭</small>姑成吾所<small>欲以無所附著為所</small>辛丑子產斂伯有氏之死者而殯之不及謀而遂行<small>不與於國謀</small>印段從之<small>義子產</small>子皮止之衆曰人不我順何止焉子皮曰夫子禮於死者況生者乎遂自止之壬寅子產入癸卯子石入<small>子石印段</small>皆受盟于子皙氏乙巳鄭伯及其大夫盟于大宮<small>大宮祖廟</small>盟國人于師之梁之外<small>師之梁鄭城門</small>
 
-<p class="text-primary ml-5">自許入于鄭<small>不言復入獨還無兵</small>鄭人殺良霄</p>
+<p class="text-primary">自許入于鄭<small>不言復入獨還無兵</small>鄭人殺良霄</p>
 
 伯有聞鄭人之盟己也怒聞子皮之甲不與攻己也喜曰子皮與我矣癸丑晨自墓門之瀆入<small>墓門鄭城門</small>因馬師頡介于襄庫以伐舊北門<small>馬師頡子羽孫</small>駟帶率國人以伐之<small>駟帶子西之子子皙之宗主</small>皆召子產<small>駟氏伯有俱召</small>子產曰兄弟而及此吾從天所與<small>兄弟恩等故無所偏助</small>伯有死於羊肆<small>羊肆市列</small>子產襚之枕之股而哭之斂而殯諸伯有之臣在市側者既而葬諸斗城<small>斗城鄭地名</small>子駟氏欲攻子產子皮怒之曰禮國之幹也殺有禮禍莫大焉乃止<small>斂葬伯有為有禮</small>於是游吉如晉還聞難不入<small>懼禍并及</small>復命于介八月甲子奔晉駟帶追之及酸棗與子上盟用兩珪質于河<small>子上駟帶也沈珪於河為信也酸棗陳留縣</small>使公孫肸入盟大夫己巳復歸<small>游吉歸也</small>書曰鄭人殺良霄不稱大夫言自外入也<small>既出位絕非復鄭大夫</small>
 
@@ -1761,11 +1761,11 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">冬十月葬蔡景公<small>無傳</small></p>
+<p class="text-primary">冬十月葬蔡景公<small>無傳</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">晉人齊人宋人衞人鄭人曹人莒人邾人滕人薛人杞人小邾人會于澶淵宋災故<small>會未有言其事者此言宋災故以惡宋人不克己自責而出會求財</small></p>
+<p class="text-primary">晉人齊人宋人衞人鄭人曹人莒人邾人滕人薛人杞人小邾人會于澶淵宋災故<small>會未有言其事者此言宋災故以惡宋人不克己自責而出會求財</small></p>
 
 為宋災故諸侯之大夫會以謀歸宋財冬十月叔孫豹會晉趙武齊公孫蠆宋向戌衞北宮佗<small>佗北宮括之子</small>鄭罕虎<small>虎子皮</small>及小邾之大夫會于澶淵既而無歸於宋故不書其人君子曰信其不可不愼乎澶淵之會卿不書不信也夫諸侯之上卿會而不信寵名皆弃不信之不可也如是<small>寵謂族也</small>詩曰文王陟降在帝左右信之謂也<small>詩大雅言文王所以能上接天下接人動順帝者唯以信</small>又曰淑愼爾止無載爾偽不信之謂也<small>逸詩也言當善愼舉止無載行詐偽</small>書曰某人某人會于澶淵宋災故尤之也<small>傳云既而無歸所以釋諸侯大夫之不書也又云宋災故尤之所以釋向戌之并貶也戌為政卿深致火災燒殺其夫人未聞克己之意而以求財合諸侯故與不歸財者同文</small>不書魯大夫諱之也<small>向戌既以災求財諸大夫許而不歸客主皆貶君子以尊尊之義也君親有隱故略不書魯大夫以示例</small>
 
@@ -1779,9 +1779,9 @@ weight: 109
 
 <hr/>
 
-#### 襄三十一年｜前五四二
+#### 襄三十一年<small>｜前五四二</small>
 
-<p class="text-primary ml-5">三十有一年春王正月</p>
+<p class="text-primary">三十有一年春王正月</p>
 
 <hr/>
 
@@ -1793,17 +1793,17 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">夏六月辛巳公薨于楚宮<small>公不居先君之路寢而安所樂失其所也</small></p>
+<p class="text-primary">夏六月辛巳公薨于楚宮<small>公不居先君之路寢而安所樂失其所也</small></p>
 
 公作楚宮<small>適楚好其宮歸而作之</small>穆叔曰大誓云民之所欲天必從之<small>今尚書大誓亦無此文故諸儒疑之</small>君欲楚也夫故作其宮若不復適楚必死是宮也六月辛巳公薨于楚宮叔仲帶竊其拱璧<small>拱璧公大璧</small>以與御人納諸其懷而從取之由是得罪<small>得罪謂魯人薄之故子孫不得志於魯</small>
 
-<p class="text-primary ml-5">秋九月癸巳子野卒<small>不書葬未成君</small>己亥仲孫羯卒</p>
+<p class="text-primary">秋九月癸巳子野卒<small>不書葬未成君</small>己亥仲孫羯卒</p>
 
 立胡女敬歸之子子野<small>胡歸姓之國敬歸襄公妾</small>次于季氏秋九月癸巳卒毀也<small>過哀毀瘠以致滅性</small>己亥孟孝伯卒<small>終穆叔言</small>
 
 立敬歸之娣齊歸之子公子裯<small>齊謚裯昭公名</small>穆叔不欲曰大子死有母弟則立之無則立長<small>立庶子則以年</small>年鈞擇賢義鈞則卜古之道也<small>先人事後卜筮也義鈞謂賢等</small>非適嗣何必娣之子<small>言子野非適嗣</small>且是人也居喪而不哀在慼而有嘉容是謂不度不度之人鮮不為患若果立之必為季氏憂武子不聽卒立之比及葬三易衰衰衽如故衰<small>言其嬉戲無度</small>於是昭公十九年矣猶有童心君子是以知其不能終也<small>為昭二十五年公孫於齊傳</small>
 
-<p class="text-primary ml-5">冬十月滕子來會葬<small>諸侯會葬非禮</small>癸酉葬我君襄公</p>
+<p class="text-primary">冬十月滕子來會葬<small>諸侯會葬非禮</small>癸酉葬我君襄公</p>
 
 冬十月滕成公來會葬惰而多涕<small>惰不敬也</small>子服惠伯曰滕君將死矣怠於其位而哀已甚兆於死所矣<small>有死兆</small>能無從乎<small>為昭三年滕子卒傳</small>癸酉葬襄公
 
@@ -1813,7 +1813,7 @@ weight: 109
 
 <hr/>
 
-<p class="text-primary ml-5">十有一月莒人弒其君密州<small>不稱弒者主名君無道也</small></p>
+<p class="text-primary">十有一月莒人弒其君密州<small>不稱弒者主名君無道也</small></p>
 
 莒犂比公生去疾及展輿<small>犂比莒子密州之號</small>既立展輿<small>立以為世子</small>又廢之犂比公虐國人患之十一月展輿因國人以攻莒子弒之乃立<small>展輿立為君</small>去疾奔齊齊出也<small>母齊女也</small>展輿吳出也<small>為明年奔吳傳</small>書曰莒人弒其君買朱鉏<small>買朱鉏密州之字</small>言罪之在也<small>罪在鉏也傳始例申明君臣書弒今者父子故復重明例</small>
 

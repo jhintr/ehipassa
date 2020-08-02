@@ -7,31 +7,31 @@ weight: 104
 ---
 
 
-#### 閔元年｜前六六一
+#### 閔元年<small>｜前六六一</small>
 
 元年春不書即位亂故也<small>國亂不得成禮</small>
 
 <hr/>
 
-<p class="text-primary ml-5">元年春王正月齊人救邢</p>
+<p class="text-primary">元年春王正月齊人救邢</p>
 
 狄人伐邢<small>狄伐邢在往年冬</small>管敬仲言於齊侯曰戎狄豺狼不可厭也<small>敬仲管夷吾</small>諸夏親暱不可弃也<small>諸夏中國也暱近也</small>宴安酖毒不可懷也<small>以宴安比之酖毒</small>詩云豈不懷歸畏此簡書<small>詩小雅也文王為西伯勞來諸侯之詩</small>簡書同惡相恤之謂也<small>同恤所惡</small>請救邢以從簡書齊人救邢
 
 <hr/>
 
-<p class="text-primary ml-5">夏六月辛酉葬我君莊公</p>
+<p class="text-primary">夏六月辛酉葬我君莊公</p>
 
 夏六月葬莊公亂故是以緩<small>十一月乃葬</small>
 
 <hr/>
 
-<p class="text-primary ml-5">秋八月公及齊侯盟于落姑<small>落姑齊地</small>季子來歸<small>季子公子友之字季子忠於社稷為國人所思故賢而字之齊侯許納故曰歸</small></p>
+<p class="text-primary">秋八月公及齊侯盟于落姑<small>落姑齊地</small>季子來歸<small>季子公子友之字季子忠於社稷為國人所思故賢而字之齊侯許納故曰歸</small></p>
 
 秋八月公及齊侯盟于落姑請復季友也<small>閔公初立國家多難以季子忠賢故請霸主而復之</small>齊侯許之使召諸陳公次于郎以待之<small>非師旅之事故不書次</small>季子來歸嘉之也
 
 <hr/>
 
-<p class="text-primary ml-5">冬齊仲孫來<small>仲孫齊大夫以事出疆因來省難非齊侯命故不稱使也還使齊侯務寧魯難故嘉而字之來者事實省難其志也故經但書仲孫之來而傳尋仲孫之志</small></p>
+<p class="text-primary">冬齊仲孫來<small>仲孫齊大夫以事出疆因來省難非齊侯命故不稱使也還使齊侯務寧魯難故嘉而字之來者事實省難其志也故經但書仲孫之來而傳尋仲孫之志</small></p>
 
 冬齊仲孫湫來省難<small>湫仲孫名</small>書曰仲孫亦嘉之也仲孫歸曰不去慶父魯難未已<small>時慶父亦已還魯</small>公曰若之何而去之對曰難不已將自斃<small>斃踣也</small>君其待之公曰魯可取乎對曰不可猶秉周禮周禮所以本也臣聞之國將亡本必先顛而後枝葉從之魯不弃周禮未可動也君其務寧魯難而親之親有禮因重固<small>能重能固則當就成之</small>間攜貳<small>離而相疑者則當因而間之</small>覆昏亂<small>覆敗也</small>霸王之器也<small>霸王所用故以器為喻</small>
 
@@ -45,9 +45,9 @@ weight: 104
 
 <hr/>
 
-#### 閔二年｜前六六〇
+#### 閔二年<small>｜前六六〇</small>
 
-<p class="text-primary ml-5">二年春王正月齊人遷陽<small>無傳陽國名蓋齊人偪徙之</small></p>
+<p class="text-primary">二年春王正月齊人遷陽<small>無傳陽國名蓋齊人偪徙之</small></p>
 
 <hr/>
 
@@ -55,31 +55,31 @@ weight: 104
 
 <hr/>
 
-<p class="text-primary ml-5">夏五月乙酉吉禘于莊公<small>三年喪畢致新死者之主於廟廟之遠主當遷入祧因是大祭以審昭穆謂之禘莊公喪制未闋時別立廟廟成而吉祭又不於大廟故詳書以示譏</small></p>
+<p class="text-primary">夏五月乙酉吉禘于莊公<small>三年喪畢致新死者之主於廟廟之遠主當遷入祧因是大祭以審昭穆謂之禘莊公喪制未闋時別立廟廟成而吉祭又不於大廟故詳書以示譏</small></p>
 
 夏吉禘于莊公速也
 
 <hr/>
 
-<p class="text-primary ml-5">秋八月辛丑公薨<small>實弒書薨又不地者皆史策諱之</small></p>
+<p class="text-primary">秋八月辛丑公薨<small>實弒書薨又不地者皆史策諱之</small></p>
 
 初公傅奪卜齮田公不禁<small>卜齮魯大夫也公即位年八歲知愛其傅而遂成其意以奪齮田齮忿其傅并及公故慶父因之</small>秋八月辛丑共仲使卜齮賊公于武闈<small>宮中小門謂之闈</small>
 
-<p class="text-primary ml-5">公子慶父出奔莒<small>弒閔公故</small><small class="text-success">「原在九月夫人姜氏孫于邾下」</small></p>
+<p class="text-primary">公子慶父出奔莒<small>弒閔公故</small><small class="text-success">「原在九月夫人姜氏孫于邾下」</small></p>
 
 成季以僖公適邾<small>僖公閔公庶兄成風之子</small>共仲奔莒乃入立之以賂求共仲于莒莒人歸之及密使公子魚請<small>密魯地琅邪費縣北有密如亭公子魚奚斯也</small>不許哭而往共仲曰奚斯之聲也乃縊<small>慶父之罪雖重季子推親親之恩欲同之叔牙存孟氏之族故略其罪不書殺又不書卒</small>
 
-<p class="text-primary ml-5">九月夫人姜氏孫于邾<small>哀姜外淫故孫稱姜氏</small></p>
+<p class="text-primary">九月夫人姜氏孫于邾<small>哀姜外淫故孫稱姜氏</small></p>
 
 閔公哀姜之娣叔姜之子也故齊人立之共仲通於哀姜哀姜欲立之閔公之死也哀姜與知之故孫于邾齊人取而殺之于夷以其尸歸<small>為僖元年齊人殺哀姜傳夷魯地</small>僖公請而葬之<small>哀姜之罪已重而僖公請其喪還者外欲固齊以居厚內存母子不絕之義為國家之大計</small>
 
 成季之將生也桓公使卜楚丘之父卜之<small>卜楚丘魯掌卜大夫</small>曰男也其名曰友在公之右<small>在右言用事</small>間于兩社為公室輔<small>兩社周社亳社兩社之間朝廷執政所在</small>季氏亡則魯不昌又筮之遇大有<small>乾下離上大有</small>之乾<small>乾下乾上乾大有六五變而為乾</small>曰同復于父敬如君所<small>筮者之辭也乾為君父離變為乾故曰同復于父見敬與君同</small>及生有文在其手曰友遂以命之<small>遂以為名</small>
 
-<p class="text-primary ml-5">冬齊高子來盟<small>無傳蓋高傒也齊侯使來平魯亂僖公新立因遂結盟故不稱使也魯人貴之故不書名子男子之美稱</small></p>
+<p class="text-primary">冬齊高子來盟<small>無傳蓋高傒也齊侯使來平魯亂僖公新立因遂結盟故不稱使也魯人貴之故不書名子男子之美稱</small></p>
 
 <hr/>
 
-<p class="text-primary ml-5">十有二月狄入衞<small>書入不能有其地例在襄十三年</small></p>
+<p class="text-primary">十有二月狄入衞<small>書入不能有其地例在襄十三年</small></p>
 
 冬十二月狄人伐衞衞懿公好鶴鶴有乘軒者<small>軒大夫車</small>將戰國人受甲者皆曰使鶴鶴實有祿位余焉能戰公與石祁子玦與甯莊子矢使守<small>莊子甯速也玦玉玦</small>曰以此贊國擇利而為之<small>贊助也玦示以當決斷矢示以禦難</small>與夫人繡衣曰聽於二子<small>取其文章順序</small>渠孔御戎子伯為右黃夷前驅孔嬰齊殿<small>傳言衞侯失民有素雖臨事而戒猶無所及</small>及狄人戰于熒澤衞師敗績遂滅衞<small>此熒澤當在河北君死國散經不書滅者狄不能赴衞之君臣皆盡無復文告齊桓為之告諸侯言狄已去言衞之存故但以入為文</small>衞侯不去其旗是以甚敗狄人囚史華龍滑與禮孔以逐衞人二人曰我大史也實掌其祭不先國不可得也<small>夷狄畏鬼故恐言當先白神</small>乃先之至則告守曰不可待也<small>守石甯二大夫</small>夜與國人出狄入衞遂從之又敗諸河<small>衞將東走渡河狄復逐而敗之</small>
 
@@ -87,7 +87,7 @@ weight: 104
 
 <hr/>
 
-<p class="text-primary ml-5">鄭弃其師<small>高克見惡久不得還師潰而克奔陳故克狀其事以告魯也</small></p>
+<p class="text-primary">鄭弃其師<small>高克見惡久不得還師潰而克奔陳故克狀其事以告魯也</small></p>
 
 鄭人惡高克使帥師次于河上久而弗召師潰而歸高克奔陳<small>高克鄭大夫也好利而不顧其君文公惡之而不能遠故使帥師而不召</small>鄭人為之賦清人<small>清人詩鄭風也刺文公退臣不以道危國亡師之本</small>
 
