@@ -3,6 +3,7 @@
 
 <head>
 {{ partial "head.html" . }}
+{{ block "extra_css" . }}{{ end }}
 </head>
 
 <body>
@@ -11,6 +12,8 @@
 {{ partial "header.html" . }}
 
 {{ block "main" . }}{{ end }}
+
+{{ block "nav" . }}{{ end }}
 
 {{ partial "footer.html" . }}
 

@@ -30,6 +30,8 @@ h5 {
     line-height: 2;
 }
 
+/* elements */
+
 a {
     color: var(--green);
     text-decoration: none;
@@ -74,4 +76,14 @@ small {
 
 small em, small i, small strong, small b {
     color: inherit;
+}
+
+/* extra */
+
+.box {
+    color: var(--green);
+    font-size: 0.9rem;
+    margin: auto 0.5rem;
+    padding: 2px 5px;
+    box-shadow: 0px 1px 2px 1px #aaa;
 }

@@ -1,18 +1,10 @@
-{{ define "main" }}
-
 <div class="row justify-content-center">
     <div class="col-lg-8">
 
         <h2 class="text-center my-4">{{ .Title }}</h2>
         <hr>
 
-        <div class="translation">
         {{ .Content }}
-        </div>
-
-        {{ partial "nextprev.html" . }}
 
     </div>
 </div>
-
-{{ end }}

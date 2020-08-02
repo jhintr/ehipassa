@@ -2,9 +2,10 @@
 title: 金剛經三譯
 subtitle: 鳩摩羅什·玄奘·義淨
 date: 2019-06-01
+layout: single_translation
 ---
 
-<div class="translation">
+
 
 <p class="text-center">
   atha vajracchedikā nāma triśatikā prajñāpāramitā<br/>
@@ -895,5 +896,3 @@ idam-avocad-bhagavān. āttamanāḥ sthavira-Subhūtis-te ca bhikṣu-bhikṣu�
 - 爾時，薄伽梵說是經已。具壽妙生及諸菩薩摩訶薩、苾芻、苾芻尼、鄔波索迦、鄔波斯迦，一切世間天、人、阿蘇羅等，皆大歡喜，信受奉行。
 
 <p class="text-center">āryavajracchedikā bhagavatī prajñāpāramitā samāptā</p>
-
-</div>
