@@ -5,7 +5,7 @@ date: 2015-11-21
 
 手頭的這本清淨道論複印自緬甸帕奧禪林圖書館（Pa-auk Tawya Cittala Pabbata Library），是由當時禪林的淨人代印的。書沒有讀完，只到第四品，主要就是在緬甸讀的。
 
-書的原編者早逝，由 __Dharmananda Kosambi__ 修訂完成，作為 _Harvard Oriental Series Volume 41_ 出版，前有 Kosambi 的序，作序的時間是1927年，不知為何出版却在1950年，那時 Kosambi 老人都已經作古了。
+書的原編者早逝，由 _Dharmananda Kosambi_ 修訂完成，作為 _Harvard Oriental Series Volume 41_ 出版，前有 Kosambi 的序，作序的時間是1927年，不知為何出版却在1950年，那時 Kosambi 老人都已經作古了。
 
 <img src="../images/vm-frontpage.jpg" class="img-fluid mx-auto d-block border p-1" alt="清淨道論扉頁">
 
@@ -23,6 +23,6 @@ date: 2015-11-21
 
 他的一些事跡在同書之三「維也納鋼琴學生」、之七「現代三大士」、之八「漢學三博士」中閒有記述。金克木於「梵竺廬集」自序和「梵佛探」自序中多有感謝和感慨（如稱其為「一位今之古人或古之今人」）。好事者可自行翻閱，恕不多錄。
 
-另外，老人尚著有「攝阿毗達摩義論醍醐疏」_Navanīta-ṭīkā_ ，在 __Bhikkhu Bodhi__ 的書中亦有提及。
+另外，老人尚著有「攝阿毗達摩義論醍醐疏」_Navanīta-ṭīkā_ ，在 _Bhikkhu Bodhi_ 的書中亦有提及。
 
-在「清淨道論序」中，他對大史中記載的覺音尊者的生平多有批評，見 [Preface to Visuddhimagga](../../visuddhimagga/preface)，馬哈希尊者在第六次結集時曾撰文反駁，有興趣的可以參見 _Visuddhimagga Nidānakathā_ 。
+在「清淨道論序」中，他對大史中記載的覺音尊者的生平多有批評，見 [Preface to Visuddhimagga](../preface-to-vm)，馬哈希尊者在第六次結集時曾撰文反駁，有興趣的可以參見 _Visuddhimagga Nidānakathā_ 。

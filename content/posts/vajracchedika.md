@@ -1,6 +1,6 @@
 ---
 title: 金剛經三譯
-subtitle: 鳩摩羅什 玄奘 義淨
+subtitle: 鳩摩羅什·玄奘·義淨
 date: 2019-06-01
 ---
 
@@ -18,7 +18,7 @@ date: 2019-06-01
 
 
 
-#### 法會因由分第一
+### 法會因由分第一
 
 evaṃ mayā śrutam. ekasmin samaye bhagavān śrāvastyāṃ viharati sma jetavane 'nāthapiṇḍadasyârāme mahatā bhikṣusaṃghena sārdhaṃ (ardha)trayodaśabhir-bhikṣuśataiḥ saṃbahulaiś-ca bodhisattvair-mahāsattvaiḥ.
 
@@ -40,7 +40,7 @@ atha khalu saṃbahulā bhikṣavo yena bhagavāṃs-tenôpasaṃkrāman upasa�
 
 
 
-#### 善現起請分第二
+### 善現起請分第二
 
 tena khalu punaḥ samayenâyuṣmān Subhūtis-tasyām-eva parṣadi saṃnipatito 'bhūt-saṃniṣaṇṇaḥ. atha khalv-āyuṣmān Subhūtir-utthāyâsanād-ekâṃsam-uttarāsaṅgaṃ kṛtvā dakṣiṇaṃ jānu-maṇḍalaṃ pṛthivyāṃ pratiṣṭhāpya yena bhagavāṃs-tenâñjaliṃ praṇamya bhagavantam-etad-avocat.
 
@@ -68,7 +68,7 @@ evaṃ bhagavan ity-āyuṣmān Subhūtir-bhagavataḥ pratyaśrauṣīt.
 
 
 
-#### 大乘正宗分第三
+### 大乘正宗分第三
 
 bhagavān-asyâitad-avocat iha Subhūte bodhisattvayāna-saṃprasthitenâiva cittam-utpādayitavyam yāvantaḥ Subhūte sattvāḥ sattvadhātau sattvasaṃgraheṇa saṃgṛhītā aṇḍajā vā jarāyujā vā saṃsvedajā vā aupapādukā vā rūpiṇo vā arūpiṇo vā saṃjñino vā asaṃjñino vā nâivasaṃjñino nâsaṃjñino vā yāvān kaścit-sattvadhātuḥ prajñapyamānaḥ prajñapyate te ca mayā sarve 'nupadhiśeṣe nirvāṇadhātau parinirvāpayitavyāḥ.
 
@@ -84,7 +84,7 @@ evam-aparimāṇān-api sattvān parinirvāpya na kaścit-sattvaḥ parinirvāpi
 
 
 
-#### 妙行無住分第四
+### 妙行無住分第四
 
 api tu khalu punaḥ Subhūte na bodhisattvena vastu-pratiṣṭhitena dānaṃ dātavyam na kvacit-pratiṣṭhitena dānaṃ dātavyam. na rūpa-pratiṣṭhitena dānaṃ dātavyam na śabda-gandha-rasa-spraṣṭavya-dharmeṣu pratiṣṭhitena dānaṃ dātavyam. evaṃ hi Subhūte bodhisattvena mahāsattvena dānaṃ dātavyaṃ yathā na nimitta-saṃjñāyām-api pratitiṣṭhet. tat-kasya hetoḥ yaḥ Subhūte bodhisattvo 'pratiṣṭhito dānaṃ dadāti tasya Subhūte puṇyaskandhasya na sukaraṃ pramāṇam-udgrahītum.
 
@@ -112,7 +112,7 @@ bhagavān-āha evam-eva Subhūte yo bodhisattvo 'pratiṣṭhito dānaṃ dadāt
 
 
 
-#### 如理實見分第五
+### 如理實見分第五
 
 tat-kiṃ manyase Subhūte lakṣaṇa-saṃpadā tathāgato draṣṭavyaḥ. Subhūtir-āha no hîdaṃ bhagavan. na lakṣaṇa-saṃpadā tathāgato draṣṭavyaḥ. tat-kasya hetoḥ yā sā bhagavan lakṣaṇa-saṃpat-tathāgatena bhāṣitā sâivâlakṣaṇa-saṃpat.
 
@@ -128,7 +128,7 @@ evam-ukte bhagavān-āyuṣmantaṃ Subhūtim-etad-avocat yāvat-Subhūte lakṣ
 
 
 
-#### 正信希有分第六
+### 正信希有分第六
 
 evam-ukte āyuṣmān Subhūtir-bhagavantam-etad-avocat asti bhagavan kecit-sattvā bhaviṣyanty-anāgate 'dhvani paścime kāle paścime samaye paścimāyāṃ pañcaśatyāṃ saddharma-vipralopakāle vartamāne ye imeṣv-evaṃrūpeṣu sūtrântapadeṣu bhāṣyamāṇeṣu bhūta-saṃjñām-utpādayiṣyanti.
 
@@ -174,7 +174,7 @@ tasmād-iyaṃ tathāgatena saṃdhāya vāg-bhāṣitā-kolôpamaṃ dharmapary
 
 
 
-#### 無得無說分第七
+### 無得無說分第七
 
 punar-aparaṃ bhagavān-āyuṣmantaṃ Subhūtim-etad-avocat tat-kiṃ manyase Subhūte asti sa kaścid-dharmo yas-tathāgatenânuttarā samyaksaṃbodhir-ity-abhisaṃbuddhaḥ kaścid-vā dharmas-tathāgatena deśitaḥ.
 
@@ -196,7 +196,7 @@ tat-kasya hetoḥ asaṃskṛta-prabhāvitā hy-āryapudgalāḥ.
 
 
 
-#### 依法出生分第八
+### 依法出生分第八
 
 bhagavān-āha tat-kiṃ manyase Subhūte yaḥ kaścit-kulaputro vā kuladuhitā vā imaṃ trisāhasra-mahāsāhasraṃ lokadhātuṃ saptaratna-paripūrṇaṃ kṛtvā tathāgatebhyo 'rhadbhyaḥ samyaksaṃbuddhebhyo dānaṃ dadyāt-api nu sa kulaputro vā kuladuhitā vā tatonidānaṃ bahu puṇyaskandhaṃ prasunuyāt.
 
@@ -224,7 +224,7 @@ tat-kasya hetoḥ ato-nirjātā hi Subhūte tathāgatānām-arhatāṃ samyaksa�
 
 
 
-#### 一相無相分第九
+### 一相無相分第九
 
 tat-kiṃ manyase Subhūte api nu srota-āpannasyâivaṃ bhavati mayā srota-āpatti-phalaṃ prāptam-iti. Subhūtir-āha no hîdaṃ bhagavan. na srota-āpannasyâivaṃ bhavati mayā srota-āpatti-phalaṃ prāptam-iti. tat-kasya hetoḥ na hi sa bhagavan kaṃcid-dharmam-āpannaḥ tenôcyate srota-āpanna iti. na rūpam-āpanno na śabdān na gandhān na rasān na spraṣṭavyān dharmān-āpannaḥ tenôcyate srota-āpanna iti.
 
@@ -264,7 +264,7 @@ tat-kasya hetoḥ aham-asmi bhagavaṃs-tathāgatenârhatā samyaksaṃbuddhena 
 
 
 
-#### 莊嚴淨土分第十
+### 莊嚴淨土分第十
 
 bhagavān-āha tat-kiṃ manyase Subhūte asti sa kaścid-dharmo yas-tathāgatena dīpaṃkarasya tathāgatasyârhataḥ samyaksaṃbuddhasyântikād-udgṛhītaḥ. Subhūtir-āha no hîdaṃ bhagavan. nâsti sa kaścid-dharmo yas-tathāgatena dīpaṃkarasya tathāgatasyârhataḥ samyaksaṃbuddhasyântikād-udgṛhītaḥ.
 
@@ -292,7 +292,7 @@ tad-yathâpi nāma Subhūte puruṣo bhaved-upetakāyo mahākāyo yat-tasyâiva�
 
 
 
-#### 無為福勝分第十一
+### 無為福勝分第十一
 
 bhagavān-āha tat-kiṃ manyase Subhūte yāvatyo gaṅgāyāṃ mahānadyāṃ vālukās-tāvatya eva gaṅgānadyo bhaveyuḥ tāsu yā vālukāḥ api nu tā bahvayo bhaveyuḥ. Subhūtir-āha tā eva tāvad-bhagavan bahvayo gaṅgānadyo bhaveyuḥ prāg-eva yās-tāsu gaṅgānadīṣu vālukāḥ.
 
@@ -314,7 +314,7 @@ bhagavān-āha yaś-ca khalu punaḥ Subhūte strī vā puruṣo vā tāvato lok
 
 
 
-#### 尊重正教分第十二
+### 尊重正教分第十二
 
 api tu khalu punaḥ Subhūte yasmin pṛthivī-pradeśe ito dharmaparyāyād-antaśaś-catuṣpādikām-api gāthām-udgṛhya bhāṣyeta vā saṃprakāśyeta vā sa pṛthivī-pradeśaś-caitya-bhūto bhavet sadevamānuṣâsurasya lokasya kaḥ punar-vādo ye imaṃ dharmaparyāyaṃ sakala-samāptaṃ dhārayiṣyanti vācayiṣyanti paryavāpsyanti parebhyaś-ca vistareṇa saṃprakāśayiṣyanti. parameṇa te Subhūte āścaryeṇa samanvāgatā bhaviṣyanti.
 
@@ -330,7 +330,7 @@ tasmiṃś-ca Subhūte pṛthivī-pradeśe śāstā viharaty-anyatarânyataro v�
 
 
 
-#### 如法受持分第十三
+### 如法受持分第十三
 
 evam-ukte āyuṣmān Subhūtir-bhagavantam-etad-avocat ko nāma ayaṃ bhagavan dharmaparyāyaḥ kathaṃ câinaṃ dhārayāmi.
 
@@ -370,7 +370,7 @@ bhagavān-āha yaś-ca khalu punaḥ Subhūte strī vā puruṣo vā dine dine g
 
 
 
-#### 離相寂滅分第十四
+### 離相寂滅分第十四
 
 atha khalv-āyuṣmān Subhūtir-dharmavegenâśrūṇi prāmuñcat so 'śrūṇi pramṛjya bhagavantam-etad-avocat. āścaryaṃ bhagavan paramâścaryaṃ sugata yāvad-ayaṃ dharmaparyāyas-tathāgatena bhāṣito 'grayāna-saṃprasthitānāṃ sattvānām-arthāya śreṣṭhayāna-saṃprasthitānām-arthāya. yato me bhagavan jñānam-utpannam na mayā bhagavan jātv-evaṃrūpo dharmaparyāyaḥ śruta-pūrvaḥ.
 
@@ -458,7 +458,7 @@ api tu khalu punaḥ Subhūte ye kulaputrā vā kuladuhitaro vā imaṃ dharmapa
 
 
 
-#### 持經功德分第十五
+### 持經功德分第十五
 
 yaś-ca khalu punaḥ Subhūte strī vā puruṣo vā pūrvâhṇa-kāla-samaye gaṅgānadī-vālukā-samān-ātmabhāvān parityajet evaṃ madhyâhna-kāla-samaye gaṅgānadī-vālukā-samān-ātmabhāvān parityajet sāyâhna-kāla-samaye gaṅgānadī-vālukā-samān-ātmabhāvān parityajet anena paryāyeṇa bahūni kalpa-koṭi-niyuta-śata-sahasrāṇy-ātmabhāvān parityajet yaś-cêmaṃ dharmaparyāyaṃ śrutvā na pratikṣipet ayam-eva tatonidānaṃ bahutaraṃ puṇyaskandhaṃ prasunuyād-aprameyam-asaṃkhyeyam kaḥ punar-vādo yo likhitvā udgṛhṇīyād-dhārayed-vācayet-paryavāpnuyāt parebhyaś-ca vistareṇa saṃprakāśayet.
 
@@ -492,7 +492,7 @@ api tu khalu punaḥ Subhūte yatra pṛthivī-pradeśe idaṃ sūtraṃ prakā�
 
 
 
-#### 能淨業障分第十六
+### 能淨業障分第十六
 
 api tu ye te Subhūte kulaputrā vā kuladuhitaro vā imān-evaṃrūpān sūtrântān-udgrahīṣyanti dhārayiṣyanti vācayiṣyanti paryavāpsyanti yoniśaś-ca manasikariṣyanti parebhyaś-ca vistareṇa saṃprakāśayiṣyanti te paribhūtā bhaviṣyanti suparibhūtāś-ca bhaviṣyanti. tat-kasya hetoḥ yāni ca teṣāṃ Subhūte sattvānāṃ paurva-janmikāny-aśubhāni karmāṇi kṛtāny-apāya-saṃvartanīyāni dṛṣṭa eva dharme paribhūtatayā tāni paurva-janmikāny-aśubhāni karmāṇi kṣapayiṣyanti buddhabodhiṃ cânuprāpsyanti.
 
@@ -514,7 +514,7 @@ sacet-punaḥ Subhūte teṣāṃ kulaputrāṇāṃ kuladuhitṝṇāṃ vā ah
 
 
 
-#### 究竟無我分第十七
+### 究竟無我分第十七
 
 atha khalv-āyuṣmān Subhūtir-bhagavantam-etad-avocat kathaṃ bhagavan bodhisattvayāna-saṃprasthitena sthātavyam kathaṃ pratipattavyam kathaṃ cittaṃ pragrahītavyam.
 
@@ -584,7 +584,7 @@ yaḥ Subhūte bodhisattvo nir-ātmāno dharmā nir-ātmāno dharmā ity-adhimuc
 
 
 
-#### 一體同觀分第十八
+### 一體同觀分第十八
 
 bhagavān-āha tat-kiṃ manyase Subhūte saṃvidyate tathāgatasya māṃsacakṣuḥ. Subhūtir-āha evam-etad-bhagavan saṃvidyate tathāgatasya māṃsacakṣuḥ.
 
@@ -636,7 +636,7 @@ bhagavān-āha yāvantaḥ Subhūte teṣu lokadhātuṣu sattvāḥ teṣām-ah
 
 
 
-#### 法界通化分第十九
+### 法界通化分第十九
 
 tat-kiṃ manyase Subhūte yaḥ kaścit-kulaputro vā kuladuhitā vā imaṃ trisāhasra-mahāsāhasraṃ lokadhātuṃ saptaratna-paripūrṇaṃ kṛtvā tathāgatebhyo 'rhadbhyaḥ samyaksaṃbuddhebhyo dānaṃ dadyāt api nu sa kulaputro vā kuladuhitā vā tatonidānaṃ bahu puṇyaskandhaṃ prasunuyāt. Subhūtir-āha bahu bhagavan bahu sugata.
 
@@ -652,7 +652,7 @@ bhagavān-āha evam-etat-Subhūte evam-etat. bahu sa kulaputro vā kuladuhitā v
 
 
 
-#### 離色離相分第二十
+### 離色離相分第二十
 
 tat-kiṃ manyase Subhūte rūpakāya-pariniṣpattyā tathāgato draṣṭavyaḥ. Subhūtir-āha no hîdaṃ bhagavan. na rūpakāya-pariniṣpattyā tathāgato draṣṭavyaḥ. tat-kasya hetoḥ rūpakāya-pariniṣpattī rūpakāya-pariniṣpattir-iti bhagavan apariniṣpattir-eṣā tathāgatena bhāṣitā. tenôcyate rūpakāya-pariniṣpattir-iti.
 
@@ -668,7 +668,7 @@ bhagavān-āha tat-kiṃ manyase Subhūte lakṣaṇa-saṃpadā tathāgato dra�
 
 
 
-#### 非說所說分第二十一
+### 非說所說分第二十一
 
 bhagavān-āha tat-kiṃ manyase Subhūte api nu tathāgatasyâivaṃ bhavati mayā dharmo deśita iti. Subhūtir-āha no hîdaṃ bhagavan. tathāgatasyâivaṃ bhavati mayā dharmo deśita iti. bhagavān-āha yaḥ Subhūte evaṃ vadet tathāgatena dharmo deśita iti sa vitathaṃ vadet. abhyācakṣīta māṃ sa Subhūte asatôdgṛhītena. tat-kasya hetoḥ dharmadeśanā dharmadeśanêti Subhūte nâsti sa kaścid-dharmo yo dharmadeśanā nāmôpalabhyate.
 
@@ -684,7 +684,7 @@ evam-ukte āyuṣmān Subhūtir-bhagavantam-etad-avocat asti bhagavan kecit-satt
 
 
 
-#### 無法可得分第二十二
+### 無法可得分第二十二
 
 tat-kiṃ manyase Subhūte api nu asti sa kaścid-dharmaḥ yas-tathāgatenânuttarāṃ samyaksaṃbodhim-abhisaṃbuddhaḥ. āyuṣmān Subhūtir-āha no hîdaṃ bhagavan. nâsti sa bhagavan kaścid-dharmo yas-tathāgatenânuttarāṃ samyaksaṃbodhim-abhisaṃbuddhaḥ.
 
@@ -700,7 +700,7 @@ bhagavān-āha evam-etat-Subhūte evam-etat aṇur-api tatra dharmo na saṃvidy
 
 
 
-#### 淨心行善分第二十三
+### 淨心行善分第二十三
 
 api tu khalu punaḥ Subhūte samaḥ sa dharmo na tatra kaścid-viṣamaḥ. tenôcyate anuttarā samyaksaṃbodhir-iti. nir-ātmatvena niḥ-sattvatvena nir-jīvatvena niṣ-pudgalatvena samā sā anuttarā samyaksaṃbodhiḥ sarvaiḥ kuśalair-dharmair-abhisaṃbudhyate. tat-kasya hetoḥ kuśalā dharmāḥ kuśalā dharmā iti Subhūte adharmāś-câiva te tathāgatena bhāṣitāḥ. tenôcyante kuśalā dharmā iti.
 
@@ -710,7 +710,7 @@ api tu khalu punaḥ Subhūte samaḥ sa dharmo na tatra kaścid-viṣamaḥ. te
 
 
 
-#### 福智無比分第二十四
+### 福智無比分第二十四
 
 yaś-ca khalu punaḥ Subhūte strī vā puruṣo vā yāvantas-trisāhasra-mahāsāhasre lokadhātau sumeravaḥ parvata-rājānaḥ tāvato rāśīn saptānāṃ ratnānām-abhisaṃhṛtya tathāgatebhyo 'rhadbhyaḥ samyaksaṃbuddhebhyo dānaṃ dadyāt yaś-ca kulaputro vā kuladuhitā vā itaḥ prajñāpāramitāyā dharmaparyāyād-antaśaś-catuṣpādikām-api gāthām-udgṛhya parebhyo deśayet asya Subhūte puṇyaskandhasya asau paurvakaḥ puṇyaskandhaḥ śatatamīm-api kalāṃ nôpaiti yāvad-upaniṣadam-api na kṣamate.
 
@@ -720,7 +720,7 @@ yaś-ca khalu punaḥ Subhūte strī vā puruṣo vā yāvantas-trisāhasra-mah�
 
 
 
-#### 化無所化分第二十五
+### 化無所化分第二十五
 
 tat-kiṃ manyase Subhūte api nu tathāgatasyâivaṃ bhavati mayā sattvāḥ parimocitā iti na khalu punaḥ Subhūte evaṃ draṣṭavyam. tat-kasya hetoḥ nâsti Subhūte kaścit-sattvo yas-tathāgatena parimocitaḥ.
 
@@ -742,7 +742,7 @@ yadi punaḥ Subhūte kaścit-sattvo 'bhaviṣyad-yas-tathāgatena parimocitaḥ
 
 
 
-#### 法身非相分第二十六
+### 法身非相分第二十六
 
 tat-kiṃ manyase Subhūte lakṣaṇa-saṃpadā tathāgato draṣṭavyaḥ. Subhūtir-āha no hîdaṃ bhagavan. yathâhaṃ bhagavato bhāṣitasyârtham-ājānāmi na lakṣaṇa-saṃpadā tathāgato draṣṭavyaḥ.
 
@@ -770,7 +770,7 @@ atha khalu bhagavāṃs-tasyāṃ velāyām-ime gāthe abhāṣata ye māṃ rū
 
 
 
-#### 無斷無滅分第二十七
+### 無斷無滅分第二十七
 
 tat-kiṃ manyase Subhūte lakṣaṇa-saṃpadā tathāgatena anuttarā samyaksaṃbodhir-abhisaṃbuddhā na khalu punas-te Subhūte evaṃ draṣṭavyam. tat-kasya hetoḥ na hi Subhūte lakṣaṇa-saṃpadā tathāgatena anuttarā samyaksaṃbodhir-abhisaṃbuddhā syāt.
 
@@ -786,7 +786,7 @@ na khalu punas-te Subhūte kaścid-evaṃ vadet bodhisattvayāna-saṃprasthitai
 
 
 
-#### 不受不貪分第二十八
+### 不受不貪分第二十八
 
 yaś-ca khalu punaḥ Subhūte kulaputro vā kuladuhitā vā gaṅgānadī-vālukā-samāṃ-llokadhātūn saptaratna-paripūrṇaṃ kṛtvā tathāgatebhyo 'rhadbhyaḥ samyaksaṃbuddhebhyo dānaṃ dadyāt yaś-ca bodhisattvo nir-ātmakeṣv-anutpattikeṣu dharmeṣu kṣāntiṃ pratilabhate ayam-eva tatonidānaṃ bahutaraṃ puṇyaskandhaṃ prasaved-aprameyam-asaṃkhyeyam. na khalu punaḥ Subhūte bodhisattvena mahāsattvena puṇyaskandhaḥ parigrahītavyaḥ.
 
@@ -802,7 +802,7 @@ yaś-ca khalu punaḥ Subhūte kulaputro vā kuladuhitā vā gaṅgānadī-vālu
 
 
 
-#### 威儀寂靜分第二十九
+### 威儀寂靜分第二十九
 
 api tu khalu punaḥ Subhūte yaḥ kaścid-evaṃ vadet tathāgato gacchati vā āgacchati vā tiṣṭhati vā niṣīdati vā śayyāṃ vā kalpayati na me Subhūte sa bhāṣitasyârtham-ājānāti. tat-kasya hetoḥ tathāgata iti Subhūte ucyate na kvacid-gato na kutaścid-āgataḥ. tenôcyate tathāgato 'rhan samyaksaṃbuddha iti.
 
@@ -812,7 +812,7 @@ api tu khalu punaḥ Subhūte yaḥ kaścid-evaṃ vadet tathāgato gacchati vā
 
 
 
-#### 一合理相分第三十
+### 一合理相分第三十
 
 yaś-ca khalu punaḥ Subhūte kulaputro vā kuladuhitā vā yāvanti trisāhasra-mahāsāhasre lokadhātau pṛthivī-rajāṃsi tāvatāṃ lokadhātūnām-evaṃrūpaṃ maṣiṃ kuryāt yāvad-evam-asaṃkhyeyena vīryeṇa tad-yathâpi nāma paramâṇusaṃcayaḥ. tat-kiṃ manyase Subhūte api nu bahuḥ sa paramâṇusaṃcayo bhavet.
 
@@ -846,7 +846,7 @@ bhagavān-āha piṇḍa-grāhaś-câiva Subhūte avyavahāro 'nabhilāpyaḥ. n
 
 
 
-#### 知見不生分第三十一
+### 知見不生分第三十一
 
 tat-kasya hetoḥ yo hi kaścit-Subhūte evaṃ vadet ātma-dṛṣṭis-tathāgatena bhāṣitā sattva-dṛṣṭir-jīva-dṛṣṭiḥ pudgala-dṛṣṭis-tathāgatena bhāṣitā api nu sa Subhūte samyag-vadamāno vadet.
 
@@ -868,7 +868,7 @@ bhagavān-āha evaṃ hi Subhūte bodhisattvayāna-saṃprasthitena sarvadharmā
 
 
 
-#### 應化非真分第三十二
+### 應化非真分第三十二
 
 yaś-ca khalu punaḥ Subhūte bodhisattvo mahāsattvo 'prameyān-asaṃkhyeyāṃ-lokadhātūn saptaratna-paripūrṇaṃ kṛtvā tathāgatebhyo 'rhadbhyaḥ samyaksaṃbuddhebhyo dānaṃ dadyāt yaś-ca kulaputro vā kuladuhitā vā itaḥ prajñāpāramitāyā dharmaparyāyād-antaśaś-catuṣpādikām-api gāthām-udgṛhya dhārayed-deśayed-vācayet paryavāpnuyāt parebhyaś-ca vistareṇa saṃprakāśayet ayam-eva tatonidānaṃ bahutaraṃ puṇyaskandhaṃ prasunuyād-aprameyam-asaṃkhyeyam.
 
