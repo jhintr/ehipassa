@@ -1,7 +1,6 @@
 ---
 title: 憍賞彌老人
 date: 2015-11-21
-draft: false
 ---
 
 手頭的這本清淨道論複印自緬甸帕奧禪林圖書館（Pa-auk Tawya Cittala Pabbata Library），是由當時禪林的淨人代印的。書沒有讀完，只到第四品，主要就是在緬甸讀的。

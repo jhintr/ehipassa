@@ -28,8 +28,7 @@
 
 /* cina */
 
-.cina em,
-.cina i {
+.cina em, .cina i {
     font-style: normal;
     border-bottom: 1px solid var(--green);
 }

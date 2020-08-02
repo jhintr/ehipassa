@@ -8,7 +8,7 @@ body {
 h3 {
     color: var(--gray);
     margin-top: 3rem;
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
     text-align: center;
 }
 
@@ -67,6 +67,7 @@ del {
 small {
     color: var(--gray);
     font-weight: normal;
+    font-size: 0.9rem;
 }
 
 small em, small i, small strong, small b {
