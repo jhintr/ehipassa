@@ -12,6 +12,8 @@ pre {
     font-size: 0.8rem;
     line-height: 1.6;
     padding: 1rem;
+    box-shadow: 3px 3px 9px #aaa;
+    border-radius: 5px;
 }
 
 blockquote {
@@ -23,4 +25,9 @@ blockquote {
 
 blockquote p {
     margin: 0;
+    font-style: italic;
+}
+
+blockquote code {
+    font-style: normal;
 }
