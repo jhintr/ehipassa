@@ -481,7 +481,7 @@ switch (a) {
 
 ### 14 [Functions](http://javascript.info/function-basics)
 
-![Function declaration](http://javascript.info/article/function-basics/function_basics.png)
+![Function declaration](../images/function_basics.png)
 
 #### Variables
 
