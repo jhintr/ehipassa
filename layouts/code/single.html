@@ -7,3 +7,13 @@
 {{ define "main" }}
 {{ partial "single.html" . }}
 {{ end }}
+
+
+{{ define "extra_js" }}
+<script>
+    let tables = document.getElementsByTagName("table");
+    for (let i = 0; i < tables.length; i++) {
+        tables[i].classList.add('table', 'table-sm', 'border-bottom');
+    }
+</script>
+{{ end }}
