@@ -134,8 +134,8 @@ First-declension nouns can be divided into two groups: feminines and masculines.
 
 #### First-Declension Feminine Nouns: ᾱ-stems, η-stems, definite article
 
-|       | singular |            | plural     | article  |          |
-|:-----:|:---------|:-----------|:-----------|:---------|:---------|
+|       | singular |            | plural     | ar. sg.  | ar. pl.  |
+|:------|:---------|:-----------|:-----------|:---------|:---------|
 | nom.  | θε**ά**  | σκην**ή**  | θε**αί**   | **ἡ**    | **αἱ**   |
 | gen.  | θε**ᾶς** | σκην**ῆς** | θε**ῶν**   | **τῆς**  | **τῶν**  |
 | dat.  | θε**ᾷ**  | σκην**ῇ**  | θε**αῖς**  | **τῇ**   | **ταῖς** |
@@ -177,7 +177,7 @@ In the Attic dialect *a short alpha* was allowed to creep into the nom., acc., a
 #### First-Declension Feminine Nouns: α/ᾱς & α/ης Subcategories
 
 |       | singular   |              | plural       |
-|:-----:|:-----------|:-------------|:-------------|
+|:------|:-----------|:-------------|:-------------|
 | nom.  | μοῖρ**α**  | θάλαττ**α**  | μοῖρ**αι**   |
 | gen.  | μοίρ**ᾱς** | θαλάττ**ης** | μοιρ**ῶν**   |
 | dat.  | μοίρ**ᾳ**  | θαλάττ**ῃ**  | μοίρ**αις**  |
@@ -263,8 +263,8 @@ Nouns in the second-declension can be divided into two groups: masculines and ne
 
 #### Second-Declension Masculine Nouns
 
-|       | singular     | plural        | article  |          |
-|:-----:|:-------------|:--------------|:---------|:---------|
+|       | singular     | plural        | ar. sg.  | ar. pl.  |
+|:------|:-------------|:--------------|:---------|:---------|
 | nom.  | ἄνθρωπ**ος** | ἄνθρωπ**οι**  | **ὁ**    | **οἱ**   |
 | gen.  | ἀνθρώπ**ου** | ἀνθρώπ**ων**  | **τοῦ**  | **τῶν**  |
 | dat.  | ἀνθρώπ**ῳ**  | ἀνθρώπ**οις** | **τῷ**   | **τοῖς** |
@@ -305,7 +305,7 @@ Second-declension neuters are also **ο**-stem nouns.
 #### Second-Declension Neuter Nouns
 
 |       | singular  | cf. masc. | plural     | cf. masc. |
-|:-----:|:----------|:----------|:-----------|:----------|
+|:------|:----------|:----------|:-----------|:----------|
 | nom.  | δῶρ**ον** | **ος**    | δῶρ**α**   | **οι**    |
 | gen.  | δώρ**ου** |           | δώρ**ων**  |           |
 | dat.  | δώρ**ῳ**  |           | δώρ**οις** |           |
@@ -317,7 +317,7 @@ Every neuter noun in Greek, the nom. acc. and voc. are identical in the singular
 #### Definite Article, All Forms
 
 |          | Masc.    |          | Fem.       |            | Neut.    |          |
-|:--------:|:---------|:---------|:-----------|:-----------|:---------|:---------|
+|:---------|:---------|:---------|:-----------|:-----------|:---------|:---------|
 | nom.     | **ὁ**    | **οἱ**   | **ἡ**      | **αἱ**     | **τό**   | **τά**   |
 | gen.     | **τοῦ**  | **τῶν**  | **τῆς**    | **τῶν**    | **τοῦ**  | **τῶν**  |
 | dat.     | **τῷ**   | **τοῖς** | **τῇ**     | **ταῖς**   | **τῷ**   | **τοῖς** |
@@ -330,7 +330,7 @@ Every neuter noun in Greek, the nom. acc. and voc. are identical in the singular
 There are two types of adjectives in Greek, those with the same endings as first/second-declension nouns and those as third-declension nouns.
 
 |          | Masc.    |          | Fem.       |            | Neut.    |          |
-|:--------:|:---------|:---------|:-----------|:-----------|:---------|:---------|
+|:---------|:---------|:---------|:-----------|:-----------|:---------|:---------|
 | nom.     | **ος**   | **οι**   | **ᾱ/η**    | **αι**     | **ον**   | **α**    |
 | gen.     | **ου**   | **ων**   | **ᾱς/ης**  | **ων**     | **ου**   | **ων**   |
 | dat.     | **ῳ**    | **οις**  | **ᾳ/ῃ**    | **αις**    | **ῳ**    | **οις**  |
@@ -378,7 +378,7 @@ An **attributive** adjective and its noun together form a noun phrase. A **predi
 The sg. of nom., gen., and voc. do not match those of the feminine nouns.
 
 |       | singular    |             | plural       |              |
-|:-----:|:------------|:------------|:-------------|:-------------|
+|:------|:------------|:------------|:-------------|:-------------|
 | nom.  | μαθητ**ής** | νεᾱνί**ᾱς** | μαθητ**αί**  | νεᾱνί**αι**  |
 | gen.  | μαθητ**οῦ** | νεᾱνί**ου** | μαθητ**ῶν**  | νεᾱνι**ῶν**  |
 | dat.  | μαθητ**ῇ**  | νεᾱνί**ᾳ**  | μαθητ**αῖς** | νεᾱνί**αις** |
