@@ -1,5 +1,5 @@
 ---
-title: "Ancient Greek"
+title: "Classical Greek"
 date: 2019-06-28T11:34:24+08:00
 draft: false
 ---
@@ -10,11 +10,19 @@ draft: false
 
 ### Lesson 1 Alphabet
 
+| Other dialect | Works     |
+|:--------------|:----------|
+| Epic          | Homer     |
+| Ionic         | Herodotus |
+| Doric         | choral songs in Attic tragedies |
+| Aeolic        | Sappho    |
+
+
 In 403 BCE, the Athenians adopted the more precise alphabet used by speakers of the Ionic dialect, a close relative of Attic.
 
 Of the 24 letters, the first 19 were adapted from letters in the Phoenician alphabet and thus have Semitic names, the last 5 were invented by the Greeks.
 
-|         | capital | cursive |         | capital | cursive |
+| name    | capital | cursive | name    | capital | cursive |
 |:--------|:--------|:--------|:--------|:--------|:--------|
 | ἄλφα    | **Α**   | **α**   | νῦ      | **Ν**   | **ν**   |
 | βῆτα    | **Β**   | **β**   | ξῖ      | **Ξ**   | **ξ**   |
@@ -40,17 +48,24 @@ Of the 24 letters, the first 19 were adapted from letters in the Phoenician alph
 
 - **γ** = nasalized *n* before **γ**, **κ**, **χ**, **ξ**, (**μ**)
 - During the Classical period the letter **ο**, **ω**, **ε**, **υ** had the names οὖ, ὦ, εἶ, and ὖ. The expanded names they now have (meaning "small o", "big o", "plain e", and "plain u") were created by grammarians in the Byzantine age.
-- A word with an initial upsilon will always have rough breathing (e.g., **ὑ- υἱ-**).
+- Breathings. A word with an initial upsilon will always have rough breathing (e.g., **ὑ- υἱ-**).
+
+**Consonants**
+
+- If one stop is followed by a different stop or a liquid or a nasal, they are usually pronounced together.
+- If one liquid or nasal is followed by a different liquid or nasal or by a stop, they are pronounced separately (**μν** is an exception).
+- Repeated consonants are also always pronounced separately, as are the two sounds in a double consonant.
+- When a sigma is followed by a different consonant, the pronunciation is ambiguous.
 
 
 
 ### Lesson 2 Accents
 
-The **acute** can appear on the antepenult, penult, or the ultima. The **circumflex** can appear on the penult or the ultima. The **grave** appears only on the ultima: if a word that would have had an acute on its last syllable is followed directly by another word, with no intervening punctuation mark, the acute switches to a grave.
+The *acute* can appear on the antepenult, penult, or the ultima. The *circumflex* can appear on the penult or the ultima. The *grave* appears only on the ultima: if a word that would have had an acute on its last syllable is followed directly by another word, with no intervening punctuation mark, the acute switches to a grave, otherwise the acute remains unchanged.
 
-**Principle 1**: The acute can stay on the antepenult only if the ultima is short (i.e., if it has a short vowel not followed by a double consonant, or if it ends in -αι or -οι). If the ultima is long by nature or position, the acute must move to the penult.
+**Principle 1**: The acute can stay on the antepenult only if the ultima is short *(i.e., if it has a short vowel not followed by a double consonant, or if it ends in -αι or -οι)*. If the ultima is long by nature or position, the acute must move to the penult.
 
-**Principle 2**: If the penult is naturally long and the ultima has a short vowel or ends in -αι or -οι, the accent on the penult will be a circumflex, otherwise the accent on the penult will be an acute.
+**Principle 2**: If the penult is naturally long and the ultima has a short vowel or ends in -αι or -οι, the accent on the penult will be a circumflex, otherwise will be an acute.
 
 
 
