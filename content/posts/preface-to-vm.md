@@ -1,5 +1,5 @@
 ---
-title: 清净道论序
+title: "Preface to Visuddhimagga"
 subtitle: Kosambi
 date: 2015-11-22
 ---
@@ -52,8 +52,8 @@ date: 2015-11-22
   <p>Brāhmaṇo’sya mukham āsīd<br/>
   bāhū rājanyaḥ kṛtaḥ<br/>
   ūrū tad asya yad vaiṣyaḥ<br/>
-  padbhyāṃ śūdro ajāyata.<br/>
-  <small>[Ṛgveda x.90; <i>also cf.</i> Atharvaveda xix.6.6.]</small></p>
+  padbhyāṃ śūdro ajāyata.<br/></p>
+  <footer class="blockquote-footer">[Ṛgveda x.90; <i>also cf.</i> Atharvaveda xix.6.6.]</footer>
 </blockquote>
 
 <p>“Brāhmaṇa was his mouth, Kshatriya his arms, Vaishya his thighs; Shūdra was born of his feet.” Yet Buddhaghosa, supposed to be a learned Brahmin, was not acquainted with this. Commenting on “Bandhupādâpaccā” — “children of Brahma’s feet” — he says, “The Brahmins are of this opinion: Brahmins came out of Brahma’s mouth, Kshatriyas from his breast, Vaishyas from his navel, Shūdras from the legs, and Shramaṇas from his soles.” <a id="3" href="#note3"><sup>[3]</sup></a></p>
