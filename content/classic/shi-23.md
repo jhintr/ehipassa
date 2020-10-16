@@ -3,7 +3,7 @@ title: 文王之什第二十三
 subtitle: 十篇
 date: 2019-06-03T10:14:15+08:00
 draft: false
-weight: 23
+weight: 323
 ---
 
 

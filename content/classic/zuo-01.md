@@ -3,7 +3,7 @@ title: "隱公第一"
 subtitle: "公元前 722-712"
 date: 2019-09-14T20:06:11+08:00
 draft: false
-weight: 101
+weight: 701
 ---
 
 
