@@ -1,5 +1,5 @@
 ---
-title: "成公"
+title: "成公第八"
 subtitle: "公元前 590-573"
 date: 2019-09-14T20:06:43+08:00
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "文公"
+title: "文公第六"
 subtitle: "公元前 626-609"
 date: 2019-09-14T20:06:36+08:00
 draft: false

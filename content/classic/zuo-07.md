@@ -1,5 +1,5 @@
 ---
-title: "宣公"
+title: "宣公第七"
 subtitle: "公元前 608-591"
 date: 2019-09-14T20:06:39+08:00
 draft: false
