@@ -7,23 +7,21 @@ draft: true
 
 
 <div class="alert alert-secondary">
-    此文译自菩提比丘为中部的英译本而作的序言，我觉得很可以作为一部佛教入门书来看，故不揣简陋，迻译以飨同好。
+    此文译自菩提比丘为中部的英译本而作的导论，数年前曾匆匆读过，觉得很可以介绍给欲了解佛教的友人。日下有暇，故不揣简陋，迻译以飨同好。
 </div>
 
 #### 作为文集的中部
 
-中部是巴利经典中经藏的第二部文集。其标题的字面意思是中等的文集，因为它所包含的经通常是中等长度，排列于其前的长部中的经更长，而排列于其后的相应部及增支部中的经则更短。
+中部是巴利经典中经藏的第二部文集。标题的字面意思是中等的文集，因为它所包含的经通常是中等长度，排列于其前的长部中的经更长，而排列于其后的相应部及增支部中的经则更短。
 
-中部包含 152 经，分为三个「五十集」，虽然最后一集实际上包含 52 经。每一集中的 10 经进一步合为章或「品」，最后第二品包含 12 经。这些品的名称通常来自其开头一经（或在某些地方，一对经）的标题，所以极少关涉到这些品本身的内容。部分的例外是「中五十集」，品的标题通常表示经中对话者的主要类型，或关键人物。即便如此，标题与内容的关联有时也是薄弱的。整个分类的体系似乎更多是为了方便，而不是同一品经中主题内容的基本同质性。
+中部包含 152 经，分为三个「五十集」，虽然最后一集实际上包含 52 经。每一集中的 10 经进一步合为章或「品」，最后第二品包含 12 经。这些品的名称通常来自其开头一经（或在某些地方，一对经）的标题，所以极少关涉到这些品本身的内容。部分的例外是「中五十集」，品的标题通常表示经中对话者的主要类型，或关键人物。即便如此，标题与内容有时也极少相关。整个分类的体系似乎更多是为了便利而设置的，而不是表明同一品中各经主题内容的同质。
 
-经的排列也没有特别的教学次第，没有思想的开展演变。所以，虽然不同的经会彼此阐明，且一经的理念仅能由另一经得以填补，而实际上任何经都可以作单独的研究，并获得自足的理解。当然，对整部文集的研究自然会获得最丰富的领会。
+经的排列也没有特别的教学次第，没有思想的开展演变。所以，虽然不同的经会彼此阐明，且一经的理念仅能由另一经得以填补完整，而实际上任何经都可以作单独的研究，并获得自足的理解。当然，对整部文集的研究自然会获得最丰富的领会。
 
-如果要用一句话来区别中部与其它巴利经典的话，也许可以将其描述为这样一部文集，即将最丰富的语境设置与最深入、最全面的教学类型结合在一起。与长部类似，中部充满了戏剧性与叙事性，而缺少前者想象的装饰与丰富的传奇。与相应部类似，它包含了一些经典中最深刻的谈话，揭示了佛陀对于存在本质的根本洞见，且与增支部类似，它涵盖了广泛的实用性的主题，然而相较于这两部尼迦耶，中部并不是以简短、独立的表达来介绍其素材，而是在一系列引人入胜的场景中显示佛陀的智慧，其根据对话者的需要与倾向来调整其教法的技巧 ，其智慧与温柔的幽默，其雄伟的崇高精神，及其慈悲的人性。
+如果要用一句话来区别中部与其它巴利经典的话，也许可以将其描述为这样一部文集，即将最丰富的语境与最深入、最全面的教学结合在一起。与长部类似，中部充满了戏剧性与叙事性，而缺少前者想象的装饰与丰富的传奇。与相应部类似，它包含了一些经典中最深刻的谈话，揭示了佛陀对于存在本质的根本洞见，且与增支部类似，它涵盖了广泛的实用性的主题，然而相较于这两部尼迦耶，中部并不是简短、独立地表述其素材，而是在一系列引人入胜的场景中显示佛陀的智慧，其根据对话者的需要与倾向来调整其教法的技巧，其智慧与温柔的幽默，其雄伟的崇高精神，及其慈悲的人性。
 
-自然，中部里面绝大多数的谈话是针对比丘的，因为他们与生活在大师周围，并随其出家以承担完整的修学。但在中部里，佛陀不仅仅以僧团领袖的身份与我们相遇。我们一再看到他与古代印度社会中诸多不同阶层的人们进行生动的对话——与国王和王子，与婆罗门和苦行者，与朴素的村民和博学的哲人，与热切的求法者和虚妄的辩论者。也许较于所有其它文本，在这部文本中佛陀以经典里礼敬世尊的偈颂中的「无上士、调御丈夫、天人师」的身份出现。
+自然，中部里绝大多数的谈话是针对比丘的，因为他们生活在大师周围，并随其出家以从事完整的修学。但在中部里，佛陀不仅仅以僧团领袖的身份与我们相遇。我们一再看到他与古代印度社会中诸多不同阶层的人们进行生动的对话——与国王和王子，与婆罗门和苦行者，与朴素的村民和博学的哲人，与热切的求法者和虚妄的辩论者。也许较于所有其它文本，在这部文本内佛陀更多地以经典中礼敬世尊的偈颂里的「无上士、调御丈夫、天人师」的身份出现。
 
-在中部里，不仅只有佛陀以老师的身份出场。
+在中部里，以老师身份出场的不止有佛陀。作品还向我们引介了由他培养的有成就的弘扬其教法的弟子们。文集 152 经中，9 经由法将舍利弗尊者宣说，其中 3 经（`MN9, MN28, MN141`）成为上座部僧伽学校内学习教理的基础课文。阿难尊者，佛陀最后廿五年生命里的侍者，宣讲了 7 经，而参与的则更多。长于广说大师简短而难解的教法的大迦旃延尊者说了 4 经，而第二个上首弟子大目揵连尊者说了 2 经，其中之一（`MN15`）常用于比丘的日常省思。舍利弗尊者和满慈子尊者的对话（`MN24`）探索了七阶段清净的体系，成为觉音阿阇黎论佛教修学的巨著「清净道论」的大纲。另一对话（`MN44`）引介了比丘尼 Dhammadinnā，她对一系列探究性问题的回答如此精巧，以至于佛陀用「我本会以同样的方式向你解释」的言辞将其付与后人。
 
-It is not the Buddha alone who appears in the Majjhima in the role of teacher. The work also introduces us to the accomplished disciples he produced who carried on the transmission of his teaching. Of the 152 suttas in the collection, nine are spoken by the venerable S›riputta, the General of the Dhamma; three of these (MN 9, MN 28, MN 141) have become basic texts for the study of Buddhist doctrine in monastic schools throughout the Therav›da Buddhist world. The venerable finanda, the Buddha’s personal attendant during the last twenty-five years of his life, delivers seven suttas and participates in many more. Four suttas are spoken by the venerable Mah› Kacc›na, who excelled in elaborating upon the brief but enigmatic sayings of the Master, and two by the second chief disciple, the venerable Mah› Moggall›na, one of which (MN 15) has been recommended for a monk’s daily reflections. A dialogue between the venerable S›riputta and the venerable Pu ̊ ̊a Mant› ̊iputta (MN 24) explores a scheme of seven stages of purification that was to form the outline for ficariya Buddhaghosa’s great treatise on the Buddhist path, the Visuddhimagga. Another dialogue (MN 44) introduces the bhikkhunı Dhammadinn›, whose replies to a series of probing questions were so adroit that the Buddha sealed them for posterity with the words “I would have explained it to you in the same way.”
-
-The formats of the suttas are also highly variegated. The majority take the form of discourses proper, expositions of the teaching that pour forth uninterrupted from the mouth of the Enlightened One. A few among these are delivered in a series of unadorned instructional propositions or guidelines to practice, but most are interlaced with striking similes and parables, which flash through and light up the dense mass of doctrine in ways that impress it deeply upon the mind. Other suttas unfold in dialogue and discussion, and in some the dramatic or narra- tive element predominates. Perhaps the best known and most widely appreciated among these is the Angulim›la Sutta (MN 86), which relates how the Buddha subdued the notorious bandit Angulim›la and transformed him into an enlightened saint. Equally moving, though in a different way, is the story of Ra ̨ ̨hap›la (MN 82), the youth of wealthy family whose preco- cious insight into the universality of suffering was so compelling that he was prepared to die rather than accept his parents’ refusal to permit him to go forth into homelessness. Several suttas centre upon debate, and these highlight the Buddha’s wit and delicate sense of irony as well as his dialectical skills. Particular mention might be made of MN 35 and MN 56, with their subtle humour leavening the seriousness of their contents. In a class of its own is the Brahmanimantanika Sutta (MN 49), in which the Buddha visits the Brahma-world to detach a deluded deity from his illusions of grandeur and soon finds himself locked in a gripping contest with M›ra the Evil One—an inconceiv- able alliance of Divinity and Devil defending the sanctity of being against the Buddha’s call for deliverance into Nibb›na, the cessation of being.
+经的形式也丰富多样。多数采取普通的对话形式，从世尊的口中无间断地涌出对教义的阐述。其中一些是通过一系列朴素的关于教义的陈述或对实修的指导表达的，但大多数都与警人的譬喻和寓言交织在一起，以让人铭记的方式闪现并照亮了深奥的教理。其它的经以对话和讨论展开，有些以戏剧性或叙事性元素占主导。其中最知名且最受称赏的也许是「指鬘经」（`MN86`），它讲述了佛陀是如何折服恶名昭彰的大盗指鬘，并将其转化为觉悟的圣者。同样感人，但以一种不同的方式的，是车护的故事（`MN82`），这个家境富有的年轻人对苦的普遍性的早熟洞见是如此强烈，以至于他宁可准备赴死，也不接受父母拒绝让他出家。有些经专注于辩论，这些经突显了佛陀的机智和微妙的讽刺感，以及他的辩证技巧。需要特别提及的是 `MN35` 和 `MN56`，以其微妙的幽默改善了其内容的严肃。自成一类的是 Brahmanimantanika 经（`MN49`），佛陀在其中到访梵天界，以使一个蒙骗的天人摆脱对他宏伟幻想的执著，并很快发现自己陷入了与魔罗的激烈竞争中，邪恶者魔罗是一个不可思议的天与魔的联盟，捍卫存在的神圣性，反对佛陀对解脱涅槃——存在的止息——的召唤。
