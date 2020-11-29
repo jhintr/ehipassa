@@ -1,7 +1,8 @@
 ---
 title: "Preface to Visuddhimagga"
-subtitle: Kosambi
+subtitle: "D. Kosambi"
 date: 2015-11-22
+weight: 51
 ---
 
 <p>This edition of the Visuddhimagga is based chiefly upon manuscripts, described by Professor C. R. Lanman as follows:</p>
