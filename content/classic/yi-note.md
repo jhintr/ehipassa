@@ -3,9 +3,79 @@ title: "周易筆記"
 date: 2020-10-16T18:34:07+08:00
 weight: 120
 draft: false
+toc: false
 ---
 
-<p class="lead text-success text-success">乾，元亨，利貞。</p>
+<ul class="list-inline">
+    <li class="list-inline-item"><a href="#1">乾</a></li>
+    <li class="list-inline-item"><a href="#2">坤</a></li>
+    <li class="list-inline-item"><a href="#3">屯</a></li>
+    <li class="list-inline-item"><a href="#4">蒙</a></li>
+    <li class="list-inline-item"><a href="#5">需</a></li>
+    <li class="list-inline-item"><a href="#6">訟</a></li>
+    <li class="list-inline-item"><a href="#7">師</a></li>
+    <li class="list-inline-item"><a href="#8">比</a></li>
+    <li class="list-inline-item"><a href="#9">小畜</a></li>
+    <li class="list-inline-item"><a href="#10">履</a></li>
+    <li class="list-inline-item"><a href="#11">泰</a></li>
+    <li class="list-inline-item"><a href="#12">否</a></li>
+    <li class="list-inline-item"><a href="#13">同人</a></li>
+    <li class="list-inline-item"><a href="#14">大有</a></li>
+    <li class="list-inline-item"><a href="#15">謙</a></li>
+    <li class="list-inline-item"><a href="#16">豫</a></li>
+    <li class="list-inline-item"><a href="#17">隨</a></li>
+    <li class="list-inline-item"><a href="#18">蠱</a></li>
+    <li class="list-inline-item"><a href="#19">臨</a></li>
+    <li class="list-inline-item"><a href="#20">觀</a></li>
+    <li class="list-inline-item"><a href="#21">噬嗑</a></li>
+    <li class="list-inline-item"><a href="#22">賁</a></li>
+    <li class="list-inline-item"><a href="#23">剝</a></li>
+    <li class="list-inline-item"><a href="#24">復</a></li>
+    <li class="list-inline-item"><a href="#25">无妄</a></li>
+    <li class="list-inline-item"><a href="#26">大畜</a></li>
+    <li class="list-inline-item"><a href="#27">頤</a></li>
+    <li class="list-inline-item"><a href="#28">大過</a></li>
+    <li class="list-inline-item"><a href="#29">坎</a></li>
+    <li class="list-inline-item"><a href="#30">離</a></li>
+    <li class="list-inline-item"><a href="#31">咸</a></li>
+    <li class="list-inline-item"><a href="#32">恆</a></li>
+    <li class="list-inline-item"><a href="#33">遯</a></li>
+    <li class="list-inline-item"><a href="#34">大壯</a></li>
+    <li class="list-inline-item"><a href="#35">晉</a></li>
+    <li class="list-inline-item"><a href="#36">明夷</a></li>
+    <li class="list-inline-item"><a href="#37">家人</a></li>
+    <li class="list-inline-item"><a href="#38">睽</a></li>
+    <li class="list-inline-item"><a href="#39">蹇</a></li>
+    <li class="list-inline-item"><a href="#40">解</a></li>
+    <li class="list-inline-item"><a href="#41">損</a></li>
+    <li class="list-inline-item"><a href="#42">益</a></li>
+    <li class="list-inline-item"><a href="#43">夬</a></li>
+    <li class="list-inline-item"><a href="#44">姤</a></li>
+    <li class="list-inline-item"><a href="#45">萃</a></li>
+    <li class="list-inline-item"><a href="#46">升</a></li>
+    <li class="list-inline-item"><a href="#47">困</a></li>
+    <li class="list-inline-item"><a href="#48">井</a></li>
+    <li class="list-inline-item"><a href="#49">革</a></li>
+    <li class="list-inline-item"><a href="#50">鼎</a></li>
+    <li class="list-inline-item"><a href="#51">震</a></li>
+    <li class="list-inline-item"><a href="#52">艮</a></li>
+    <li class="list-inline-item"><a href="#53">漸</a></li>
+    <li class="list-inline-item"><a href="#54">歸妹</a></li>
+    <li class="list-inline-item"><a href="#55">豐</a></li>
+    <li class="list-inline-item"><a href="#56">旅</a></li>
+    <li class="list-inline-item"><a href="#57">巽</a></li>
+    <li class="list-inline-item"><a href="#58">兌</a></li>
+    <li class="list-inline-item"><a href="#59">渙</a></li>
+    <li class="list-inline-item"><a href="#60">節</a></li>
+    <li class="list-inline-item"><a href="#61">中孚</a></li>
+    <li class="list-inline-item"><a href="#62">小過</a></li>
+    <li class="list-inline-item"><a href="#63">既濟</a></li>
+    <li class="list-inline-item"><a href="#64">未濟</a></li>
+</ul>
+
+---
+
+#### 乾，元亨，利貞。{#1}
 
 > 剛健，善則能通，利貞定而不爭。乾，馬王堆帛書作鍵。元，善也。貞，甲骨金文與鼎同，固也，定也，靜也。
 
@@ -29,7 +99,7 @@ draft: false
 
 > 用九，帛書作迵九，迵即帛書內通字。无首即不爭，剛而能柔，強而不爭，故吉。
 
-<p class="lead text-success">坤，元亨，利牝馬之貞，君子有攸往，先迷後得主，利，西南得朋，東北喪朋，安貞吉。</p>
+#### 坤，元亨，利牝馬之貞，君子有攸往，先迷後得主，利，西南得朋，東北喪朋，安貞吉。{#2}
 
 > 坤，順也。利牝馬之貞，意謂跟隨而不爭先。西南得朋，東北喪朋，帛書衷篇「歲之義，始於東北，成於西南」，蓋卦氣說也。
 
@@ -55,7 +125,7 @@ draft: false
 
 用六，利永貞。
 
-<p class="lead text-success">屯，元亨，利貞，勿用有攸往，利建侯。</p>
+#### 屯，元亨，利貞，勿用有攸往，利建侯。{#3}
 
 > 說文「屯，難也，象艸木之初生，屯然而難，从屮貫一，一，地也」。貞與往相對，當訓為定。
 
@@ -77,7 +147,7 @@ draft: false
 
 上六，乘馬班如，泣血漣如。
 
-<p class="lead text-success">蒙，亨，匪我求童蒙，童蒙求我，初筮告，再三瀆，瀆則不告，利貞。</p>
+#### 蒙，亨，匪我求童蒙，童蒙求我，初筮告，再三瀆，瀆則不告，利貞。{#4}
 
 > 蒙，蔽也，昧也。童，脫也，釋名「山無草木亦曰童」，管子「童山竭澤」屢見。吿，吉之訛也，帛書石經均作吉。
 
@@ -103,7 +173,7 @@ draft: false
 
 > 擊，治也。
 
-<p class="lead text-success">需，有孚，光亨，貞吉，利涉大川。</p>
+#### 需，有孚，光亨，貞吉，利涉大川。{#5}
 
 > 需，須也，待也。孚，信也。光，大也。
 
@@ -125,7 +195,7 @@ draft: false
 
 上六，入于穴，有不速之客三人來，敬之終吉。
 
-<p class="lead text-success">訟，有孚窒惕，中吉，終凶，利見大人，不利涉大川。</p>
+#### 訟，有孚窒惕，中吉，終凶，利見大人，不利涉大川。{#6}
 
 > 窒，制也，止也。惕，當訓為止息，帛書作寧。
 
@@ -153,7 +223,7 @@ draft: false
 
 > 雖勝猶敗也。
 
-<p class="lead text-success">師，貞丈人吉，无咎。</p>
+#### 師，貞丈人吉，无咎。{#7}
 
 > 貞丈人吉，貞於丈人則吉。
 
@@ -177,7 +247,7 @@ draft: false
 
 上六，大君有命，開國承家，小人勿用。
 
-<p class="lead text-success">比，吉，原筮，元永貞，无咎，不寧方來，後夫凶。</p>
+#### 比，吉，原筮，元永貞，无咎，不寧方來，後夫凶。{#8}
 
 > 筮，疑讀為折，敗也，老子「大曰逝」帛書甲乙本作筮。帛書衷篇「比者，得之鮮也」，鮮，善也。
 
@@ -205,7 +275,7 @@ draft: false
 
 > 楚簡本無「之」字。
 
-<p class="lead text-success">小畜，亨，密雲不雨，自我西郊。</p>
+#### 小畜，亨，密雲不雨，自我西郊。{#9}
 
 > 自，於也，詩伐木「出自幽谷」，孟子作「出於幽谷」。
 
@@ -233,7 +303,7 @@ draft: false
 
 > 德，帛書漢簡均作得。載，蓄積。
 
-<p class="lead text-success">履虎尾，不咥人，亨。</p>
+#### 履虎尾，不咥人，亨。{#10}
 
 > 履，行也。尾，後也。
 
@@ -259,7 +329,7 @@ draft: false
 
 > 祥，徵兆。旋，轉也。
 
-<p class="lead text-success">泰，小往大來，吉，亨。</p>
+#### 泰，小往大來，吉，亨。{#11}
 
 > 泰，通而泰，交而泰，非不變之泰。
 
@@ -287,7 +357,7 @@ draft: false
 
 > 復，傾覆。
 
-<p class="lead text-success">否之匪人，不利君子貞，大往小來。</p>
+#### 否之匪人，不利君子貞，大往小來。{#12}
 
 > 此卦言治否之理也。
 
@@ -305,7 +375,7 @@ draft: false
 
 上九，傾否，先否後喜。
 
-<p class="lead text-success">同人于野，亨，利涉大川，利君子貞。</p>
+#### 同人于野，亨，利涉大川，利君子貞。{#13}
 
 > 同人，和同於人也。野，野人也。
 
@@ -329,7 +399,7 @@ draft: false
 
 上九，同人于郊，无悔。
 
-<p class="lead text-success">大有，元亨。</p>
+#### 大有，元亨。{#14}
 
 初九，无交害，匪咎，艱則无咎。
 
@@ -349,7 +419,7 @@ draft: false
 
 上九，自天祐之，吉无不利。
 
-<p class="lead text-success">謙，亨，君子有終。</p>
+#### 謙，亨，君子有終。{#15}
 
 初六，謙謙君子，用涉大川，吉。
 
@@ -367,7 +437,7 @@ draft: false
 
 上六，鳴謙，利用行師征邑國。
 
-<p class="lead text-success">豫，利建侯行師。</p>
+#### 豫，利建侯行師。{#16}
 
 > 豫，象之大者，引伸之，凡大皆稱豫。
 
@@ -393,7 +463,7 @@ draft: false
 
 > 冥，引申為消除。成，即有成，為无成之反。
 
-<p class="lead text-success">隨，元亨，利貞，无咎。</p>
+#### 隨，元亨，利貞，无咎。{#17}
 
 初九，官有渝，貞吉，出門交有功。
 
@@ -411,7 +481,7 @@ draft: false
 
 > 楚簡作「係而拘之，縱乃攜之，王用享于西山」，指文王遭拘禁，被釋而有離心，於西山興師反商。
 
-<p class="lead text-success">蠱，元亨，利涉大川，先甲三日，後甲三日。</p>
+#### 蠱，元亨，利涉大川，先甲三日，後甲三日。{#18}
 
 > 甲，疑讀為狎，習也。
 
@@ -431,7 +501,7 @@ draft: false
 
 上九，不事王侯，高尚其事。
 
-<p class="lead text-success">臨，元亨，利貞，至于八月有凶。</p>
+#### 臨，元亨，利貞，至于八月有凶。{#19}
 
 > 臨，監臨，居上治民也。八月，仲秋之月，禮記「是月也，殺氣浸盛，陽氣日衰」。
 
@@ -451,7 +521,7 @@ draft: false
 
 上六，敦臨，吉，无咎。
 
-<p class="lead text-success">觀盥而不薦，有孚顒若。</p>
+#### 觀盥而不薦，有孚顒若。{#20}
 
 > 盥，灌也，以鬱鬯灌地降神，論語八佾「禘自既灌而往者，吾不欲觀之矣」。薦，獻饗。
 
@@ -467,7 +537,7 @@ draft: false
 
 上九，觀其生，君子无咎。
 
-<p class="lead text-success">噬嗑，亨，利用獄。</p>
+#### 噬嗑，亨，利用獄。{#21}
 
 > 卦畫象形，象徵施用刑法。
 
@@ -489,7 +559,7 @@ draft: false
 
 > 何，荷也。
 
-<p class="lead text-success">賁，亨，小利有攸往。</p>
+#### 賁，亨，小利有攸往。{#22}
 
 初九，賁其趾，舍車而徒。
 
@@ -511,7 +581,7 @@ draft: false
 
 上九，白賁，无咎。
 
-<p class="lead text-success">剝，不利有攸往。</p>
+#### 剝，不利有攸往。{#23}
 
 > 往則陽窮也。
 
@@ -539,7 +609,7 @@ draft: false
 
 > 食，蝕也。
 
-<p class="lead text-success">復，亨，出入无疾，朋來无咎，反復其道，七日來復，利有攸往。</p>
+#### 復，亨，出入无疾，朋來无咎，反復其道，七日來復，利有攸往。{#24}
 
 初九，不遠復，无祇悔，元吉。
 
@@ -559,11 +629,9 @@ draft: false
 
 > 以，治也，治其國則君凶也。
 
----
+#### 无妄，元亨，利貞，其匪正有眚，不利有攸往。{#25}
 
-<p class="lead text-success">无妄，元亨，利貞，其匪正有眚，不利有攸往。</p>
-
-初九，无妄往，吉。
+初九，无妄，往吉。
 
 六二，不耕穫，不菑畬，則利有攸往。
 
@@ -573,9 +641,13 @@ draft: false
 
 九五，无妄之疾，勿藥有喜。
 
-上九，无妄行，有眚，无攸利。
+> 喜，楚簡本作菜，疑喜讀為譆，菜讀為㥒，皆痛、恨義，即有勿藥之痛。
 
-<p class="lead text-success">大畜，利貞，不家食，吉，利涉大川。</p>
+上九，无妄，行有眚，无攸利。
+
+#### 大畜，利貞，不家食，吉，利涉大川。{#26}
+
+> 不家食，即不稼而食。
 
 初九，有厲，利己。
 
@@ -583,17 +655,27 @@ draft: false
 
 九三，良馬逐，利艱貞，曰閑輿衛，利有攸往。
 
+> 曰閑輿衛，帛書昭力篇作「闌輿之衛」，闌輿即偃武修文，以德服人。
+
 六四，童牛之牿，元吉。
+
+> 童，脫也。牿，牛馬牢也。
 
 六五，豶豕之牙，吉。
 
+> 豶，帛書作哭，帛書昭力篇「夫豕之牙成而不用者也，又笑而後見，言國修兵不戰而威之謂也」，哭、笑皆「文」字之訛。
+
 上九，何天之衢，亨。
 
-<p class="lead text-success">頤，貞吉，觀頤，自求口實。</p>
+> 何，荷也。衢，依楚簡讀為休，訓為慶，吉慶、福祿、福佑也。
+
+#### 頤，貞吉，觀頤，自求口實。{#27}
 
 初九，舍爾靈龜，觀我朵頤，凶。
 
-六二，顛頤，拂經于丘，頤征凶。
+六二，顛頤，拂經，于丘頤，征凶。
+
+> 顛，可讀為慎，六四同。拂，當讀為弗，六三同。丘，楚簡帛書均作北，讀為背。
 
 六三，拂頤，貞凶，十年勿用，无攸利。
 
@@ -603,7 +685,9 @@ draft: false
 
 上九，由頤，厲吉，利涉大川。
 
-<p class="lead text-success">大過，棟橈，利有攸往，亨。</p>
+#### 大過，棟橈，利有攸往，亨。{#28}
+
+> 大過為埋葬之象，上兑為澤，墓穴也，下巽為木，棺椁也。
 
 初六，藉用白茅，无咎。
 
@@ -611,13 +695,15 @@ draft: false
 
 九三，棟橈，凶。
 
-九四，棟隆，吉，有它吝。
+九四，棟隆，吉，有它，吝。
+
+> 它，蛇本字，引申為邪、不正，玉篇「它，非也」，法言「君子正而不它」。
 
 九五，枯楊生華，老婦得其士夫，无咎无譽。
 
 上六，過涉滅頂，凶，无咎。
 
-<p class="lead text-success">習坎，有孚，維心亨，行有尚。</p>
+#### 習坎，有孚，維心亨，行有尚。{#29}
 
 初六，習坎，入于坎窞，凶。
 
@@ -625,15 +711,25 @@ draft: false
 
 六三，來之坎坎，險且枕，入于坎窞，勿用。
 
-六四，樽酒簋貳，用缶，納約自牖，終无咎。
+> 九二「坎有險」，帛書作訦，則此枕即訦，險也。
+
+六四，樽酒，簋貳，用缶，納約自牖，終无咎。
+
+> 此文王拘於羑里之事也，樽酒、簋貳、用缶，陋也。約，依王弼注，簡約也。牖，即羑里也。
 
 九五，坎不盈，祇既平，无咎。
 
 上六，係用徽纆，寘于叢棘，三歲不得，凶。
 
-<p class="lead text-success">離，利貞，亨，畜牝牛，吉。</p>
+> 此亦文王之事也，叢棘，鄭眾、鄭玄以為周禮秋官朝士之左右「九棘」，禮記王制稱為棘木，即王之外朝，司寇審理獄訟之處，而文王「拘之於牖里之庫」，庫亦獄也，同為外朝九棘。又文王七年而後免，故三歲不得。
 
-初九，履錯然，敬之无咎。
+#### 離，利貞，亨，畜牝牛，吉。{#30}
+
+> 畜，順從、馴服貌。
+
+初九，履錯然，敬之，无咎。
+
+> 錯，帛書作昔，當讀為踖，謹慎貌，見履卦初九。
 
 六二，黃離，元吉。
 
@@ -643,9 +739,11 @@ draft: false
 
 六五，出涕沱若，戚嗟若，吉。
 
-上九，王用出征，有嘉折首，獲匪其醜，无咎。
+上九，王用出征，有嘉，折首，獲匪其醜，无咎。
 
-<p class="lead text-success">咸，亨，利貞，取女吉。</p>
+---
+
+#### 咸，亨，利貞，取女吉。{#31}
 
 初六，咸其拇。
 
@@ -659,7 +757,7 @@ draft: false
 
 上六，咸其輔頰舌。
 
-<p class="lead text-success">恆，亨，无咎，利貞，利有攸往。</p>
+#### 恆，亨，无咎，利貞，利有攸往。{#32}
 
 初六，浚恆，貞凶，无攸利。
 
@@ -673,7 +771,7 @@ draft: false
 
 上六，振恆，凶。
 
-<p class="lead text-success">遯，亨，小利貞。</p>
+#### 遯，亨，小利貞。{#33}
 
 初六，遯尾，厲，勿用有攸往。
 
@@ -687,7 +785,7 @@ draft: false
 
 上九，肥遯，无不利。
 
-<p class="lead text-success">大壯，利貞。</p>
+#### 大壯，利貞。{#34}
 
 初九，壯于趾，征凶有孚。
 
@@ -701,7 +799,7 @@ draft: false
 
 上六，羝羊觸藩，不能退，不能遂，无攸利，艱則吉。
 
-<p class="lead text-success">晉，康侯用錫馬蕃庶，晝日三接。</p>
+#### 晉，康侯用錫馬蕃庶，晝日三接。{#35}
 
 初六，晉如摧如，貞吉，罔孚，裕无咎。
 
@@ -715,7 +813,7 @@ draft: false
 
 上九，晉其角，維用伐邑，厲吉，无咎，貞吝。
 
-<p class="lead text-success">明夷，利艱貞。</p>
+#### 明夷，利艱貞。{#36}
 
 初九，明夷于飛，垂其翼，君子于行，三日不食，有攸往，主人有言。
 
@@ -729,7 +827,7 @@ draft: false
 
 上六，不明晦，初登于天，後入于地。
 
-<p class="lead text-success">家人，利女貞。</p>
+#### 家人，利女貞。{#37}
 
 初九，閑有家，悔亡。
 
@@ -743,7 +841,7 @@ draft: false
 
 上九，有孚，威如，終吉。
 
-<p class="lead text-success">睽，小事吉。</p>
+#### 睽，小事吉。{#38}
 
 初九，悔亡，喪馬，勿逐自復，見惡人，无咎。
 
@@ -757,7 +855,7 @@ draft: false
 
 上九，睽孤，見豕負塗，載鬼一車，先張之弧，後說之弧，匪寇婚媾，往遇雨則吉。
 
-<p class="lead text-success">蹇，利西南，不利東北，利見大人，貞吉。</p>
+#### 蹇，利西南，不利東北，利見大人，貞吉。{#39}
 
 初六，往蹇，來譽。
 
@@ -771,7 +869,7 @@ draft: false
 
 上六，往蹇，來碩吉，利見大人。
 
-<p class="lead text-success">解，利西南，无所往，其來復吉，有攸往夙吉。</p>
+#### 解，利西南，无所往，其來復吉，有攸往夙吉。{#40}
 
 初六，无咎。
 
@@ -785,7 +883,7 @@ draft: false
 
 上六，公用射隼于高墉之上，獲之，无不利。
 
-<p class="lead text-success">損，有孚，元吉，无咎可貞，利有攸往，曷之用，二簋可用享。</p>
+#### 損，有孚，元吉，无咎可貞，利有攸往，曷之用，二簋可用享。{#41}
 
 初九，已事遄往，无咎，酌損之。
 
@@ -799,7 +897,7 @@ draft: false
 
 上九，弗損益之，无咎，貞吉，利有攸往，得臣无家。
 
-<p class="lead text-success">益，利有攸往，利涉大川。</p>
+#### 益，利有攸往，利涉大川。{#42}
 
 初九，利用為大作，元吉，无咎。
 
@@ -813,7 +911,7 @@ draft: false
 
 上九，莫益之，或擊之，立心勿恆，凶。
 
-<p class="lead text-success">夬，揚于王庭，孚號有厲，告自邑，不利即戎，利有攸往。</p>
+#### 夬，揚于王庭，孚號有厲，告自邑，不利即戎，利有攸往。{#43}
 
 初九，壯于前趾，往不勝，為咎。
 
@@ -827,7 +925,7 @@ draft: false
 
 上六，无號，終有凶。
 
-<p class="lead text-success">姤，女壯，勿用取女。</p>
+#### 姤，女壯，勿用取女。{#44}
 
 初六，繫于金柅，貞吉，有攸往，見凶，羸豕孚蹢躅。
 
@@ -841,7 +939,7 @@ draft: false
 
 上九，姤其角，吝，无咎。
 
-<p class="lead text-success">萃，亨，王假有廟，利見大人，亨，利貞，用大牲，吉，利有攸往。</p>
+#### 萃，亨，王假有廟，利見大人，亨，利貞，用大牲，吉，利有攸往。{#45}
 
 初六，有孚不終，乃亂乃萃，若號，一握為笑，勿恤，往无咎。
 
@@ -855,7 +953,7 @@ draft: false
 
 上六，齎咨涕洟，无咎。
 
-<p class="lead text-success">升，元亨，用見大人，勿恤，南征吉。</p>
+#### 升，元亨，用見大人，勿恤，南征吉。{#46}
 
 初六，允升，大吉。
 
@@ -869,7 +967,7 @@ draft: false
 
 上六，冥升，利于不息之貞。
 
-<p class="lead text-success">困，亨，貞，大人吉，无咎，有言不信。</p>
+#### 困，亨，貞，大人吉，无咎，有言不信。{#47}
 
 初六，臀困于株木，入于幽谷，三歲不覿。
 
@@ -883,7 +981,7 @@ draft: false
 
 上六，困于葛藟，于臲卼，曰動悔，有悔，征吉。
 
-<p class="lead text-success">井，改邑不改井，无喪无得，往來井井，汔至亦未繘井，羸其瓶，凶。</p>
+#### 井，改邑不改井，无喪无得，往來井井，汔至亦未繘井，羸其瓶，凶。{#48}
 
 初六，井泥不食，舊井无禽。
 
@@ -897,7 +995,7 @@ draft: false
 
 上九，井收，勿幕有孚，元吉。
 
-<p class="lead text-success">革，己日乃孚，元亨利貞，悔亡。</p>
+#### 革，己日乃孚，元亨利貞，悔亡。{#49}
 
 初九，鞏用黃牛之革。
 
@@ -911,7 +1009,7 @@ draft: false
 
 上六，君子豹變，小人革面，征凶，居貞吉。
 
-<p class="lead text-success">鼎，元吉，亨。</p>
+#### 鼎，元吉，亨。{#50}
 
 初六，鼎顛趾，利出否，得妾以其子，无咎。
 
@@ -925,7 +1023,7 @@ draft: false
 
 上九，鼎玉鉉，大吉，无不利。
 
-<p class="lead text-success">震，亨，震來虩虩，笑言啞啞，震驚百里，不喪匕鬯。</p>
+#### 震，亨，震來虩虩，笑言啞啞，震驚百里，不喪匕鬯。{#51}
 
 初九，震來虩虩，後笑言啞啞，吉。
 
@@ -939,7 +1037,7 @@ draft: false
 
 上六，震索索，視矍矍，征凶，震不于其躬，于其鄰，无咎，婚媾有言。
 
-<p class="lead text-success">艮其背，不獲其身，行其庭，不見其人，无咎。</p>
+#### 艮其背，不獲其身，行其庭，不見其人，无咎。{#52}
 
 初六，艮其趾，无咎，利永貞。
 
@@ -953,7 +1051,7 @@ draft: false
 
 上九，敦艮，吉。
 
-<p class="lead text-success">漸，女歸吉，利貞。</p>
+#### 漸，女歸吉，利貞。{#53}
 
 初六，鴻漸于干，小子厲，有言，无咎。
 
@@ -967,7 +1065,7 @@ draft: false
 
 上九，鴻漸于陸，其羽可用為儀，吉。
 
-<p class="lead text-success">歸妹，征凶，无攸利。</p>
+#### 歸妹，征凶，无攸利。{#54}
 
 初九，歸妹以娣，跛能履，征吉。
 
@@ -981,7 +1079,7 @@ draft: false
 
 上六，女承筐无實，士刲羊无血，无攸利。
 
-<p class="lead text-success">豐，亨，王假之，勿憂，宜日中。</p>
+#### 豐，亨，王假之，勿憂，宜日中。{#55}
 
 初九，遇其配主，雖旬无咎，往有尚。
 
@@ -995,7 +1093,7 @@ draft: false
 
 上六，豐其屋，蔀其家，闚其戶，闃其无人，三歲不覿，凶。
 
-<p class="lead text-success">旅，小亨，旅貞吉。</p>
+#### 旅，小亨，旅貞吉。{#56}
 
 初六，旅瑣瑣，斯其所取災。
 
@@ -1009,7 +1107,7 @@ draft: false
 
 上九，鳥焚其巢，旅人先笑，後號咷，喪牛于易，凶。
 
-<p class="lead text-success">巽，小亨，利有攸往，利見大人。</p>
+#### 巽，小亨，利有攸往，利見大人。{#57}
 
 初六，進退，利武人之貞。
 
@@ -1023,7 +1121,7 @@ draft: false
 
 上九，巽在牀下，喪其資斧，貞凶。
 
-<p class="lead text-success">兌，亨，利貞。</p>
+#### 兌，亨，利貞。{#58}
 
 初九，和兌，吉。
 
@@ -1037,7 +1135,7 @@ draft: false
 
 上六，引兌。
 
-<p class="lead text-success">渙，亨，王假有廟，利涉大川，利貞。</p>
+#### 渙，亨，王假有廟，利涉大川，利貞。{#59}
 
 初六，用拯馬壯，吉。
 
@@ -1051,7 +1149,7 @@ draft: false
 
 上九，渙其血去逖出，无咎。
 
-<p class="lead text-success">節，亨，苦節不可貞。</p>
+#### 節，亨，苦節不可貞。{#60}
 
 初九，不出戶庭，无咎。
 
@@ -1065,7 +1163,7 @@ draft: false
 
 上六，苦節，貞凶，悔亡。
 
-<p class="lead text-success">中孚，豚魚吉，利涉大川，利貞。</p>
+#### 中孚，豚魚吉，利涉大川，利貞。{#61}
 
 初九，虞吉，有它不燕。
 
@@ -1079,7 +1177,7 @@ draft: false
 
 上九，翰音登于天，貞凶。
 
-<p class="lead text-success">小過，亨，利貞，可小事，不可大事，飛鳥遺之音，不宜上，宜下，大吉。</p>
+#### 小過，亨，利貞，可小事，不可大事，飛鳥遺之音，不宜上，宜下，大吉。{#62}
 
 初六，飛鳥以凶。
 
@@ -1093,7 +1191,7 @@ draft: false
 
 上六，弗遇過之，飛鳥離之，凶，是謂災眚。
 
-<p class="lead text-success">既濟，亨小，利貞，初吉，終亂。</p>
+#### 既濟，亨小，利貞，初吉，終亂。{#63}
 
 初九，曳其輪，濡其尾，无咎。
 
@@ -1107,7 +1205,7 @@ draft: false
 
 上六，濡其首，厲。
 
-<p class="lead text-success">未濟，亨，小狐汔濟，濡其尾，无攸利。</p>
+#### 未濟，亨，小狐汔濟，濡其尾，无攸利。{#64}
 
 初六，濡其尾，吝。
 

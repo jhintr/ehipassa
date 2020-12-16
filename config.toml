@@ -17,3 +17,8 @@ title = "往見"
         noClasses = false
         style = "dracula"
         tabWidth = 2
+
+    [markup.tableOfContents]
+        ordered = false
+        endLevel = 5
+        startLevel = 4
