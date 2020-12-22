@@ -6,72 +6,7 @@ draft: false
 toc: false
 ---
 
-<ul class="list-inline">
-    <li class="list-inline-item"><a href="#1">乾</a></li>
-    <li class="list-inline-item"><a href="#2">坤</a></li>
-    <li class="list-inline-item"><a href="#3">屯</a></li>
-    <li class="list-inline-item"><a href="#4">蒙</a></li>
-    <li class="list-inline-item"><a href="#5">需</a></li>
-    <li class="list-inline-item"><a href="#6">訟</a></li>
-    <li class="list-inline-item"><a href="#7">師</a></li>
-    <li class="list-inline-item"><a href="#8">比</a></li>
-    <li class="list-inline-item"><a href="#9">小畜</a></li>
-    <li class="list-inline-item"><a href="#10">履</a></li>
-    <li class="list-inline-item"><a href="#11">泰</a></li>
-    <li class="list-inline-item"><a href="#12">否</a></li>
-    <li class="list-inline-item"><a href="#13">同人</a></li>
-    <li class="list-inline-item"><a href="#14">大有</a></li>
-    <li class="list-inline-item"><a href="#15">謙</a></li>
-    <li class="list-inline-item"><a href="#16">豫</a></li>
-    <li class="list-inline-item"><a href="#17">隨</a></li>
-    <li class="list-inline-item"><a href="#18">蠱</a></li>
-    <li class="list-inline-item"><a href="#19">臨</a></li>
-    <li class="list-inline-item"><a href="#20">觀</a></li>
-    <li class="list-inline-item"><a href="#21">噬嗑</a></li>
-    <li class="list-inline-item"><a href="#22">賁</a></li>
-    <li class="list-inline-item"><a href="#23">剝</a></li>
-    <li class="list-inline-item"><a href="#24">復</a></li>
-    <li class="list-inline-item"><a href="#25">无妄</a></li>
-    <li class="list-inline-item"><a href="#26">大畜</a></li>
-    <li class="list-inline-item"><a href="#27">頤</a></li>
-    <li class="list-inline-item"><a href="#28">大過</a></li>
-    <li class="list-inline-item"><a href="#29">坎</a></li>
-    <li class="list-inline-item"><a href="#30">離</a></li>
-    <li class="list-inline-item"><a href="#31">咸</a></li>
-    <li class="list-inline-item"><a href="#32">恆</a></li>
-    <li class="list-inline-item"><a href="#33">遯</a></li>
-    <li class="list-inline-item"><a href="#34">大壯</a></li>
-    <li class="list-inline-item"><a href="#35">晉</a></li>
-    <li class="list-inline-item"><a href="#36">明夷</a></li>
-    <li class="list-inline-item"><a href="#37">家人</a></li>
-    <li class="list-inline-item"><a href="#38">睽</a></li>
-    <li class="list-inline-item"><a href="#39">蹇</a></li>
-    <li class="list-inline-item"><a href="#40">解</a></li>
-    <li class="list-inline-item"><a href="#41">損</a></li>
-    <li class="list-inline-item"><a href="#42">益</a></li>
-    <li class="list-inline-item"><a href="#43">夬</a></li>
-    <li class="list-inline-item"><a href="#44">姤</a></li>
-    <li class="list-inline-item"><a href="#45">萃</a></li>
-    <li class="list-inline-item"><a href="#46">升</a></li>
-    <li class="list-inline-item"><a href="#47">困</a></li>
-    <li class="list-inline-item"><a href="#48">井</a></li>
-    <li class="list-inline-item"><a href="#49">革</a></li>
-    <li class="list-inline-item"><a href="#50">鼎</a></li>
-    <li class="list-inline-item"><a href="#51">震</a></li>
-    <li class="list-inline-item"><a href="#52">艮</a></li>
-    <li class="list-inline-item"><a href="#53">漸</a></li>
-    <li class="list-inline-item"><a href="#54">歸妹</a></li>
-    <li class="list-inline-item"><a href="#55">豐</a></li>
-    <li class="list-inline-item"><a href="#56">旅</a></li>
-    <li class="list-inline-item"><a href="#57">巽</a></li>
-    <li class="list-inline-item"><a href="#58">兌</a></li>
-    <li class="list-inline-item"><a href="#59">渙</a></li>
-    <li class="list-inline-item"><a href="#60">節</a></li>
-    <li class="list-inline-item"><a href="#61">中孚</a></li>
-    <li class="list-inline-item"><a href="#62">小過</a></li>
-    <li class="list-inline-item"><a href="#63">既濟</a></li>
-    <li class="list-inline-item"><a href="#64">未濟</a></li>
-</ul>
+[乾](#1)剛[坤](#2)柔，[比](#8)樂[師](#7)憂，[臨](#19)[觀](#20)之義，或與或求，[屯](#3)見而不失其居，[蒙](#4)雜而著，[震](#51)起也，[艮](#52)止也，[損](#41)[益](#42)盛衰之始也，[大畜](#26)時也，[无妄](#25)災也，[萃](#45)聚而[升](#46)不來也，[謙](#15)輕而[豫](#16)怠也，[噬嗑](#21)食也，[賁](#22)无色也，[兌](#58)見而[巽](#57)伏也，[隨](#17)无故也，[蠱](#18)則飭也，[剝](#23)爛也，[復](#24)反也，[晉](#35)晝也，[明夷](#36)誅也，[井](#48)通而[困](#47)相遇也，[咸](#31)速也，[恆](#32)久也，[渙](#59)離也，[節](#60)止也，[解](#40)緩也，[蹇](#39)難也，[睽](#38)外也，[家人](#37)內也，[否](#12)[泰](#11)反其類也，[大壯](#34)則止，[遯](#33)則退也，[大有](#14)眾也，[同人](#13)親也，[革](#49)去故也，[鼎](#50)取新也，[小過](#62)過也，[中孚](#61)信也，[豐](#55)多故也，親寡[旅](#56)也，[離](#30)上而[坎](#29)下也，[小畜](#9)寡也，[履](#10)不處也，[需](#5)不進也，[訟](#6)不親也，[大過](#28)顛也，[頤](#27)養正也，[既濟](#63)定也，[未濟](#64)男之窮也，[歸妹](#54)女之終也，[漸](#53)女歸待男行也，[姤](#44)遇也，柔遇剛也，[夬](#43)決也，剛決柔也，君子道長，小人道憂也。
 
 ---
 
@@ -101,9 +36,11 @@ toc: false
 
 #### 坤，元亨，利牝馬之貞，君子有攸往，先迷後得主，利，西南得朋，東北喪朋，安貞吉。{#2}
 
-> 坤，順也。利牝馬之貞，意謂跟隨而不爭先。西南得朋，東北喪朋，帛書衷篇「歲之義，始於東北，成於西南」，蓋卦氣說也。
+> 坤，順也。利牝馬之貞，意謂跟隨而不爭先。先迷者，東北喪朋也，後得主者，西南得朋也，帛書衷篇「歲之義，始於東北，成於西南」，蓋卦氣說也。
 
 初六，履霜，堅冰至。
+
+> 坤在申位，當秋，故初六言履霜也。
 
 六二，直方，大，不習，无不利。
 
