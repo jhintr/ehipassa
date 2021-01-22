@@ -4,6 +4,10 @@
         <h2 class="text-center my-4">{{ .Title }}</h2>
         <hr>
 
+        {{ if .Params.brewing }}
+        <div class="alert alert-warning text-center">未完稿</div>
+        {{ end }}
+
         {{ .Content }}
 
     </div>
