@@ -1,6 +1,6 @@
 ---
-title: "Preface to Visuddhimagga"
-subtitle: "D. Kosambi"
+title: "Preface"
+subtitle: "Kosambi"
 date: 2015-11-22
 weight: 51
 ---
