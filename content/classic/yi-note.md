@@ -7,6 +7,25 @@ brewing: true
 toc: false
 ---
 
+<button class="btn btn-outline-success btn-block sticky-top" id="toggleBtn" onclick="toggleDetail()">閱讀白文</button>
+
+<script>
+    function toggleDetail() {
+        const details = Array.from(document.getElementsByTagName('blockquote'));
+        const smalls = Array.from(document.getElementsByTagName('small'));
+        const btn = document.getElementById('toggleBtn');
+        if (btn.textContent == '閱讀白文') {
+            details.forEach(d => d.style.display = 'none');
+            smalls.forEach(d => d.style.display = 'none');
+            btn.innerText = '閱讀注釋';
+        } else {
+            details.forEach(d => d.style.display = '');
+            smalls.forEach(d => d.style.display = '');
+            btn.innerText = '閱讀白文';
+        }
+    }
+</script>
+
 <ul class="list-inline">
     <li class="list-inline-item"><a href="#1">乾</a></li>
     <li class="list-inline-item"><a href="#2">坤</a></li>
@@ -487,7 +506,7 @@ toc: false
 
 #### 隨，元亨，利貞，无咎。{#17}
 
-> <span class="text-info">澤中有雷，隨，君子以嚮晦入宴息◎隨，剛來而下柔，動而說，隨，大亨貞无咎，而天下隨時，隨時之義大矣哉◎豫必有隨，故受之以隨</span><span class="text-danger">◎隨无故<q>事也，无故即宴息也</q>也，蠱則飭也。</span>
+> <span class="text-info">澤中有雷，隨，君子以嚮晦入宴息◎隨，剛來而下柔，動而說，隨，大亨貞无咎，而天下隨時，隨時之義大矣哉◎豫必有隨，故受之以隨</span><span class="text-danger">◎隨无故<q>事也，无故即宴息</q>也，蠱則飭也。</span>
 
 初九，官有渝，貞吉，出門交有功。<small class="text-info">官有渝，從正吉也，出門交有功，不失也。</small>
 
@@ -496,6 +515,8 @@ toc: false
 > 係，係屬、隨從。
 
 六三，係丈夫，失小子，隨有求得，利居貞。<small class="text-info">係丈夫，志舍下也。</small>
+
+> 隨有求得，楚簡作「隨，求有得」。
 
 九四，隨有獲，貞凶，有孚，在道以明，何咎。<small class="text-info">隨有獲，其義凶也，有孚在道，明功也。</small>
 
@@ -521,8 +542,6 @@ toc: false
 
 六五，幹父之蠱，用譽。<small class="text-info">幹父用譽，承以德也。</small>
 
-> 用，以，因而。
-
 上九，不事王侯，高尚其事。<small class="text-info">不事王侯，志可則也。</small>
 
 #### 臨，元亨，利貞，至于八月有凶。{#19}
@@ -531,7 +550,7 @@ toc: false
 
 初九，咸臨，貞吉。<small class="text-info">咸臨貞吉，志行正也。</small>
 
-> 咸，帛書作禁，法也，則也。
+> 咸，帛書作禁，法也、則也。
 
 九二，咸臨，吉，无不利。<small class="text-info">咸臨吉无不利，未順命也。</small>
 
@@ -547,7 +566,7 @@ toc: false
 
 #### 觀盥而不薦，有孚顒若。{#20}
 
-> <span class="text-info">風行地上，觀，先王以省方觀民設教◎大觀在上，順而巽，中正以觀天下，觀盥而不薦有孚顒若，下觀而化也，觀天之神道而四時不忒，聖人以神道設教而天下服矣◎物大然後可觀，故受之以觀</span>◎言觀仰之事也，帛書衷篇「觀之卦，盈而能乎」。盥，灌也，以鬱鬯灌地降神，論語八佾「禘自既灌而往者，吾不欲觀之矣」。薦，獻饗。
+> <span class="text-info">風行地上，觀，先王以省方觀民設教◎大觀在上，順而巽，中正以觀天下，觀盥而不薦有孚顒若，下觀而化也，觀天之神道而四時不忒，聖人以神道設教而天下服矣◎物大然後可觀，故受之以觀</span>◎言觀仰之事也，帛書衷篇「觀之卦，盈而能乎」。盥，灌也，以鬱鬯灌地降神，論語八佾「禘自既灌而往者，吾不欲觀之矣」，馬融「祭祀之盛，莫過初盥降神」。薦，獻饗。
 
 初六，童觀，小人无咎，君子吝。<small class="text-info">初六童觀，小人道也。</small>
 
