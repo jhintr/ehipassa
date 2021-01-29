@@ -1,6 +1,7 @@
 ---
 title: "JavaScript Fundamentals"
 date: 2019-06-29T10:47:32+08:00
+lang: en
 ---
 
 

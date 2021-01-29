@@ -1,6 +1,7 @@
 ---
 title: "Django Context Processors"
 date: 2020-06-27T19:59:53+08:00
+lang: en
 ---
 
 

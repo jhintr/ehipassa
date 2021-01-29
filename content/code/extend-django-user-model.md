@@ -1,6 +1,7 @@
 ---
 title: "Extend Django User Model"
 date: 2020-06-26T16:42:29+08:00
+lang: en
 ---
 
 

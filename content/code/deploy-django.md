@@ -1,6 +1,7 @@
 ---
 title: "Initial Server and Deploy Django"
 date: 2019-06-18T10:41:09+08:00
+lang: en
 ---
 
 ### 初始化服务器
