@@ -1,6 +1,10 @@
 baseURL = "https://ehipassa.org/"
-languageCode = "zh"
 title = "往見"
+
+hasCJKLanguage = true
+languageCode = "zh"
+
+disableKinds = ["taxonomy", "term"]
 
 [markup]
     [markup.goldmark]
@@ -17,8 +21,3 @@ title = "往見"
         noClasses = false
         style = "dracula"
         tabWidth = 2
-
-    [markup.tableOfContents]
-        ordered = false
-        endLevel = 5
-        startLevel = 4
