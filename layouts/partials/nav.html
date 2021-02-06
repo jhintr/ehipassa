@@ -1,16 +1,8 @@
 <nav class="row justify-content-center mt-5">
     <div class="col-lg-4">
-        {{ if .NextInSection }}
-        <a class="btn btn-outline-success btn-block mt-3" href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a>
-        {{ else }}
-        <a class="btn btn-outline-success btn-block mt-3" href="{{ .CurrentSection.Permalink }}">目录</a>
-        {{ end }}
+        {{ if .NextInSection }}<a class="btn btn-outline-success btn-block mt-3" href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a>{{ else }}<a class="btn btn-outline-success btn-block mt-3" href="{{ .CurrentSection.Permalink }}">目录</a>{{ end }}
     </div>
     <div class="col-lg-4">
-        {{ if .PrevInSection }}
-        <a class="btn btn-outline-success btn-block mt-3" href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a>
-        {{ else }}
-        <a class="btn btn-outline-success btn-block mt-3" href="{{ .CurrentSection.Permalink }}">目录</a>
-        {{ end }}
+        {{ if .PrevInSection }}<a class="btn btn-outline-success btn-block mt-3" href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a>{{ else }}<a class="btn btn-outline-success btn-block mt-3" href="{{ .CurrentSection.Permalink }}">目录</a>{{ end }}
     </div>
 </nav>
