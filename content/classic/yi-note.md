@@ -6,7 +6,7 @@ draft: false
 brewing: false
 ---
 
-<button class="btn btn-outline-success btn-block sticky-top" id="toggleBtn" onclick="toggleDetail()">閱讀白文</button>
+<button class="btn btn-outline-success btn-block" id="toggleBtn" onclick="toggleDetail()">閱讀白文</button>
 
 <script>
     function toggleDetail() {
