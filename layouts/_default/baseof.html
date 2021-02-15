@@ -12,7 +12,7 @@
 {{ partial "header.html" . }}
 
 {{ block "main" . }}{{ end }}
-{{ block "nav" . }}{{ end }}
+{{ if .IsPage }}{{ partial "nav.html" . }}{{ end }}
 
 {{ partial "footer.html" . }}
 
