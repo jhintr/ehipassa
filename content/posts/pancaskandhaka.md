@@ -2,7 +2,8 @@
 title: 大乘五蘊論
 subtitle: 玄奘
 date: 2017-01-15
-layout: single_translation
+css:
+  - /css/style_translation.css
 ---
 
 <p class="text-center">atha pañcaskandhakaḥ</p>

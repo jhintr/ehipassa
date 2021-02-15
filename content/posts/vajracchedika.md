@@ -2,7 +2,8 @@
 title: 金剛經三譯
 subtitle: 鳩摩羅什·玄奘·義淨
 date: 2019-06-01
-layout: single_translation
+css:
+  - /css/style_translation.css
 ---
 
 

@@ -2,7 +2,8 @@
 title: 諸家戒本通論
 subtitle: 呂澂
 date: 2019-06-01
-layout: single_cina
+css:
+  - /css/style_cina.css
 ---
 
 <p class="text-secondary text-center">呂澂 撰</p>
