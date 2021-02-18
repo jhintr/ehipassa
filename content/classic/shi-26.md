@@ -6,92 +6,62 @@ draft: false
 weight: 326
 ---
 
+#### 清廟 <small>一章、八句</small> {id="26.1"}
 
-<h4 id="26.1">清廟 <small>一章、八句</small></h4>
-
-<div class="alert alert-dark" role="alert">
-  清廟，祀文王也。周公既成洛邑，朝諸侯，率以祀文王焉。
-</div>
+{{<alert info>}}清廟，祀文王也。周公既成洛邑，朝諸侯，率以祀文王焉。{{</alert>}}
 
 <p id="26.1.1">於穆清廟，肅雝顯相。濟濟多士，秉文之德。對越在天，駿奔走在廟。不顯不承，無射於人斯。</p>
 
+#### 維天之命 <small>一章、八句</small> {id="26.2"}
 
-<h4 id="26.2">維天之命 <small>一章、八句</small></h4>
-
-<div class="alert alert-dark" role="alert">
-  維天之命，太平告文王也。
-</div>
+{{<alert info>}}維天之命，太平告文王也。{{</alert>}}
 
 <p id="26.2.1">維天之命，於穆不已。於乎不顯，文王之德之純。假以溢我，我其收之。駿惠我文王，曾孫篤之。</p>
 
+#### 維清 <small>一章、五句</small> {id="26.3"}
 
-<h4 id="26.3">維清 <small>一章、五句</small></h4>
-
-<div class="alert alert-dark" role="alert">
-  維清，奏象舞也。
-</div>
+{{<alert info>}}維清，奏象舞也。{{</alert>}}
 
 <p id="26.3.1">維清緝熙，文王之典。肇禋，迄用有成。維周之禎。</p>
 
+#### 烈文 <small>一章、十三句</small> {id="26.4"}
 
-<h4 id="26.4">烈文 <small>一章、十三句</small></h4>
-
-<div class="alert alert-dark" role="alert">
-  烈文，成王即政，諸侯助祭也。
-</div>
+{{<alert info>}}烈文，成王即政，諸侯助祭也。{{</alert>}}
 
 <p id="26.4.1">烈文辟公，錫茲祉福。惠我無疆，子孫保之。無封靡于爾邦，維王其崇之。念茲戎功，繼序其皇之。無競維人，四方其訓之。不顯維德，百辟其刑之。於乎前王不忘。</p>
 
+#### 天作 <small>一章、七句</small> {id="26.5"}
 
-<h4 id="26.5">天作 <small>一章、七句</small></h4>
-
-<div class="alert alert-dark" role="alert">
-  天作，祀先王先公也。
-</div>
+{{<alert info>}}天作，祀先王先公也。{{</alert>}}
 
 <p id="26.5.1">天作高山，大王荒之。彼作矣，文王康之。彼徂矣，岐有夷之行。子孫保之。</p>
 
+#### 昊天有成命 <small>一章、七句</small> {id="26.6"}
 
-<h4 id="26.6">昊天有成命 <small>一章、七句</small></h4>
-
-<div class="alert alert-dark" role="alert">
-  昊天有成命，郊祀天地也。
-</div>
+{{<alert info>}}昊天有成命，郊祀天地也。{{</alert>}}
 
 <p id="26.6.1">昊天有成命，二后受之。成王不敢康，夙夜基命宥密。於緝熙，單厥心，肆其靖之。</p>
 
+#### 我將 <small>一章、十句</small> {id="26.7"}
 
-<h4 id="26.7">我將 <small>一章、十句</small></h4>
-
-<div class="alert alert-dark" role="alert">
-  我將，祀文王於明堂也。
-</div>
+{{<alert info>}}我將，祀文王於明堂也。{{</alert>}}
 
 <p id="26.7.1">我將我享，維羊維牛，維天其右之。儀式刑文王之典，日靖四方。伊嘏文王，既右饗之。我其夙夜，畏天之威，于時保之。</p>
 
+#### 時邁 <small>一章、十五句</small> {id="26.8"}
 
-<h4 id="26.8">時邁 <small>一章、十五句</small></h4>
-
-<div class="alert alert-dark" role="alert">
-  時邁，巡守告祭柴望也。
-</div>
+{{<alert info>}}時邁，巡守告祭柴望也。{{</alert>}}
 
 <p id="26.8.1">時邁其邦，昊天其子之，實右序有周。薄言震之，莫不震疊。懷柔百神，及河喬嶽。允王維后，明昭有周，式序在位。載戢干戈，載櫜弓矢。我求懿德，肆于時夏，允王保之。</p>
 
+#### 執競 <small>一章、十四句</small> {id="26.9"}
 
-<h4 id="26.9">執競 <small>一章、十四句</small></h4>
-
-<div class="alert alert-dark" role="alert">
-  執競，祀武王也。
-</div>
+{{<alert info>}}執競，祀武王也。{{</alert>}}
 
 <p id="26.9.1">執競武王，無競維烈。不顯成康，上帝是皇。自彼成康，奄有四方，斤斤其明。鍾鼓喤喤，磬筦將將，降福穰穰。降福簡簡，威儀反反。既醉既飽，福祿來反。</p>
 
+#### 思文 <small>一章、八句</small> {id="26.10"}
 
-<h4 id="26.10">思文 <small>一章、八句</small></h4>
-
-<div class="alert alert-dark" role="alert">
-  思文，后稷配天也。
-</div>
+{{<alert info>}}思文，后稷配天也。{{</alert>}}
 
 <p id="26.10.1">思文后稷，克配彼天。立我烝民，莫匪爾極。貽我來牟，帝命率育。無此疆爾界，陳常于時夏。</p>
