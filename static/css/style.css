@@ -80,6 +80,10 @@ small em, small i, small strong, small b {
 
 /* extra */
 
+.serif {
+    font-family: Georgia, serif;
+}
+
 .box {
     color: var(--green);
     font-size: 0.9rem;
