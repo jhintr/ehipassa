@@ -48,7 +48,7 @@ Buddhaghosa could not have been a Brahmin. From Vedic times, every Brahmin has b
 
 > Brāhmaṇo’sya mukham āsīd<br/>bāhū rājanyaḥ kṛtaḥ<br/>ūrū tad asya yad vaiṣyaḥ<br/>padbhyāṃ śūdro ajāyata.
 
-> <footer class="blockquote-footer">[Ṛgveda x.90; <i>also cf.</i> Atharvaveda xix.6.6.]</footer>
+> <footer class="blockquote-footer">[Ṛgveda x.90; <em>also cf.</em> Atharvaveda xix.6.6.]</footer>
 
 “Brāhmaṇa was his mouth, Kshatriya his arms, Vaishya his thighs; Shūdra was born of his feet.” Yet Buddhaghosa, supposed to be a learned Brahmin, was not acquainted with this. Commenting on “Bandhupādâpaccā” — “children of Brahma’s feet” — he says, “The Brahmins are of this opinion: Brahmins came out of Brahma’s mouth, Kshatriyas from his breast, Vaishyas from his navel, Shūdras from the legs, and Shramaṇas from his soles.” [^3]
 
