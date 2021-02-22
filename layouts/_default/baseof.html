@@ -13,7 +13,7 @@
 <main>
 {{ block "main" . }}{{ end }}
 </main>
-{{ if .IsPage }}{{ partial "nav.html" . }}{{ end }}
+{{ block "nav" . }}{{ end }}
 {{ partial "footer.html" . }}
 </div>
 </div>

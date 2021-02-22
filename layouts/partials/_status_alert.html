@@ -1,0 +1,5 @@
+{{ if .Params.draft }}
+<div class="alert alert-danger text-center">未刊稿</div>
+{{ else if .Params.brewing }}
+<div class="alert alert-warning text-center">未完稿</div>
+{{ end }}
