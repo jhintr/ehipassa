@@ -1,24 +1,19 @@
 {{ define "main" }}
 
-
-<main class="row justify-content-center">
-    <div class="col-lg-8">
-        <h2 class="text-center mb-5">{{ .Title }}</h2>
-        <ul class="list-group list-group-flush">
-            {{ range .Pages }}
-            <li class="list-group-item">
-                <a href="{{ .Permalink }}" class="d-flex justify-content-between align-items-center">
-                    <span>
-                        {{ .Title }}{{ if .Params.subtitle }}<small class="text-muted ml-1">{{ .Params.subtitle }}</small>{{ end }}
-                    </span>
-                    <span>
-                        {{ if .Params.draft }}<span class="badge badge-danger badge-pill mr-1">未刊</span>{{ else if .Params.brewing }}<span class="badge badge-warning badge-pill mr-1">未完</span>{{ end }}<span class="badge badge-light badge-pill text-monospace">{{ .Params.date.Format "2006/01/02" }}</span>
-                    </span>
-                </a>
-            </li>
-            {{ end }}
-        </ul>
-    </div>
-</main>
+<h2 class="text-center mb-5">{{ .Title }}</h2>
+<ul class="list-group list-group-flush">
+    {{ range .Pages }}
+    <li class="list-group-item">
+        <a href="{{ .Permalink }}" class="d-flex justify-content-between align-items-center">
+            <span>
+                {{ .Title }}{{ if .Params.subtitle }}<small class="text-muted ml-1">{{ .Params.subtitle }}</small>{{ end }}
+            </span>
+            <span>
+                {{ if .Params.draft }}<span class="badge badge-danger badge-pill mr-1">未刊</span>{{ else if .Params.brewing }}<span class="badge badge-warning badge-pill mr-1">未完</span>{{ end }}<span class="badge badge-light badge-pill text-monospace">{{ .Params.date.Format "2006/01/02" }}</span>
+            </span>
+        </a>
+    </li>
+    {{ end }}
+</ul>
 
 {{ end }}
