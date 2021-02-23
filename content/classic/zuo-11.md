@@ -1,6 +1,6 @@
 ---
 title: "定公第十一"
-subtitle: "公元前 509-495"
+subtitle: "前 509-495"
 date: 2019-09-14T20:06:56+08:00
 draft: false
 weight: 711

@@ -1,6 +1,6 @@
 ---
 title: "莊公第三"
-subtitle: "公元前 693-662"
+subtitle: "前 693-662"
 date: 2019-09-14T20:06:23+08:00
 draft: false
 weight: 703

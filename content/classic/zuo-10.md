@@ -1,6 +1,6 @@
 ---
 title: "昭公第十"
-subtitle: "公元前 541-510"
+subtitle: "前 541-510"
 date: 2019-09-14T20:06:52+08:00
 draft: false
 weight: 710
