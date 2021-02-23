@@ -25,4 +25,4 @@ date: 2015-11-21
 
 另外，老人尚著有「攝阿毗達摩義論醍醐疏」_Navanīta-ṭīkā_ ，在 _Bhikkhu Bodhi_ 的書中亦有提及。
 
-在「清淨道論序」中，他對大史中記載的覺音尊者的生平多有批評，見[清净道论序](/visuddhimagga/preface-to-vm-zh/)，馬哈希尊者在第六次結集時曾撰文反駁，有興趣的可以參見 _Visuddhimagga Nidānakathā_ 。
+在「清淨道論序」中，他對大史中記載的覺音尊者的生平多有批評，見[清净道论序](/visuddhimagga/preface-zh/)，馬哈希尊者在第六次結集時曾撰文反駁，有興趣的可以參見 _Visuddhimagga Nidānakathā_ 。
