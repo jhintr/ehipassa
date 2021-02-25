@@ -6,7 +6,8 @@ draft: false
 weight: 108
 ---
 
-<p class="lead text-center">Metta Sutta</p>
+
+{{<subtitle>}}Metta Sutta{{</subtitle>}}
 
 ##### 143
 

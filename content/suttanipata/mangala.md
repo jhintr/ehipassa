@@ -6,7 +6,8 @@ draft: false
 weight: 204
 ---
 
-<p class="lead text-center">Maṅgala Sutta</p>
+
+{{<subtitle>}}Maṅgala Sutta{{</subtitle>}}
 
 Evaṃ me sutaṃ. Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṃ abhivādetvā ekam-antaṃ aṭṭhāsi. Ekam-antaṃ ṭhitā kho sā devatā bhagavantaṃ gāthāya ajjhabhāsi -
 
