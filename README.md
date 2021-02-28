@@ -13,4 +13,5 @@
 - [ ] 摄阿毗达摩义论
 - [ ] 其它古籍
 
+---
 ![GitHub](https://img.shields.io/github/license/jhintr/jhintr.github.io)
