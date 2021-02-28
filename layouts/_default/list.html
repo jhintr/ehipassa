@@ -1,14 +1,10 @@
 {{ define "title" }}
-
 <title>{{ .Title }} | {{ .Site.Title }}</title>
-
 {{ end }}
-
 
 
 {{ define "main" }}
 
-<h2 class="text-center my-4">{{ .Title }}</h2>
 <ul class="list-group list-group-flush">
     {{ range .Pages }}
     <li class="list-group-item">

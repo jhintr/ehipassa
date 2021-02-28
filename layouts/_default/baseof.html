@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{with .Params.lang}}{{.}}{{else}}{{.Site.LanguageCode}}{{end}}">
+<html lang="{{with .Params.lang}}{{.}}{{else}}{{.Site.LanguageCode}}{{end}}" class="h-100">
 
 <head>
 {{ partial "head.html" . }}
@@ -7,8 +7,8 @@
 {{ block "title" . }}{{ end }}
 </head>
 
-<body>
-<div class="container">
+<body class="d-flex flex-column h-100">
+<div class="container flex-shrink-0">
 <div class="row justify-content-center">
 <div class="col-lg-8">
 
@@ -20,11 +20,12 @@
 
 {{ block "nav" . }}{{ end }}
 
+</div>
+</div>
+</div>
+
 {{ partial "footer.html" . }}
 
-</div>
-</div>
-</div>
 {{ block "extra_js" . }}{{ end }}
 </body>
 

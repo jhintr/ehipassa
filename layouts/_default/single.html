@@ -1,25 +1,17 @@
 {{ define "title" }}
-
 <title>{{ .Title }} | {{ .CurrentSection.Title }} | {{ .Site.Title }}</title>
-
 {{ end }}
-
 
 
 {{ define "main" }}
 
-<h2 class="text-center my-4">{{ .Title }}</h2>
 <hr>
 {{ partial "_status_alert.html" . }}
-
 {{ .Content }}
 
 {{ end }}
 
 
-
 {{ define "nav" }}
-
 {{ partial "nav.html" . }}
-
 {{ end }}
