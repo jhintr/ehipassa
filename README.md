@@ -13,5 +13,8 @@
 - [ ] 摄阿毗达摩义论
 - [ ] 其它古籍
 
----
-![GitHub](https://img.shields.io/github/license/jhintr/jhintr.github.io)
+### 最近更新
+
+- [ ] 使用 [algolia](https://www.algolia.com/doc/) 搜索
+- [ ] 雜阿含經之三
+- [x] 雜阿含經之二 `2021-02-26`

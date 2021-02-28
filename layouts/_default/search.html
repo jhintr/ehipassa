@@ -1,0 +1,23 @@
+{{ define "title" }}
+<title>{{ .Site.Title }}</title>
+{{ end }}
+
+
+{{ define "main" }}
+
+<h2 class="text-center my-5">{{ .Title }}</h2>
+
+<div class="alert alert-info">
+    测试中，目前仅支持「法句」巴利、中文的搜索
+</div>
+
+<small class="float-right mr-2 mb-2" id="powered-by"></small>
+<div id="searchbox" class="mb-5" autocomplete="off" autocorrect="off" autocapitalize="none" spellcheck="false"></div>
+<div id="hits" class="mb-5"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js" integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.8.3/dist/instantsearch.production.min.js" integrity="sha256-LAGhRRdtVoD6RLo2qDQsU2mp+XVSciKRC8XPOBWmofM=" crossorigin="anonymous"></script>
+
+<script src="/js/algolia.js"></script>
+
+{{ end }}
