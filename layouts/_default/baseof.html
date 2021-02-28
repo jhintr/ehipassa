@@ -3,6 +3,7 @@
 
 <head>
 {{ partial "head.html" . }}
+{{ block "extra_css" . }}{{ end }}
 {{ block "title" . }}{{ end }}
 </head>
 
@@ -12,10 +13,13 @@
 <div class="col-lg-8">
 
 {{ partial "header.html" . }}
-<main>
+
+<main class="mb-5">
 {{ block "main" . }}{{ end }}
 </main>
+
 {{ block "nav" . }}{{ end }}
+
 {{ partial "footer.html" . }}
 
 </div>
