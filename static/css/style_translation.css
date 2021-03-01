@@ -15,6 +15,6 @@ li:nth-child(3) {
     color: #363;
 }
 
-li i {
+li em {
     color: inherit;
 }

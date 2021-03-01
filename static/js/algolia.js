@@ -17,14 +17,14 @@ search.addWidgets([
     }),
 
     instantsearch.widgets.configure({
-        hitsPerPage: 20,
+        hitsPerPage: 10,
     }),
 
     instantsearch.widgets.searchBox({
         container: '#searchbox',
         autofocus: true,
         searchAsYouType: false,
-        placeholder: '按回车搜索',
+        placeholder: '按回车键执行 ↩︎',
     }),
 
     instantsearch.widgets.hits({

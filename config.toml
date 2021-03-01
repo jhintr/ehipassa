@@ -6,6 +6,9 @@ languageCode = "zh"
 
 disableKinds = ["taxonomy", "term"]
 
+[params]
+    description = "Theravada Buddhism 佛教 上座部三藏 漢語古籍"
+
 [markup]
     [markup.goldmark]
         [markup.goldmark.renderer]

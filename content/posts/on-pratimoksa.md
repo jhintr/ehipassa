@@ -6,7 +6,8 @@ css:
   - /css/style_cina.css
 ---
 
-<p class="text-secondary text-center">呂澂 撰</p>
+
+{{<subtitle>}}呂澂 撰{{</subtitle>}}
 
 ### 一
 

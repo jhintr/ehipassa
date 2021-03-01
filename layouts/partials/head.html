@@ -1,10 +1,14 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="Description" content="a blog dedicated to buddhist and ancient chinese literature">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+<meta name="Description" content="{{.Site.Params.description}}">
+<!-- bootstrap css -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css">
+<!-- custom css -->
 <link rel="stylesheet" href="/css/style.css">
 {{ range .Params.css }}
 <link rel="stylesheet" href="{{.}}">
 {{ end }}
+<!-- icon -->
 <link rel="apple-touch-icon" href="/images/avatar.webp">
 <link rel="icon" href="/images/fav.png">

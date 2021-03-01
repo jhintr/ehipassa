@@ -20,7 +20,7 @@ h4 {
     margin-bottom: 2rem;
 }
 
-/* h5 only for digitals */
+/* h5 only for monospace */
 
 h5 {
     color: var(--green);
@@ -56,11 +56,11 @@ q {
     display: inline;
 }
 
-strong, b {
+strong {
     color: #D67936;
 }
 
-em, i {
+em {
     color: var(--green);
 }
 
@@ -74,7 +74,7 @@ small {
     font-size: 0.9rem;
 }
 
-small em, small i, small strong, small b {
+small em, small strong {
     color: inherit;
 }
 
