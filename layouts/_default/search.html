@@ -1,5 +1,6 @@
 {{ define "title" }}
 <title>{{ .Site.Title }}</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.4.5/themes/satellite-min.css" integrity="sha256-TehzF/2QvNKhGQrrNpoOb2Ck4iGZ1J/DI4pkd2oUsBc=" crossorigin="anonymous">
 {{ end }}
 
 
@@ -7,13 +8,13 @@
 
 <h2 class="text-center my-5">{{ .Title }}</h2>
 
-<div class="alert alert-primary" style="font-size: 0.9rem;">
-    测试中，目前仅支持「法句」巴利、中文的搜索
-</div>
-
 <small class="float-right mr-2 mb-2" id="powered-by"></small>
 <div id="searchbox" class="mb-5" autocomplete="off" autocorrect="off" autocapitalize="none" spellcheck="false"></div>
 <div id="hits" class="mb-5"></div>
+
+<div class="alert alert-warning mb-0" style="font-size: 0.85rem;">
+    测试中：目前仅支持「法句」巴利、中文的搜索
+</div>
 
 <script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js" integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk=" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.8.3/dist/instantsearch.production.min.js" integrity="sha256-LAGhRRdtVoD6RLo2qDQsU2mp+XVSciKRC8XPOBWmofM=" crossorigin="anonymous"></script>

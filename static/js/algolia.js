@@ -27,17 +27,29 @@ search.addWidgets([
         placeholder: '按回车键执行 ↩︎',
     }),
 
-    instantsearch.widgets.hits({
+    // instantsearch.widgets.pagination({
+    //     container: '#pagination',
+    //     padding: 2,
+    //     scrollTo: 'main',
+    // }),
+
+    // instantsearch.widgets.stats({
+    //     container: '#stats',
+    // }),      
+
+    instantsearch.widgets.infiniteHits({
         container: '#hits',
         templates: {
             empty: `
                 <div class="alert alert-light my-3 text-center">
-                    无结果：{{ query }}
+                    无匹配的结果：{{ query }}
                 </div>`,
+            showMoreText: '显示更多',
             item: `
-                <small>
+                <span>
+                    <a href="{{ url }}" target="_blank">{{ book }}·{{ chapter }} {{ section }} <i class="bi bi-arrow-return-left mr-1"></i></a>
                     {{#helpers.highlight}}{ "attribute": "original" }{{/helpers.highlight}}
-                </small>`,
+                </span>`,
         },
     }),
 ]);

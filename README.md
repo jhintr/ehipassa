@@ -15,6 +15,6 @@
 
 ### 最近更新
 
-- [ ] 使用 [algolia](https://www.algolia.com/doc/) 搜索
 - [ ] 雜阿含經之三
+- [x] 使用 [algolia](https://www.algolia.com/doc/) 搜索（完成法句索引）
 - [x] 雜阿含經之二 `2021-02-26`
