@@ -18,7 +18,8 @@
 
 ### 最近更新
 
+- [ ] 清净道论索引
 - [ ] 雜阿含經之三
-- [x] 完成法句索引 `2021/03/03`
-- [x] 使用 [algolia](https://www.algolia.com/doc/) 搜索
+- [x] 法句索引 `2021/03/03`
+- [x] 使用 [Algolia](https://www.algolia.com/doc/) 搜索
 - [x] 雜阿含經之二 `2021/02/26`
