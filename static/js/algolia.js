@@ -27,6 +27,16 @@ search.addWidgets([
         placeholder: '按回车键执行 ↩︎',
     }),
 
+    instantsearch.widgets.refinementList({
+        container: '#refinements',
+        attribute: 'book',
+        sortBy: ['name:asc'],
+        cssClasses: {
+            item: 'd-inline-block mr-3',
+            count: 'd-none',
+        },
+    }),
+
     instantsearch.widgets.infiniteHits({
         container: '#hits',
         templates: {
@@ -37,7 +47,7 @@ search.addWidgets([
             item: `
                 <span>
                     <a href="{{ url }}" target="_blank">
-                        {{ chapter }} {{ section }} <i class="bi bi-arrow-return-left mr-1"></i>
+                        {{ chapter }} {{ section }} <i class="bi bi-arrow-right-circle-fill mr-1"></i>
                     </a>
                     {{#helpers.highlight}}{ "attribute": "original" }{{/helpers.highlight}}
                 </span>`,
