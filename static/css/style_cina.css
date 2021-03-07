@@ -1,4 +1,5 @@
 em {
+    font-family: inherit;
     font-style: normal;
-    border-bottom: 1px solid var(--green);
+    border-bottom: 1px solid currentColor;
 }

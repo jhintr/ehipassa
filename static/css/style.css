@@ -62,6 +62,7 @@ strong {
 
 em {
     color: var(--green);
+    font-family: Georgia, serif;
 }
 
 del {
@@ -83,10 +84,6 @@ mark {
 }
 
 /* extra */
-
-.serif {
-    font-family: Georgia, serif;
-}
 
 .box {
     color: var(--green);

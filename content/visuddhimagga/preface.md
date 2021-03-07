@@ -156,12 +156,11 @@ At the end of A. Aṭṭh.:
 [^3]: <small>Tesaṃ kira ayaṃ laddhi: Brāhmaṇā Brahmuno mukhato nikkhantā; khattiyā urato; vessā nābhito; suddā jānuto; samaṇā piṭṭhipādato ti. [M. Aṭṭh. ii. 418; *cf.* D. Aṭṭh. i. 254]</small>.
 
 [^4]: <small>[Mahābhārata, Ādi. 83.33-34]:<br/>
-{{<serif>}}
-Ṛtuṃ vai yācamānāyā na dadāti pumān ṛtum<br/>
-bhrūṇahety ucyate, brahman, sa iha brahmavādibhiḥ<br/>
-Abhikāmāṃ striyaṃ yaś ca gamyāṃ rahasi yācitaḥ<br/>
-nopaiti sa ca dharmeṣu bhrūṇahety ucyate budhaiḥ.
-{{</serif>}}</small>
+*Ṛtuṃ vai yācamānāyā na dadāti pumān ṛtum*<br/>
+*bhrūṇahety ucyate, brahman, sa iha brahmavādibhiḥ*<br/>
+*Abhikāmāṃ striyaṃ yaś ca gamyāṃ rahasi yācitaḥ*<br/>
+*nopaiti sa ca dharmeṣu bhrūṇahety ucyate budhaiḥ.*
+</small>
 
 [^5]: <small>Bhūnahuno ti hatavaḍḍhino, mariyādakārakassa. Kasmā evan āha? Chasu dvāresu vaḍḍhipaññāpanaladdhikattā. Ayaṃ hi tassa laddhi: Cakkhu brūhetabbaṃ, vaṭṭhetabbaṃ, diṭṭhiṃ samatikkamitabbaṃ ... Kāyo brūhetabbo, vaṭṭhetabbo, aphuṭṭhaṃ phusitabbaṃ, phuṭṭhaṃ samatikkamitabbaṃ. Mano brūhetabbo, vaṭṭhetabbo, aviññātaṃ vijānitabbaṃ, viññātaṃ samatikkamitabbaṃ. Evaṃ so chasu dvāresu vaḍḍhiṃ paññāpeti. [M. Aṭṭh. iii. 131, *P. G. Mundine Piṭaka Press edition*]</small>
 
@@ -174,12 +173,11 @@ nopaiti sa ca dharmeṣu bhrūṇahety ucyate budhaiḥ.
 [^9]: <small>Anatthaviññāpikā kāyavacīpayogasamuṭṭhāpikā akusalacetanā samphappalāpo. So āsevanamandatāya appasāvajjo, āsevanamahantatāya mahāsāvajjo. Tassa dve sambhārā Bhāratayuddha-Sītāharaṇâdi-niratthakakathā-purekkhāratā, tathārūpi kathākathanañ ca. [D. Aṭṭh. i. 76]</small>
 
 [^10]: <small>[Dhs. Aṭṭh. 2.]:<br>
-{{<serif>}}
-Kammaṭṭhānāni sabbāni cariyâbhiññā-vipassanā<br/>
-Visuddhimagge pan'idaṃ yasmā sabbaṃ pakāsitaṃ,<br/>
-Tasmā taṃ agahetvāna sakalāya pi tantiyā<br/>
-padânukkamato eva karissām'atthavaṇṇanaṃ.
-{{</serif>}}</small>
+*Kammaṭṭhānāni sabbāni cariyâbhiññā-vipassanā*<br/>
+*Visuddhimagge pan'idaṃ yasmā sabbaṃ pakāsitaṃ,*<br/>
+*Tasmā taṃ agahetvāna sakalāya pi tantiyā*<br/>
+*padânukkamato eva karissām'atthavaṇṇanaṃ.*
+</small>
 
 [^11]: <small>See Introduction to the *Buddhaghosuppatti* by James Gray (London 1892) pp.11,16,20,21,23-24.</small>
 
