@@ -78,6 +78,10 @@ small em, small strong {
     color: inherit;
 }
 
+mark {
+    padding: inherit;
+}
+
 /* extra */
 
 .serif {

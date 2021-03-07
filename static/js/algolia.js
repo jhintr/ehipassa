@@ -46,7 +46,7 @@ search.addWidgets([
                 </div>`,
             item: `
                 <span>
-                    <a href="{{ url }}" target="_blank">
+                    <a href="{{ url }}#{{ section }}" target="_blank">
                         {{ chapter }} {{ section }} <i class="bi bi-arrow-right-circle-fill mr-1"></i>
                     </a>
                     {{#helpers.highlight}}{ "attribute": "original" }{{/helpers.highlight}}
