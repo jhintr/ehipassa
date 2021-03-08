@@ -12,11 +12,18 @@
     <li class="list-group-item">
         <a href="{{ .Permalink }}" class="d-flex justify-content-between align-items-center">
             <span>
-                {{ .Title }}{{ if .Params.subtitle }} <small>{{ .Params.subtitle }}</small>{{ end }}
+                {{ .Title }}
+                {{with .Params.subtitle}}<small>{{.}}</small>{{end}}
             </span>
             <span>
                 {{ partial "_status_badge.html" . }}
-                <span class="badge badge-light badge-pill text-monospace">{{ .Params.date.Format "2006/01/02" }}</span>
+                <span class="badge badge-light badge-pill text-monospace">
+                    {{ if .IsPage }}
+                        {{ .Params.date.Format "2006/01/02" }}
+                    {{ else }}
+                        {{ len ( where .RegularPages "Section" "==" .Section ) }}
+                    {{ end }}
+                </span>
             </span>
         </a>
     </li>
