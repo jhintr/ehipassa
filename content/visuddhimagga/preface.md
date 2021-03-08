@@ -149,38 +149,36 @@ At the end of A. Aṭṭh.:
 <p class="text-right text-muted mt-5" style="font-variant:small-caps;">D. Kosambi.<br/>Cambridge, Massachusetts<br/>September, 1927.</p>
 
 
-[^1]: <small>This part of the *Mahāvaṃsa* is called *Cūlavaṃsa* in the P.T.S. edition.</small>
+[^1]: This part of the *Mahāvaṃsa* is called *Cūlavaṃsa* in the P.T.S. edition.
 
-[^2]: <small>Tena hi gopālakena ... majjhe Gaṅgāya gunnaṃ vissamaṭṭhānatthaṃ dve tīṇi vālikatthalāni sallakkhetabbāni assu.</small>
+[^2]: Tena hi gopālakena ... majjhe Gaṅgāya gunnaṃ vissamaṭṭhānatthaṃ dve tīṇi vālikatthalāni sallakkhetabbāni assu.
 
-[^3]: <small>Tesaṃ kira ayaṃ laddhi: Brāhmaṇā Brahmuno mukhato nikkhantā; khattiyā urato; vessā nābhito; suddā jānuto; samaṇā piṭṭhipādato ti. [M. Aṭṭh. ii. 418; *cf.* D. Aṭṭh. i. 254]</small>.
+[^3]: Tesaṃ kira ayaṃ laddhi: Brāhmaṇā Brahmuno mukhato nikkhantā; khattiyā urato; vessā nābhito; suddā jānuto; samaṇā piṭṭhipādato ti. [M. Aṭṭh. ii. 418; *cf.* D. Aṭṭh. i. 254].
 
-[^4]: <small>[Mahābhārata, Ādi. 83.33-34]:<br/>
+[^4]: Mahābhārata, Ādi. 83.33-34:<br/>
 *Ṛtuṃ vai yācamānāyā na dadāti pumān ṛtum*<br/>
 *bhrūṇahety ucyate, brahman, sa iha brahmavādibhiḥ*<br/>
 *Abhikāmāṃ striyaṃ yaś ca gamyāṃ rahasi yācitaḥ*<br/>
 *nopaiti sa ca dharmeṣu bhrūṇahety ucyate budhaiḥ.*
-</small>
 
-[^5]: <small>Bhūnahuno ti hatavaḍḍhino, mariyādakārakassa. Kasmā evan āha? Chasu dvāresu vaḍḍhipaññāpanaladdhikattā. Ayaṃ hi tassa laddhi: Cakkhu brūhetabbaṃ, vaṭṭhetabbaṃ, diṭṭhiṃ samatikkamitabbaṃ ... Kāyo brūhetabbo, vaṭṭhetabbo, aphuṭṭhaṃ phusitabbaṃ, phuṭṭhaṃ samatikkamitabbaṃ. Mano brūhetabbo, vaṭṭhetabbo, aviññātaṃ vijānitabbaṃ, viññātaṃ samatikkamitabbaṃ. Evaṃ so chasu dvāresu vaḍḍhiṃ paññāpeti. [M. Aṭṭh. iii. 131, *P. G. Mundine Piṭaka Press edition*]</small>
+[^5]: Bhūnahuno ti hatavaḍḍhino, mariyādakārakassa. Kasmā evan āha? Chasu dvāresu vaḍḍhipaññāpanaladdhikattā. Ayaṃ hi tassa laddhi: Cakkhu brūhetabbaṃ, vaṭṭhetabbaṃ, diṭṭhiṃ samatikkamitabbaṃ ... Kāyo brūhetabbo, vaṭṭhetabbo, aphuṭṭhaṃ phusitabbaṃ, phuṭṭhaṃ samatikkamitabbaṃ. Mano brūhetabbo, vaṭṭhetabbo, aviññātaṃ vijānitabbaṃ, viññātaṃ samatikkamitabbaṃ. Evaṃ so chasu dvāresu vaḍḍhiṃ paññāpeti. [M. Aṭṭh. iii. 131, *P. G. Mundine Piṭaka Press edition*]
 
-[^6]: <small>Kiṃ pakativādīnaṃ pakati viya avijjā pi akāraṇaṃ mūlakāraṇaṃ lokassā ti? [XVII.36]</small>
+[^6]: Kiṃ pakativādīnaṃ pakati viya avijjā pi akāraṇaṃ mūlakāraṇaṃ lokassā ti? [XVII.36]
 
-[^7]: <small>Paṭiññā hetū ti ādisu hi loke vacanâvayavo hetū ti vuccati. [XVII.67]</small>
+[^7]: Paṭiññā hetū ti ādisu hi loke vacanâvayavo hetū ti vuccati. [XVII.67]
 
-[^8]: <small>Akkhānan ti Bhārata-Rāmāyaṇâdi. Taṃ yasmiṃ ṭhāne kathiyati, tattha gantuṃ na vaṭṭati. [D. Aṭṭh. i. 84]</small>
+[^8]: Akkhānan ti Bhārata-Rāmāyaṇâdi. Taṃ yasmiṃ ṭhāne kathiyati, tattha gantuṃ na vaṭṭati. [D. Aṭṭh. i. 84]
 
-[^9]: <small>Anatthaviññāpikā kāyavacīpayogasamuṭṭhāpikā akusalacetanā samphappalāpo. So āsevanamandatāya appasāvajjo, āsevanamahantatāya mahāsāvajjo. Tassa dve sambhārā Bhāratayuddha-Sītāharaṇâdi-niratthakakathā-purekkhāratā, tathārūpi kathākathanañ ca. [D. Aṭṭh. i. 76]</small>
+[^9]: Anatthaviññāpikā kāyavacīpayogasamuṭṭhāpikā akusalacetanā samphappalāpo. So āsevanamandatāya appasāvajjo, āsevanamahantatāya mahāsāvajjo. Tassa dve sambhārā Bhāratayuddha-Sītāharaṇâdi-niratthakakathā-purekkhāratā, tathārūpi kathākathanañ ca. [D. Aṭṭh. i. 76]
 
-[^10]: <small>[Dhs. Aṭṭh. 2.]:<br>
+[^10]: Dhs. Aṭṭh. 2.:<br>
 *Kammaṭṭhānāni sabbāni cariyâbhiññā-vipassanā*<br/>
 *Visuddhimagge pan'idaṃ yasmā sabbaṃ pakāsitaṃ,*<br/>
 *Tasmā taṃ agahetvāna sakalāya pi tantiyā*<br/>
 *padânukkamato eva karissām'atthavaṇṇanaṃ.*
-</small>
 
-[^11]: <small>See Introduction to the *Buddhaghosuppatti* by James Gray (London 1892) pp.11,16,20,21,23-24.</small>
+[^11]: See Introduction to the *Buddhaghosuppatti* by James Gray (London 1892) pp.11,16,20,21,23-24.
 
-[^12]: <small>See *D. Aṭṭh. i. 179-180;* and *M. Aṭṭh. ii. 204*.</small>
+[^12]: See *D. Aṭṭh. i. 179-180;* and *M. Aṭṭh. ii. 204*.
 
-[^13]: <small>Singhalese MS. reads *Mayūrarūpapaṭṭanamhi*.</small>
+[^13]: Singhalese MS. reads *Mayūrarūpapaṭṭanamhi*.

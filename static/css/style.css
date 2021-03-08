@@ -92,3 +92,11 @@ mark {
     padding: 2px 5px;
     box-shadow: 0px 1px 2px 1px #aaa;
 }
+
+/* hugo class */
+
+.footnotes {
+    color: var(--gray);
+    font-size: 0.9rem;
+    margin-top: 2rem;
+}

@@ -19,9 +19,9 @@
                 {{ partial "_status_badge.html" . }}
                 <span class="badge badge-light badge-pill text-monospace">
                     {{ if .IsPage }}
-                        {{ .Params.date.Format "2006/01/02" }}
+                    {{ .Params.date.Format "2006/01/02" }}
                     {{ else }}
-                        {{ len ( where .RegularPages "Section" "==" .Section ) }}
+                    {{ len ( where .RegularPages "Section" "==" .Section ) }}
                     {{ end }}
                 </span>
             </span>
